@@ -31,10 +31,9 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--navy); }
 
 /* Header */
 .site-header { position: sticky; top: 0; z-index: 50; background: var(--navy); color: var(--white); }
-.header-inner { display: flex; align-items: center; justify-content: space-between; height: 76px; }
-.logo { display: flex; align-items: center; gap: .75rem; }
-.logo-mark { font-family: var(--serif); font-size: 1.4rem; font-weight: 700; color: var(--gold); border: 1.5px solid var(--gold); padding: .1rem .5rem; letter-spacing: .08em; }
-.logo-text { font-family: var(--serif); font-size: 1.35rem; letter-spacing: .06em; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; height: 84px; }
+.logo { display: flex; align-items: center; }
+.logo img { height: 66px; width: auto; }
 .main-nav { display: flex; align-items: center; gap: 1.6rem; font-size: .8rem; text-transform: uppercase; letter-spacing: .1em; }
 .main-nav > a:hover, .main-nav > a.active { color: var(--gold); }
 .dropdown { position: relative; }
@@ -134,7 +133,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--navy); }
 .footer-grid h4 { color: var(--white); font-size: .78rem; text-transform: uppercase; letter-spacing: .15em; margin: 0 0 1rem; }
 .footer-grid a { display: block; margin-bottom: .45rem; }
 .footer-grid a:hover { color: var(--gold); }
-.footer-logo { margin-bottom: .75rem; color: var(--white); }
+.footer-logo { height: 90px; width: auto; margin-bottom: .75rem; }
 .social { display: flex; gap: 1rem; margin-top: 1rem; }
 .social a { display: inline; color: var(--gold); }
 .footer-bottom { border-top: 1px solid rgba(255,255,255,.1); margin-top: 3rem; padding: 1.5rem 16px; font-size: .78rem; text-align: center; }
@@ -143,7 +142,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--navy); }
 
 @media (max-width: 960px) {
   .nav-toggle { display: block; }
-  .main-nav { display: none; position: absolute; top: 76px; left: 0; right: 0; flex-direction: column; align-items: flex-start; gap: 0; background: var(--navy); padding: .5rem 16px 1.25rem; }
+  .main-nav { display: none; position: absolute; top: 84px; left: 0; right: 0; flex-direction: column; align-items: flex-start; gap: 0; background: var(--navy); padding: .5rem 16px 1.25rem; }
   .main-nav.open { display: flex; }
   .main-nav > a, .dropdown { padding: .7rem 0; width: 100%; border-bottom: 1px solid rgba(255,255,255,.08); }
   .dropdown-menu { position: static; display: block; background: none; padding: .25rem 0 0 1rem; }
