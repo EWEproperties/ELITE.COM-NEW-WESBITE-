@@ -57,6 +57,17 @@
    "businessFunction": "https://purl.org/goodrelations/v1#Sell",
    "seller": {
     "@id": "https://www.eliteworldestates.com/#organization"
+   },
+   "offeredBy": {
+    "@type": "Person",
+    "name": "Anita Orłowska",
+    "jobTitle": "Property Adviser",
+    "telephone": "+34 672 519 809",
+    "email": "anita@eliteworldestates.com",
+    "image": "https://www.eliteworldestates.com/assets/about/anita-orlowska.jpg",
+    "worksFor": {
+     "@id": "https://www.eliteworldestates.com/#organization"
+    }
    }
   },
   "mainEntity": {
@@ -275,17 +286,35 @@
 
       <aside class="prop-aside" id="contact">
         <div class="agent-card">
-          <p class="eyebrow dark">Interested?</p>
-          <h2>Ask about this property</h2>
-          <p class="contact-line"><span>Phone</span><a href="tel:+34672519809">0034 672 519 809</a></p>
-          <p class="contact-line"><span>Email</span><a href="mailto:info@eliteworldestates.com?subject=Ref%20EWE3910%20Mutxamel%20townhouses">info@eliteworldestates.com</a></p>
+          <p class="eyebrow dark">Personal advice</p>
+          <div class="agent">
+            <img src="../assets/about/anita-orlowska.jpg" alt="Anita Orłowska, Property Adviser at Elite World Estates" width="600" height="600">
+            <div>
+              <h2>Anita Orłowska</h2>
+              <p class="agent-role">Property Adviser</p>
+              <p class="agent-langs">Polish · English · Spanish</p>
+            </div>
+          </div>
+          <div class="agent-actions">
+            <a class="btn btn-gold" href="tel:+34672519809">Call</a>
+            <a class="btn btn-outline" href="https://wa.me/34672519809?text=Hello%20Anita%2C%20I%20am%20interested%20in%20the%20Mutxamel%20townhouses%20(ref.%20EWE3910)." target="_blank" rel="noopener">WhatsApp</a>
+            <a class="btn btn-outline" href="mailto:anita@eliteworldestates.com?subject=Ref%20EWE3910%20Mutxamel%20townhouses">Email</a>
+          </div>
+          <p class="agent-direct"><a href="tel:+34672519809">+34 672 51 98 09</a><br><a href="mailto:anita@eliteworldestates.com">anita@eliteworldestates.com</a></p>
           <form class="contact-form" onsubmit="return false">
-            <input type="text" name="name" placeholder="Name" aria-label="Name" required>
-            <input type="email" name="email" placeholder="Email" aria-label="Email" required>
-            <input type="tel" name="phone" placeholder="Phone" aria-label="Phone">
-            <textarea name="message" rows="4" aria-label="Message">I would like more information about Modern Townhouses for Sale in Mutxamel, Alicante (ref. EWE3910).</textarea>
+            <input type="text" id="lead-name" name="name" placeholder="Name" aria-label="Name" required>
+            <input type="email" id="lead-email" name="email" placeholder="Email" aria-label="Email" required>
+            <input type="tel" id="lead-phone" name="phone" placeholder="Phone" aria-label="Phone">
+            <select id="lead-method" name="method" aria-label="Preferred contact method">
+              <option value="">Preferred contact method</option>
+              <option>Phone call</option>
+              <option>WhatsApp</option>
+              <option>Email</option>
+              <option>Video call</option>
+            </select>
+            <textarea id="lead-message" name="message" rows="4" aria-label="Message">I would like more information about Modern Townhouses for Sale in Mutxamel, Alicante (ref. EWE3910).</textarea>
             <label class="consent"><input type="checkbox" required> I declare that I have read, understood and accept the Legal Notice and the Privacy Policy</label>
-            <button class="btn btn-gold" type="submit">Send</button>
+            <button class="btn btn-gold" type="submit">Book a viewing</button>
           </form>
         </div>
       </aside>
