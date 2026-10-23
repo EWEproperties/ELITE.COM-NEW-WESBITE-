@@ -10,8 +10,8 @@
   --text: #373737;
   --muted: #6b6b6b;
   --white: #fff;
-  --serif: "Cormorant Garamond", "Times New Roman", serif;
-  --sans: "Montserrat", Verdana, sans-serif;
+  --serif: "Prata", "Times New Roman", serif;
+  --sans: "Lato", Verdana, sans-serif;
 }
 
 * { box-sizing: border-box; }
@@ -19,7 +19,7 @@ html { scroll-behavior: smooth; }
 body { margin: 0; font-family: var(--sans); font-weight: 400; color: var(--text); background: var(--white); line-height: 1.6; }
 img { max-width: 100%; display: block; }
 a { color: inherit; text-decoration: none; }
-h1, h2, h3 { font-family: var(--serif); font-weight: 600; line-height: 1.15; margin: 0 0 .5em; }
+h1, h2, h3 { font-family: var(--serif); font-weight: 400; line-height: 1.15; margin: 0 0 .5em; }
 h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .container { width: 100%; max-width: 1200px; margin: 0 auto; padding: 0 16px; }
 
@@ -87,7 +87,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .photo-placeholder { position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; font-family: var(--serif); font-size: 1.6rem; color: rgba(255,255,255,.55); letter-spacing: .05em; }
 .badge { position: absolute; top: 12px; left: 12px; background: var(--gold); color: var(--white); font-size: .68rem; font-weight: 600; text-transform: uppercase; letter-spacing: .1em; padding: .3rem .65rem; }
 .card-body { padding: 1.25rem 1.4rem 1.5rem; }
-.price { font-family: var(--serif); font-size: 1.7rem; font-weight: 700; color: var(--ink); margin: 0; }
+.price { font-family: var(--serif); font-size: 1.6rem; font-weight: 400; color: var(--ink); margin: 0; }
 .card h3 { font-family: var(--sans); font-size: .95rem; font-weight: 500; color: var(--muted); margin: .2rem 0 .4rem; }
 .facts { font-size: .82rem; color: var(--muted); margin: 0 0 .5rem; }
 .card-link { font-size: .75rem; font-weight: 600; text-transform: uppercase; letter-spacing: .1em; color: var(--gold-dark); }
@@ -163,7 +163,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .prop-head { display: flex; justify-content: space-between; align-items: flex-end; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1.5rem; }
 .prop-head h1 { font-size: clamp(2rem, 4.5vw, 3.2rem); color: var(--ink); margin: 0; text-wrap: balance; }
 .prop-ref { font-size: .8rem; color: var(--muted); margin: .4rem 0 0; }
-.prop-price { font-family: var(--serif); font-size: clamp(2rem, 4vw, 2.8rem); font-weight: 700; color: var(--gold); margin: 0; white-space: nowrap; }
+.prop-price { font-family: var(--serif); font-size: clamp(2rem, 4vw, 2.8rem); font-weight: 400; color: var(--gold); margin: 0; white-space: nowrap; }
 .prop-price span { font-family: var(--sans); font-size: .75rem; font-weight: 600; text-transform: uppercase; letter-spacing: .12em; color: var(--muted); margin-right: .4rem; }
 .gallery { display: grid; gap: .6rem; }
 .gallery img { width: 100%; height: 100%; object-fit: cover; display: block; }
