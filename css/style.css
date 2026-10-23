@@ -1,5 +1,5 @@
 :root {
-  /* Palette and fonts taken from the live site's stylesheet */
+  /* Palette from the live site; fonts chosen for a luxury look */
   --ink: #040404;
   --ink-2: #373737;
   --gold: #866c4a;
@@ -10,8 +10,8 @@
   --text: #373737;
   --muted: #6b6b6b;
   --white: #fff;
-  --serif: "Times New Roman", Times, serif;
-  --sans: "Raleway", Verdana, Geneva, sans-serif;
+  --serif: "Cormorant Garamond", "Times New Roman", serif;
+  --sans: "Montserrat", Verdana, sans-serif;
 }
 
 * { box-sizing: border-box; }
