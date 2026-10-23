@@ -4,12 +4,85 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Premium Real Estate Agency in Costa Blanca | Elite World Estates</title>
-  <meta name="description" content="Elite World Estates – a Polish real estate agency in Spain. Sea view apartments and luxury villas on the Costa Blanca and Costa del Sol.">
-  <meta property="og:image" content="https://media.egorealestate.com/ORIGINAL/02da91ea-86f0-4144-bfdb-5823a4969e2c.png">
+  <meta name="description" content="Elite World Estates is a Polish real estate agency in Spain. Sea view apartments, villas and luxury villas for sale on the Costa Blanca and Costa del Sol.">
+  <meta name="robots" content="index, follow, max-image-preview:large">
+  <link rel="canonical" href="https://www.eliteworldestates.com/">
+  <link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/">
+  <link rel="alternate" hreflang="pl" href="https://www.eliteworldestates.pl/">
+  <link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/">
+  <meta property="og:type" content="website">
+  <meta property="og:site_name" content="Elite World Estates">
+  <meta property="og:title" content="Premium Real Estate Agency in Costa Blanca | Elite World Estates">
+  <meta property="og:description" content="Sea view apartments, villas and luxury villas for sale on the Costa Blanca and Costa del Sol.">
+  <meta property="og:url" content="https://www.eliteworldestates.com/">
+  <meta property="og:image" content="https://www.eliteworldestates.com/assets/hero.jpg">
+  <meta property="og:locale" content="en_GB">
+  <meta name="twitter:card" content="summary_large_image">
+  <link rel="icon" href="assets/logo.png" type="image/png">
+  <link rel="preload" as="image" href="assets/hero.jpg" fetchpriority="high">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
+  <script type="application/ld+json">
+[
+ {
+  "@context": "https://schema.org",
+  "@type": "RealEstateAgent",
+  "@id": "https://www.eliteworldestates.com/#organization",
+  "name": "Elite World Estates",
+  "url": "https://www.eliteworldestates.com/",
+  "logo": "https://www.eliteworldestates.com/assets/logo.png",
+  "image": "https://www.eliteworldestates.com/assets/hero.jpg",
+  "slogan": "Home is your castle!",
+  "description": "Polish real estate agency in Spain selling sea view apartments, villas and luxury villas on the Costa Blanca and Costa del Sol since 2018.",
+  "telephone": "+34 672 519 809",
+  "email": "info@eliteworldestates.com",
+  "foundingDate": "2018",
+  "areaServed": [
+   {
+    "@type": "Place",
+    "name": "Costa Blanca"
+   },
+   {
+    "@type": "Place",
+    "name": "Costa del Sol"
+   }
+  ],
+  "address": {
+   "@type": "PostalAddress",
+   "addressRegion": "Alicante",
+   "addressCountry": "ES"
+  },
+  "knowsLanguage": [
+   "pl",
+   "de",
+   "en",
+   "es"
+  ],
+  "award": [
+   "Luxury Lifestyle Awards 2024 – Best Luxury Online Real Estate Services in Costa Blanca",
+   "International Businesswoman Awards, Rome"
+  ],
+  "sameAs": [
+   "https://www.facebook.com/EliteWorldEstates",
+   "https://www.instagram.com/eliteworldestates/",
+   "https://www.youtube.com/@eliteworldestates"
+  ]
+ },
+ {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "@id": "https://www.eliteworldestates.com/#website",
+  "url": "https://www.eliteworldestates.com/",
+  "name": "Elite World Estates",
+  "inLanguage": "en",
+  "publisher": {
+   "@id": "https://www.eliteworldestates.com/#organization"
+  }
+ }
+]
+  </script>
 </head>
 <body>
 
@@ -36,7 +109,7 @@
       </div>
       <div class="lang">
         <a href="#" class="active">EN</a>
-        <a href="https://eliteworldestates.pl">PL</a>
+        <a href="https://www.eliteworldestates.pl/" hreflang="pl">PL</a>
         <a href="#">DE</a>
         <a href="#">ES</a>
       </div>
@@ -47,22 +120,21 @@
 <section class="hero">
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-    <p class="eyebrow">Polish Real Estate Agency in Spain</p>
-    <h1>Elite World Estates</h1>
+    <h1><span class="eyebrow">Polish Real Estate Agency in Spain</span> Elite World Estates</h1>
     <p class="tagline">Home is your castle!</p>
     <form class="search" action="#properties">
-      <select aria-label="Property type">
+      <select id="search-type" aria-label="Property type">
         <option>Property type</option>
         <option>Apartment</option>
         <option>Villa</option>
         <option>Luxury villa</option>
       </select>
-      <select aria-label="Location">
+      <select id="search-location" aria-label="Location">
         <option>Location</option>
         <option>Costa Blanca</option>
         <option>Costa del Sol</option>
       </select>
-      <select aria-label="Maximum price">
+      <select id="search-price" aria-label="Maximum price">
         <option>Max price</option>
         <option>€400,000</option>
         <option>€700,000</option>
@@ -115,7 +187,82 @@
         </div>
         <a class="link-more" href="https://www.eliteworldestates.com/sea-view-apartments-for-sale-spain" target="_blank" rel="noopener">See all &rarr;</a>
       </div>
-      <div class="grid" data-group="apartments"></div>
+      <div class="grid">
+      <a class="card" href="https://www.eliteworldestates.com/property-details/24798038" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/24798038.jpg" alt="Apartment for sale in Mar de Pulpí" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€212,000</p>
+          <h3>Mar de Pulpí</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/23844656" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/23844656.jpg" alt="Apartment for sale in Villajoyosa" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€335,000</p>
+          <h3>Villajoyosa</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/21207621" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/21207621.jpg" alt="Apartment for sale in Villajoyosa" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€384,000</p>
+          <h3>Villajoyosa</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/24758318" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/24758318.jpg" alt="Apartment for sale in Calpe" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€395,000</p>
+          <h3>Calpe</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/21695545" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/21695545.jpg" alt="Apartments &amp; penthouses for sale in Villajoyosa" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartments & penthouses</span></div>
+        <div class="card-body">
+          <p class="price">€424,000</p>
+          <h3>Villajoyosa</h3>
+          <p class="facts">164 units · 1–3 bedrooms</p>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/19432296" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/19432296.jpg" alt="Apartment for sale in Cumbre del Sol" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€473,000</p>
+          <h3>Cumbre del Sol</h3>
+          <p class="facts">2 bed · 2 bath</p>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/23935651" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/23935651.jpg" alt="Apartment for sale in Benidorm" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€607,000</p>
+          <h3>Benidorm</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/22583636" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/22583636.jpg" alt="Apartment for sale in Calpe" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€633,000</p>
+          <h3>Calpe</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/19818128" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/19818128.jpg" alt="Apartment for sale in Benidorm" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Apartment</span></div>
+        <div class="card-body">
+          <p class="price">€1,065,000</p>
+          <h3>Benidorm</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      </div>
     </div>
   </section>
 
@@ -129,7 +276,105 @@
         </div>
         <a class="link-more" href="https://www.eliteworldestates.com/villas-for-sale-costa-blanca" target="_blank" rel="noopener">See all &rarr;</a>
       </div>
-      <div class="grid" data-group="villas"></div>
+      <div class="grid">
+      <a class="card" href="properties/modern-townhouses-for-sale-in-mutxamel-alicante.html">
+        <div class="card-photo"><img src="assets/listings/26809066/01-s.jpg" alt="Townhouses for sale in Mutxamel" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Townhouses</span></div>
+        <div class="card-body">
+          <p class="price">€440,000</p>
+          <h3>Mutxamel</h3>
+          <p class="facts">56 townhouses · 3–4 bedrooms</p>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/23891053" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/23891053.jpg" alt="Villa for sale in Dolores" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€389,000</p>
+          <h3>Dolores</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/24765955" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/24765955.jpg" alt="Villa for sale in Daya Nueva" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€399,900</p>
+          <h3>Daya Nueva</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/26052239" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/26052239.jpg" alt="Villa for sale in La Finca Golf" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€420,000</p>
+          <h3>La Finca Golf</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/24623926" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/24623926.jpg" alt="Villa for sale in Finestrat" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€425,000</p>
+          <h3>Finestrat</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/21647014" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/21647014.jpg" alt="Villa for sale in Polop" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€440,000</p>
+          <h3>Polop</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/21034180" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/21034180.jpg" alt="Villa for sale in La Nucía" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€465,000</p>
+          <h3>La Nucía</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/26157630" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/26157630.jpg" alt="Villa for sale in El Campello" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€537,000</p>
+          <h3>El Campello</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/24558913" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/24558913.jpg" alt="Villa for sale in Finestrat" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€610,000</p>
+          <h3>Finestrat</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/26239846" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/26239846.jpg" alt="Villa for sale in Torrevieja" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€650,000</p>
+          <h3>Torrevieja</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/21036181" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/21036181.jpg" alt="Villa for sale in Polop" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€755,000</p>
+          <h3>Polop</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/23527654" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/23527654.jpg" alt="Villa for sale in Benissa" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Villa</span></div>
+        <div class="card-body">
+          <p class="price">€890,000</p>
+          <h3>Benissa</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      </div>
     </div>
   </section>
 
@@ -143,7 +388,64 @@
         </div>
         <a class="link-more" href="https://www.eliteworldestates.com/luxury-villas-for-sale-in-spain" target="_blank" rel="noopener">See all &rarr;</a>
       </div>
-      <div class="grid" data-group="luxury"></div>
+      <div class="grid">
+      <a class="card" href="https://www.eliteworldestates.com/property-details/26234196" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/26234196.jpg" alt="Luxury villa for sale in Jávea" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Luxury villa</span></div>
+        <div class="card-body">
+          <p class="price">€1,695,000</p>
+          <h3>Jávea</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/18595762" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/18595762.jpg" alt="Luxury villa for sale in Altea" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Luxury villa</span></div>
+        <div class="card-body">
+          <p class="price">€2,349,000</p>
+          <h3>Altea</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/" target="_blank" rel="noopener">
+        <div class="card-photo"><span class="photo-placeholder">Benitachell</span><span class="badge">Luxury villa</span></div>
+        <div class="card-body">
+          <p class="price">€2,350,000</p>
+          <h3>Benitachell</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/23527637" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/23527637.jpg" alt="Luxury villa for sale in Benissa" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Luxury villa</span></div>
+        <div class="card-body">
+          <p class="price">€2,450,000</p>
+          <h3>Benissa</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/20598512" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/20598512.jpg" alt="Luxury villa for sale in Cumbre del Sol" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Luxury villa</span></div>
+        <div class="card-body">
+          <p class="price">€2,495,000</p>
+          <h3>Cumbre del Sol</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/26232788" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/26232788.jpg" alt="Luxury villa for sale in Cumbre del Sol" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Luxury villa</span></div>
+        <div class="card-body">
+          <p class="price">€2,800,000</p>
+          <h3>Cumbre del Sol</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      <a class="card" href="https://www.eliteworldestates.com/property-details/26232807" target="_blank" rel="noopener">
+        <div class="card-photo"><img src="assets/properties/26232807.jpg" alt="Luxury villa for sale in Real de la Quinta" width="900" height="675" loading="lazy" decoding="async"><span class="badge">Luxury villa</span></div>
+        <div class="card-body">
+          <p class="price">€5,995,000</p>
+          <h3>Real de la Quinta</h3>
+          <span class="card-link">View property &rarr;</span>
+        </div>
+      </a>
+      </div>
     </div>
   </section>
 </main>
@@ -308,7 +610,6 @@
   </div>
 </footer>
 
-<script src="js/properties.js"></script>
 <script src="js/main.js"></script>
 </body>
 </html>
