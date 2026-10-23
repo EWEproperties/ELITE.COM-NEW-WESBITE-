@@ -1,10 +1,28 @@
-// Lightbox for the property photo gallery. Links still work without JavaScript.
-const thumbs = [...document.querySelectorAll(".thumb-grid .thumb")];
-const photos = thumbs.map((a) => ({ src: a.getAttribute("href"), alt: a.querySelector("img").alt }));
+// Property gallery: "View all" opens every photo on one scrolling page,
+// and any photo opens full screen. Without JavaScript each photo link still opens the image.
+const allView = document.querySelector(".all-photos");
+const photos = [...allView.querySelectorAll(".photo")].map((a) => ({ src: a.getAttribute("href"), alt: a.querySelector("img").alt }));
 const box = document.querySelector(".lightbox");
 const boxImg = box.querySelector("img");
 const count = box.querySelector(".lb-count");
 let current = 0;
+
+function lockScroll(lock) {
+  document.body.style.overflow = lock ? "hidden" : "";
+}
+
+function openAll(scrollTo) {
+  allView.hidden = false;
+  lockScroll(true);
+  const target = scrollTo != null ? allView.querySelector(`.photo[data-i="${scrollTo}"]`) : null;
+  if (target) target.scrollIntoView({ block: "center" });
+  else allView.scrollTop = 0;
+}
+
+function closeAll() {
+  allView.hidden = true;
+  lockScroll(false);
+}
 
 function show(i) {
   current = (i + photos.length) % photos.length;
@@ -12,27 +30,40 @@ function show(i) {
   boxImg.alt = photos[current].alt;
   count.textContent = `${current + 1} / ${photos.length}`;
   box.hidden = false;
-  document.body.style.overflow = "hidden";
+  lockScroll(true);
 }
 
-function close() {
+function closeBox() {
   box.hidden = true;
-  document.body.style.overflow = "";
+  if (allView.hidden) lockScroll(false);
 }
 
-document.querySelectorAll(".thumb, .gallery-all").forEach((el) => {
+// Photos at the top of the page open the all-photos page at that photo
+document.querySelectorAll(".gallery .photo").forEach((el) => {
+  el.addEventListener("click", (e) => {
+    e.preventDefault();
+    openAll(el.dataset.i ?? null);
+  });
+});
+// Photos inside the all-photos page open full screen
+allView.querySelectorAll(".photo").forEach((el) => {
   el.addEventListener("click", (e) => {
     e.preventDefault();
     show(Number(el.dataset.i));
   });
 });
-box.querySelector(".lb-close").addEventListener("click", close);
+allView.querySelector(".ap-close").addEventListener("click", closeAll);
+allView.querySelector(".ap-cta").addEventListener("click", closeAll);
+box.querySelector(".lb-close").addEventListener("click", closeBox);
 box.querySelector(".lb-prev").addEventListener("click", () => show(current - 1));
 box.querySelector(".lb-next").addEventListener("click", () => show(current + 1));
-box.addEventListener("click", (e) => { if (e.target === box) close(); });
+box.addEventListener("click", (e) => { if (e.target === box) closeBox(); });
 document.addEventListener("keydown", (e) => {
-  if (box.hidden) return;
-  if (e.key === "Escape") close();
-  if (e.key === "ArrowLeft") show(current - 1);
-  if (e.key === "ArrowRight") show(current + 1);
+  if (!box.hidden) {
+    if (e.key === "Escape") closeBox();
+    if (e.key === "ArrowLeft") show(current - 1);
+    if (e.key === "ArrowRight") show(current + 1);
+  } else if (!allView.hidden && e.key === "Escape") {
+    closeAll();
+  }
 });
