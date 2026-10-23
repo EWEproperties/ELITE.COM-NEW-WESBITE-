@@ -286,37 +286,25 @@
 
       <aside class="prop-aside" id="contact">
         <div class="agent-card">
-          <p class="eyebrow dark">Personal advice</p>
-          <div class="agent">
-            <img src="../assets/about/anita-orlowska.jpg" alt="Anita Orłowska, Property Adviser at Elite World Estates" width="600" height="600">
-            <div>
-              <h2>Anita Orłowska</h2>
-              <p class="agent-role">Property Adviser</p>
-              <p class="agent-langs">Polish · English · Spanish</p>
-            </div>
-          </div>
+          <p class="agent-title">Personal advice</p>
+          <img class="agent-photo" src="../assets/about/anita-orlowska.jpg" alt="Anita Orłowska, Property Adviser at Elite World Estates" width="600" height="600">
+          <h2 class="agent-name">Anita Orłowska</h2>
+          <p class="agent-role">Property Adviser</p>
           <div class="agent-actions">
-            <a class="btn btn-gold" href="tel:+34672519809">Call</a>
-            <a class="btn btn-outline" href="https://wa.me/34672519809?text=Hello%20Anita%2C%20I%20am%20interested%20in%20the%20Mutxamel%20townhouses%20(ref.%20EWE3910)." target="_blank" rel="noopener">WhatsApp</a>
-            <a class="btn btn-outline" href="mailto:anita@eliteworldestates.com?subject=Ref%20EWE3910%20Mutxamel%20townhouses">Email</a>
+            <a class="btn-agent" href="tel:+34672519809"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>Call</a>
+            <button class="btn-agent" type="button" aria-expanded="false" aria-controls="enquiry"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v14H3z" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 6l9 7 9-7" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>Ask about this property</button>
+            <a class="btn-agent" href="https://wa.me/34672519809?text=Hello%20Anita%2C%20I%20am%20interested%20in%20the%20Mutxamel%20townhouses%20(ref.%20EWE3910)." target="_blank" rel="noopener"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2A9.8 9.8 0 0 0 3.6 17l-1.4 4.8 4.9-1.3A9.8 9.8 0 1 0 12 2.2zm0 17.8a8 8 0 0 1-4.1-1.1l-.3-.2-2.9.8.8-2.8-.2-.3A8 8 0 1 1 12 20zm4.4-6c-.2-.1-1.4-.7-1.7-.8s-.4-.1-.5.1-.6.8-.8 1-.3.2-.5.1a6.5 6.5 0 0 1-3.2-2.8c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.5-.4h-.5a.9.9 0 0 0-.7.3 2.8 2.8 0 0 0-.9 2.1 4.9 4.9 0 0 0 1 2.6 11.2 11.2 0 0 0 4.3 3.8c1.6.7 2.2.7 3 .6a2.6 2.6 0 0 0 1.7-1.2 2.1 2.1 0 0 0 .1-1.2c0-.1-.2-.2-.4-.3z"/></svg>WhatsApp</a>
           </div>
-          <p class="agent-direct"><a href="tel:+34672519809">+34 672 51 98 09</a><br><a href="mailto:anita@eliteworldestates.com">anita@eliteworldestates.com</a></p>
-          <form class="contact-form" onsubmit="return false">
+          <form class="contact-form enquiry" id="enquiry" hidden onsubmit="return false">
             <input type="text" id="lead-name" name="name" placeholder="Name" aria-label="Name" required>
             <input type="email" id="lead-email" name="email" placeholder="Email" aria-label="Email" required>
             <input type="tel" id="lead-phone" name="phone" placeholder="Phone" aria-label="Phone">
-            <select id="lead-method" name="method" aria-label="Preferred contact method">
-              <option value="">Preferred contact method</option>
-              <option>Phone call</option>
-              <option>WhatsApp</option>
-              <option>Email</option>
-              <option>Video call</option>
-            </select>
             <textarea id="lead-message" name="message" rows="4" aria-label="Message">I would like more information about Modern Townhouses for Sale in Mutxamel, Alicante (ref. EWE3910).</textarea>
             <label class="consent"><input type="checkbox" required> I declare that I have read, understood and accept the Legal Notice and the Privacy Policy</label>
-            <button class="btn btn-gold" type="submit">Book a viewing</button>
+            <button class="btn btn-gold" type="submit">Send</button>
           </form>
         </div>
+        <p class="agent-ref">Ref. EWE3910</p>
       </aside>
     </div>
 

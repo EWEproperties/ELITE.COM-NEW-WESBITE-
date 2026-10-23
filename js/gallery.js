@@ -67,3 +67,14 @@ document.addEventListener("keydown", (e) => {
     closeAll();
   }
 });
+
+// "Ask about this property" opens the enquiry form inside the agent box
+const askBtn = document.querySelector('[aria-controls="enquiry"]');
+if (askBtn) {
+  askBtn.addEventListener("click", () => {
+    const form = document.getElementById("enquiry");
+    form.hidden = !form.hidden;
+    askBtn.setAttribute("aria-expanded", String(!form.hidden));
+    if (!form.hidden) form.querySelector("input").focus();
+  });
+}
