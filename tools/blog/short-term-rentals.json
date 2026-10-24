@@ -1,0 +1,211 @@
+{
+  "author": "aleksandra",
+  "published": "2025-10-17",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/short-term-rentals/dining-room-with-sea-view.jpg",
+  "images": {
+    "register": "assets/blog/short-term-rentals/booking-a-stay-online.jpg",
+    "regions": "assets/blog/short-term-rentals/villa-terrace-and-garden.jpg",
+    "closing": "assets/blog/short-term-rentals/travel-booking-app-on-phone.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/nowe-przepisy-dotyczace-najmu-krotkoterminowego-w-hiszpanii",
+  "cards": ["26234196", "21034180", "26614054"],
+  "sources": [
+    ["Andersen – Supreme Court ruling 620/2026 on the national rental register", "https://es.andersen.com/wp-content/uploads/2026/06/Andersen-Alerta-SENTENCIA-DEL-TRIBUNAL-SUPREMO-SOBRE-EL-REGISTRO-UNICO-DE-ARRENDAMIENTOS-DE-CORTA-DURACION.pdf"],
+    ["EUR-Lex – Regulation (EU) 2024/1028 on short-term rental data", "https://eur-lex.europa.eu/eli/reg/2024/1028/oj"],
+    ["BOE – Decreto-ley 9/2024 (Valencian tourist homes)", "https://www.boe.es/buscar/doc.php?id=DOGV-r-2024-90168"],
+    ["Generalitat Valenciana – Tourist homes", "https://cindi.gva.es/es/web/turisme/habitatges-dus-turistic"]
+  ],
+  "en": {
+    "slug": "new-regulations-on-short-term-rentals-in-spain",
+    "title": "Short-Term Rental Rules in Spain 2026 – Licences, Registration and Taxes",
+    "description": "The holiday rental rules in Spain in 2026: the Supreme Court ruling on the national register, the EU platform regulation, the 3/5 owners' vote, Valencian and Andalusian licences, guest registration, taxes and what to check before buying.",
+    "crumb": "Short-term rental rules",
+    "eyebrow": "Owning in Spain · Renting out",
+    "h1": "Short-Term Rental Rules in Spain in 2026 – What Owners Need to Know",
+    "hero_alt": "Bright dining room with a long table and a view over the sea and a pool",
+    "short": "To rent a home to tourists in Spain you need a tourist licence (a registration in the regional tourism register), and its number must appear in every listing. The national rental register launched in July 2025 was annulled by the Supreme Court in May 2026, so the regional registers are again what counts, while the EU platform regulation has applied since 20 May 2026. In apartment buildings, new tourist rentals need the approval of three-fifths of the owners since April 2025. Some towns, such as Málaga city, have stopped new licences. You must also register guests with the police and pay tax on the income.",
+    "intro": [
+      "Holiday rentals can pay a good part of the costs of a home in Spain, but the rules have changed a lot since 2024. Some changes came from Madrid, some from the regions and town halls, and one big national change was cancelled by the courts in 2026.",
+      "This guide sums up where things stand in autumn 2026, with a focus on the Costa Blanca and the Costa del Sol, and what to check before you buy a home you want to rent out."
+    ],
+    "sections": [
+      {
+        "id": "timeline",
+        "h2": "What has changed since 2024",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Date</th><th>Change</th></tr></thead><tbody><tr><td>Aug 2024</td><td>New Valencian rules for tourist homes (Decreto-ley 9/2024)</td></tr><tr><td>Dec 2024</td><td>Hosts must send detailed guest data to the Ministry of the Interior</td></tr><tr><td>3 Apr 2025</td><td>New tourist rentals in apartment buildings need approval from 3/5 of the owners</td></tr><tr><td>1 Jul 2025</td><td>National short-term rental register starts</td></tr><tr><td>19 May 2026</td><td>Supreme Court annuls the national register procedure; the data-sharing system stays</td></tr><tr><td>20 May 2026</td><td>EU regulation on short-term rental data applies across the EU</td></tr><tr><td>25 Jul 2026</td><td>Málaga city stops new tourist flats in residential areas for up to three years</td></tr></tbody></table></div>"
+      },
+      {
+        "id": "register",
+        "h2": "Licence and registration number",
+        "alt": "Person booking a holiday apartment on a tablet and laptop",
+        "html": "<p>A home rented to tourists must be registered in the <strong>tourism register of its region</strong>. In the Valencian Community this is the Registro de Turismo de la Comunitat Valenciana, in Andalusia the Registro de Turismo de Andalucía. The registration gives you a number that must be shown in every advert.</p><p>From July 2025 Spain also required a separate <strong>national registration number</strong> from the land registry for every listing on Airbnb, Booking and similar platforms. In May 2026 the Supreme Court annulled this procedure because registration is a matter for the regions. What remains is the <strong>digital data-sharing system</strong>, through which platforms send listing and booking data to the authorities, as the EU regulation requires since 20 May 2026.</p><p>In practice, a legal holiday rental now needs a valid regional registration whose number appears in all listings. Platforms remove listings without one.</p>"
+      },
+      {
+        "id": "community",
+        "h2": "Your neighbours have a say",
+        "alt": "",
+        "html": "<p>Since 3 April 2025, an owner in an apartment building or community who wants to start renting to tourists needs the approval of <strong>three-fifths of the owners</strong> at a community meeting. The community can also raise the fees for tourist flats by up to 20%.</p><p>Homes that were already legally rented to tourists before that date keep their right. Before you buy, check the community's statutes and the minutes of recent meetings, because some communities have banned tourist rentals altogether.</p>"
+      },
+      {
+        "id": "regions",
+        "h2": "Costa Blanca and Costa del Sol: regional rules",
+        "alt": "Sunny terrace and lawn of a white villa",
+        "html": "<h3>Valencian Community (Costa Blanca)</h3><ul><li>A tourist rental is any stay of up to 10 days by the same guest, and renting by the room is not allowed.</li><li>To register you need a favourable <strong>municipal report</strong> confirming that tourist use is allowed at that address under local planning rules.</li><li>The property must have a valid cadastral reference, and owners must renew their registration with an updated declaration. In 2025 the Generalitat removed more than 10,000 homes from the register for missing data.</li><li>Town halls can limit tourist flats. Valencia city and Alicante city have restricted new ones, and the rules differ street by street.</li></ul><h3>Andalusia (Costa del Sol)</h3><ul><li>Registration in the Andalusian tourism register, with stricter equipment rules since 2024, such as air conditioning.</li><li>Town halls can cap tourist flats per building or area. Málaga city stopped new tourist flats in residential areas from 25 July 2026 for up to three years.</li><li>Marbella, Mijas and Benalmádena saw the number of tourist flats fall in 2026 as rules tightened.</li></ul>"
+      },
+      {
+        "id": "guests",
+        "h2": "Guests and taxes",
+        "alt": "",
+        "html": "<p><strong>Guest registration.</strong> Since December 2024 hosts must send each guest's identity, contact and payment details to the Ministry of the Interior (SES.HOSPEDAJES) within 24 hours of the booking or arrival. Most property managers do this automatically.</p><p><strong>Income tax.</strong> Rental income is taxable in Spain. Non-residents file form 210 and pay 19% (EU, Norway, Iceland, after costs) or 24% (others, on gross income). Residents include it in their yearly return. Platforms report your bookings to the tax office, so undeclared income is easy to spot. Our guide to <a href=\"{up}resident-vs-non-resident-in-spain.html\">resident and non-resident tax</a> explains the difference.</p><p><strong>VAT.</strong> A holiday rental without hotel-type services such as daily cleaning or reception is VAT-exempt.</p><p><strong>Tourist tax.</strong> There is currently no tourist tax in the Valencian Community or Andalusia.</p>"
+      },
+      {
+        "id": "before",
+        "h2": "Before you buy a home to rent out",
+        "alt": "",
+        "html": "<ol><li>Ask whether the home already has a tourist registration, and whether it can be kept or transferred to you.</li><li>If not, check with the town hall that tourist use is allowed at that address.</li><li>Read the community statutes and recent minutes for bans or the 3/5 vote.</li><li>Check the equipment and safety rules of the region.</li><li>Budget for a property manager, cleaning, guest registration and taxes.</li><li>Compare with long-term or seasonal rental, which avoids most of these rules.</li></ol><p>A home with a valid licence in a building that allows tourist rentals is worth more, and we always check this for buyers who plan to rent.</p>"
+      }
+    ],
+    "faq": [
+      ["Do I still need the national rental registration number in Spain?", "The national register procedure was annulled by the Supreme Court in May 2026. You need a valid registration in your region's tourism register, and its number must appear in your listings."],
+      ["Can my neighbours stop me renting to tourists?", "Yes. Since April 2025, a new tourist rental in an apartment building needs approval from three-fifths of the owners, and community statutes can ban it. Homes already legally rented before then keep their right."],
+      ["Can I get a tourist licence for any home on the Costa Blanca?", "Not always. You need a favourable municipal planning report, and towns such as Alicante and Valencia have limited new tourist flats. Check before you buy."],
+      ["How is holiday rental income taxed for non-residents?", "With form 210: 19% on net income for EU, Norwegian and Icelandic residents, 24% on gross income for everyone else."],
+      ["Is there a tourist tax in Alicante or Málaga?", "Not at the moment. Neither the Valencian Community nor Andalusia charges a tourist tax."]
+    ],
+    "closing": {
+      "h2": "Buy a home you can legally rent",
+      "alt": "Hands holding a phone with a holiday booking app",
+      "html": "<p>If rental income is part of your plan, we check the licence, the community rules and the town's policy before you make an offer. <a href=\"{up}index.html#contact\">Contact us</a> and we will show you homes where holiday rental is allowed.</p>"
+    }
+  },
+  "de": {
+    "slug": "neue-vorschriften-fur-kurzzeitvermietungen-in-spanien",
+    "title": "Ferienvermietung in Spanien 2026 – Lizenz, Registrierung und Steuern",
+    "description": "Die Regeln für Ferienvermietung in Spanien 2026: Urteil des Obersten Gerichtshofs zum nationalen Register, EU-Plattformverordnung, 3/5-Zustimmung der Eigentümer, Lizenzen in Valencia und Andalusien, Gästemeldung, Steuern und Prüfpunkte vor dem Kauf.",
+    "crumb": "Ferienvermietung",
+    "eyebrow": "Eigentum in Spanien · Vermietung",
+    "h1": "Ferienvermietung in Spanien 2026 – was Eigentümer wissen müssen",
+    "hero_alt": "Helles Esszimmer mit langem Tisch und Blick auf Meer und Pool",
+    "short": "Wer in Spanien an Touristen vermietet, braucht eine touristische Lizenz (eine Eintragung im regionalen Tourismusregister), deren Nummer in jeder Anzeige stehen muss. Das im Juli 2025 gestartete nationale Mietregister hat der Oberste Gerichtshof im Mai 2026 für nichtig erklärt, daher zählen wieder die regionalen Register. Die EU-Plattformverordnung gilt seit 20. Mai 2026. In Mehrfamilienhäusern brauchen neue Ferienvermietungen seit April 2025 die Zustimmung von drei Fünfteln der Eigentümer. Einige Städte wie Málaga vergeben keine neuen Lizenzen. Außerdem müssen Gäste der Polizei gemeldet und die Einnahmen versteuert werden.",
+    "intro": [
+      "Ferienvermietung kann einen guten Teil der Kosten einer Immobilie in Spanien decken, doch die Regeln haben sich seit 2024 stark verändert. Manches kam aus Madrid, manches von Regionen und Gemeinden, und eine große nationale Neuerung haben die Gerichte 2026 wieder gekippt.",
+      "Dieser Ratgeber fasst den Stand im Herbst 2026 zusammen, mit Blick auf Costa Blanca und Costa del Sol, und zeigt, was Sie vor dem Kauf einer Ferienimmobilie prüfen sollten."
+    ],
+    "sections": [
+      {
+        "id": "timeline",
+        "h2": "Was sich seit 2024 geändert hat",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Datum</th><th>Änderung</th></tr></thead><tbody><tr><td>Aug. 2024</td><td>Neue Regeln für Ferienwohnungen in der Region Valencia (Decreto-ley 9/2024)</td></tr><tr><td>Dez. 2024</td><td>Vermieter müssen ausführliche Gästedaten an das Innenministerium senden</td></tr><tr><td>3. Apr. 2025</td><td>Neue Ferienvermietung in Mehrfamilienhäusern braucht 3/5 der Eigentümer</td></tr><tr><td>1. Jul. 2025</td><td>Start des nationalen Registers für Kurzzeitvermietung</td></tr><tr><td>19. Mai 2026</td><td>Oberster Gerichtshof kippt das nationale Registerverfahren, der Datenaustausch bleibt</td></tr><tr><td>20. Mai 2026</td><td>EU-Verordnung über Daten zur Kurzzeitvermietung gilt EU-weit</td></tr><tr><td>25. Jul. 2026</td><td>Málaga stoppt neue Ferienwohnungen in Wohngebieten für bis zu drei Jahre</td></tr></tbody></table></div>"
+      },
+      {
+        "id": "register",
+        "h2": "Lizenz und Registriernummer",
+        "alt": "Person bucht eine Ferienwohnung auf Tablet und Laptop",
+        "html": "<p>Eine an Touristen vermietete Immobilie muss im <strong>Tourismusregister der Region</strong> eingetragen sein, in der Region Valencia im Registro de Turismo de la Comunitat Valenciana, in Andalusien im Registro de Turismo de Andalucía. Die Eintragung ergibt eine Nummer, die in jeder Anzeige stehen muss.</p><p>Ab Juli 2025 verlangte Spanien zusätzlich eine <strong>nationale Registriernummer</strong> vom Grundbuchamt für jedes Angebot auf Airbnb, Booking und ähnlichen Plattformen. Im Mai 2026 hat der Oberste Gerichtshof dieses Verfahren für nichtig erklärt, weil die Registrierung Sache der Regionen ist. Bestehen bleibt das <strong>digitale Datenaustauschsystem</strong>, über das Plattformen Angebots- und Buchungsdaten an die Behörden melden, wie es die EU-Verordnung seit 20. Mai 2026 vorschreibt.</p><p>Praktisch braucht eine legale Ferienvermietung also eine gültige regionale Eintragung, deren Nummer in allen Anzeigen erscheint. Plattformen entfernen Angebote ohne Nummer.</p>"
+      },
+      {
+        "id": "community",
+        "h2": "Die Nachbarn reden mit",
+        "alt": "",
+        "html": "<p>Seit 3. April 2025 braucht ein Eigentümer in einer Wohnanlage, der neu an Touristen vermieten will, die Zustimmung von <strong>drei Fünfteln der Eigentümer</strong> in der Eigentümerversammlung. Die Gemeinschaft kann zudem die Beiträge für Ferienwohnungen um bis zu 20 % erhöhen.</p><p>Wohnungen, die schon vorher legal an Touristen vermietet wurden, behalten ihr Recht. Prüfen Sie vor dem Kauf die Gemeinschaftsordnung und die Protokolle der letzten Versammlungen, denn manche Gemeinschaften haben Ferienvermietung ganz verboten.</p>"
+      },
+      {
+        "id": "regions",
+        "h2": "Costa Blanca und Costa del Sol: regionale Regeln",
+        "alt": "Sonnige Terrasse und Rasen einer weißen Villa",
+        "html": "<h3>Region Valencia (Costa Blanca)</h3><ul><li>Als touristisch gilt jeder Aufenthalt desselben Gastes bis zu 10 Tagen. Zimmerweise Vermietung ist nicht erlaubt.</li><li>Für die Eintragung brauchen Sie einen positiven <strong>Bericht der Gemeinde</strong>, dass die touristische Nutzung an der Adresse planungsrechtlich zulässig ist.</li><li>Die Immobilie braucht eine gültige Katasternummer, und Eigentümer müssen die Eintragung mit einer aktualisierten Erklärung erneuern. 2025 hat die Regionalregierung über 10.000 Wohnungen wegen fehlender Daten aus dem Register gestrichen.</li><li>Gemeinden können Ferienwohnungen begrenzen. Valencia und Alicante haben neue Ferienwohnungen eingeschränkt, die Regeln unterscheiden sich von Straße zu Straße.</li></ul><h3>Andalusien (Costa del Sol)</h3><ul><li>Eintragung im andalusischen Tourismusregister, mit strengeren Ausstattungsregeln seit 2024, etwa Klimaanlage.</li><li>Gemeinden können Ferienwohnungen pro Gebäude oder Gebiet begrenzen. Málaga hat ab 25. Juli 2026 neue Ferienwohnungen in Wohngebieten für bis zu drei Jahre gestoppt.</li><li>In Marbella, Mijas und Benalmádena ist die Zahl der Ferienwohnungen 2026 mit strengeren Regeln gesunken.</li></ul>"
+      },
+      {
+        "id": "guests",
+        "h2": "Gäste und Steuern",
+        "alt": "",
+        "html": "<p><strong>Gästemeldung.</strong> Seit Dezember 2024 müssen Vermieter Identität, Kontakt- und Zahlungsdaten jedes Gastes innerhalb von 24 Stunden nach Buchung bzw. Ankunft an das Innenministerium (SES.HOSPEDAJES) übermitteln. Die meisten Verwalter erledigen das automatisch.</p><p><strong>Einkommensteuer.</strong> Mieteinnahmen sind in Spanien steuerpflichtig. Nichtresidenten geben das Formular 210 ab und zahlen 19 % (EU, Norwegen, Island, nach Kosten) oder 24 % (z. B. Schweiz, auf die Bruttomiete). Plattformen melden Ihre Buchungen an das Finanzamt. Deutsche Eigentümer sollten auch an den Progressionsvorbehalt in Deutschland denken. Mehr in unserem Ratgeber <a href=\"{up}de-de/steuerresident-oder-nichtresident-in-spanien.html\">Steuerresident oder Nichtresident</a>.</p><p><strong>Mehrwertsteuer.</strong> Ferienvermietung ohne hotelähnliche Leistungen wie tägliche Reinigung oder Rezeption ist von der MwSt. befreit.</p><p><strong>Kurtaxe.</strong> In der Region Valencia und in Andalusien gibt es derzeit keine Touristensteuer.</p>"
+      },
+      {
+        "id": "before",
+        "h2": "Vor dem Kauf einer Ferienimmobilie",
+        "alt": "",
+        "html": "<ol><li>Fragen Sie, ob die Immobilie bereits touristisch registriert ist und ob die Eintragung bestehen bleibt oder übertragen werden kann.</li><li>Falls nicht, klären Sie mit der Gemeinde, ob touristische Nutzung an der Adresse erlaubt ist.</li><li>Lesen Sie Gemeinschaftsordnung und Protokolle auf Verbote oder die 3/5-Abstimmung.</li><li>Prüfen Sie die Ausstattungs- und Sicherheitsregeln der Region.</li><li>Kalkulieren Sie Verwalter, Reinigung, Gästemeldung und Steuern ein.</li><li>Vergleichen Sie mit Langzeit- oder Saisonvermietung, für die die meisten dieser Regeln nicht gelten.</li></ol><p>Eine Immobilie mit gültiger Lizenz in einem Gebäude, das Ferienvermietung erlaubt, ist mehr wert. Für Käufer, die vermieten wollen, prüfen wir das immer.</p>"
+      }
+    ],
+    "faq": [
+      ["Brauche ich noch die nationale Registriernummer?", "Das nationale Registerverfahren hat der Oberste Gerichtshof im Mai 2026 für nichtig erklärt. Sie brauchen eine gültige Eintragung im Tourismusregister Ihrer Region, deren Nummer in Ihren Anzeigen steht."],
+      ["Können die Nachbarn die Ferienvermietung verhindern?", "Ja. Seit April 2025 braucht eine neue Ferienvermietung in einer Wohnanlage die Zustimmung von drei Fünfteln der Eigentümer, und die Gemeinschaftsordnung kann sie verbieten. Bereits vorher legal vermietete Wohnungen behalten ihr Recht."],
+      ["Bekomme ich für jede Immobilie an der Costa Blanca eine Lizenz?", "Nicht immer. Sie brauchen einen positiven Planungsbericht der Gemeinde, und Orte wie Alicante und Valencia haben neue Ferienwohnungen begrenzt. Prüfen Sie das vor dem Kauf."],
+      ["Wie werden Mieteinnahmen von Nichtresidenten besteuert?", "Mit dem Formular 210: 19 % auf den Nettoertrag für Ansässige in EU, Norwegen und Island, 24 % auf die Bruttomiete für alle anderen, auch Schweizer."],
+      ["Gibt es eine Kurtaxe in Alicante oder Málaga?", "Derzeit nicht. Weder die Region Valencia noch Andalusien erheben eine Touristensteuer."]
+    ],
+    "closing": {
+      "h2": "Eine Immobilie kaufen, die Sie legal vermieten können",
+      "alt": "Hände halten ein Smartphone mit einer Reisebuchungs-App",
+      "html": "<p>Wenn Mieteinnahmen Teil Ihres Plans sind, prüfen wir Lizenz, Gemeinschaftsregeln und die Politik der Gemeinde, bevor Sie ein Angebot machen. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a> und wir zeigen Ihnen Immobilien, in denen Ferienvermietung erlaubt ist.</p>"
+    }
+  },
+  "es": {
+    "slug": "nuevas-normas-sobre-alquileres-a-corto-plazo-en-espana",
+    "title": "Alquiler vacacional en España 2026 – licencia, registro e impuestos",
+    "description": "Las normas del alquiler turístico en España en 2026: la sentencia del Supremo sobre el registro único, el reglamento europeo, la mayoría de 3/5 de la comunidad, las licencias en la Comunitat Valenciana y Andalucía, el registro de viajeros, impuestos y qué revisar antes de comprar.",
+    "crumb": "Alquiler vacacional",
+    "eyebrow": "Ser propietario en España · Alquilar",
+    "h1": "Alquiler vacacional en España en 2026 – lo que debe saber el propietario",
+    "hero_alt": "Comedor luminoso con mesa larga y vistas al mar y a la piscina",
+    "short": "Para alquilar una vivienda a turistas en España necesita estar inscrito en el registro de turismo de su comunidad, y el número debe aparecer en todos los anuncios. El registro único estatal que arrancó en julio de 2025 fue anulado por el Tribunal Supremo en mayo de 2026, así que vuelven a contar los registros autonómicos, mientras que el reglamento europeo de plataformas se aplica desde el 20 de mayo de 2026. En edificios, las nuevas viviendas turísticas necesitan desde abril de 2025 el voto de tres quintas partes de los propietarios. Algunas ciudades, como Málaga, han suspendido nuevas licencias. Además hay que comunicar los viajeros a Interior y declarar los ingresos.",
+    "intro": [
+      "El alquiler vacacional puede cubrir buena parte de los gastos de una vivienda, pero las normas han cambiado mucho desde 2024. Unas vienen del Estado, otras de las comunidades y los ayuntamientos, y un gran cambio estatal lo anularon los tribunales en 2026.",
+      "Esta guía resume la situación en otoño de 2026, con foco en la Costa Blanca y la Costa del Sol, y qué revisar antes de comprar una vivienda para alquilar."
+    ],
+    "sections": [
+      {
+        "id": "timeline",
+        "h2": "Qué ha cambiado desde 2024",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Fecha</th><th>Cambio</th></tr></thead><tbody><tr><td>Ago. 2024</td><td>Nuevas normas valencianas de viviendas de uso turístico (Decreto-ley 9/2024)</td></tr><tr><td>Dic. 2024</td><td>Los anfitriones deben enviar datos detallados de los viajeros a Interior</td></tr><tr><td>3 abr. 2025</td><td>Las nuevas viviendas turísticas en edificios necesitan el voto de 3/5 de los propietarios</td></tr><tr><td>1 jul. 2025</td><td>Arranca el Registro Único de Arrendamientos</td></tr><tr><td>19 may. 2026</td><td>El Tribunal Supremo anula el procedimiento de registro único; se mantiene la Ventanilla Única Digital</td></tr><tr><td>20 may. 2026</td><td>Se aplica en toda la UE el reglamento sobre datos de alquileres de corta duración</td></tr><tr><td>25 jul. 2026</td><td>Málaga suspende nuevas viviendas turísticas en suelo residencial hasta tres años</td></tr></tbody></table></div>"
+      },
+      {
+        "id": "register",
+        "h2": "Licencia y número de registro",
+        "alt": "Persona reservando un apartamento vacacional en tableta y portátil",
+        "html": "<p>Una vivienda que se alquila a turistas debe estar inscrita en el <strong>registro de turismo de su comunidad</strong>: en la Comunitat Valenciana, el Registro de Turismo de la Comunitat Valenciana; en Andalucía, el Registro de Turismo de Andalucía. La inscripción da un número que debe figurar en todos los anuncios.</p><p>Desde julio de 2025 el Estado exigía además un <strong>número de registro único</strong> del Registro de la Propiedad para anunciarse en Airbnb, Booking y plataformas similares. En mayo de 2026 el Tribunal Supremo (sentencia 620/2026) anuló ese procedimiento porque el registro es competencia autonómica. Se mantiene la <strong>Ventanilla Única Digital de Arrendamientos</strong>, por la que las plataformas comunican anuncios y reservas a las administraciones, como exige el reglamento europeo desde el 20 de mayo de 2026.</p><p>En la práctica, un alquiler vacacional legal necesita una inscripción autonómica válida cuyo número aparezca en todos los anuncios. Las plataformas retiran los anuncios sin él.</p>"
+      },
+      {
+        "id": "community",
+        "h2": "La comunidad de propietarios decide",
+        "alt": "",
+        "html": "<p>Desde el 3 de abril de 2025, el propietario de un piso en régimen de propiedad horizontal que quiera empezar a alquilar a turistas necesita el voto favorable de <strong>tres quintas partes de los propietarios</strong> en junta. La comunidad puede además subir la cuota de las viviendas turísticas hasta un 20 %.</p><p>Las viviendas que ya se alquilaban legalmente a turistas antes de esa fecha mantienen su derecho. Antes de comprar, revise los estatutos y las actas recientes, porque algunas comunidades han prohibido el alquiler turístico.</p>"
+      },
+      {
+        "id": "regions",
+        "h2": "Costa Blanca y Costa del Sol: normas autonómicas",
+        "alt": "Terraza soleada y césped de una villa blanca",
+        "html": "<h3>Comunitat Valenciana (Costa Blanca)</h3><ul><li>Es uso turístico cualquier estancia de hasta 10 días de un mismo huésped, y no se permite alquilar por habitaciones.</li><li>Para inscribirse hace falta un <strong>informe municipal de compatibilidad urbanística</strong> favorable para uso turístico.</li><li>La vivienda debe tener referencia catastral propia, y el propietario debe renovar la inscripción con una declaración responsable actualizada. En 2025 la Generalitat dio de baja a más de 10.000 viviendas por falta de datos.</li><li>Los ayuntamientos pueden limitar las viviendas turísticas. Valencia y Alicante han restringido las nuevas, y las normas cambian de una calle a otra.</li></ul><h3>Andalucía (Costa del Sol)</h3><ul><li>Inscripción en el Registro de Turismo de Andalucía, con requisitos de equipamiento más estrictos desde 2024, como el aire acondicionado.</li><li>Los ayuntamientos pueden limitar viviendas turísticas por edificio o zona. Málaga suspendió desde el 25 de julio de 2026 las nuevas viviendas turísticas en suelo residencial durante hasta tres años.</li><li>Marbella, Mijas y Benalmádena han visto caer el número de viviendas turísticas en 2026 con las nuevas restricciones.</li></ul>"
+      },
+      {
+        "id": "guests",
+        "h2": "Viajeros e impuestos",
+        "alt": "",
+        "html": "<p><strong>Registro de viajeros.</strong> Desde diciembre de 2024 hay que enviar al Ministerio del Interior (SES.HOSPEDAJES) los datos de identidad, contacto y pago de cada huésped en las 24 horas siguientes a la reserva o la llegada. La mayoría de gestores lo hace de forma automática.</p><p><strong>Impuesto sobre la renta.</strong> Los ingresos del alquiler tributan en España. Los no residentes presentan el modelo 210 y pagan el 19 % (UE, Noruega, Islandia, tras gastos) o el 24 % (resto, sobre el ingreso íntegro). Los residentes los incluyen en su declaración de la renta. Las plataformas informan de sus reservas a Hacienda. Más en nuestra guía <a href=\"{up}es-es/residente-vs-no-residente-en-espana.html\">residente vs no residente</a>.</p><p><strong>IVA.</strong> El alquiler vacacional sin servicios propios de la industria hotelera, como limpieza diaria o recepción, está exento de IVA.</p><p><strong>Tasa turística.</strong> Actualmente no hay tasa turística en la Comunitat Valenciana ni en Andalucía.</p>"
+      },
+      {
+        "id": "before",
+        "h2": "Antes de comprar una vivienda para alquilar",
+        "alt": "",
+        "html": "<ol><li>Pregunte si la vivienda ya está inscrita como turística y si la inscripción se mantiene o puede pasar a su nombre.</li><li>Si no lo está, compruebe con el ayuntamiento que el uso turístico está permitido en esa dirección.</li><li>Lea los estatutos y las actas de la comunidad en busca de prohibiciones o de la votación de 3/5.</li><li>Revise los requisitos de equipamiento y seguridad de la comunidad autónoma.</li><li>Calcule el gestor, la limpieza, el registro de viajeros y los impuestos.</li><li>Compare con el alquiler de larga duración o de temporada, que evita la mayoría de estas normas.</li></ol><p>Una vivienda con licencia válida en un edificio que permite el alquiler turístico vale más, y siempre lo comprobamos para los compradores que quieren alquilar.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Sigo necesitando el número de registro único estatal?", "El Tribunal Supremo anuló el procedimiento de registro único en mayo de 2026. Necesita una inscripción válida en el registro de turismo de su comunidad, con el número visible en los anuncios."],
+      ["¿Pueden los vecinos impedir que alquile a turistas?", "Sí. Desde abril de 2025, una nueva vivienda turística en un edificio necesita el voto de tres quintas partes de los propietarios, y los estatutos pueden prohibirlo. Las que ya se alquilaban legalmente antes mantienen su derecho."],
+      ["¿Puedo obtener licencia turística para cualquier vivienda en la Costa Blanca?", "No siempre. Necesita un informe municipal de compatibilidad urbanística favorable, y municipios como Alicante y Valencia han limitado las nuevas viviendas turísticas. Compruébelo antes de comprar."],
+      ["¿Cómo tributa un no residente por el alquiler vacacional?", "Con el modelo 210: 19 % sobre el rendimiento neto para residentes en la UE, Noruega e Islandia, y 24 % sobre el ingreso íntegro para el resto."],
+      ["¿Hay tasa turística en Alicante o Málaga?", "Por ahora no. Ni la Comunitat Valenciana ni Andalucía cobran tasa turística."]
+    ],
+    "closing": {
+      "h2": "Compre una vivienda que pueda alquilar legalmente",
+      "alt": "Manos sosteniendo un móvil con una aplicación de reservas de viaje",
+      "html": "<p>Si los ingresos por alquiler forman parte de su plan, revisamos la licencia, las normas de la comunidad y la política del ayuntamiento antes de que haga una oferta. <a href=\"{up}index.html#contact\">Escríbanos</a> y le enseñaremos viviendas donde el alquiler vacacional está permitido.</p>"
+    }
+  }
+}
