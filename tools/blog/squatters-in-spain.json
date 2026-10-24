@@ -1,0 +1,109 @@
+{
+ "author": "aleksandra",
+ "published": "2025-04-25",
+ "modified": "2026-10-24",
+ "hero": "assets/blog/squatters-in-spain/burglar-forcing-window.jpg",
+ "images": {
+  "what": "assets/blog/squatters-in-spain/madrid-rooftops.jpg",
+  "law": "assets/blog/squatters-in-spain/policia-nacional-officers.jpg",
+  "protect": "assets/blog/squatters-in-spain/intruder-and-security-camera.jpg",
+  "coast": "assets/blog/squatters-in-spain/empty-country-house.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/okupas-w-hiszpanii-czy-jest-si-czego-ba-kupujc-nieruchomo",
+ "cards": ["26157630", "24758318", "26614054"],
+ "sources": [
+  ["Ley Orgánica 1/2025 (BOE)", "https://www.boe.es/buscar/act.php?id=BOE-A-2025-76"],
+  ["Código Penal, arts. 202 and 245 (BOE)", "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444"],
+  ["Interior Ministry crime statistics", "https://estadisticasdecriminalidad.ses.mir.es/"]
+ ],
+ "en": {
+  "slug": "squatters-in-spain-is-there-anything-to-fear-when-buying-property",
+  "title": "Squatters (Okupas) in Spain – Should Property Buyers Worry?",
+  "description": "How common are squatters (okupas) in Spain, what the law says since the 2025 fast-track reform, and how to protect a holiday home on the Costa Blanca or Costa del Sol.",
+  "crumb": "Squatters in Spain",
+  "eyebrow": "Buying in Spain · Legal",
+  "h1": "Squatters in Spain (Okupas) – Is There Anything to Fear When Buying Property?",
+  "hero_alt": "Burglar forcing a window open with a crowbar",
+  "short": "Squatting is real but rare: in 2024 Spain recorded 16,426 complaints of squatting and break-ins, in a country of more than 26 million homes, and 42% of them were in Catalonia. Since April 2025 these cases go through fast-track trials. A well-chosen home in a busy coastal area or a gated community, with an alarm and regular visits, carries a very low risk.",
+  "intro": ["Few topics worry foreign buyers as much as squatters, known in Spain as <em>okupas</em>. Headlines make it sound common. Here is what actually happens, what the law says now, and how to keep your home safe."],
+  "sections": [
+   {"id": "what", "h2": "Who are okupas?", "alt": "Rooftops of central Madrid on a sunny day",
+    "html": "<p>Okupas are people who move into a property without the owner's permission. The word comes from the Spanish <em>ocupar</em>, to occupy. The problem grew after the 2008 crisis, when many homes were repossessed and left empty.</p><p>Most cases involve empty flats owned by banks and investment funds, in big cities such as Barcelona and Madrid. A lived-in home, or a holiday home its owner uses regularly, is a much harder target.</p>"},
+   {"id": "law", "h2": "What the law says", "alt": "Two Policía Nacional officers on a street in Spain",
+    "html": "<p>Spanish criminal law treats squatting in two ways:</p><ul><li><strong>Allanamiento de morada</strong> (breaking into a dwelling, art. 202 of the Criminal Code): entering someone's home, including a second or holiday home. It carries 6 months to 2 years in prison.</li><li><strong>Usurpación</strong> (art. 245): occupying an empty property that is nobody's home, such as a repossessed flat. It is punished with a fine.</li></ul><p>If the police catch squatters in the act, they can remove them on the spot. A 2020 Interior Ministry instruction tells officers to act quickly when a home, including a second home, is broken into. You will often read about a \"48-hour rule\", but there is no such deadline in law. What matters is reporting it straight away.</p><p>Since 3 April 2025, both offences go through the fast-track trial procedure (<em>juicio rápido</em>), under Organic Law 1/2025. Cases that used to take months are meant to reach court within about two weeks, although in practice it depends on the local court.</p>"},
+   {"id": "tenants", "h2": "Squatters are not the same as tenants who stop paying", "alt": "",
+    "html": "<p>A tenant who signed a contract and stops paying is not an okupa. That is a civil matter, handled through an eviction claim (<em>desahucio</em>), and it usually takes longer. If you plan to rent out, a good rental contract, checks on the tenant and rent-default insurance matter more than fear of squatters.</p>"},
+   {"id": "protect", "h2": "How to protect your property", "alt": "Intruder climbing a wall at night past a security camera",
+    "html": "<ul><li><strong>Choose the location well.</strong> Busy coastal towns and gated communities with a concierge or security are rarely affected.</li><li><strong>Fit an alarm with monitoring</strong> and a security door. A monitored alarm is also proof of when an intrusion happened.</li><li><strong>Keep it lived in.</strong> Visit regularly, rent it out or ask a property manager to check it. Empty, unchecked homes are the main target.</li><li><strong>Keep your papers ready.</strong> Your title deed (<em>escritura</em>) and utility bills prove the home is yours and lived in.</li><li><strong>Get insurance with legal cover.</strong> Many home policies include legal help and cover for occupation.</li><li><strong>Talk to the neighbours</strong> and the community administrator, so someone notices if something is wrong.</li></ul>"},
+   {"id": "coast", "h2": "What about the Costa Blanca and Costa del Sol?", "alt": "Empty old country house in the Spanish countryside",
+    "html": "<p>Squatting is concentrated in big cities and in empty bank-owned stock. Coastal resorts are busy most of the year, and new developments usually have gated access and cameras. That keeps the risk low for a holiday home that is looked after.</p><p>The places to be careful with are isolated, long-empty houses and repossessed flats sold cheaply. An agent who knows the area will steer you away from these.</p>"}
+  ],
+  "faq": [
+   ["How common are squatters in Spain?", "In 2024 there were 16,426 complaints of squatting and break-ins in the whole of Spain, which has more than 26 million homes. About 42% were in Catalonia."],
+   ["Can the police remove squatters straight away?", "Yes, if they are caught in the act or the home is clearly someone's dwelling and it is reported immediately. Otherwise a judge decides, now through the fast-track procedure in force since April 2025."],
+   ["Does a holiday home count as a dwelling?", "Yes. A second or holiday home its owner uses counts as a dwelling, so breaking into it is the more serious offence of allanamiento de morada."]
+  ],
+  "closing": {"h2": "Buying with peace of mind", "alt": "",
+   "html": "<p>Squatters should not stop you buying in Spain, but they are a good reason to choose the right area and keep your home looked after. <a href=\"{up}index.html#contact\">Ask us</a> which developments and neighbourhoods we recommend, and how owners there protect their homes.</p>"}
+ },
+ "de": {
+  "slug": "okupas-in-spanien-muss-man-beim-kauf-einer-immobilie-angst-haben",
+  "title": "Hausbesetzer (Okupas) in Spanien – ein Risiko beim Kauf?",
+  "description": "Wie häufig sind Hausbesetzer (Okupas) in Spanien, was gilt seit der Eilverfahren-Reform 2025 und wie schützen Sie Ihr Ferienhaus an der Costa Blanca oder Costa del Sol?",
+  "crumb": "Hausbesetzer in Spanien",
+  "eyebrow": "Kaufen in Spanien · Recht",
+  "h1": "Okupas in Spanien – muss man beim Kauf einer Immobilie Angst haben?",
+  "hero_alt": "Einbrecher hebelt ein Fenster mit einem Brecheisen auf",
+  "short": "Hausbesetzungen gibt es, aber sie sind selten: 2024 wurden in Spanien 16.426 Anzeigen wegen Besetzung und Hausfriedensbruch erfasst, bei mehr als 26 Millionen Wohnungen, davon 42 % in Katalonien. Seit April 2025 laufen diese Fälle im Schnellverfahren. Ein gut gewähltes Haus in einem belebten Küstenort oder einer bewachten Anlage, mit Alarmanlage und regelmäßigen Besuchen, ist kaum gefährdet.",
+  "intro": ["Kaum ein Thema beunruhigt ausländische Käufer so sehr wie Hausbesetzer, in Spanien <em>Okupas</em> genannt. Schlagzeilen lassen es häufig erscheinen. Hier lesen Sie, was tatsächlich passiert, was das Gesetz heute sagt und wie Sie Ihr Zuhause schützen."],
+  "sections": [
+   {"id": "what", "h2": "Wer sind Okupas?", "alt": "Dächer im Zentrum von Madrid an einem sonnigen Tag",
+    "html": "<p>Okupas sind Personen, die ohne Erlaubnis des Eigentümers in eine Immobilie einziehen. Das Wort kommt vom spanischen <em>ocupar</em>, besetzen. Das Problem wuchs nach der Krise von 2008, als viele Wohnungen zwangsversteigert wurden und leer standen.</p><p>Die meisten Fälle betreffen leere Wohnungen von Banken und Investmentfonds in Großstädten wie Barcelona und Madrid. Ein bewohntes Haus oder ein regelmäßig genutztes Ferienhaus ist ein deutlich schwierigeres Ziel.</p>"},
+   {"id": "law", "h2": "Was das Gesetz sagt", "alt": "Zwei Beamte der Policía Nacional auf einer Straße in Spanien",
+    "html": "<p>Das spanische Strafrecht unterscheidet zwei Fälle:</p><ul><li><strong>Allanamiento de morada</strong> (Hausfriedensbruch, Art. 202 Strafgesetzbuch): das Eindringen in eine Wohnung, auch in eine Zweit- oder Ferienwohnung. Strafe: 6 Monate bis 2 Jahre Haft.</li><li><strong>Usurpación</strong> (Art. 245): die Besetzung einer leeren Immobilie, die niemandes Wohnung ist, etwa einer Bankwohnung. Sie wird mit einer Geldstrafe geahndet.</li></ul><p>Erwischt die Polizei Besetzer auf frischer Tat, kann sie sie sofort entfernen. Eine Anweisung des Innenministeriums von 2020 verpflichtet die Beamten, bei Einbruch in eine Wohnung, auch eine Zweitwohnung, schnell zu handeln. Oft liest man von einer „48-Stunden-Regel“, doch eine solche Frist gibt es im Gesetz nicht. Entscheidend ist, sofort Anzeige zu erstatten.</p><p>Seit dem 3. April 2025 werden beide Delikte im Schnellverfahren (<em>juicio rápido</em>) nach dem Organgesetz 1/2025 verhandelt. Fälle, die früher Monate dauerten, sollen in etwa zwei Wochen vor Gericht kommen, in der Praxis hängt das vom örtlichen Gericht ab.</p>"},
+   {"id": "tenants", "h2": "Besetzer sind keine Mieter, die nicht zahlen", "alt": "",
+    "html": "<p>Ein Mieter mit Vertrag, der die Miete nicht mehr zahlt, ist kein Okupa. Das ist eine zivilrechtliche Sache, die über eine Räumungsklage (<em>desahucio</em>) läuft und meist länger dauert. Wer vermieten möchte, sollte auf einen guten Mietvertrag, eine Prüfung des Mieters und eine Mietausfallversicherung achten.</p>"},
+   {"id": "protect", "h2": "So schützen Sie Ihre Immobilie", "alt": "Einbrecher klettert nachts an einer Überwachungskamera vorbei über eine Mauer",
+    "html": "<ul><li><strong>Wählen Sie die Lage gut.</strong> Belebte Küstenorte und bewachte Wohnanlagen sind selten betroffen.</li><li><strong>Installieren Sie eine überwachte Alarmanlage</strong> und eine Sicherheitstür. Die Alarmaufzeichnung belegt auch, wann eingedrungen wurde.</li><li><strong>Halten Sie das Haus belebt.</strong> Kommen Sie regelmäßig, vermieten Sie es oder lassen Sie es von einer Hausverwaltung kontrollieren. Leere, unbeaufsichtigte Häuser sind das Hauptziel.</li><li><strong>Halten Sie Ihre Unterlagen bereit.</strong> Die Kaufurkunde (<em>escritura</em>) und Nebenkostenrechnungen belegen, dass es Ihre bewohnte Wohnung ist.</li><li><strong>Schließen Sie eine Versicherung mit Rechtsschutz ab.</strong> Viele Hausratpolicen decken auch Besetzungen ab.</li><li><strong>Sprechen Sie mit den Nachbarn</strong> und der Hausverwaltung, damit jemand merkt, wenn etwas nicht stimmt.</li></ul>"},
+   {"id": "coast", "h2": "Und an der Costa Blanca und Costa del Sol?", "alt": "Leer stehendes altes Landhaus in Spanien",
+    "html": "<p>Besetzungen konzentrieren sich auf Großstädte und leer stehende Bankimmobilien. Ferienorte an der Küste sind fast das ganze Jahr belebt, und Neubauanlagen haben meist Zugangskontrollen und Kameras. Für ein gepflegtes Ferienhaus ist das Risiko daher gering.</p><p>Vorsicht ist bei abgelegenen, lange leer stehenden Häusern und günstig verkauften Bankwohnungen geboten. Ein Makler mit Ortskenntnis rät Ihnen davon ab.</p>"}
+  ],
+  "faq": [
+   ["Wie häufig sind Hausbesetzungen in Spanien?", "2024 gab es in ganz Spanien 16.426 Anzeigen wegen Besetzung und Hausfriedensbruch, bei mehr als 26 Millionen Wohnungen. Rund 42 % davon entfielen auf Katalonien."],
+   ["Kann die Polizei Besetzer sofort entfernen?", "Ja, wenn sie auf frischer Tat ertappt werden oder es sich erkennbar um eine Wohnung handelt und sofort Anzeige erstattet wird. Sonst entscheidet ein Richter, seit April 2025 im Schnellverfahren."],
+   ["Gilt ein Ferienhaus als Wohnung?", "Ja. Eine vom Eigentümer genutzte Zweit- oder Ferienwohnung gilt als Wohnung. Das Eindringen ist daher der schwerere Tatbestand des Hausfriedensbruchs."]
+  ],
+  "closing": {"h2": "Mit gutem Gefühl kaufen", "alt": "",
+   "html": "<p>Hausbesetzer sollten Sie nicht vom Kauf in Spanien abhalten, sie sind aber ein guter Grund, die richtige Lage zu wählen und Ihr Haus betreuen zu lassen. <a href=\"{up}index.html#contact\">Fragen Sie uns</a>, welche Anlagen und Viertel wir empfehlen und wie Eigentümer dort ihr Zuhause schützen.</p>"}
+ },
+ "es": {
+  "slug": "okupas-en-espana-hay-que-tener-miedo-al-comprar-una-propiedad",
+  "title": "Okupas en España: ¿hay que preocuparse al comprar?",
+  "description": "Cuántas okupaciones hay en España, qué dice la ley tras la reforma de juicios rápidos de 2025 y cómo proteger una segunda vivienda en la Costa Blanca o la Costa del Sol.",
+  "crumb": "Okupas en España",
+  "eyebrow": "Comprar en España · Legal",
+  "h1": "Okupas en España: ¿hay que tener miedo al comprar una propiedad?",
+  "hero_alt": "Ladrón forzando una ventana con una palanca",
+  "short": "La okupación existe, pero es poco frecuente: en 2024 se registraron en España 16.426 denuncias por usurpación y allanamiento, en un país con más de 26 millones de viviendas, y el 42 % fueron en Cataluña. Desde abril de 2025 estos delitos se juzgan por el procedimiento de juicio rápido. Una vivienda bien elegida en una zona costera con vida o en una urbanización cerrada, con alarma y visitas regulares, tiene un riesgo muy bajo.",
+  "intro": ["Pocos temas preocupan tanto a los compradores extranjeros como los okupas. Los titulares hacen que parezca algo habitual. Le explicamos qué ocurre en realidad, qué dice hoy la ley y cómo proteger su vivienda."],
+  "sections": [
+   {"id": "what", "h2": "¿Quiénes son los okupas?", "alt": "Tejados del centro de Madrid en un día soleado",
+    "html": "<p>Los okupas son personas que entran a vivir en una propiedad sin permiso del propietario. El problema creció tras la crisis de 2008, cuando muchas viviendas fueron embargadas y quedaron vacías.</p><p>La mayoría de los casos afecta a pisos vacíos de bancos y fondos de inversión en grandes ciudades como Barcelona y Madrid. Una vivienda habitada, o una segunda residencia que su dueño usa con regularidad, es un objetivo mucho más difícil.</p>"},
+   {"id": "law", "h2": "Qué dice la ley", "alt": "Dos agentes de la Policía Nacional en una calle de España",
+    "html": "<p>El Código Penal distingue dos supuestos:</p><ul><li><strong>Allanamiento de morada</strong> (art. 202): entrar en la vivienda de otra persona, incluida una segunda residencia o casa de vacaciones. Se castiga con prisión de 6 meses a 2 años.</li><li><strong>Usurpación</strong> (art. 245): ocupar un inmueble vacío que no es la morada de nadie, como un piso embargado. Se castiga con multa.</li></ul><p>Si la policía sorprende a los okupas en flagrante delito, puede desalojarlos en el acto. Una instrucción del Ministerio del Interior de 2020 pide a los agentes actuar con rapidez cuando se entra en una vivienda, también si es una segunda residencia. Se habla mucho de una «regla de las 48 horas», pero ese plazo no existe en la ley. Lo importante es denunciar de inmediato.</p><p>Desde el 3 de abril de 2025, ambos delitos se tramitan por juicio rápido, según la Ley Orgánica 1/2025. Casos que antes tardaban meses deberían llegar a juicio en unas dos semanas, aunque en la práctica depende de cada juzgado.</p>"},
+   {"id": "tenants", "h2": "Un okupa no es un inquilino que deja de pagar", "alt": "",
+    "html": "<p>Un inquilino con contrato que deja de pagar no es un okupa. Es un asunto civil que se resuelve con una demanda de desahucio y suele tardar más. Si piensa alquilar, importan más un buen contrato, comprobar al inquilino y un seguro de impago que el miedo a los okupas.</p>"},
+   {"id": "protect", "h2": "Cómo proteger su propiedad", "alt": "Intruso trepando un muro de noche junto a una cámara de seguridad",
+    "html": "<ul><li><strong>Elija bien la zona.</strong> Los municipios costeros con vida y las urbanizaciones cerradas con conserjería o seguridad rara vez se ven afectados.</li><li><strong>Instale una alarma conectada a central</strong> y una puerta de seguridad. El registro de la alarma también prueba cuándo se produjo la entrada.</li><li><strong>Mantenga la vivienda con vida.</strong> Visítela a menudo, alquílela o pida a un administrador que la revise. Las casas vacías y sin vigilancia son el objetivo principal.</li><li><strong>Tenga los documentos a mano.</strong> La escritura y los recibos de suministros prueban que la vivienda es suya y está habitada.</li><li><strong>Contrate un seguro con defensa jurídica.</strong> Muchas pólizas de hogar incluyen asistencia legal y cobertura por okupación.</li><li><strong>Hable con los vecinos</strong> y con el administrador de la comunidad, para que alguien avise si algo va mal.</li></ul>"},
+   {"id": "coast", "h2": "¿Y en la Costa Blanca y la Costa del Sol?", "alt": "Casa de campo antigua y vacía en el campo español",
+    "html": "<p>La okupación se concentra en las grandes ciudades y en las viviendas vacías de bancos. Los municipios turísticos de la costa tienen vida casi todo el año, y las promociones nuevas suelen tener acceso controlado y cámaras. Por eso el riesgo es bajo para una segunda vivienda bien cuidada.</p><p>Hay que tener cuidado con casas aisladas que llevan tiempo vacías y con pisos de banco vendidos muy baratos. Un agente que conozca la zona le aconsejará evitarlos.</p>"}
+  ],
+  "faq": [
+   ["¿Cuántas okupaciones hay en España?", "En 2024 hubo 16.426 denuncias por usurpación y allanamiento en toda España, que tiene más de 26 millones de viviendas. Alrededor del 42 % fueron en Cataluña."],
+   ["¿Puede la policía desalojar a los okupas en el momento?", "Sí, si los sorprende en flagrante delito o se trata claramente de una vivienda y se denuncia de inmediato. Si no, decide un juez, desde abril de 2025 por juicio rápido."],
+   ["¿Una casa de vacaciones cuenta como morada?", "Sí. Una segunda residencia que el propietario usa cuenta como morada, por lo que entrar en ella es el delito más grave de allanamiento de morada."]
+  ],
+  "closing": {"h2": "Comprar con tranquilidad", "alt": "",
+   "html": "<p>Los okupas no deberían impedirle comprar en España, pero sí son un buen motivo para elegir bien la zona y tener la vivienda atendida. <a href=\"{up}index.html#contact\">Pregúntenos</a> qué promociones y barrios recomendamos y cómo protegen allí sus casas los propietarios.</p>"}
+ }
+}
