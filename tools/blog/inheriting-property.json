@@ -1,0 +1,193 @@
+{
+  "author": "anita",
+  "published": "2026-01-27",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/inheriting-property/hands-holding-small-house.jpg",
+  "images": {
+    "will": "assets/blog/inheriting-property/last-will-and-testament.jpg",
+    "tax": "assets/blog/inheriting-property/coins-and-spanish-flag.jpg",
+    "closing": "assets/blog/inheriting-property/house-model-with-keys.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/spadek-nieruchomosci-w-hiszpanii",
+  "cards": ["26614054", "23935651", "20598512"],
+  "sources": [
+    ["EUR-Lex – Regulation (EU) No 650/2012 on succession", "https://eur-lex.europa.eu/eli/reg/2012/650/oj"],
+    ["Guía Fiscal – Inheritance tax in the Valencian Community", "https://guiafiscal.es/patrimonio/sucesiones/valencia/"],
+    ["Guía Fiscal – Inheritance tax in Andalusia", "https://guiafiscal.es/patrimonio/sucesiones/andalucia/"],
+    ["Ministerio de Justicia – Certificate of last wills", "https://www.mjusticia.gob.es/es/ciudadania/tramites/certificado-actos-ultima"]
+  ],
+  "en": {
+    "slug": "inheriting-property-in-spain",
+    "title": "Inheriting Property in Spain – Wills, Tax and Steps for Heirs (2026)",
+    "description": "How inheriting a house or apartment in Spain works: which country's law applies, forced heirship, why a Spanish will helps, inheritance tax in Valencia and Andalusia, the steps and deadlines for heirs.",
+    "crumb": "Inheriting property",
+    "eyebrow": "Owning in Spain · Family and law",
+    "h1": "Inheriting Property in Spain – What Owners and Heirs Need to Know",
+    "hero_alt": "Elderly hands holding a small wooden house",
+    "short": "Heirs do not become owners automatically. They must accept the inheritance before a notary, pay Spanish inheritance tax within 6 months of the death and register the property in their name. Under EU Regulation 650/2012, the law of the country where the owner usually lived applies, unless their will chooses the law of their nationality. Spain applies this rule to everyone, including UK and other non-EU citizens. Inheritance tax depends on the region: in the Valencian Community and Andalusia, children and spouses pay almost nothing thanks to a 99% relief.",
+    "intro": [
+      "Buyers plan the purchase in great detail and rarely think about what happens to the home after they die. Yet Spanish succession rules differ from those in many countries, and a little planning at the start can save heirs months of paperwork and a lot of money.",
+      "Here is how inheritance of Spanish property works, which law and which taxes apply, and what you can do today to make it easy for your family."
+    ],
+    "sections": [
+      {
+        "id": "law",
+        "h2": "Which country's law applies?",
+        "alt": "",
+        "html": "<p>Since August 2015, the EU Succession Regulation (No 650/2012, often called Brussels IV) decides which law governs an inheritance:</p><ul><li>By default, the law of the country where the deceased <strong>had their habitual residence</strong> at death applies to the whole estate, including property in other countries.</li><li>In a will, you can instead <strong>choose the law of your nationality</strong>.</li></ul><p>Spain applies this rule to everyone, not only EU citizens. A British, American or Norwegian owner who lives at home can leave the Spanish home under their home law, and one who lives in Spain can choose their national law in a will.</p><p>This matters because Spanish law has <strong>forced heirship</strong>. Under the Spanish Civil Code, two thirds of the estate are reserved for the children, and a surviving spouse has a life interest in part of it. Some regions, such as Catalonia and the Balearic Islands, have their own rules. If you choose your national law, these Spanish shares usually do not apply.</p>"
+      },
+      {
+        "id": "will",
+        "h2": "Why a Spanish will helps",
+        "alt": "Last will and testament with a fountain pen and a watch",
+        "html": "<p>A will made at home is valid in Spain, but your heirs will need it officially translated, legalised with an apostille and often a legal opinion on foreign law. That takes time and money.</p><p>Many owners therefore make a separate <strong>Spanish will</strong> (<em>testamento abierto</em>) at a Spanish notary that covers only their assets in Spain. It costs little, usually under €150, is registered in the central Spanish register of wills and can state which country's law you choose.</p><p>Make sure the two wills match. A new will can revoke an earlier one by accident, so tell both notaries or lawyers about the other will and limit each to its own assets.</p><p>Without any will, Spanish law (if it applies) sets the order: children and grandchildren first, then parents, then the spouse, then brothers, sisters and other relatives, and finally the State. An unmarried partner inherits nothing without a will.</p>"
+      },
+      {
+        "id": "tax",
+        "h2": "Inheritance tax: the region decides",
+        "alt": "Stack of euro coins in front of a Spanish flag",
+        "html": "<p>In Spain, the heir pays inheritance tax (<em>Impuesto sobre Sucesiones</em>), not the estate. The amount depends on the value received, the relationship to the deceased, the heir's existing wealth and above all the <strong>region</strong>. Since 2023, non-resident heirs from any country can apply the rules of the region where the property is, which are usually much better than the state rules.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Heir</th><th>Valencian Community (Costa Blanca)</th><th>Andalusia (Costa del Sol)</th></tr></thead><tbody><tr><td>Children, spouse, parents (groups I and II)</td><td>€100,000 allowance per heir, then 99% off the tax</td><td>€1,000,000 allowance per heir, then 99% off the tax</td></tr><tr><td>Brothers, sisters, nephews, nieces, aunts, uncles (group III)</td><td>25% off from 1 June 2026, 50% from 1 June 2027</td><td>no regional discount</td></tr><tr><td>Others, including unregistered partners</td><td>full tax at progressive rates, with higher multipliers</td><td>full tax, with higher multipliers</td></tr></tbody></table></div><p>For a child inheriting a €300,000 home in the Valencian Community, the tax is in the low hundreds of euros. For a friend or an unregistered partner it can be tens of thousands. Registered couples (<em>pareja de hecho</em>) are usually treated as spouses in both regions.</p><p>Heirs also pay the municipal capital gains tax on the land (<em>plusvalía municipal</em>), and they may owe inheritance tax in their own country. Germany, for example, taxes heirs who live there and credits the Spanish tax.</p>"
+      },
+      {
+        "id": "steps",
+        "h2": "Step by step for heirs",
+        "alt": "",
+        "html": "<ol><li><strong>Death certificate.</strong> A foreign certificate needs an apostille and a sworn translation.</li><li><strong>Certificate of last wills</strong> (<em>certificado de últimas voluntades</em>) from the Spanish Ministry of Justice, available 15 working days after the death. It shows whether there is a Spanish will.</li><li><strong>Copy of the will</strong>, or, if there is none, a notarial declaration of heirs (<em>declaración de herederos</em>).</li><li><strong>NIE numbers</strong> for every heir.</li><li><strong>Deed of acceptance</strong> (<em>escritura de aceptación y adjudicación de herencia</em>) signed at a Spanish notary, in person or through a lawyer with a power of attorney.</li><li><strong>Taxes:</strong> inheritance tax and plusvalía within <strong>6 months</strong> of the death. You can ask for a 6-month extension within the first 5 months. Late payment brings surcharges.</li><li><strong>Land registry:</strong> register the property in the heirs' names. Only then can they sell or mortgage it.</li></ol><p>With documents from abroad, the whole process often takes 4 to 9 months. Banks freeze the deceased's Spanish accounts until the heirs are confirmed, so keep money for taxes elsewhere.</p>"
+      },
+      {
+        "id": "plan",
+        "h2": "Plan at the purchase",
+        "alt": "",
+        "html": "<p>The best moment to think about inheritance is when you buy:</p><ul><li><strong>Whose name goes on the deed.</strong> Buying jointly with a spouse or partner means half the home is already theirs.</li><li><strong>Make a Spanish will</strong> soon after the purchase and choose your national law if that suits your family.</li><li><strong>Keep the paperwork tidy</strong>: deed, Nota Simple, IBI receipts and community fees paid, so heirs find no surprises. Our guide to the <a href=\"{up}nota-simple.html\">Nota Simple</a> explains what to check.</li><li><strong>Get advice on both countries</strong>, because the tax at home can matter as much as the Spanish tax.</li></ul>"
+      }
+    ],
+    "faq": [
+      ["Do I need a Spanish will if I already have one at home?", "It is not required, but it makes things much faster for your heirs. A Spanish will covering only your Spanish assets avoids translations and legal opinions on foreign law. Make sure it does not revoke your home will."],
+      ["Does Spanish forced heirship apply to foreigners?", "Only if Spanish law applies to the inheritance, usually because you lived in Spain. You can avoid it by choosing the law of your nationality in your will."],
+      ["How much inheritance tax does a child pay on a home on the Costa Blanca?", "Very little. In the Valencian Community children get a €100,000 allowance and then 99% off the tax, so a typical home costs a few hundred euros in tax, plus the municipal plusvalía."],
+      ["What is the deadline to pay Spanish inheritance tax?", "Six months from the date of death. You can request a further six months if you apply within the first five."],
+      ["Can heirs sell the property before it is in their name?", "No. They must first accept the inheritance at a notary, pay the taxes and register the property in their names."]
+    ],
+    "closing": {
+      "h2": "Buy with your family in mind",
+      "alt": "Model house with keys on a property document",
+      "html": "<p>When you buy with us, we can introduce you to a lawyer who will advise on whose name goes on the deed and prepare a Spanish will at the same time. <a href=\"{up}index.html#contact\">Contact us</a> and plan it from the start.</p>"
+    }
+  },
+  "de": {
+    "slug": "immobilie-in-spanien-erben",
+    "title": "Immobilie in Spanien erben – Testament, Steuer und Ablauf (2026)",
+    "description": "Wie das Erben einer Immobilie in Spanien funktioniert: welches Recht gilt, Pflichtteil, warum ein spanisches Testament hilft, Erbschaftsteuer in Valencia und Andalusien, Schritte und Fristen für Erben.",
+    "crumb": "Immobilie erben",
+    "eyebrow": "Eigentum in Spanien · Familie und Recht",
+    "h1": "Immobilie in Spanien erben – was Eigentümer und Erben wissen müssen",
+    "hero_alt": "Ältere Hände halten ein kleines Holzhaus",
+    "short": "Erben werden nicht automatisch Eigentümer. Sie müssen das Erbe vor einem spanischen Notar annehmen, die spanische Erbschaftsteuer innerhalb von 6 Monaten nach dem Todesfall zahlen und die Immobilie auf ihren Namen eintragen. Nach der EU-Erbrechtsverordnung 650/2012 gilt das Recht des Landes, in dem der Verstorbene seinen gewöhnlichen Aufenthalt hatte, außer er wählt im Testament das Recht seiner Staatsangehörigkeit. Die Erbschaftsteuer hängt von der Region ab: In Valencia und Andalusien zahlen Kinder und Ehepartner dank 99 % Ermäßigung fast nichts. Deutsche Erben können zusätzlich in Deutschland steuerpflichtig sein.",
+    "intro": [
+      "Den Kauf planen die meisten Käufer bis ins Detail, aber kaum jemand denkt daran, was nach dem eigenen Tod mit der Immobilie geschieht. Das spanische Erbrecht weicht vom deutschen, österreichischen und schweizerischen ab, und etwas Planung am Anfang erspart den Erben Monate an Papierkram und viel Geld.",
+      "Hier lesen Sie, wie das Erben einer spanischen Immobilie abläuft, welches Recht und welche Steuern gelten und was Sie heute schon für Ihre Familie tun können."
+    ],
+    "sections": [
+      {
+        "id": "law",
+        "h2": "Welches Recht gilt?",
+        "alt": "",
+        "html": "<p>Seit August 2015 bestimmt die EU-Erbrechtsverordnung (Nr. 650/2012), welches Recht für einen Erbfall gilt:</p><ul><li>Grundsätzlich gilt das Recht des Landes, in dem der Verstorbene seinen <strong>gewöhnlichen Aufenthalt</strong> hatte, für den gesamten Nachlass, auch für Immobilien im Ausland.</li><li>Im Testament können Sie stattdessen das <strong>Recht Ihrer Staatsangehörigkeit wählen</strong>.</li></ul><p>Wer in Deutschland oder Österreich lebt, vererbt die spanische Immobilie also in der Regel nach deutschem oder österreichischem Recht. Wer nach Spanien zieht, sollte im Testament das Heimatrecht wählen, wenn er es behalten möchte. Spanien wendet die Regel auch auf Schweizer an, die damit ebenfalls Schweizer Recht wählen können.</p><p>Das ist wichtig, weil auch das spanische Recht einen <strong>Pflichtteil</strong> kennt, und zwar einen größeren als das deutsche: Nach dem spanischen Zivilgesetzbuch sind zwei Drittel des Nachlasses den Kindern vorbehalten, der Ehepartner erhält ein Nießbrauchsrecht an einem Teil. Einige Regionen wie Katalonien und die Balearen haben eigene Regeln.</p>"
+      },
+      {
+        "id": "will",
+        "h2": "Warum ein spanisches Testament hilft",
+        "alt": "Testament mit Füllfederhalter und Armbanduhr",
+        "html": "<p>Ein deutsches Testament ist in Spanien gültig, doch die Erben brauchen eine beglaubigte Übersetzung, eine Apostille und oft ein Rechtsgutachten zum deutschen Recht. Bei einem handschriftlichen Testament ohne Notar kommt meist noch ein Erbschein oder ein Europäisches Nachlasszeugnis dazu. Das kostet Zeit und Geld.</p><p>Viele Eigentümer errichten deshalb ein separates <strong>spanisches Testament</strong> (<em>testamento abierto</em>) bei einem spanischen Notar, das nur das Vermögen in Spanien regelt. Es kostet wenig, meist unter 150 €, wird im zentralen spanischen Testamentsregister eingetragen und kann die Rechtswahl enthalten.</p><p>Achten Sie darauf, dass beide Testamente zusammenpassen. Ein neues Testament kann ein älteres versehentlich widerrufen. Informieren Sie daher beide Notare über das jeweils andere Testament und beschränken Sie jedes auf sein Vermögen.</p><p>Ohne Testament gilt, wenn spanisches Recht anwendbar ist, folgende Reihenfolge: Kinder und Enkel, dann Eltern, dann Ehepartner, dann Geschwister und weitere Verwandte, zuletzt der Staat. Ein unverheirateter Partner erbt ohne Testament nichts.</p>"
+      },
+      {
+        "id": "tax",
+        "h2": "Erbschaftsteuer: die Region entscheidet",
+        "alt": "Stapel von Euromünzen vor einer spanischen Flagge",
+        "html": "<p>In Spanien zahlt jeder Erbe die Erbschaftsteuer (<em>Impuesto sobre Sucesiones</em>) auf seinen Anteil. Die Höhe hängt vom Wert, vom Verwandtschaftsgrad, vom Vorvermögen des Erben und vor allem von der <strong>Region</strong> ab. Seit 2023 können Erben aus jedem Land die Regeln der Region anwenden, in der die Immobilie liegt. Diese sind meist deutlich günstiger als die staatlichen.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Erbe</th><th>Region Valencia (Costa Blanca)</th><th>Andalusien (Costa del Sol)</th></tr></thead><tbody><tr><td>Kinder, Ehepartner, Eltern (Gruppen I und II)</td><td>100.000 € Freibetrag je Erbe, dann 99 % Ermäßigung auf die Steuer</td><td>1.000.000 € Freibetrag je Erbe, dann 99 % Ermäßigung</td></tr><tr><td>Geschwister, Neffen, Nichten, Onkel, Tanten (Gruppe III)</td><td>25 % Ermäßigung ab 1. Juni 2026, 50 % ab 1. Juni 2027</td><td>keine regionale Ermäßigung</td></tr><tr><td>Andere, auch nicht registrierte Partner</td><td>volle progressive Steuer mit höheren Multiplikatoren</td><td>volle Steuer mit höheren Multiplikatoren</td></tr></tbody></table></div><p>Erbt ein Kind eine Wohnung für 300.000 € in der Region Valencia, liegt die spanische Steuer im niedrigen dreistelligen Bereich. Für einen Freund oder einen nicht registrierten Partner können es Zehntausende Euro sein. Eingetragene Paare (<em>pareja de hecho</em>) werden in beiden Regionen meist wie Ehepartner behandelt. Dazu kommt die kommunale Wertzuwachssteuer auf den Boden (<em>plusvalía municipal</em>).</p><h3>Auch die Steuer zu Hause zählt</h3><p>Zwischen Spanien und Deutschland gibt es kein Doppelbesteuerungsabkommen für Erbschaften. Lebt der Verstorbene oder der Erbe in Deutschland, fällt deutsche Erbschaftsteuer auf die spanische Immobilie an, die spanische Steuer wird angerechnet. Österreich erhebt keine Erbschaftsteuer. In der Schweiz entscheidet der Kanton, Ehepartner und meist auch Kinder sind befreit.</p>"
+      },
+      {
+        "id": "steps",
+        "h2": "Schritt für Schritt für Erben",
+        "alt": "",
+        "html": "<ol><li><strong>Sterbeurkunde</strong> mit Apostille und beeidigter Übersetzung, oder eine internationale Sterbeurkunde.</li><li><strong>Bescheinigung über letztwillige Verfügungen</strong> (<em>certificado de últimas voluntades</em>) des spanischen Justizministeriums, erhältlich 15 Werktage nach dem Tod. Sie zeigt, ob es ein spanisches Testament gibt.</li><li><strong>Testament</strong> oder, falls keines vorliegt, Erbschein, Europäisches Nachlasszeugnis oder notarielle Erbfolgeerklärung.</li><li><strong>NIE-Nummern</strong> für alle Erben.</li><li><strong>Annahmeurkunde</strong> (<em>escritura de aceptación y adjudicación de herencia</em>) bei einem spanischen Notar, persönlich oder über einen Anwalt mit Vollmacht.</li><li><strong>Steuern:</strong> Erbschaftsteuer und Plusvalía innerhalb von <strong>6 Monaten</strong> nach dem Todesfall. Eine Verlängerung um 6 Monate kann in den ersten 5 Monaten beantragt werden. Verspätung kostet Zuschläge.</li><li><strong>Grundbuch:</strong> Eintragung auf die Erben. Erst dann können sie verkaufen oder beleihen.</li></ol><p>Mit Unterlagen aus dem Ausland dauert alles oft 4 bis 9 Monate. Spanische Konten des Verstorbenen sind bis zur Klärung gesperrt. Halten Sie das Geld für die Steuer daher anderswo bereit.</p>"
+      },
+      {
+        "id": "plan",
+        "h2": "Schon beim Kauf planen",
+        "alt": "",
+        "html": "<p>Der beste Zeitpunkt für die Nachfolgeplanung ist der Kauf:</p><ul><li><strong>Wer im Grundbuch steht.</strong> Kaufen Sie gemeinsam mit Ehepartner oder Partner, gehört die Hälfte bereits ihm oder ihr.</li><li><strong>Ein spanisches Testament</strong> bald nach dem Kauf errichten und, wenn es passt, das Heimatrecht wählen.</li><li><strong>Unterlagen in Ordnung halten</strong>: Kaufurkunde, Nota Simple, IBI-Belege, bezahlte Gemeinschaftskosten. Unser Ratgeber zur <a href=\"{up}de-de/nota-simple.html\">Nota Simple</a> erklärt, was zu prüfen ist.</li><li><strong>Beide Länder berücksichtigen</strong>, denn die deutsche Erbschaftsteuer kann höher sein als die spanische.</li></ul>"
+      }
+    ],
+    "faq": [
+      ["Brauche ich ein spanisches Testament, wenn ich schon eines in Deutschland habe?", "Pflicht ist es nicht, aber es beschleunigt alles für Ihre Erben. Ein spanisches Testament nur für das spanische Vermögen erspart Übersetzungen und Rechtsgutachten. Achten Sie darauf, dass es Ihr deutsches Testament nicht widerruft."],
+      ["Gilt der spanische Pflichtteil auch für Deutsche?", "Nur wenn spanisches Recht auf den Erbfall anwendbar ist, meist weil Sie in Spanien gelebt haben. Mit einer Rechtswahl im Testament gilt stattdessen deutsches Recht."],
+      ["Wie viel Erbschaftsteuer zahlt ein Kind für eine Wohnung an der Costa Blanca?", "In Spanien sehr wenig: In der Region Valencia gibt es 100.000 € Freibetrag und dann 99 % Ermäßigung. Lebt der Erbe oder der Verstorbene in Deutschland, kann aber deutsche Erbschaftsteuer anfallen."],
+      ["Welche Frist gilt für die spanische Erbschaftsteuer?", "Sechs Monate ab dem Todestag. Weitere sechs Monate können innerhalb der ersten fünf Monate beantragt werden."],
+      ["Können Erben die Immobilie verkaufen, bevor sie eingetragen sind?", "Nein. Sie müssen das Erbe zuerst notariell annehmen, die Steuern zahlen und die Immobilie auf ihren Namen eintragen lassen."]
+    ],
+    "closing": {
+      "h2": "Mit Blick auf die Familie kaufen",
+      "alt": "Hausmodell mit Schlüsseln auf einem Immobiliendokument",
+      "html": "<p>Wenn Sie mit uns kaufen, stellen wir Ihnen einen Anwalt vor, der berät, wer ins Grundbuch soll, und gleich ein spanisches Testament vorbereitet. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a> und planen Sie es von Anfang an.</p>"
+    }
+  },
+  "es": {
+    "slug": "herencia-de-una-propiedad-en-espana",
+    "title": "Heredar una vivienda en España – testamento, impuestos y pasos (2026)",
+    "description": "Cómo se hereda una vivienda en España: qué ley se aplica, la legítima, por qué conviene un testamento español, el impuesto de sucesiones en la Comunitat Valenciana y Andalucía, y los pasos y plazos para los herederos.",
+    "crumb": "Heredar una vivienda",
+    "eyebrow": "Ser propietario en España · Familia y ley",
+    "h1": "Heredar una vivienda en España – lo que deben saber propietarios y herederos",
+    "hero_alt": "Manos de una persona mayor sosteniendo una pequeña casa de madera",
+    "short": "Los herederos no se convierten en propietarios automáticamente. Deben aceptar la herencia ante notario, pagar el impuesto de sucesiones en 6 meses desde el fallecimiento e inscribir la vivienda a su nombre. Según el Reglamento europeo 650/2012, se aplica la ley del país de residencia habitual del fallecido, salvo que en el testamento elija la ley de su nacionalidad. España aplica esta regla a todos, también a ciudadanos de fuera de la UE. El impuesto depende de la comunidad: en la Comunitat Valenciana y Andalucía, hijos y cónyuges casi no pagan gracias a una bonificación del 99 %.",
+    "intro": [
+      "Quien compra planifica la operación al detalle, pero rara vez piensa en qué pasará con la vivienda después de su muerte. Una pequeña planificación al principio puede ahorrar a los herederos meses de trámites y mucho dinero, sobre todo si la familia vive en otro país.",
+      "Le explicamos cómo funciona la herencia de un inmueble en España, qué ley e impuestos se aplican y qué puede hacer hoy para facilitarlo."
+    ],
+    "sections": [
+      {
+        "id": "law",
+        "h2": "¿Qué ley se aplica?",
+        "alt": "",
+        "html": "<p>Desde agosto de 2015, el Reglamento europeo de sucesiones (n.º 650/2012) determina qué ley rige una herencia:</p><ul><li>Por defecto, la ley del país donde el fallecido tenía su <strong>residencia habitual</strong>, para toda la herencia, incluidos los inmuebles en otros países.</li><li>En el testamento puede <strong>elegir la ley de su nacionalidad</strong>.</li></ul><p>España aplica esta regla a todo el mundo, no solo a ciudadanos de la UE. Un propietario argentino, mexicano o colombiano que viva en España puede elegir en su testamento la ley de su país, y uno que viva fuera hereda en principio según la ley de su residencia.</p><p>Si se aplica la ley española, rige la <strong>legítima</strong>: según el Código Civil, dos tercios de la herencia corresponden a los hijos, y el cónyuge viudo tiene el usufructo de una parte. Algunas comunidades, como Cataluña, Aragón, Navarra, el País Vasco o Baleares, tienen su propio derecho civil.</p>"
+      },
+      {
+        "id": "will",
+        "h2": "Por qué conviene un testamento español",
+        "alt": "Testamento con una pluma estilográfica y un reloj",
+        "html": "<p>Un testamento otorgado en otro país es válido en España, pero los herederos necesitarán traducción jurada, apostilla y a menudo un informe sobre la ley extranjera. Eso lleva tiempo y dinero.</p><p>Por eso muchos propietarios otorgan un <strong>testamento español</strong> (testamento abierto) ante notario que cubre solo sus bienes en España. Cuesta poco, normalmente menos de 150 €, se inscribe en el Registro General de Actos de Última Voluntad y puede incluir la elección de ley.</p><p>Asegúrese de que ambos testamentos encajan. Uno nuevo puede revocar sin querer el anterior, así que informe a los dos notarios o abogados y limite cada testamento a sus bienes.</p><p>Sin testamento, si se aplica la ley española, el orden es: hijos y nietos, después padres, después el cónyuge, después hermanos y otros parientes y, por último, el Estado. La pareja no casada no hereda nada sin testamento.</p>"
+      },
+      {
+        "id": "tax",
+        "h2": "Impuesto de sucesiones: decide la comunidad",
+        "alt": "Montón de monedas de euro delante de una bandera de España",
+        "html": "<p>En España paga el impuesto de sucesiones cada heredero por lo que recibe. La cuota depende del valor heredado, del parentesco, del patrimonio previo del heredero y, sobre todo, de la <strong>comunidad autónoma</strong>. Desde 2023, los herederos no residentes de cualquier país pueden aplicar la normativa de la comunidad donde está el inmueble, normalmente mucho más favorable que la estatal.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Heredero</th><th>Comunitat Valenciana (Costa Blanca)</th><th>Andalucía (Costa del Sol)</th></tr></thead><tbody><tr><td>Hijos, cónyuge, padres (grupos I y II)</td><td>reducción de 100.000 € por heredero y bonificación del 99 % de la cuota</td><td>reducción de 1.000.000 € por heredero y bonificación del 99 %</td></tr><tr><td>Hermanos, sobrinos, tíos (grupo III)</td><td>bonificación del 25 % desde el 1 de junio de 2026 y del 50 % desde el 1 de junio de 2027</td><td>sin bonificación autonómica</td></tr><tr><td>Otros, incluidas parejas no inscritas</td><td>cuota completa con tarifa progresiva y coeficientes más altos</td><td>cuota completa con coeficientes más altos</td></tr></tbody></table></div><p>Si un hijo hereda una vivienda de 300.000 € en la Comunitat Valenciana, el impuesto se queda en unos cientos de euros. Para un amigo o una pareja no inscrita pueden ser decenas de miles. Las parejas de hecho inscritas se equiparan normalmente a los cónyuges en ambas comunidades.</p><p>Los herederos pagan además la plusvalía municipal y, según dónde vivan, también pueden tributar en su país.</p>"
+      },
+      {
+        "id": "steps",
+        "h2": "Paso a paso para los herederos",
+        "alt": "",
+        "html": "<ol><li><strong>Certificado de defunción.</strong> Si es extranjero, con apostilla y traducción jurada.</li><li><strong>Certificado de últimas voluntades</strong> del Ministerio de Justicia, disponible 15 días hábiles después del fallecimiento. Indica si hay testamento en España.</li><li><strong>Copia del testamento</strong> o, si no lo hay, declaración de herederos ante notario.</li><li><strong>NIE</strong> para cada heredero.</li><li><strong>Escritura de aceptación y adjudicación de herencia</strong> ante notario español, en persona o mediante un abogado con poder.</li><li><strong>Impuestos:</strong> sucesiones y plusvalía en el plazo de <strong>6 meses</strong> desde el fallecimiento. Puede pedir una prórroga de otros 6 meses dentro de los 5 primeros. El retraso conlleva recargos.</li><li><strong>Registro de la Propiedad:</strong> inscribir la vivienda a nombre de los herederos. Solo entonces pueden venderla o hipotecarla.</li></ol><p>Con documentos del extranjero, el proceso suele durar entre 4 y 9 meses. Los bancos bloquean las cuentas españolas del fallecido hasta acreditar a los herederos, así que conviene tener el dinero para los impuestos en otra parte.</p>"
+      },
+      {
+        "id": "plan",
+        "h2": "Planifíquelo al comprar",
+        "alt": "",
+        "html": "<p>El mejor momento para pensar en la herencia es la compra:</p><ul><li><strong>A nombre de quién se escritura.</strong> Comprar con su cónyuge o pareja significa que la mitad ya es suya.</li><li><strong>Otorgue un testamento español</strong> poco después de la compra y, si le conviene, elija la ley de su nacionalidad.</li><li><strong>Tenga la documentación en orden</strong>: escritura, nota simple, recibos del IBI y cuotas de comunidad pagadas. Nuestra guía sobre la <a href=\"{up}es-es/nota-simple.html\">nota simple</a> explica qué revisar.</li><li><strong>Asesórese en ambos países</strong>, porque el impuesto en su país puede pesar tanto como el español.</li></ul>"
+      }
+    ],
+    "faq": [
+      ["¿Necesito un testamento español si ya tengo uno en mi país?", "No es obligatorio, pero agiliza mucho la herencia. Un testamento español solo para los bienes en España evita traducciones e informes sobre ley extranjera. Asegúrese de que no revoque el de su país."],
+      ["¿Se aplica la legítima española a los extranjeros?", "Solo si la herencia se rige por la ley española, normalmente porque vivía en España. Puede evitarlo eligiendo en el testamento la ley de su nacionalidad."],
+      ["¿Cuánto paga un hijo por heredar una vivienda en la Costa Blanca?", "Muy poco. En la Comunitat Valenciana hay una reducción de 100.000 € y una bonificación del 99 %, así que una vivienda típica paga unos cientos de euros, más la plusvalía municipal."],
+      ["¿Cuál es el plazo para pagar el impuesto de sucesiones?", "Seis meses desde el fallecimiento, prorrogables otros seis si lo solicita dentro de los cinco primeros."],
+      ["¿Pueden los herederos vender antes de inscribir la vivienda?", "No. Primero deben aceptar la herencia ante notario, pagar los impuestos e inscribir el inmueble a su nombre."]
+    ],
+    "closing": {
+      "h2": "Compre pensando en su familia",
+      "alt": "Maqueta de casa con llaves sobre un documento",
+      "html": "<p>Si compra con nosotros, le presentamos a un abogado que le aconsejará a nombre de quién escriturar y le preparará al mismo tiempo un testamento español. <a href=\"{up}index.html#contact\">Escríbanos</a> y planifíquelo desde el principio.</p>"
+    }
+  }
+}
