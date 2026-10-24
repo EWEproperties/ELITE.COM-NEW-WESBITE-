@@ -1,0 +1,116 @@
+{
+ "author": "anita",
+ "published": "2026-01-20",
+ "modified": "2026-10-24",
+ "hero": "assets/blog/nota-simple/checking-document-with-magnifier.jpg",
+ "images": {
+  "what": "assets/blog/nota-simple/keys-on-property-papers.jpg",
+  "read": "assets/blog/nota-simple/agent-with-house-model-and-papers.jpg",
+  "caution": "assets/blog/nota-simple/woman-reviewing-documents.jpg",
+  "closing": "assets/blog/nota-simple/couple-signing-with-adviser.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/nota-simple",
+ "cards": ["23844656", "26239846", "24758318"],
+ "sources": [
+  ["Registradores de España – request a Nota Simple online", "https://sede.registradores.org/"]
+ ],
+ "en": {
+  "slug": "nota-simple",
+  "title": "Nota Simple in Spain – What It Shows and How to Read It",
+  "description": "What the Nota Simple is, how to get one online, how to read each section, which entries need care, what it does not show, and how it differs from the full registry certificate.",
+  "crumb": "Nota Simple",
+  "eyebrow": "Buying in Spain · Legal",
+  "h1": "Nota Simple in Spain – What It Shows and How to Read It",
+  "hero_alt": "Man in a suit checking a document with a magnifying glass",
+  "short": "The Nota Simple is a short extract from the Spanish Land Registry. It shows who owns a property, its registered description and any mortgages or other charges. Anyone can order one online for about €9, usually within a day. It is the first check before you pay a deposit, but it does not show unpaid IBI or community fees, illegal extensions or who is living in the property, so your lawyer checks those separately.",
+  "intro": ["Before you sign anything in Spain, you or your lawyer will look at the Nota Simple. It looks like a dry official extract, but a few lines in it tell you whether a purchase is straightforward or needs more work. Here is how to read it."],
+  "sections": [
+   {"id": "what", "h2": "What is a Nota Simple?", "alt": "House keys and a pen lying on property documents",
+    "html": "<p>The <em>Nota Simple Informativa</em> is an information extract from the Land Registry (<em>Registro de la Propiedad</em>). It shows the current legal state of a property: who owns it, how it is described and what charges are registered against it.</p><p>It is used at every step of a purchase: before the reservation and deposit contract (<em>contrato de arras</em>), by the bank when it approves a mortgage, and by the notary before the deed of sale is signed. The registry is public, so anyone with a legitimate interest, such as a buyer, can request one.</p>"},
+   {"id": "get", "h2": "How to get one", "alt": "",
+    "html": "<ul><li><strong>Online</strong> on the Registradores de España website. You can search by address, registry number (<em>finca registral</em>) or cadastral reference, and pay about €9 by card. Most arrive by email within a working day.</li><li><strong>In person</strong> at the Land Registry office for the area.</li><li><strong>Through your lawyer or agent</strong>, which is how most buyers get it.</li></ul><p>Use a recent one. Banks and notaries want a Nota Simple no more than a few weeks old, and the notary checks the registry again electronically just before signing.</p>"},
+   {"id": "read", "h2": "How to read it", "alt": "Adviser with a small model house going through property papers",
+    "html": "<p>Four parts matter most:</p><ul><li><strong>Descripción de la finca.</strong> The property's registered description: address, type, floor area, plot size and the share in common areas. Compare it with what you are actually buying.</li><li><strong>Titularidad.</strong> Who owns it, in what shares and how they acquired it (purchase, inheritance, gift). The person selling must be the registered owner, or have authority from all owners.</li><li><strong>Cargas.</strong> The charges: mortgages, seizures (<em>embargos</em>), easements, rights of others and court notes. Ideally it says <strong><em>libre de cargas</em></strong>, free of charges.</li><li><strong>Documentos pendientes.</strong> Documents submitted to the registry but not yet recorded. These can change the picture, so ask what they are.</li></ul>"},
+   {"id": "caution", "h2": "Entries that need care", "alt": "Woman at a desk reading documents with a laptop",
+    "html": "<ul><li><strong>A mortgage.</strong> Common and not a problem in itself. The seller must pay it off at or before the signing, and the cancellation must be registered. Your lawyer arranges this with the seller's bank at the notary.</li><li><strong>Seizures (embargos).</strong> A creditor has a claim on the property. It must be lifted before you buy.</li><li><strong>Several owners or an inheritance.</strong> Every owner must agree to sell, and any inheritance must be fully settled and registered first.</li><li><strong>Pending documents.</strong> Something is about to change, for example a new owner or a new charge.</li><li><strong>Size differences.</strong> If the registered area is much smaller than the real house, something may have been built without being registered or licensed.</li></ul>"},
+   {"id": "fine", "h2": "What looks worrying but often is not", "alt": "",
+    "html": "<p>Old mortgages often stay on the registry after they have been repaid, simply because nobody registered the cancellation. Your lawyer asks the bank for a certificate and has it removed. Small differences between the registry and the cadastre are also common and often come from old measuring methods rather than illegal works.</p>"},
+   {"id": "missing", "h2": "What the Nota Simple does not show", "alt": "",
+    "html": "<ul><li>Whether <strong>IBI</strong> and <strong>community fees</strong> are paid. Ask for the latest IBI receipt and a certificate from the community administrator; unpaid amounts can pass to the new owner.</li><li>Whether every part of the house, such as a pool, terrace or extension, has a <strong>building licence</strong>. Compare the property with the cadastre and check with the town hall.</li><li>Whether someone is <strong>living in it</strong>, such as a tenant or squatter. See it in person.</li><li>The <strong>physical condition</strong> of the property. Consider a survey for an older home.</li></ul><p>For a high-value purchase, your lawyer may also order the <strong>Certificado Registral</strong>, the full certificate with the property's registry history, which has full legal value.</p>"}
+  ],
+  "faq": [
+   ["How much does a Nota Simple cost?", "About €9 online through the Registradores de España website. Most arrive by email within one working day."],
+   ["Can I get a Nota Simple for any property?", "Yes, if you have a legitimate interest, such as planning to buy it. The registry is public."],
+   ["What does libre de cargas mean?", "Free of charges: no mortgage, seizure or other charge is registered against the property."],
+   ["What is the difference between a Nota Simple and a Certificado Registral?", "The Nota Simple is an information extract showing the current state. The Certificado Registral is a certified document with the full history, used in court or for high-value purchases."]
+  ],
+  "closing": {"h2": "The first check, not the last", "alt": "Young couple signing papers with an adviser",
+   "html": "<p>A clean Nota Simple is a good start, but a safe purchase also checks taxes, community fees, licences and the property itself. New builds bought from a developer are usually simpler, as there is no history of owners or old charges. <a href=\"{up}index.html#contact\">Ask us</a> for the Nota Simple of any property you like, and we will go through it with you and your lawyer.</p>"}
+ },
+ "de": {
+  "slug": "nota-simple",
+  "title": "Nota Simple in Spanien – Grundbuchauszug richtig lesen",
+  "description": "Was die Nota Simple ist, wie Sie sie online bestellen, wie Sie jeden Abschnitt lesen, welche Einträge Vorsicht verlangen, was sie nicht zeigt und wie sie sich vom vollständigen Grundbuchzeugnis unterscheidet.",
+  "crumb": "Nota Simple",
+  "eyebrow": "Kaufen in Spanien · Recht",
+  "h1": "Nota Simple in Spanien – was sie zeigt und wie man sie liest",
+  "hero_alt": "Mann im Anzug prüft ein Dokument mit einer Lupe",
+  "short": "Die Nota Simple ist ein kurzer Auszug aus dem spanischen Grundbuch. Sie zeigt, wem eine Immobilie gehört, wie sie eingetragen ist und welche Hypotheken oder anderen Lasten bestehen. Jeder kann sie online für etwa 9 € bestellen, meist innerhalb eines Tages. Sie ist die erste Prüfung vor der Anzahlung, zeigt aber keine offene Grundsteuer oder Gemeinschaftskosten, keine nicht genehmigten Anbauten und nicht, wer dort wohnt. Das prüft Ihr Anwalt separat.",
+  "intro": ["Bevor Sie in Spanien etwas unterschreiben, schauen Sie oder Ihr Anwalt in die Nota Simple. Sie wirkt wie ein trockener Amtsauszug, doch ein paar Zeilen darin zeigen, ob ein Kauf unkompliziert ist oder mehr Arbeit braucht. So lesen Sie sie."],
+  "sections": [
+   {"id": "what", "h2": "Was ist eine Nota Simple?", "alt": "Hausschlüssel und Stift auf Immobilienunterlagen",
+    "html": "<p>Die <em>Nota Simple Informativa</em> ist ein informativer Auszug aus dem Grundbuch (<em>Registro de la Propiedad</em>), vergleichbar mit einem einfachen Grundbuchauszug in Deutschland. Sie zeigt den aktuellen rechtlichen Stand: wer Eigentümer ist, wie die Immobilie beschrieben ist und welche Lasten eingetragen sind.</p><p>Sie wird bei jedem Schritt gebraucht: vor dem Reservierungs- und Anzahlungsvertrag (<em>contrato de arras</em>), von der Bank bei einer Hypothek und vom Notar vor der Beurkundung. Wie in Deutschland gilt: Wer ein berechtigtes Interesse hat, etwa als Kaufinteressent, kann einen Auszug anfordern.</p>"},
+   {"id": "get", "h2": "So bekommen Sie sie", "alt": "",
+    "html": "<ul><li><strong>Online</strong> auf der Website der Registradores de España. Sie suchen nach Adresse, Grundbuchnummer (<em>finca registral</em>) oder Katasterreferenz und zahlen etwa 9 € per Karte. Die meisten kommen innerhalb eines Werktags per E-Mail.</li><li><strong>Persönlich</strong> beim zuständigen Grundbuchamt.</li><li><strong>Über Ihren Anwalt oder Makler</strong>, so machen es die meisten Käufer.</li></ul><p>Verwenden Sie eine aktuelle Nota Simple. Banken und Notare wollen eine, die höchstens wenige Wochen alt ist, und der Notar prüft das Grundbuch kurz vor der Beurkundung noch einmal elektronisch.</p>"},
+   {"id": "read", "h2": "So lesen Sie sie", "alt": "Berater mit einem kleinen Hausmodell und Unterlagen",
+    "html": "<p>Vier Teile sind am wichtigsten:</p><ul><li><strong>Descripción de la finca.</strong> Die eingetragene Beschreibung: Adresse, Art, Wohnfläche, Grundstücksgröße und Anteil am Gemeinschaftseigentum. Vergleichen Sie sie mit dem, was Sie tatsächlich kaufen.</li><li><strong>Titularidad.</strong> Wer Eigentümer ist, zu welchen Anteilen und wie die Immobilie erworben wurde (Kauf, Erbe, Schenkung). Der Verkäufer muss eingetragener Eigentümer sein oder von allen Eigentümern bevollmächtigt.</li><li><strong>Cargas.</strong> Die Lasten: Hypotheken, Pfändungen (<em>embargos</em>), Dienstbarkeiten, Rechte Dritter und gerichtliche Vermerke. Idealerweise steht dort <strong><em>libre de cargas</em></strong>, lastenfrei.</li><li><strong>Documentos pendientes.</strong> Eingereichte, aber noch nicht eingetragene Dokumente. Sie können das Bild ändern, fragen Sie also nach.</li></ul>"},
+   {"id": "caution", "h2": "Einträge, die Vorsicht verlangen", "alt": "Frau am Schreibtisch liest Unterlagen am Laptop",
+    "html": "<ul><li><strong>Eine Hypothek.</strong> Häufig und an sich kein Problem. Der Verkäufer muss sie bei oder vor der Beurkundung ablösen, und die Löschung muss eingetragen werden. Ihr Anwalt regelt das mit der Bank des Verkäufers beim Notar.</li><li><strong>Pfändungen (embargos).</strong> Ein Gläubiger hat Ansprüche auf die Immobilie. Sie müssen vor dem Kauf gelöscht werden.</li><li><strong>Mehrere Eigentümer oder ein Erbfall.</strong> Alle Eigentümer müssen dem Verkauf zustimmen, und ein Erbe muss vollständig abgewickelt und eingetragen sein.</li><li><strong>Ausstehende Dokumente.</strong> Es steht eine Änderung bevor, etwa ein neuer Eigentümer oder eine neue Last.</li><li><strong>Abweichende Flächen.</strong> Ist die eingetragene Fläche deutlich kleiner als das Haus, wurde vielleicht ohne Eintragung oder Genehmigung angebaut.</li></ul>"},
+   {"id": "fine", "h2": "Was beunruhigend aussieht, es aber oft nicht ist", "alt": "",
+    "html": "<p>Alte Hypotheken bleiben oft im Grundbuch stehen, obwohl sie längst abbezahlt sind, weil niemand die Löschung eintragen ließ. Ihr Anwalt besorgt eine Bescheinigung der Bank und lässt sie löschen. Kleine Unterschiede zwischen Grundbuch und Kataster sind ebenfalls häufig und stammen oft von alten Messmethoden, nicht von illegalen Bauten.</p>"},
+   {"id": "missing", "h2": "Was die Nota Simple nicht zeigt", "alt": "",
+    "html": "<ul><li>Ob <strong>IBI</strong> (Grundsteuer) und <strong>Gemeinschaftskosten</strong> bezahlt sind. Lassen Sie sich die letzte IBI-Quittung und eine Bescheinigung des Verwalters geben; offene Beträge können auf den neuen Eigentümer übergehen.</li><li>Ob jeder Teil des Hauses, etwa Pool, Terrasse oder Anbau, eine <strong>Baugenehmigung</strong> hat. Vergleichen Sie mit dem Kataster und fragen Sie im Rathaus nach.</li><li>Ob jemand <strong>darin wohnt</strong>, etwa ein Mieter oder Hausbesetzer. Sehen Sie sich die Immobilie persönlich an.</li><li>Den <strong>baulichen Zustand</strong>. Bei älteren Häusern lohnt sich ein Gutachten.</li></ul><p>Bei einem teuren Kauf bestellt Ihr Anwalt eventuell auch das <strong>Certificado Registral</strong>, das vollständige Grundbuchzeugnis mit der ganzen Historie und voller Beweiskraft.</p>"}
+  ],
+  "faq": [
+   ["Was kostet eine Nota Simple?", "Etwa 9 € online über die Website der Registradores de España. Die meisten kommen innerhalb eines Werktags per E-Mail."],
+   ["Kann ich für jede Immobilie eine Nota Simple bekommen?", "Ja, wenn Sie ein berechtigtes Interesse haben, etwa einen geplanten Kauf. Das spanische Grundbuch ist öffentlich."],
+   ["Was bedeutet libre de cargas?", "Lastenfrei: Es ist keine Hypothek, Pfändung oder andere Last auf der Immobilie eingetragen."],
+   ["Was ist der Unterschied zum Certificado Registral?", "Die Nota Simple ist ein informativer Auszug über den aktuellen Stand. Das Certificado Registral ist ein beglaubigtes Zeugnis mit der vollständigen Historie, das vor Gericht oder bei teuren Käufen verwendet wird."]
+  ],
+  "closing": {"h2": "Die erste Prüfung, nicht die letzte", "alt": "Junges Paar unterschreibt Unterlagen mit einer Beraterin",
+   "html": "<p>Eine saubere Nota Simple ist ein guter Anfang, doch zu einem sicheren Kauf gehört auch die Prüfung von Steuern, Gemeinschaftskosten, Genehmigungen und der Immobilie selbst. Neubauten vom Bauträger sind meist einfacher, da es keine Vorbesitzer und alten Lasten gibt. <a href=\"{up}index.html#contact\">Fragen Sie uns</a> nach der Nota Simple jeder Immobilie, die Ihnen gefällt, und wir gehen sie mit Ihnen und Ihrem Anwalt durch.</p>"}
+ },
+ "es": {
+  "slug": "nota-simple",
+  "title": "Nota simple – Qué muestra y cómo leerla antes de comprar",
+  "description": "Qué es la nota simple, cómo pedirla online, cómo leer cada apartado, qué asientos requieren cuidado, qué no muestra y en qué se diferencia de la certificación registral.",
+  "crumb": "Nota simple",
+  "eyebrow": "Comprar en España · Legal",
+  "h1": "Nota simple – Qué muestra y cómo leerla",
+  "hero_alt": "Hombre de traje revisando un documento con una lupa",
+  "short": "La nota simple es un extracto del Registro de la Propiedad. Muestra quién es el titular de un inmueble, su descripción registral y las hipotecas u otras cargas. Cualquiera con interés legítimo puede pedirla online por unos 9 €, normalmente en un día. Es la primera comprobación antes de dar una señal, pero no muestra el IBI o la comunidad pendientes, las obras sin licencia ni quién vive en la vivienda, así que eso se revisa aparte.",
+  "intro": ["Antes de firmar nada, usted o su abogado mirarán la nota simple. Parece un extracto oficial sin más, pero unas pocas líneas dicen si una compra es sencilla o requiere más trabajo. Así se lee."],
+  "sections": [
+   {"id": "what", "h2": "¿Qué es la nota simple?", "alt": "Llaves de casa y un bolígrafo sobre documentos de la propiedad",
+    "html": "<p>La <em>nota simple informativa</em> es un extracto del Registro de la Propiedad que muestra la situación jurídica actual de un inmueble: quién es el titular, cómo se describe y qué cargas tiene inscritas.</p><p>Se usa en cada paso de la compra: antes del contrato de arras, por el banco al conceder la hipoteca y por el notario antes de firmar la escritura. El Registro es público, así que cualquiera con interés legítimo, como un comprador, puede pedirla.</p>"},
+   {"id": "get", "h2": "Cómo pedirla", "alt": "",
+    "html": "<ul><li><strong>Online</strong> en la sede de Registradores de España, buscando por dirección, número de finca registral o referencia catastral, y pagando unos 9 € con tarjeta. La mayoría llega por email en un día hábil.</li><li><strong>En persona</strong> en el Registro de la Propiedad que corresponda.</li><li><strong>A través del abogado o la agencia</strong>, que es lo más habitual.</li></ul><p>Use una nota reciente. Bancos y notarios piden una de pocas semanas, y el notario consulta de nuevo el Registro por vía telemática justo antes de la firma.</p>"},
+   {"id": "read", "h2": "Cómo leerla", "alt": "Asesor con una maqueta de casa revisando papeles",
+    "html": "<p>Hay cuatro apartados clave:</p><ul><li><strong>Descripción de la finca.</strong> Dirección, tipo, superficie, parcela y cuota en elementos comunes. Compárela con lo que realmente compra.</li><li><strong>Titularidad.</strong> Quién es el propietario, en qué porcentaje y por qué título (compraventa, herencia, donación). Quien vende debe ser el titular registral o tener poder de todos los titulares.</li><li><strong>Cargas.</strong> Hipotecas, embargos, servidumbres, derechos de terceros y anotaciones judiciales. Lo ideal es que diga <strong><em>libre de cargas</em></strong>.</li><li><strong>Documentos pendientes de despacho.</strong> Documentos presentados y aún no inscritos, que pueden cambiar la situación. Pregunte qué son.</li></ul>"},
+   {"id": "caution", "h2": "Asientos que requieren cuidado", "alt": "Mujer en un escritorio leyendo documentos con un portátil",
+    "html": "<ul><li><strong>Una hipoteca.</strong> Es habitual y no es un problema en sí. El vendedor debe cancelarla antes o en el momento de la firma, y la cancelación debe inscribirse. El abogado lo coordina con el banco del vendedor en la notaría.</li><li><strong>Embargos.</strong> Un acreedor tiene un derecho sobre la finca. Debe levantarse antes de comprar.</li><li><strong>Varios titulares o una herencia.</strong> Todos deben estar de acuerdo en vender, y la herencia debe estar aceptada e inscrita.</li><li><strong>Documentos pendientes.</strong> Algo va a cambiar, como un nuevo titular o una nueva carga.</li><li><strong>Diferencias de superficie.</strong> Si la superficie inscrita es mucho menor que la real, puede haber obras sin inscribir o sin licencia.</li></ul>"},
+   {"id": "fine", "h2": "Lo que parece grave y a menudo no lo es", "alt": "",
+    "html": "<p>Muchas hipotecas antiguas siguen inscritas aunque se pagaron hace años, porque nadie inscribió la cancelación. El abogado pide al banco el certificado de deuda cero y la cancela. Las pequeñas diferencias entre Registro y Catastro también son frecuentes y suelen venir de mediciones antiguas, no de obras ilegales.</p>"},
+   {"id": "missing", "h2": "Lo que la nota simple no muestra", "alt": "",
+    "html": "<ul><li>Si el <strong>IBI</strong> y la <strong>comunidad</strong> están al día. Pida el último recibo del IBI y el certificado del administrador; las deudas pueden pasar al nuevo propietario.</li><li>Si todo, como la piscina, la terraza o una ampliación, tiene <strong>licencia</strong>. Compare con el Catastro y consulte en el ayuntamiento.</li><li>Si alguien <strong>vive en la vivienda</strong>, sea inquilino u okupa. Visítela.</li><li>El <strong>estado físico</strong> del inmueble. En viviendas antiguas conviene un informe técnico.</li></ul><p>En compras de alto valor, el abogado puede pedir también la <strong>certificación registral</strong>, con todo el historial y plena validez jurídica.</p>"}
+  ],
+  "faq": [
+   ["¿Cuánto cuesta una nota simple?", "Unos 9 € online en la sede de Registradores de España. Suele llegar por email en un día hábil."],
+   ["¿Puedo pedir la nota simple de cualquier vivienda?", "Sí, si tiene un interés legítimo, como querer comprarla. El Registro es público."],
+   ["¿Qué significa libre de cargas?", "Que no hay hipoteca, embargo ni otra carga inscrita sobre la finca."],
+   ["¿En qué se diferencia de la certificación registral?", "La nota simple es informativa y refleja la situación actual. La certificación registral es un documento con fe pública y todo el historial, que se usa en juicios o compras de alto valor."]
+  ],
+  "closing": {"h2": "La primera comprobación, no la última", "alt": "Pareja joven firmando papeles con una asesora",
+   "html": "<p>Una nota simple limpia es un buen comienzo, pero una compra segura revisa también impuestos, comunidad, licencias y el propio inmueble. La obra nueva comprada a promotor suele ser más sencilla, al no tener propietarios anteriores ni cargas antiguas. <a href=\"{up}index.html#contact\">Pídanos</a> la nota simple de la vivienda que le interese y la revisaremos con usted y su abogado.</p>"}
+ }
+}
