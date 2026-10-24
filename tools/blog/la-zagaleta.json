@@ -1,0 +1,108 @@
+{
+ "author": "lucyna",
+ "published": "2025-08-01",
+ "modified": "2026-10-24",
+ "hero": "assets/blog/la-zagaleta/stone-villa-with-mountain-view.jpg",
+ "images": {
+  "what": "assets/blog/la-zagaleta/villa-entrance-gates.jpg",
+  "villas": "assets/blog/la-zagaleta/modern-villa-infinity-pool.jpg",
+  "security": "assets/blog/la-zagaleta/villa-porch-at-dusk.jpg",
+  "life": "assets/blog/la-zagaleta/pool-and-cypress-garden.jpg",
+  "closing": "assets/blog/la-zagaleta/villa-pool-at-sunset.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/la-zagaleta-najbardziej-ekskluzywne-miejsce-w-europie",
+ "cards": ["20927700", "26232807", "26627092"],
+ "en": {
+  "slug": "la-zagaleta-the-most-exclusive-place-in-europe",
+  "title": "La Zagaleta – Europe's Most Exclusive Gated Estate | Benahavís",
+  "description": "What it is like to live in La Zagaleta, the private estate in the hills of Benahavís above Marbella: villas, security, golf, prices and distances.",
+  "crumb": "La Zagaleta",
+  "eyebrow": "Costa del Sol · Areas",
+  "h1": "La Zagaleta – The Most Exclusive Place in Europe",
+  "hero_alt": "Stone villa with an infinity pool and views over wooded hills",
+  "short": "La Zagaleta is a private, gated estate of about 900 hectares in the hills of Benahavís, a short drive from Marbella and Puerto Banús. It has only detached villas on large plots, two private 18-hole golf courses, an equestrian centre and security around the clock. Homes there usually cost several million euros.",
+  "intro": ["Marbella is famous for luxury, but one address in its hills stands above the rest. La Zagaleta is often called the most exclusive residential estate in Europe. Here is what it offers, how life there works and what to know if you are thinking of buying."],
+  "sections": [
+   {"id": "what", "h2": "What is La Zagaleta?", "alt": "Wrought-iron gates opening onto the drive of a Mediterranean villa",
+    "html": "<p>La Zagaleta is a private estate in the municipality of Benahavís, on the Costa del Sol. It covers about 900 hectares of hills, woodland and valleys between the coast and the Serranía de Ronda, with views to the Mediterranean and, on clear days, to Gibraltar and Africa.</p><p>It was developed from the 1990s on a former hunting estate. From the start the idea was simple: very few homes, very large plots and plenty of nature between them. Even so, Marbella's centre and the marina of Puerto Banús are only about 20 minutes away by car.</p>"},
+   {"id": "villas", "h2": "The villas", "alt": "Modern white villa with a long infinity pool and sun loungers",
+    "html": "<p>La Zagaleta has only detached villas. There are no apartments or townhouses. Plots usually range from about 3,000 m² to more than 10,000 m², so neighbours are far apart and the views stay open.</p><p>Every villa is an individual design, many by well-known architects, from classic Andalusian estates to minimalist glass houses. Large homes often have a spa, cinema room, gym, wine cellar, staff quarters and garages for car collections. Prices usually start at several million euros and the largest estates cost far more.</p>"},
+   {"id": "security", "h2": "Security and privacy", "alt": "Villa entrance with columns and lanterns lit at dusk",
+    "html": "<p>Privacy is the main reason many owners choose La Zagaleta. The estate has:</p><ul><li>a fenced perimeter with guarded entrance gates,</li><li>a security team on duty 24 hours a day,</li><li>camera surveillance and patrols,</li><li>its own private roads, closed to the public.</li></ul><p>Visitors can only enter if a resident has registered them. Together with the low density of homes, this gives a level of calm and discretion that is hard to find anywhere else on the coast.</p>"},
+   {"id": "life", "h2": "Life inside the estate", "alt": "Long pool in a garden lined with cypress trees",
+    "html": "<p>Residents and their guests have access to:</p><ul><li><strong>two private 18-hole golf courses</strong>, both for members only,</li><li>a <strong>clubhouse</strong> with a restaurant,</li><li>an <strong>equestrian centre</strong> and riding trails,</li><li>tennis and padel courts,</li><li>walking and mountain-bike routes through the hills,</li><li>a helipad and concierge services, including care of the home while owners are away.</li></ul><p>Outside the gates, the coast is close: Puerto Banús and Marbella in about 20 minutes, Ronda in about 45 minutes and Málaga airport in under an hour.</p>"},
+   {"id": "invest", "h2": "Is it a good investment?", "alt": "",
+    "html": "<p>Supply is very limited, because the number of plots is fixed and few villas come up for sale each year. At the same time, demand for the top end of the Marbella market has stayed strong. That combination has helped values hold up well over time.</p><p>Buying here is still a long-term decision. Running costs are high, from estate fees to staff and maintenance, and the pool of buyers for a home of this size is small. Get a clear picture of all costs before you commit.</p>"}
+  ],
+  "faq": [
+   ["Where is La Zagaleta?", "In the hills of Benahavís, on the Costa del Sol in Málaga province, about 20 minutes by car from Marbella and Puerto Banús."],
+   ["How much does a villa in La Zagaleta cost?", "Villas usually start at several million euros. The largest estates with sea views cost considerably more."],
+   ["Can anyone visit La Zagaleta?", "No. It is a private estate with guarded gates. Visitors need to be registered by a resident, and viewings of villas for sale are arranged through an agent."],
+   ["What facilities does La Zagaleta have?", "Two private 18-hole golf courses, a clubhouse, an equestrian centre, tennis and padel courts, walking trails, a helipad and 24-hour security."]
+  ],
+  "closing": {"h2": "Buying in La Zagaleta", "alt": "Single-storey villa with a lit pool at sunset",
+   "html": "<p>Villas in La Zagaleta are often sold quietly, without public listings. If you would like to see what is available, or compare it with other top estates in Benahavís and Marbella, <a href=\"{up}index.html#contact\">get in touch</a>. We will arrange discreet viewings and guide you through every step of the purchase.</p>"}
+ },
+ "de": {
+  "slug": "la-zagaleta-der-exklusivste-ort-europas",
+  "title": "La Zagaleta – Europas exklusivste Wohnanlage | Benahavís",
+  "description": "Wie man in La Zagaleta lebt, der privaten Wohnanlage in den Hügeln von Benahavís oberhalb von Marbella: Villen, Sicherheit, Golf, Preise und Entfernungen.",
+  "crumb": "La Zagaleta",
+  "eyebrow": "Costa del Sol · Orte",
+  "h1": "La Zagaleta – der exklusivste Ort Europas",
+  "hero_alt": "Steinvilla mit Infinity-Pool und Blick über bewaldete Hügel",
+  "short": "La Zagaleta ist eine private, bewachte Wohnanlage von rund 900 Hektar in den Hügeln von Benahavís, nur eine kurze Fahrt von Marbella und Puerto Banús entfernt. Es gibt dort ausschließlich freistehende Villen auf großen Grundstücken, zwei private 18-Loch-Golfplätze, ein Reitzentrum und Sicherheitsdienst rund um die Uhr. Häuser kosten dort meist mehrere Millionen Euro.",
+  "intro": ["Marbella steht für Luxus, doch eine Adresse in den Hügeln überragt alle anderen. La Zagaleta gilt oft als die exklusivste Wohnanlage Europas. Hier erfahren Sie, was sie bietet, wie das Leben dort aussieht und was Sie vor einem Kauf wissen sollten."],
+  "sections": [
+   {"id": "what", "h2": "Was ist La Zagaleta?", "alt": "Schmiedeeisernes Tor öffnet sich zur Auffahrt einer mediterranen Villa",
+    "html": "<p>La Zagaleta ist eine private Wohnanlage in der Gemeinde Benahavís an der Costa del Sol. Sie umfasst rund 900 Hektar Hügel, Wald und Täler zwischen der Küste und der Serranía de Ronda, mit Blick auf das Mittelmeer und an klaren Tagen bis nach Gibraltar und Afrika.</p><p>Sie entstand ab den 1990er-Jahren auf einem ehemaligen Jagdgut. Die Idee war von Anfang an einfach: sehr wenige Häuser, sehr große Grundstücke und viel Natur dazwischen. Trotzdem sind das Zentrum von Marbella und der Jachthafen Puerto Banús nur etwa 20 Autominuten entfernt.</p>"},
+   {"id": "villas", "h2": "Die Villen", "alt": "Moderne weiße Villa mit langem Infinity-Pool und Sonnenliegen",
+    "html": "<p>In La Zagaleta gibt es ausschließlich freistehende Villen, keine Wohnungen oder Reihenhäuser. Die Grundstücke sind meist zwischen etwa 3.000 m² und mehr als 10.000 m² groß, die Nachbarn sind also weit entfernt und die Aussicht bleibt frei.</p><p>Jede Villa ist ein Einzelentwurf, viele von bekannten Architekten, vom klassischen andalusischen Landsitz bis zum minimalistischen Glashaus. Große Häuser haben oft Spa, Kinoraum, Fitnessraum, Weinkeller, Personalwohnung und Garagen für Autosammlungen. Die Preise beginnen meist bei mehreren Millionen Euro, die größten Anwesen kosten weit mehr.</p>"},
+   {"id": "security", "h2": "Sicherheit und Privatsphäre", "alt": "Villeneingang mit Säulen und beleuchteten Laternen in der Dämmerung",
+    "html": "<p>Privatsphäre ist für viele Eigentümer der Hauptgrund für La Zagaleta. Die Anlage hat:</p><ul><li>einen eingezäunten Außenbereich mit bewachten Toren,</li><li>einen Sicherheitsdienst rund um die Uhr,</li><li>Videoüberwachung und Streifen,</li><li>eigene private Straßen, die nicht öffentlich zugänglich sind.</li></ul><p>Besucher kommen nur herein, wenn ein Bewohner sie angemeldet hat. Zusammen mit der geringen Bebauungsdichte entsteht so eine Ruhe und Diskretion, die man sonst an der Küste kaum findet.</p>"},
+   {"id": "life", "h2": "Das Leben in der Anlage", "alt": "Langer Pool in einem von Zypressen gesäumten Garten",
+    "html": "<p>Bewohner und ihre Gäste nutzen:</p><ul><li><strong>zwei private 18-Loch-Golfplätze</strong>, beide nur für Mitglieder,</li><li>ein <strong>Clubhaus</strong> mit Restaurant,</li><li>ein <strong>Reitzentrum</strong> und Reitwege,</li><li>Tennis- und Padelplätze,</li><li>Wander- und Mountainbike-Wege durch die Hügel,</li><li>einen Hubschrauberlandeplatz und Concierge-Dienste, auch zur Betreuung des Hauses während der Abwesenheit.</li></ul><p>Außerhalb der Tore ist die Küste nah: Puerto Banús und Marbella in etwa 20 Minuten, Ronda in etwa 45 Minuten und der Flughafen Málaga in unter einer Stunde.</p>"},
+   {"id": "invest", "h2": "Eine gute Investition?", "alt": "",
+    "html": "<p>Das Angebot ist sehr knapp, denn die Zahl der Grundstücke ist festgelegt und jedes Jahr kommen nur wenige Villen auf den Markt. Gleichzeitig ist die Nachfrage im obersten Segment von Marbella stark geblieben. Diese Kombination hat die Werte über die Jahre gut gestützt.</p><p>Ein Kauf hier bleibt eine langfristige Entscheidung. Die laufenden Kosten sind hoch, von den Gemeinschaftsgebühren bis zu Personal und Instandhaltung, und der Kreis der Käufer für ein Haus dieser Größe ist klein. Verschaffen Sie sich vor der Entscheidung einen klaren Überblick über alle Kosten.</p>"}
+  ],
+  "faq": [
+   ["Wo liegt La Zagaleta?", "In den Hügeln von Benahavís an der Costa del Sol in der Provinz Málaga, etwa 20 Autominuten von Marbella und Puerto Banús."],
+   ["Was kostet eine Villa in La Zagaleta?", "Villen beginnen meist bei mehreren Millionen Euro. Die größten Anwesen mit Meerblick kosten deutlich mehr."],
+   ["Kann man La Zagaleta besuchen?", "Nein. Es ist eine private Anlage mit bewachten Toren. Besucher müssen von einem Bewohner angemeldet werden, Besichtigungen von Villen zum Verkauf organisiert ein Makler."],
+   ["Welche Einrichtungen hat La Zagaleta?", "Zwei private 18-Loch-Golfplätze, ein Clubhaus, ein Reitzentrum, Tennis- und Padelplätze, Wanderwege, einen Hubschrauberlandeplatz und einen Sicherheitsdienst rund um die Uhr."]
+  ],
+  "closing": {"h2": "Kaufen in La Zagaleta", "alt": "Einstöckige Villa mit beleuchtetem Pool bei Sonnenuntergang",
+   "html": "<p>Villen in La Zagaleta werden oft diskret verkauft, ohne öffentliches Inserat. Wenn Sie sehen möchten, was verfügbar ist, oder es mit anderen Top-Anlagen in Benahavís und Marbella vergleichen wollen, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir organisieren diskrete Besichtigungen und begleiten Sie bei jedem Schritt des Kaufs.</p>"}
+ },
+ "es": {
+  "slug": "la-zagaleta-el-lugar-mas-exclusivo-de-europa",
+  "title": "La Zagaleta – La urbanización más exclusiva de Europa | Benahavís",
+  "description": "Cómo es vivir en La Zagaleta, la urbanización privada en las colinas de Benahavís sobre Marbella: villas, seguridad, golf, precios y distancias.",
+  "crumb": "La Zagaleta",
+  "eyebrow": "Costa del Sol · Zonas",
+  "h1": "La Zagaleta – El lugar más exclusivo de Europa",
+  "hero_alt": "Villa de piedra con piscina desbordante y vistas a colinas boscosas",
+  "short": "La Zagaleta es una urbanización privada y vigilada de unas 900 hectáreas en las colinas de Benahavís, a pocos minutos de Marbella y Puerto Banús. Solo tiene villas independientes en grandes parcelas, dos campos de golf privados de 18 hoyos, un centro ecuestre y seguridad las 24 horas. Las viviendas cuestan normalmente varios millones de euros.",
+  "intro": ["Marbella es sinónimo de lujo, pero una dirección en sus colinas destaca sobre todas. A La Zagaleta se la llama a menudo la urbanización más exclusiva de Europa. Aquí verá qué ofrece, cómo es la vida allí y qué conviene saber si piensa comprar."],
+  "sections": [
+   {"id": "what", "h2": "¿Qué es La Zagaleta?", "alt": "Verja de hierro forjado que se abre al camino de una villa mediterránea",
+    "html": "<p>La Zagaleta es una urbanización privada en el municipio de Benahavís, en la Costa del Sol. Ocupa unas 900 hectáreas de colinas, bosque y valles entre la costa y la Serranía de Ronda, con vistas al Mediterráneo y, en días claros, a Gibraltar y África.</p><p>Se desarrolló a partir de los años noventa sobre una antigua finca de caza. La idea fue clara desde el principio: muy pocas casas, parcelas muy grandes y mucha naturaleza entre ellas. Aun así, el centro de Marbella y el puerto de Puerto Banús están a unos 20 minutos en coche.</p>"},
+   {"id": "villas", "h2": "Las villas", "alt": "Villa blanca moderna con una larga piscina desbordante y tumbonas",
+    "html": "<p>En La Zagaleta solo hay villas independientes, sin pisos ni adosados. Las parcelas suelen ir de unos 3.000 m² a más de 10.000 m², así que los vecinos quedan lejos y las vistas se mantienen abiertas.</p><p>Cada villa es un diseño único, muchas de arquitectos conocidos, desde cortijos andaluces clásicos hasta casas minimalistas de cristal. Las más grandes suelen tener spa, sala de cine, gimnasio, bodega, zona de servicio y garajes para colecciones de coches. Los precios empiezan normalmente en varios millones de euros y las mayores fincas cuestan mucho más.</p>"},
+   {"id": "security", "h2": "Seguridad y privacidad", "alt": "Entrada de una villa con columnas y faroles encendidos al anochecer",
+    "html": "<p>La privacidad es el principal motivo por el que muchos propietarios eligen La Zagaleta. La urbanización cuenta con:</p><ul><li>un perímetro vallado con accesos vigilados,</li><li>un equipo de seguridad las 24 horas,</li><li>videovigilancia y patrullas,</li><li>viales privados, cerrados al público.</li></ul><p>Los visitantes solo pueden entrar si un residente los ha registrado. Junto con la baja densidad de viviendas, esto da una calma y una discreción difíciles de encontrar en el resto de la costa.</p>"},
+   {"id": "life", "h2": "La vida dentro de la urbanización", "alt": "Piscina alargada en un jardín bordeado de cipreses",
+    "html": "<p>Los residentes y sus invitados disponen de:</p><ul><li><strong>dos campos de golf privados de 18 hoyos</strong>, solo para socios,</li><li>una <strong>casa club</strong> con restaurante,</li><li>un <strong>centro ecuestre</strong> y rutas a caballo,</li><li>pistas de tenis y pádel,</li><li>rutas de senderismo y bicicleta de montaña por las colinas,</li><li>helipuerto y servicio de conserjería, incluido el cuidado de la casa en ausencia de los dueños.</li></ul><p>Fuera de la urbanización, la costa queda cerca: Puerto Banús y Marbella a unos 20 minutos, Ronda a unos 45 minutos y el aeropuerto de Málaga a menos de una hora.</p>"},
+   {"id": "invest", "h2": "¿Es una buena inversión?", "alt": "",
+    "html": "<p>La oferta es muy limitada, porque el número de parcelas es fijo y cada año salen a la venta pocas villas. Al mismo tiempo, la demanda en el segmento más alto de Marbella se ha mantenido fuerte. Esa combinación ha ayudado a sostener los valores a lo largo del tiempo.</p><p>Aun así, comprar aquí es una decisión a largo plazo. Los gastos son altos, desde las cuotas de la urbanización hasta el personal y el mantenimiento, y hay pocos compradores para una casa de este tamaño. Tenga claros todos los costes antes de decidir.</p>"}
+  ],
+  "faq": [
+   ["¿Dónde está La Zagaleta?", "En las colinas de Benahavís, en la Costa del Sol (provincia de Málaga), a unos 20 minutos en coche de Marbella y Puerto Banús."],
+   ["¿Cuánto cuesta una villa en La Zagaleta?", "Las villas empiezan normalmente en varios millones de euros. Las fincas más grandes con vistas al mar cuestan bastante más."],
+   ["¿Se puede visitar La Zagaleta?", "No. Es una urbanización privada con accesos vigilados. Los visitantes deben estar registrados por un residente, y las visitas a villas en venta se organizan a través de una agencia."],
+   ["¿Qué instalaciones tiene La Zagaleta?", "Dos campos de golf privados de 18 hoyos, casa club, centro ecuestre, pistas de tenis y pádel, senderos, helipuerto y seguridad las 24 horas."]
+  ],
+  "closing": {"h2": "Comprar en La Zagaleta", "alt": "Villa de una planta con piscina iluminada al atardecer",
+   "html": "<p>Muchas villas de La Zagaleta se venden de forma discreta, sin anuncio público. Si quiere ver qué hay disponible o compararlo con otras urbanizaciones de primer nivel en Benahavís y Marbella, <a href=\"{up}index.html#contact\">escríbanos</a>. Organizamos visitas discretas y le acompañamos en cada paso de la compra.</p>"}
+ }
+}
