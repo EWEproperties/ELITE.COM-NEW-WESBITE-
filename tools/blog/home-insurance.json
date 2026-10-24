@@ -1,0 +1,191 @@
+{
+  "author": "anita",
+  "published": "2025-07-25",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/home-insurance/home-insurance-icon-on-laptop.jpg",
+  "images": {
+    "types": "assets/blog/home-insurance/family-at-home.jpg",
+    "choose": "assets/blog/home-insurance/couple-comparing-policies.jpg",
+    "closing": "assets/blog/home-insurance/reviewing-policy-documents.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/ubezpieczenie-nieruchomoci-w-hiszpanii",
+  "cards": ["26614054", "20927700", "24758318"],
+  "sources": [
+    ["Consorcio de Compensación de Seguros – extraordinary risks", "https://www.consorseguros.es/"],
+    ["BOE – Insurance Contract Act (Ley 50/1980)", "https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501"]
+  ],
+  "en": {
+    "slug": "property-insurance-in-spain",
+    "title": "Home Insurance in Spain – What It Covers, What It Costs, What to Check",
+    "description": "Home insurance in Spain for owners and non-residents: building vs contents cover, what the community policy covers, floods and storms through the Consorcio, rental and squatting cover, prices, and the clauses to check.",
+    "crumb": "Home insurance",
+    "eyebrow": "Owning in Spain · Practical",
+    "h1": "Home Insurance in Spain – A Guide for Owners and Non-Residents",
+    "hero_alt": "Hand touching a glowing home insurance icon above a laptop",
+    "short": "Home insurance (seguro de hogar) is not compulsory in Spain, except that a mortgaged home must have building damage cover. You can buy it from any insurer, not just from your bank. In an apartment the community's policy covers the building, so you mainly insure your contents, your own installations and your liability. Floods, storms and other extraordinary events are paid by the state-backed Consorcio de Compensación de Seguros through a small surcharge in every policy. An apartment policy usually costs a few hundred euros a year at most. Insure the rebuilding value, not the purchase price, and check the rules on empty homes and rentals.",
+    "intro": [
+      "A leak from the flat above, a storm, a break-in or a guest who slips by the pool: insurance is cheap compared with the cost of any of these, and for owners who live abroad it is close to essential.",
+      "Here is how home insurance works in Spain, what it covers and what to look for in the small print."
+    ],
+    "sections": [
+      {
+        "id": "types",
+        "h2": "Types of cover",
+        "alt": "Family playing together in their living room",
+        "html": "<ul><li><strong>Building</strong> (<em>continente</em>): walls, roof, floors, fixed installations such as plumbing, wiring, fitted kitchen and bathrooms, and for villas also fences and the pool.</li><li><strong>Contents</strong> (<em>contenido</em>): furniture, appliances, electronics, clothes and other belongings.</li><li><strong>Home insurance</strong> (<em>seguro de hogar</em>): the usual combined policy for both, with third-party liability included.</li></ul><p>In an <strong>apartment</strong>, the community of owners insures the building and common areas. You need cover for your contents, the parts of your home that are yours (installations, kitchen, flooring) and your liability towards neighbours. For a <strong>villa</strong> or detached house you insure everything yourself.</p><p>Most policies cover fire, water damage, theft and vandalism, broken glass, electrical damage and liability. Common extras are accidental damage (<em>todo riesgo</em>), emergency repairs, legal expenses, loss of rental income, rent default and cover for squatting (<em>okupación</em>).</p>"
+      },
+      {
+        "id": "consorcio",
+        "h2": "Floods, storms and the Consorcio",
+        "alt": "",
+        "html": "<p>Spain has a public fund for extraordinary risks, the <strong>Consorcio de Compensación de Seguros</strong>. Every home policy includes a small surcharge for it, and in return it pays for damage from floods, very strong winds, earthquakes and similar events, even if your insurer's policy excludes them.</p><p>You claim directly with the Consorcio, online or by phone. It pays according to the sums insured in your own policy, so being properly insured matters here too.</p>"
+      },
+      {
+        "id": "cost",
+        "h2": "What affects the price",
+        "alt": "",
+        "html": "<ul><li><strong>Rebuilding value</strong> of the home (not the purchase price, which includes the land),</li><li><strong>value of contents</strong>, including jewellery or art declared separately,</li><li><strong>location</strong>, for example near the sea or in flood-prone areas,</li><li><strong>security</strong>: alarm, safe, gated complex, security grilles,</li><li><strong>use</strong>: main home, holiday home, long-term or holiday rental,</li><li><strong>extras and the excess</strong> you choose.</li></ul><p>As a rough guide, a policy for an apartment often costs between about €150 and €400 a year, and a villa with pool and high-value contents more. Get two or three quotes.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "Clauses to check",
+        "alt": "Couple comparing insurance quotes on a laptop at home",
+        "html": "<ul><li><strong>Underinsurance.</strong> If the sum insured is lower than the real value, the insurer pays only the same proportion of any claim. Many policies waive this up to a margin or offer a \"first loss\" option.</li><li><strong>Empty homes.</strong> Some policies limit theft or water cover if the home stands empty for a long time, or require regular visits.</li><li><strong>Rentals.</strong> Tell the insurer if you rent the home out. Standard policies often exclude holiday rentals, and some regions require liability insurance for tourist lets.</li><li><strong>Mortgages.</strong> The bank needs proof of building cover and will be named as beneficiary, but you can choose the insurer. Bank policies are often more expensive.</li><li><strong>Renewal.</strong> Policies renew automatically each year. To cancel, give written notice at least one month before the renewal date.</li><li><strong>Language and service.</strong> Many insurers offer policies, claims lines and apps in English, and some in German.</li></ul>"
+      },
+      {
+        "id": "claims",
+        "h2": "Making a claim from abroad",
+        "alt": "",
+        "html": "<p>Report damage as soon as possible, usually within seven days. Take photos, stop the damage from getting worse if you can, keep receipts for emergency repairs and report thefts to the police. A local key holder or property manager is useful here: they can let in the assessor and the repairer while you are away. Our guide to <a href=\"{up}looking-after-your-flat-in-spain.html\">looking after your home</a> explains how.</p>"
+      }
+    ],
+    "faq": [
+      ["Is home insurance compulsory in Spain?", "No, except that a mortgaged home must have building damage insurance. In apartments, the community insures the building, but owners should still insure their contents and liability."],
+      ["How much does home insurance cost in Spain?", "For an apartment, often about €150–400 a year. Villas, high-value contents and extras such as holiday rental cover cost more."],
+      ["Does my policy cover floods?", "Flood damage is usually paid by the Consorcio de Compensación de Seguros, funded by a surcharge included in every home policy. You claim directly with the Consorcio."],
+      ["Do I have to take my bank's insurance with a mortgage?", "No. The bank needs building cover with itself as beneficiary, but you can buy it from any insurer."],
+      ["Does home insurance cover holiday rentals?", "Often not by default. Tell the insurer and add rental cover and liability insurance for guests."]
+    ],
+    "closing": {
+      "h2": "Insure from day one",
+      "alt": "Two people reviewing a policy document with a calculator",
+      "html": "<p>Arrange cover so that it starts on the day you sign at the notary. <a href=\"{up}index.html#contact\">Contact us</a> and we can introduce you to independent brokers who work with international owners.</p>"
+    }
+  },
+  "de": {
+    "slug": "versicherung-von-immobilien-in-spanien",
+    "title": "Hausversicherung in Spanien – was sie abdeckt, was sie kostet, worauf achten",
+    "description": "Wohngebäude- und Hausratversicherung in Spanien für Eigentümer und Nichtresidenten: was die Police der Gemeinschaft abdeckt, Überschwemmung und Sturm über das Consorcio, Vermietung und Hausbesetzung, Preise und wichtige Klauseln.",
+    "crumb": "Hausversicherung",
+    "eyebrow": "Eigentum in Spanien · Praktisches",
+    "h1": "Hausversicherung in Spanien – Ratgeber für Eigentümer und Nichtresidenten",
+    "hero_alt": "Hand berührt ein leuchtendes Symbol für Hausversicherung über einem Laptop",
+    "short": "Eine Hausversicherung (seguro de hogar) ist in Spanien keine Pflicht, nur eine finanzierte Immobilie braucht eine Gebäudeversicherung. Sie können sie bei jedem Versicherer abschließen, nicht nur bei Ihrer Bank. In einer Wohnung versichert die Eigentümergemeinschaft das Gebäude, Sie versichern vor allem Hausrat, eigene Installationen und Haftpflicht. Überschwemmungen, Stürme und andere Elementarschäden zahlt das staatliche Consorcio de Compensación de Seguros über einen kleinen Zuschlag in jeder Police. Eine Wohnungspolice kostet meist höchstens einige Hundert Euro im Jahr. Versichern Sie den Wiederaufbauwert, nicht den Kaufpreis, und prüfen Sie die Regeln zu Leerstand und Vermietung.",
+    "intro": [
+      "Ein Wasserschaden aus der Wohnung darüber, ein Sturm, ein Einbruch oder ein Gast, der am Pool ausrutscht: Eine Versicherung kostet wenig im Vergleich zu jedem dieser Fälle, und für Eigentümer, die im Ausland leben, ist sie fast unverzichtbar.",
+      "Hier lesen Sie, wie die Hausversicherung in Spanien funktioniert, was sie abdeckt und worauf Sie im Kleingedruckten achten sollten. Ihre deutsche Hausratversicherung gilt für die spanische Ferienwohnung in der Regel nicht."
+    ],
+    "sections": [
+      {
+        "id": "types",
+        "h2": "Arten der Deckung",
+        "alt": "Familie spielt gemeinsam im Wohnzimmer",
+        "html": "<ul><li><strong>Gebäude</strong> (<em>continente</em>): Wände, Dach, Böden, feste Installationen wie Leitungen, Elektrik, Einbauküche und Bäder, bei Villen auch Zäune und Pool.</li><li><strong>Hausrat</strong> (<em>contenido</em>): Möbel, Geräte, Elektronik, Kleidung und andere Gegenstände.</li><li><strong>Hausversicherung</strong> (<em>seguro de hogar</em>): die übliche Kombination aus beidem, mit Haftpflicht.</li></ul><p>In einer <strong>Wohnung</strong> versichert die Eigentümergemeinschaft Gebäude und Gemeinschaftsflächen. Sie brauchen Deckung für Hausrat, Ihre eigenen Teile der Wohnung (Installationen, Küche, Böden) und Ihre Haftung gegenüber Nachbarn. Bei einer <strong>Villa</strong> versichern Sie alles selbst.</p><p>Die meisten Policen decken Feuer, Leitungswasser, Diebstahl und Vandalismus, Glasbruch, Elektroschäden und Haftpflicht. Übliche Extras sind Allgefahrendeckung (<em>todo riesgo</em>), Notreparaturen, Rechtsschutz, Mietausfall und Schutz bei Hausbesetzung (<em>okupación</em>).</p>"
+      },
+      {
+        "id": "consorcio",
+        "h2": "Überschwemmung, Sturm und das Consorcio",
+        "alt": "",
+        "html": "<p>Spanien hat einen öffentlichen Fonds für außergewöhnliche Risiken, das <strong>Consorcio de Compensación de Seguros</strong>. Jede Hauspolice enthält einen kleinen Zuschlag dafür. Im Gegenzug zahlt es Schäden durch Überschwemmung, sehr starke Stürme, Erdbeben und ähnliche Ereignisse, auch wenn Ihr Versicherer diese ausschließt. Eine gesonderte Elementarschadenversicherung wie in Deutschland ist daher nicht nötig.</p><p>Den Schaden melden Sie direkt beim Consorcio, online oder telefonisch. Es zahlt nach den Versicherungssummen Ihrer eigenen Police, deshalb ist eine ausreichende Versicherung auch hier wichtig.</p>"
+      },
+      {
+        "id": "cost",
+        "h2": "Was den Preis bestimmt",
+        "alt": "",
+        "html": "<ul><li>der <strong>Wiederaufbauwert</strong> (nicht der Kaufpreis, der den Boden einschließt),</li><li>der <strong>Wert des Hausrats</strong>, Schmuck oder Kunst separat angegeben,</li><li>die <strong>Lage</strong>, etwa direkt am Meer oder in hochwassergefährdeten Gebieten,</li><li>die <strong>Sicherheit</strong>: Alarmanlage, Tresor, bewachte Anlage, Gitter,</li><li>die <strong>Nutzung</strong>: Hauptwohnsitz, Ferienwohnung, Langzeit- oder Ferienvermietung,</li><li>gewählte <strong>Extras und Selbstbehalt</strong>.</li></ul><p>Als grobe Orientierung kostet eine Police für eine Wohnung oft etwa 150 bis 400 € im Jahr, eine Villa mit Pool und wertvollem Hausrat mehr. Holen Sie zwei oder drei Angebote ein.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "Klauseln, die Sie prüfen sollten",
+        "alt": "Paar vergleicht Versicherungsangebote am Laptop",
+        "html": "<ul><li><strong>Unterversicherung.</strong> Liegt die Versicherungssumme unter dem tatsächlichen Wert, zahlt der Versicherer nur anteilig. Viele Policen verzichten bis zu einer Grenze darauf oder bieten eine Erstrisikoversicherung.</li><li><strong>Leerstand.</strong> Manche Policen begrenzen Diebstahl- oder Wasserschutz bei langem Leerstand oder verlangen regelmäßige Kontrollen.</li><li><strong>Vermietung.</strong> Melden Sie dem Versicherer eine Vermietung. Standardpolicen schließen Ferienvermietung oft aus, und einige Regionen verlangen für Ferienwohnungen eine Haftpflichtversicherung.</li><li><strong>Hypothek.</strong> Die Bank verlangt eine Gebäudeversicherung zu ihren Gunsten, Sie können den Versicherer aber frei wählen. Bankpolicen sind oft teurer.</li><li><strong>Kündigung.</strong> Policen verlängern sich jährlich automatisch. Kündigen Sie schriftlich mindestens einen Monat vor dem Verlängerungstermin.</li><li><strong>Sprache und Service.</strong> Viele Versicherer bieten Policen, Schadenhotlines und Apps auf Englisch, einige auch auf Deutsch.</li></ul>"
+      },
+      {
+        "id": "claims",
+        "h2": "Schaden melden aus dem Ausland",
+        "alt": "",
+        "html": "<p>Melden Sie Schäden so schnell wie möglich, meist innerhalb von sieben Tagen. Machen Sie Fotos, begrenzen Sie den Schaden, bewahren Sie Belege für Notreparaturen auf und zeigen Sie Diebstähle bei der Polizei an. Ein Hausbetreuer vor Ort hilft sehr: Er lässt Gutachter und Handwerker herein, während Sie nicht da sind. Unser Ratgeber zur <a href=\"{up}de-de/betreuung-einer-wohnung-in-spanien.html\">Hausbetreuung</a> erklärt, wie.</p>"
+      }
+    ],
+    "faq": [
+      ["Ist eine Hausversicherung in Spanien Pflicht?", "Nein, nur eine finanzierte Immobilie braucht eine Gebäudeversicherung. In Wohnungen versichert die Gemeinschaft das Gebäude, Hausrat und Haftpflicht sollten Eigentümer aber selbst versichern."],
+      ["Was kostet eine Hausversicherung in Spanien?", "Für eine Wohnung oft etwa 150–400 € im Jahr. Villen, wertvoller Hausrat und Extras wie Ferienvermietung kosten mehr."],
+      ["Sind Überschwemmungen versichert?", "Überschwemmungsschäden zahlt in der Regel das Consorcio de Compensación de Seguros, finanziert über einen Zuschlag in jeder Police. Sie melden den Schaden direkt dort."],
+      ["Muss ich bei einer Hypothek die Versicherung der Bank nehmen?", "Nein. Die Bank braucht eine Gebäudeversicherung zu ihren Gunsten, Sie können sie aber bei jedem Versicherer abschließen."],
+      ["Deckt die Hausversicherung Ferienvermietung?", "Oft nicht automatisch. Informieren Sie den Versicherer und ergänzen Sie Vermietungsschutz und Haftpflicht für Gäste."]
+    ],
+    "closing": {
+      "h2": "Vom ersten Tag an versichert",
+      "alt": "Zwei Personen prüfen ein Versicherungsdokument mit Taschenrechner",
+      "html": "<p>Lassen Sie den Schutz am Tag der Unterschrift beim Notar beginnen. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>. Wir stellen Ihnen unabhängige Makler vor, die mit internationalen Eigentümern arbeiten.</p>"
+    }
+  },
+  "es": {
+    "slug": "seguro-de-propiedad-en-espana",
+    "title": "Seguro de hogar en España – qué cubre, cuánto cuesta y qué revisar",
+    "description": "Seguro de hogar en España para propietarios y no residentes: continente y contenido, qué cubre el seguro de la comunidad, inundaciones y temporales a través del Consorcio, coberturas de alquiler y okupación, precios y cláusulas clave.",
+    "crumb": "Seguro de hogar",
+    "eyebrow": "Ser propietario en España · Práctico",
+    "h1": "Seguro de hogar en España – guía para propietarios y no residentes",
+    "hero_alt": "Mano tocando un icono luminoso de seguro de hogar sobre un portátil",
+    "short": "El seguro de hogar no es obligatorio en España, salvo el seguro de daños de una vivienda hipotecada. Puede contratarlo con cualquier aseguradora, no solo con su banco. En un piso, el seguro de la comunidad cubre el edificio, así que usted asegura sobre todo el contenido, sus instalaciones y su responsabilidad civil. Las inundaciones, los temporales y otros riesgos extraordinarios los paga el Consorcio de Compensación de Seguros mediante un pequeño recargo incluido en cada póliza. Un seguro para un piso suele costar como mucho unos cientos de euros al año. Asegure el valor de reconstrucción, no el precio de compra, y revise las condiciones sobre vivienda desocupada y alquiler.",
+    "intro": [
+      "Una fuga del piso de arriba, un temporal, un robo o un huésped que resbala junto a la piscina: el seguro es barato comparado con cualquiera de estos casos, y para quien vive fuera es casi imprescindible.",
+      "Le explicamos cómo funciona el seguro de hogar en España, qué cubre y qué mirar en la letra pequeña."
+    ],
+    "sections": [
+      {
+        "id": "types",
+        "h2": "Tipos de cobertura",
+        "alt": "Familia jugando junta en el salón",
+        "html": "<ul><li><strong>Continente:</strong> paredes, cubierta, suelos, instalaciones fijas como fontanería, electricidad, cocina y baños, y en villas también vallas y piscina.</li><li><strong>Contenido:</strong> muebles, electrodomésticos, electrónica, ropa y demás enseres.</li><li><strong>Seguro de hogar:</strong> la póliza habitual que combina ambos, con responsabilidad civil incluida.</li></ul><p>En un <strong>piso</strong>, la comunidad asegura el edificio y las zonas comunes. Usted necesita cubrir el contenido, las partes privativas (instalaciones, cocina, suelos) y su responsabilidad frente a los vecinos. En una <strong>villa</strong> o casa independiente lo asegura todo usted.</p><p>Casi todas las pólizas cubren incendio, daños por agua, robo y vandalismo, rotura de cristales, daños eléctricos y responsabilidad civil. Extras habituales: todo riesgo accidental, reparaciones urgentes, defensa jurídica, pérdida de alquileres, impago y cobertura por okupación.</p>"
+      },
+      {
+        "id": "consorcio",
+        "h2": "Inundaciones, temporales y el Consorcio",
+        "alt": "",
+        "html": "<p>España cuenta con un organismo público para riesgos extraordinarios, el <strong>Consorcio de Compensación de Seguros</strong>. Cada póliza de hogar incluye un pequeño recargo para financiarlo y, a cambio, paga los daños por inundación, vientos muy fuertes, terremotos y sucesos similares, aunque la póliza de su aseguradora los excluya.</p><p>La reclamación se presenta directamente al Consorcio, por internet o por teléfono. Indemniza según las sumas aseguradas de su póliza, así que estar bien asegurado también importa aquí.</p>"
+      },
+      {
+        "id": "cost",
+        "h2": "Qué influye en el precio",
+        "alt": "",
+        "html": "<ul><li>el <strong>valor de reconstrucción</strong> (no el precio de compra, que incluye el suelo),</li><li>el <strong>valor del contenido</strong>, con joyas u obras de arte declaradas aparte,</li><li>la <strong>ubicación</strong>, por ejemplo en primera línea o en zonas inundables,</li><li>la <strong>seguridad</strong>: alarma, caja fuerte, residencial vigilado, rejas,</li><li>el <strong>uso</strong>: vivienda habitual, segunda residencia, alquiler de larga duración o vacacional,</li><li>las <strong>coberturas extra y la franquicia</strong> elegidas.</li></ul><p>Como orientación, la póliza de un piso suele costar entre unos 150 y 400 € al año, y una villa con piscina y contenido valioso, más. Pida dos o tres presupuestos.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "Cláusulas que conviene revisar",
+        "alt": "Pareja comparando presupuestos de seguros en un portátil",
+        "html": "<ul><li><strong>Infraseguro.</strong> Si la suma asegurada es inferior al valor real, la aseguradora paga solo en la misma proporción. Muchas pólizas renuncian a la regla proporcional hasta un margen u ofrecen la modalidad a primer riesgo.</li><li><strong>Vivienda desocupada.</strong> Algunas pólizas limitan el robo o los daños por agua si la vivienda está vacía mucho tiempo, o exigen visitas periódicas.</li><li><strong>Alquiler.</strong> Comunique a la aseguradora que alquila la vivienda. Las pólizas estándar suelen excluir el alquiler vacacional, y algunas comunidades exigen seguro de responsabilidad civil a las viviendas turísticas.</li><li><strong>Hipoteca.</strong> El banco exige el seguro de daños con él como beneficiario, pero usted elige la aseguradora. Las pólizas del banco suelen ser más caras.</li><li><strong>Renovación.</strong> Las pólizas se renuevan cada año. Para darse de baja, avise por escrito al menos un mes antes del vencimiento.</li></ul>"
+      },
+      {
+        "id": "claims",
+        "h2": "Dar un parte desde fuera",
+        "alt": "",
+        "html": "<p>Comunique el siniestro cuanto antes, normalmente en siete días. Haga fotos, evite que el daño empeore, guarde las facturas de reparaciones urgentes y denuncie los robos ante la policía. Un gestor o encargado local ayuda mucho: abre al perito y al reparador mientras usted está fuera. Nuestra guía sobre el <a href=\"{up}es-es/cuidado-de-la-vivienda-en-espana.html\">cuidado de la vivienda</a> lo explica.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Es obligatorio el seguro de hogar en España?", "No, salvo el seguro de daños de una vivienda hipotecada. En los pisos la comunidad asegura el edificio, pero conviene asegurar el contenido y la responsabilidad civil."],
+      ["¿Cuánto cuesta un seguro de hogar?", "Para un piso, a menudo unos 150–400 € al año. Las villas, el contenido de valor y extras como el alquiler vacacional cuestan más."],
+      ["¿Cubre mi póliza las inundaciones?", "Los daños por inundación los suele pagar el Consorcio de Compensación de Seguros, financiado con un recargo incluido en cada póliza. Se reclama directamente al Consorcio."],
+      ["¿Tengo que contratar el seguro del banco con la hipoteca?", "No. El banco necesita el seguro de daños a su favor, pero puede contratarlo con cualquier aseguradora."],
+      ["¿Cubre el seguro de hogar el alquiler vacacional?", "Muchas veces no. Comuníquelo a la aseguradora y añada la cobertura de alquiler y la responsabilidad civil frente a huéspedes."]
+    ],
+    "closing": {
+      "h2": "Asegúrese desde el primer día",
+      "alt": "Dos personas revisando una póliza con una calculadora",
+      "html": "<p>Haga que la cobertura empiece el mismo día de la firma en la notaría. <a href=\"{up}index.html#contact\">Escríbanos</a> y le presentaremos corredores independientes que trabajan con propietarios internacionales.</p>"
+    }
+  }
+}
