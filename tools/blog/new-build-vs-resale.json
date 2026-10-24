@@ -1,0 +1,209 @@
+{
+  "author": "aleksandra",
+  "published": "2025-07-13",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/new-build-vs-resale/white-villa-with-sea-view.jpg",
+  "images": {
+    "new": "assets/blog/new-build-vs-resale/feet-in-swimming-pool.jpg",
+    "resale": "assets/blog/new-build-vs-resale/whitewashed-houses-with-bougainvillea.jpg",
+    "closing": "assets/blog/new-build-vs-resale/sandy-beach-and-coastline.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/porownanie-nieruchomoci-od-dewelopera-i-z-rynku-wtornego",
+  "cards": ["23527637", "18595762", "20927700"],
+  "sources": [
+    ["BOE – Building Act (Ley 38/1999, LOE), warranties", "https://www.boe.es/buscar/act.php?id=BOE-A-1999-21567"],
+    ["BOE – Ley 20/2015, first additional provision (off-plan deposits)", "https://www.boe.es/buscar/act.php?id=BOE-A-2015-7897"]
+  ],
+  "en": {
+    "slug": "comparison-of-properties-from-developers-and-the-secondary-market",
+    "title": "New Build or Resale Property in Spain? Costs, Risks and How to Choose",
+    "description": "New build or resale in Spain compared: taxes (VAT and stamp duty vs transfer tax), building warranties, off-plan payment protection, energy costs, location, timing and what to check in each case.",
+    "crumb": "New build vs resale",
+    "eyebrow": "Buying in Spain · Choosing a home",
+    "h1": "New Build or Resale Property in Spain – How to Choose",
+    "hero_alt": "White villa with a terracotta roof and palm trees above the Mediterranean",
+    "short": "New builds cost more per square metre and you pay 10% VAT plus 1.2–1.4% stamp duty, but you get legal warranties (1, 3 and 10 years), modern insulation and low running costs, and off-plan payments must be protected by a bank guarantee. Resale homes are often cheaper, in more central or established areas and ready at once. You pay transfer tax instead (9% in the Valencian Community, 11% above €1 million, 7% in Andalusia) and must check the condition, licences and debts carefully. Total buying costs end up similar, about 10–13% of the price.",
+    "intro": [
+      "One of the first choices when buying in Spain is whether to buy new from a developer or a resale home from a private owner. Both have clear advantages, and the right answer depends on your budget, timing and how you plan to use the home.",
+      "Here is how they compare on price, taxes, risk and daily life, and what to check in each case."
+    ],
+    "sections": [
+      {
+        "id": "compare",
+        "h2": "At a glance",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>New build</th><th>Resale</th></tr></thead><tbody><tr><td>Price per m²</td><td>higher</td><td>often lower, more room to negotiate</td></tr><tr><td>Main tax</td><td>10% VAT + 1.4% (Valencian Community) or 1.2% (Andalusia) stamp duty</td><td>transfer tax: 9% Valencian Community (11% above €1M), 7% Andalusia</td></tr><tr><td>Warranty</td><td>1 year finishes, 3 years installations, 10 years structure (insured)</td><td>seller liable for hidden defects for 6 months</td></tr><tr><td>Energy rating</td><td>usually A or B</td><td>often E to G in older homes</td></tr><tr><td>Timing</td><td>off-plan: 12–30 months; key-ready: weeks</td><td>usually 4–8 weeks</td></tr><tr><td>Location</td><td>often edge of town, new areas</td><td>central and established areas</td></tr><tr><td>Customising</td><td>choose finishes if you buy early</td><td>what you see, renovation possible</td></tr></tbody></table></div>"
+      },
+      {
+        "id": "new",
+        "h2": "Buying new: the advantages",
+        "alt": "Bare feet dipping into a blue swimming pool",
+        "html": "<h3>Warranties by law</h3><p>Under the Spanish Building Act (<em>Ley de Ordenación de la Edificación</em>), the developer is responsible for:</p><ul><li>finishing defects for <strong>1 year</strong>,</li><li>defects in installations and anything that affects habitability for <strong>3 years</strong>,</li><li>structural defects for <strong>10 years</strong>, backed by compulsory ten-year insurance (<em>seguro decenal</em>).</li></ul><h3>Low running costs</h3><p>New homes are built to the current technical building code, with good insulation, efficient heat pumps and often solar panels. Most reach energy rating A or B, so air conditioning and heating cost much less than in an older home.</p><h3>Paying in stages</h3><p>Off-plan homes are usually paid in steps: a reservation fee, then about 20–40% during construction, and the rest at completion, when you can also take a mortgage. By law, every payment before completion must go into a special account and be covered by a bank guarantee or insurance (<em>aval bancario</em>), so you get your money back if the building is not finished.</p><h3>Facilities</h3><p>New developments often have communal pools, gardens, gyms, underground parking and sometimes a spa or coworking room. They do raise the community fees.</p>"
+      },
+      {
+        "id": "resale",
+        "h2": "Buying resale: the advantages",
+        "alt": "Whitewashed Andalusian-style houses with green shutters and bougainvillea",
+        "html": "<ul><li><strong>Location.</strong> Older homes are often in the best spots: the old town, the seafront or established areas near schools, shops and transport, where there is no land left to build.</li><li><strong>Price and space.</strong> You often get more square metres, larger plots and terraces for the money, and there is more room to negotiate.</li><li><strong>Speed.</strong> You see exactly what you buy and can move in or rent out within weeks.</li><li><strong>Character.</strong> Traditional villas, townhouses and fincas have a style that new builds rarely copy.</li><li><strong>A known community.</strong> You can see the neighbours, the fees and how well the building is run.</li></ul><p>The downside is that you may need to renovate, and running costs are often higher. Budget for that in your offer.</p>"
+      },
+      {
+        "id": "risks",
+        "h2": "What to check in each case",
+        "alt": "",
+        "html": "<h3>New build</h3><ul><li>The developer's track record and finished projects.</li><li>The building licence and, for off-plan, the <strong>bank guarantee for every payment</strong>.</li><li>The specifications, plans and delivery date in the contract, and what happens if it is late.</li><li>At completion: the first occupation licence or responsible declaration, a snagging inspection and the energy certificate.</li><li>Extra VAT: plots and garages sold separately can carry 21% instead of 10%.</li></ul><h3>Resale</h3><ul><li>The <a href=\"{up}nota-simple.html\">Nota Simple</a>: owner, mortgages and charges.</li><li>A <strong>survey</strong> of the building, roof, damp, pool and installations.</li><li>That extensions, pools and terraces are legal and registered.</li><li>No debts: community fees certificate and the last IBI receipt.</li><li>If you plan to rent to tourists, that a licence can be obtained in that building and town.</li></ul>"
+      },
+      {
+        "id": "costs",
+        "h2": "The real cost: an example",
+        "alt": "",
+        "html": "<p>Two homes for €400,000 in the Valencian Community:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>New build</th><th>Resale</th></tr></thead><tbody><tr><td>Main tax</td><td>VAT 10%: €40,000</td><td>ITP 9%: €36,000</td></tr><tr><td>Stamp duty</td><td>AJD 1.4%: €5,600</td><td>–</td></tr><tr><td>Notary, registry, lawyer (about 1.5–2%)</td><td>about €7,000</td><td>about €7,000</td></tr><tr><td>Renovation or furnishing</td><td>furniture, appliances</td><td>depends on condition</td></tr><tr><td><strong>Total before furnishing</strong></td><td><strong>about €452,600</strong></td><td><strong>about €443,000</strong></td></tr></tbody></table></div><p>In Andalusia the gap is larger: 7% transfer tax for resale against 10% VAT plus 1.2% stamp duty for a new build.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "Which one suits you?",
+        "alt": "",
+        "html": "<p><strong>Choose a new build</strong> if you want low maintenance, modern comfort and facilities, are happy to wait or to live in a newer area, and plan to rent the home out to holiday guests who expect a pool and modern finishes.</p><p><strong>Choose a resale home</strong> if location matters most, you want more space for your budget, need the home soon or like the idea of renovating to your taste.</p><p>Many buyers look at both. Our guide to <a href=\"{up}how-to-buy-an-apartment-or-house-in-spain.html\">buying property in Spain</a> explains the purchase steps, which are the same for both.</p>"
+      }
+    ],
+    "faq": [
+      ["Is a new build or a resale home cheaper in Spain?", "Resale homes are usually cheaper per square metre. Buying costs are similar, about 10–13% of the price, because new builds pay VAT and stamp duty while resale homes pay transfer tax."],
+      ["Is my money safe when I buy off-plan?", "Spanish law requires every payment before completion to be paid into a special account and covered by a bank guarantee or insurance. Make sure you receive a guarantee for each payment."],
+      ["What warranty does a new home in Spain have?", "One year for finishing defects, three years for installations and habitability and ten years for structural defects, covered by compulsory ten-year insurance."],
+      ["Can I negotiate on a new build?", "Sometimes, on the last units of a project or on extras such as furniture, parking or a storage room. Resale prices are generally more open to negotiation."],
+      ["Which is better for holiday rentals?", "New builds with a pool are popular with guests, but what matters most is whether you can get a tourist licence in that building and town. Check this before buying either type."]
+    ],
+    "closing": {
+      "h2": "See both and compare",
+      "alt": "Sandy beach with rocks and apartment buildings along the coast",
+      "html": "<p>We sell new developments and resale homes on the Costa Blanca and Costa del Sol, so we can show you both side by side. <a href=\"{up}index.html#contact\">Contact us</a> with your budget and wishes.</p>"
+    }
+  },
+  "de": {
+    "slug": "vergleich-von-immobilien-vom-bautrager-und-aus-dem-sekundarmarkt",
+    "title": "Neubau oder Bestandsimmobilie in Spanien? Kosten, Risiken, Entscheidung",
+    "description": "Neubau oder Bestand in Spanien im Vergleich: Steuern (MwSt. und Stempelsteuer gegen Grunderwerbsteuer), Gewährleistung, Absicherung der Anzahlungen, Energiekosten, Lage, Zeitrahmen und was jeweils zu prüfen ist.",
+    "crumb": "Neubau oder Bestand",
+    "eyebrow": "Kaufen in Spanien · Die richtige Immobilie",
+    "h1": "Neubau oder Bestandsimmobilie in Spanien – so entscheiden Sie",
+    "hero_alt": "Weiße Villa mit Terrakottadach und Palmen über dem Mittelmeer",
+    "short": "Neubauten kosten mehr pro Quadratmeter, und Sie zahlen 10 % Mehrwertsteuer plus 1,2–1,4 % Stempelsteuer. Dafür gibt es gesetzliche Gewährleistung (1, 3 und 10 Jahre), moderne Dämmung und niedrige Nebenkosten, und Anzahlungen auf Plan müssen per Bankbürgschaft abgesichert sein. Bestandsimmobilien sind oft günstiger, zentraler gelegen und sofort verfügbar. Hier fällt Grunderwerbsteuer an (9 % in der Region Valencia, 11 % über 1 Mio. €, 7 % in Andalusien), und Zustand, Genehmigungen und Schulden müssen sorgfältig geprüft werden. Die Kaufnebenkosten liegen bei beiden bei etwa 10–13 %.",
+    "intro": [
+      "Eine der ersten Entscheidungen beim Kauf in Spanien ist: Neubau vom Bauträger oder Bestandsimmobilie von privat? Beide haben klare Vorteile, und die richtige Antwort hängt von Budget, Zeitplan und Nutzung ab.",
+      "Hier der Vergleich bei Preis, Steuern, Risiko und Alltag, und was Sie jeweils prüfen sollten."
+    ],
+    "sections": [
+      {
+        "id": "compare",
+        "h2": "Auf einen Blick",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Neubau</th><th>Bestand</th></tr></thead><tbody><tr><td>Preis pro m²</td><td>höher</td><td>oft niedriger, mehr Verhandlungsspielraum</td></tr><tr><td>Hauptsteuer</td><td>10 % MwSt. + 1,4 % (Region Valencia) bzw. 1,2 % (Andalusien) Stempelsteuer</td><td>Grunderwerbsteuer: 9 % Region Valencia (11 % über 1 Mio. €), 7 % Andalusien</td></tr><tr><td>Gewährleistung</td><td>1 Jahr Ausbau, 3 Jahre Installationen, 10 Jahre Statik (versichert)</td><td>Verkäufer haftet 6 Monate für versteckte Mängel</td></tr><tr><td>Energieklasse</td><td>meist A oder B</td><td>bei älteren Häusern oft E bis G</td></tr><tr><td>Zeitrahmen</td><td>auf Plan: 12–30 Monate; schlüsselfertig: Wochen</td><td>meist 4–8 Wochen</td></tr><tr><td>Lage</td><td>oft Ortsrand, neue Viertel</td><td>zentrale, gewachsene Lagen</td></tr><tr><td>Gestaltung</td><td>Ausstattung wählbar bei frühem Kauf</td><td>wie besichtigt, Renovierung möglich</td></tr></tbody></table></div>"
+      },
+      {
+        "id": "new",
+        "h2": "Neubau: die Vorteile",
+        "alt": "Nackte Füße tauchen in einen blauen Pool",
+        "html": "<h3>Gesetzliche Gewährleistung</h3><p>Nach dem spanischen Baugesetz (<em>Ley de Ordenación de la Edificación</em>) haftet der Bauträger für:</p><ul><li>Mängel am Ausbau <strong>1 Jahr</strong>,</li><li>Mängel an Installationen und der Bewohnbarkeit <strong>3 Jahre</strong>,</li><li>Mängel an der Statik <strong>10 Jahre</strong>, abgesichert durch eine Pflichtversicherung (<em>seguro decenal</em>).</li></ul><h3>Niedrige Nebenkosten</h3><p>Neubauten entsprechen der aktuellen Bauordnung, mit guter Dämmung, effizienten Wärmepumpen und oft Solaranlage. Die meisten erreichen Energieklasse A oder B, Klimaanlage und Heizung kosten deutlich weniger als in einem älteren Haus.</p><h3>Zahlung in Raten</h3><p>Auf Plan zahlen Sie meist in Schritten: Reservierungsgebühr, dann etwa 20–40 % während der Bauzeit und der Rest bei Übergabe, wenn auch eine Hypothek möglich ist. Anders als die Bauträger-Ratenzahlung nach Baufortschritt in Deutschland muss in Spanien jede Zahlung vor Fertigstellung auf ein Sonderkonto gehen und durch eine Bankbürgschaft oder Versicherung (<em>aval bancario</em>) abgesichert sein. Wird nicht fertig gebaut, bekommen Sie Ihr Geld zurück.</p><h3>Gemeinschaftsanlagen</h3><p>Neue Wohnanlagen haben oft Pools, Gärten, Fitnessraum, Tiefgarage und manchmal Spa oder Coworking. Das erhöht allerdings die Gemeinschaftskosten.</p>"
+      },
+      {
+        "id": "resale",
+        "h2": "Bestand: die Vorteile",
+        "alt": "Weiß gekalkte Häuser im andalusischen Stil mit grünen Fensterläden und Bougainvillea",
+        "html": "<ul><li><strong>Lage.</strong> Ältere Immobilien liegen oft in den besten Lagen: Altstadt, Strandpromenade oder gewachsene Viertel nahe Schulen, Geschäften und Verkehr, wo kein Bauland mehr frei ist.</li><li><strong>Preis und Platz.</strong> Oft mehr Wohnfläche, größere Grundstücke und Terrassen fürs Geld, und mehr Verhandlungsspielraum.</li><li><strong>Tempo.</strong> Sie sehen genau, was Sie kaufen, und können in wenigen Wochen einziehen oder vermieten.</li><li><strong>Charakter.</strong> Traditionelle Villen, Stadthäuser und Fincas haben einen Stil, den Neubauten selten erreichen.</li><li><strong>Bekannte Gemeinschaft.</strong> Nachbarn, Kosten und Zustand der Anlage sind sichtbar.</li></ul><p>Der Nachteil: Oft ist eine Renovierung nötig, und die laufenden Kosten sind höher. Planen Sie das im Angebot ein.</p>"
+      },
+      {
+        "id": "risks",
+        "h2": "Was Sie jeweils prüfen sollten",
+        "alt": "",
+        "html": "<h3>Neubau</h3><ul><li>Referenzen des Bauträgers und fertiggestellte Projekte.</li><li>Baugenehmigung und bei Kauf auf Plan die <strong>Bankbürgschaft für jede Zahlung</strong>.</li><li>Baubeschreibung, Pläne und Übergabetermin im Vertrag, und was bei Verzug gilt.</li><li>Bei Übergabe: Erstbezugsgenehmigung oder Verantwortungserklärung, Mängelabnahme und Energieausweis.</li><li>Zusätzliche MwSt.: separat verkaufte Grundstücke und Garagen können 21 % statt 10 % kosten.</li></ul><h3>Bestand</h3><ul><li>Die <a href=\"{up}de-de/nota-simple.html\">Nota Simple</a>: Eigentümer, Hypotheken, Belastungen.</li><li>Ein <strong>Gutachten</strong> zu Bausubstanz, Dach, Feuchtigkeit, Pool und Installationen.</li><li>Dass Anbauten, Pools und Terrassen genehmigt und eingetragen sind.</li><li>Keine Schulden: Bescheinigung der Gemeinschaft und letzter IBI-Beleg.</li><li>Bei geplanter Ferienvermietung: dass eine Lizenz in dem Gebäude und Ort möglich ist.</li></ul>"
+      },
+      {
+        "id": "costs",
+        "h2": "Die echten Kosten: ein Beispiel",
+        "alt": "",
+        "html": "<p>Zwei Immobilien für je 400.000 € in der Region Valencia:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Neubau</th><th>Bestand</th></tr></thead><tbody><tr><td>Hauptsteuer</td><td>MwSt. 10 %: 40.000 €</td><td>ITP 9 %: 36.000 €</td></tr><tr><td>Stempelsteuer</td><td>AJD 1,4 %: 5.600 €</td><td>–</td></tr><tr><td>Notar, Grundbuch, Anwalt (etwa 1,5–2 %)</td><td>etwa 7.000 €</td><td>etwa 7.000 €</td></tr><tr><td>Renovierung oder Einrichtung</td><td>Möbel, Geräte</td><td>je nach Zustand</td></tr><tr><td><strong>Gesamt vor Einrichtung</strong></td><td><strong>etwa 452.600 €</strong></td><td><strong>etwa 443.000 €</strong></td></tr></tbody></table></div><p>In Andalusien ist der Unterschied größer: 7 % Grunderwerbsteuer beim Bestand gegenüber 10 % MwSt. plus 1,2 % Stempelsteuer beim Neubau.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "Was passt zu Ihnen?",
+        "alt": "",
+        "html": "<p><strong>Ein Neubau</strong> passt, wenn Sie wenig Aufwand, modernen Komfort und Gemeinschaftsanlagen wollen, warten können oder gern in einem neueren Viertel wohnen und an Feriengäste vermieten möchten, die Pool und moderne Ausstattung erwarten.</p><p><strong>Eine Bestandsimmobilie</strong> passt, wenn die Lage am wichtigsten ist, Sie mehr Platz fürs Budget möchten, bald einziehen wollen oder gern nach eigenem Geschmack renovieren.</p><p>Viele Käufer schauen sich beides an. Unser Ratgeber zum <a href=\"{up}de-de/wie-kann-man-in-spanien-eine-wohnung-oder-ein-haus-kaufen.html\">Immobilienkauf in Spanien</a> erklärt die Schritte, die bei beiden gleich sind.</p>"
+      }
+    ],
+    "faq": [
+      ["Ist ein Neubau oder eine Bestandsimmobilie in Spanien günstiger?", "Bestandsimmobilien sind pro Quadratmeter meist günstiger. Die Nebenkosten sind ähnlich, etwa 10–13 % des Preises, weil beim Neubau MwSt. und Stempelsteuer, beim Bestand Grunderwerbsteuer anfallen."],
+      ["Ist mein Geld beim Kauf auf Plan sicher?", "Das spanische Recht verlangt, dass jede Zahlung vor Fertigstellung auf ein Sonderkonto geht und durch Bankbürgschaft oder Versicherung abgesichert ist. Lassen Sie sich für jede Zahlung eine Bürgschaft geben."],
+      ["Welche Gewährleistung hat ein Neubau in Spanien?", "Ein Jahr für Ausbaumängel, drei Jahre für Installationen und Bewohnbarkeit und zehn Jahre für die Statik, abgesichert durch eine Pflichtversicherung."],
+      ["Kann man beim Neubau verhandeln?", "Manchmal, bei den letzten Einheiten eines Projekts oder bei Extras wie Möbeln, Stellplatz oder Abstellraum. Bei Bestandsimmobilien ist der Spielraum meist größer."],
+      ["Was ist besser für Ferienvermietung?", "Neubauten mit Pool sind bei Gästen beliebt, entscheidend ist aber, ob in Gebäude und Ort eine touristische Lizenz möglich ist. Prüfen Sie das vor dem Kauf."]
+    ],
+    "closing": {
+      "h2": "Beides ansehen und vergleichen",
+      "alt": "Sandstrand mit Felsen und Wohnhäusern entlang der Küste",
+      "html": "<p>Wir verkaufen Neubauprojekte und Bestandsimmobilien an der Costa Blanca und Costa del Sol und zeigen Ihnen beides im direkten Vergleich. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a> Ihr Budget und Ihre Wünsche.</p>"
+    }
+  },
+  "es": {
+    "slug": "comparacion-de-inmuebles-de-promotores-y-del-mercado-secundario",
+    "title": "¿Obra nueva o segunda mano en España? Costes, riesgos y cómo elegir",
+    "description": "Obra nueva o segunda mano en España: impuestos (IVA y AJD frente a ITP), garantías de la edificación, protección de los pagos sobre plano, consumo energético, ubicación, plazos y qué revisar en cada caso.",
+    "crumb": "Obra nueva o segunda mano",
+    "eyebrow": "Comprar en España · Elegir vivienda",
+    "h1": "Obra nueva o segunda mano en España – cómo elegir",
+    "hero_alt": "Villa blanca con tejado de terracota y palmeras sobre el Mediterráneo",
+    "short": "La obra nueva cuesta más por metro cuadrado y paga un 10 % de IVA más un 1,2–1,4 % de AJD, pero tiene garantías legales (1, 3 y 10 años), buen aislamiento y gastos bajos, y los pagos sobre plano deben estar avalados. La segunda mano suele ser más barata, mejor situada y disponible de inmediato. Paga ITP (9 % en la Comunitat Valenciana, 11 % por encima de 1 millón, 7 % en Andalucía) y exige revisar a fondo estado, licencias y deudas. Los gastos de compra acaban siendo parecidos, en torno al 10–13 % del precio.",
+    "intro": [
+      "Una de las primeras decisiones al comprar en España es elegir entre obra nueva de promotor o vivienda de segunda mano de un particular. Las dos tienen ventajas claras, y la respuesta depende de su presupuesto, sus plazos y el uso que le dará.",
+      "Le explicamos cómo se comparan en precio, impuestos, riesgos y vida diaria, y qué revisar en cada caso."
+    ],
+    "sections": [
+      {
+        "id": "compare",
+        "h2": "De un vistazo",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Obra nueva</th><th>Segunda mano</th></tr></thead><tbody><tr><td>Precio por m²</td><td>más alto</td><td>a menudo más bajo, más margen de negociación</td></tr><tr><td>Impuesto principal</td><td>10 % de IVA + AJD del 1,4 % (Comunitat Valenciana) o 1,2 % (Andalucía)</td><td>ITP: 9 % Comunitat Valenciana (11 % por encima de 1 M€), 7 % Andalucía</td></tr><tr><td>Garantía</td><td>1 año acabados, 3 años instalaciones, 10 años estructura (asegurada)</td><td>el vendedor responde de vicios ocultos 6 meses</td></tr><tr><td>Certificado energético</td><td>normalmente A o B</td><td>a menudo E a G en viviendas antiguas</td></tr><tr><td>Plazos</td><td>sobre plano: 12–30 meses; llave en mano: semanas</td><td>normalmente 4–8 semanas</td></tr><tr><td>Ubicación</td><td>a menudo en zonas nuevas o periféricas</td><td>zonas céntricas y consolidadas</td></tr><tr><td>Personalización</td><td>elección de acabados si compra pronto</td><td>lo que ve, posibilidad de reformar</td></tr></tbody></table></div>"
+      },
+      {
+        "id": "new",
+        "h2": "Obra nueva: las ventajas",
+        "alt": "Pies descalzos entrando en una piscina azul",
+        "html": "<h3>Garantías por ley</h3><p>Según la Ley de Ordenación de la Edificación, el promotor responde de:</p><ul><li>defectos de acabado durante <strong>1 año</strong>,</li><li>defectos en instalaciones y de habitabilidad durante <strong>3 años</strong>,</li><li>defectos estructurales durante <strong>10 años</strong>, con seguro decenal obligatorio.</li></ul><h3>Gastos bajos</h3><p>Las viviendas nuevas cumplen el Código Técnico de la Edificación actual, con buen aislamiento, aerotermia y a menudo placas solares. La mayoría alcanza la calificación energética A o B, así que la climatización cuesta mucho menos que en una vivienda antigua.</p><h3>Pago por fases</h3><p>Sobre plano se paga por etapas: una reserva, después un 20–40 % durante la obra y el resto a la entrega, cuando también puede firmar la hipoteca. Por ley, cada pago antes de la entrega debe ingresarse en una cuenta especial y estar garantizado con aval bancario o seguro, de modo que recupera su dinero si la obra no se termina.</p><h3>Zonas comunes</h3><p>Los residenciales nuevos suelen tener piscinas, jardines, gimnasio, garaje y a veces spa o coworking. Eso sí, encarecen la cuota de comunidad.</p>"
+      },
+      {
+        "id": "resale",
+        "h2": "Segunda mano: las ventajas",
+        "alt": "Casas encaladas de estilo andaluz con contraventanas verdes y buganvillas",
+        "html": "<ul><li><strong>Ubicación.</strong> Las viviendas antiguas suelen estar en los mejores sitios: el casco antiguo, primera línea o barrios consolidados cerca de colegios, comercios y transporte, donde ya no queda suelo.</li><li><strong>Precio y espacio.</strong> A menudo más metros, parcelas y terrazas más grandes por el mismo dinero, y más margen para negociar.</li><li><strong>Rapidez.</strong> Ve exactamente lo que compra y puede entrar a vivir o alquilar en semanas.</li><li><strong>Carácter.</strong> Villas tradicionales, casas de pueblo y fincas tienen un estilo que la obra nueva rara vez imita.</li><li><strong>Comunidad conocida.</strong> Puede ver los vecinos, las cuotas y cómo se gestiona el edificio.</li></ul><p>La contrapartida es que puede necesitar reforma y los gastos corrientes suelen ser más altos. Téngalo en cuenta en su oferta.</p>"
+      },
+      {
+        "id": "risks",
+        "h2": "Qué revisar en cada caso",
+        "alt": "",
+        "html": "<h3>Obra nueva</h3><ul><li>La trayectoria del promotor y sus proyectos terminados.</li><li>La licencia de obra y, sobre plano, el <strong>aval bancario de cada pago</strong>.</li><li>La memoria de calidades, los planos y la fecha de entrega en el contrato, y qué pasa si se retrasa.</li><li>En la entrega: licencia de primera ocupación o declaración responsable, revisión de repasos y certificado energético.</li><li>IVA adicional: parcelas y garajes vendidos por separado pueden pagar un 21 % en lugar del 10 %.</li></ul><h3>Segunda mano</h3><ul><li>La <a href=\"{up}es-es/nota-simple.html\">nota simple</a>: titular, hipotecas y cargas.</li><li>Una <strong>inspección técnica</strong> de estructura, cubierta, humedades, piscina e instalaciones.</li><li>Que ampliaciones, piscinas y terrazas sean legales y estén inscritas.</li><li>Sin deudas: certificado de la comunidad y último recibo del IBI.</li><li>Si piensa alquilar a turistas, que se pueda obtener la licencia en ese edificio y municipio.</li></ul>"
+      },
+      {
+        "id": "costs",
+        "h2": "El coste real: un ejemplo",
+        "alt": "",
+        "html": "<p>Dos viviendas de 400.000 € en la Comunitat Valenciana:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Obra nueva</th><th>Segunda mano</th></tr></thead><tbody><tr><td>Impuesto principal</td><td>IVA 10 %: 40.000 €</td><td>ITP 9 %: 36.000 €</td></tr><tr><td>AJD</td><td>1,4 %: 5.600 €</td><td>–</td></tr><tr><td>Notaría, Registro, abogado (aprox. 1,5–2 %)</td><td>unos 7.000 €</td><td>unos 7.000 €</td></tr><tr><td>Reforma o equipamiento</td><td>muebles, electrodomésticos</td><td>según estado</td></tr><tr><td><strong>Total antes de amueblar</strong></td><td><strong>unos 452.600 €</strong></td><td><strong>unos 443.000 €</strong></td></tr></tbody></table></div><p>En Andalucía la diferencia es mayor: 7 % de ITP en segunda mano frente a 10 % de IVA más 1,2 % de AJD en obra nueva.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "¿Cuál le conviene?",
+        "alt": "",
+        "html": "<p><strong>Elija obra nueva</strong> si quiere poco mantenimiento, confort moderno y zonas comunes, puede esperar o vivir en una zona más nueva, y piensa alquilar a turistas que buscan piscina y acabados modernos.</p><p><strong>Elija segunda mano</strong> si la ubicación es lo primero, quiere más espacio por su presupuesto, necesita la vivienda pronto o le gusta reformar a su gusto.</p><p>Muchos compradores miran ambas. Nuestra guía para <a href=\"{up}es-es/como-comprar-un-piso-o-una-casa-en-espana.html\">comprar una vivienda en España</a> explica los pasos, que son los mismos en los dos casos.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Es más barata la obra nueva o la segunda mano?", "La segunda mano suele ser más barata por metro cuadrado. Los gastos de compra son parecidos, en torno al 10–13 % del precio, porque la obra nueva paga IVA y AJD y la segunda mano ITP."],
+      ["¿Está seguro mi dinero si compro sobre plano?", "La ley exige que cada pago antes de la entrega se ingrese en una cuenta especial y esté garantizado con aval bancario o seguro. Exija el aval de cada pago."],
+      ["¿Qué garantía tiene una vivienda nueva?", "Un año para defectos de acabado, tres años para instalaciones y habitabilidad y diez años para la estructura, con seguro decenal obligatorio."],
+      ["¿Se puede negociar en obra nueva?", "A veces, en las últimas unidades de una promoción o en extras como muebles, plaza de garaje o trastero. En segunda mano el margen suele ser mayor."],
+      ["¿Qué es mejor para alquiler vacacional?", "La obra nueva con piscina gusta a los huéspedes, pero lo decisivo es si se puede obtener licencia turística en ese edificio y municipio. Compruébelo antes de comprar cualquiera de las dos."]
+    ],
+    "closing": {
+      "h2": "Vea ambas y compare",
+      "alt": "Playa de arena con rocas y edificios de apartamentos a lo largo de la costa",
+      "html": "<p>Vendemos obra nueva y segunda mano en la Costa Blanca y la Costa del Sol, así que podemos enseñarle ambas opciones lado a lado. <a href=\"{up}index.html#contact\">Escríbanos</a> con su presupuesto y lo que busca.</p>"
+    }
+  }
+}
