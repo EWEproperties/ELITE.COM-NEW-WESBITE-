@@ -1,0 +1,242 @@
+{
+ "author": "aleksandra",
+ "published": "2025-07-21",
+ "modified": "2026-10-24",
+ "hero": "assets/blog/pool/villa-with-private-pool.jpg",
+ "images": {
+  "types": "assets/blog/pool/communal-pool-in-gardens.jpg",
+  "costs": "assets/blog/pool/cleaning-a-pool.jpg",
+  "rules": "assets/blog/pool/communal-pool-apartment-complex.jpg",
+  "closing": "assets/blog/pool/terrace-loungers-at-sunset.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/zakup-nieruchomoci-w-hiszpanii-z-basenem",
+ "cards": [
+  "26627092",
+  "18595762",
+  "23527637"
+ ],
+ "sources": [
+  [
+   "BOE – Royal Decree 742/2013 on technical and health criteria for swimming pools",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2013-10580"
+  ],
+  [
+   "Junta de Andalucía – swimming pool rules (Decree 485/2019)",
+   "https://www.juntadeandalucia.es/organismos/sanidadpresidenciayemergencias/areas/sanidad/entornos-saludables/salud-ambiental/paginas/piscinas.html"
+  ],
+  [
+   "Sede Electrónica del Catastro – declaring new constructions",
+   "https://www.sedecatastro.gob.es/"
+  ]
+ ],
+ "en": {
+  "slug": "buying-a-property-in-spain-with-a-swimming-pool",
+  "title": "Buying a Property with a Pool in Spain – Costs, Rules, Checks",
+  "description": "Buying a house or apartment with a swimming pool in Spain: private vs communal pools, yearly running costs, licences and the Catastro, health rules for community pools, and what to check at a viewing.",
+  "crumb": "Property with a pool",
+  "eyebrow": "Buying in Spain · Practical",
+  "h1": "Buying a Property with a Swimming Pool in Spain",
+  "hero_alt": "Stone villa with a private swimming pool and sun loungers",
+  "short": "On the Costa Blanca and Costa del Sol a pool can be used for six months or more a year, and it is one of the features buyers and holiday guests ask for most. You can choose a private pool, which you control and pay for yourself, or a communal pool, whose costs are shared through the community fees. A private pool typically costs somewhere around €1,000 to €3,000 a year to run, depending on size, heating and whether you use a pool service. A built pool needs a municipal licence and must be registered with the Catastro, which raises the cadastral value and the IBI. Before you buy, check that the pool is legal and registered, and test the pump, filter and any heating.",
+  "intro": [
+   "A pool changes how you use a home in Spain. It also changes what the home costs to run, what you should check before you buy, and how easily you can rent it out. Here is what we tell our own buyers."
+  ],
+  "sections": [
+   {
+    "id": "value",
+    "h2": "Is a pool worth paying for?",
+    "html": "<p>For most buyers on the coast, yes. In a holiday home a pool is often the first filter guests use on booking sites, and properties with a pool usually let for more weeks and at higher prices. When you sell, a pool widens your pool of buyers, particularly for villas.</p><p>It is not always the right choice. A private pool means running costs and work all year, even in the months you are not there. If you will only spend a few weeks a year in Spain and do not plan to rent out, an apartment with a well-run communal pool can give you most of the pleasure for a fraction of the effort.</p>"
+   },
+   {
+    "id": "types",
+    "h2": "Private or communal pool",
+    "alt": "Communal pool among palm trees in a modern apartment complex",
+    "html": "<ul><li><strong>Private pool</strong>: usual with villas and some townhouses and ground-floor apartments. Full privacy and control, but you pay all the costs and arrange the upkeep.</li><li><strong>Communal pool</strong>: usual in apartment complexes and gated urbanisations. Maintenance, cleaning, insurance and, where required, the lifeguard are paid from the community fees, so the cost per owner is low. The community sets the opening season, hours and rules.</li></ul><p>When you compare communal pools, look at the community fee, what it includes and how the pool is looked after. Our guide to the <a href=\"{up}comunidad-de-propietarios.html\">community of owners</a> explains how fees and rules work.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "What a private pool costs to run",
+    "alt": "Person cleaning a swimming pool with a net",
+    "html": "<p>These are typical ranges for an average villa pool (around 8 × 4 m) on the coast. Your figures depend on size, equipment, how long the season is and local prices.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Cost</th><th>Typical per year</th></tr></thead><tbody><tr><td>Chemicals (chlorine or salt, pH)</td><td>€150 – €500</td></tr><tr><td>Electricity for pump and filter</td><td>€300 – €700</td></tr><tr><td>Water for topping up</td><td>€100 – €300</td></tr><tr><td>Pool service (weekly in season)</td><td>€900 – €1,800</td></tr><tr><td>Repairs and parts (pump, salt cell, filter sand)</td><td>€100 – €500 averaged</td></tr></tbody></table></div><p>A heat pump or other heating adds noticeably to the electricity bill but can stretch the season into spring and autumn. A salt system uses fewer chemicals, but its cell must be replaced every few years. Pools also add to the cadastral value of the property, so the yearly <a href=\"{up}property-tax-in-spain-ibi-2026.html\">IBI</a> is a little higher.</p>"
+   },
+   {
+    "id": "rules",
+    "h2": "Licences, the Catastro and health rules",
+    "alt": "Round communal pool in front of a white apartment building",
+    "html": "<p><strong>Licence.</strong> Building a pool needs permission from the town hall, either a building licence or a prior declaration, depending on the municipality. A pool built without it can be a planning breach, and legalising it later means a technical project and fees.</p><p><strong>Catastro.</strong> A built pool must be declared to the Catastro, which updates the cadastral value and therefore the IBI. The Catastro uses aerial and satellite images to find undeclared pools and then regularises them, with a fee and back tax. Check the cadastral record (<em>consulta descriptiva y gráfica</em>) of the home you are buying: if the pool is missing, ask the seller to sort it out before completion.</p><p><strong>Health rules.</strong> Royal Decree 742/2013 sets the water quality and safety criteria for pools used by groups of people, including community pools. The regions add their own rules, for example on lifeguards, signage and inspections. In the Valencian Community and Andalusia these mainly concern communal pools, and the community, not each owner, is responsible. For a single-family private pool the national decree applies only in part, but you are still liable if someone is hurt, so keep it clean and safe and have liability cover.</p><p><strong>Water restrictions.</strong> In drought periods some towns limit filling or refilling private pools. Ask locally, and consider a cover to cut evaporation.</p><p><strong>Holiday rentals.</strong> If you rent out, the pool must be safe for guests, and your <a href=\"{up}property-insurance-in-spain.html\">insurance</a> should cover liability towards them. Rules on tourist rentals themselves are in our guide to <a href=\"{up}new-regulations-on-short-term-rentals-in-spain.html\">short-term rental rules</a>.</p>"
+   },
+   {
+    "id": "check",
+    "h2": "What to check when viewing a property with a pool",
+    "html": "<ul><li><strong>Legal status</strong>: licence or approval for the pool, and that it appears in the Catastro and in the property's description.</li><li><strong>Sun</strong>: how many hours the pool gets in spring and autumn, not only at midday in summer.</li><li><strong>Condition</strong>: cracks, loose tiles, leaks (ask about water bills), the age of the pump, filter and any salt cell or heat pump.</li><li><strong>Water system</strong>: chlorine or salt, automatic dosing, lighting.</li><li><strong>Safety</strong>: depth, steps or a shallow area, a fence or cover if children will use it.</li><li><strong>Communal pools</strong>: season and hours, rules for guests and tenants, and the community's maintenance costs in the last accounts.</li></ul><p>If you will not be there all year, a pool service and someone to <a href=\"{up}looking-after-your-flat-in-spain.html\">look after the property</a> are worth arranging from the start.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "How much does it cost to keep a private pool in Spain?",
+    "For an average villa pool, roughly €1,000 to €3,000 a year in total, covering chemicals, electricity, water, a pool service and small repairs. Heating raises the cost."
+   ],
+   [
+    "Does a swimming pool increase IBI?",
+    "Yes. A built pool is part of the cadastral value of the property, and the IBI is calculated on that value, so the yearly bill goes up somewhat."
+   ],
+   [
+    "What if the pool is not registered in the Catastro?",
+    "The owner must declare it. The Catastro also finds undeclared pools from aerial images and regularises them with a fee and back tax. When buying, ask the seller to regularise it before completion."
+   ],
+   [
+    "Does a community pool need a lifeguard?",
+    "It depends on the regional rules and the size and use of the pool. Where a lifeguard is required, the community arranges and pays for it through the fees."
+   ],
+   [
+    "Is a pool needed to rent out a holiday home?",
+    "It is not required, but it strongly affects demand and price on the coast, especially for villas and family stays."
+   ]
+  ],
+  "closing": {
+   "h2": "Find a home with the right pool",
+   "alt": "Sun loungers and two glasses of wine on a terrace at sunset",
+   "html": "<p>Tell us whether you prefer a private pool or a well-kept communal one, and we will shortlist homes on the Costa Blanca and Costa del Sol and check the pool's paperwork before you commit. <a href=\"{up}index.html#contact\">Contact us</a> or see the <a href=\"{up}buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html\">guide to buying a villa</a>.</p>"
+  }
+ },
+ "de": {
+  "slug": "kauf-einer-immobilie-in-spanien-mit-pool",
+  "title": "Immobilie mit Pool in Spanien kaufen – Kosten, Regeln, Prüfung",
+  "description": "Haus oder Wohnung mit Pool in Spanien kaufen: privater oder Gemeinschaftspool, jährliche Kosten, Genehmigung und Katasteramt, Hygieneregeln für Gemeinschaftspools und worauf Sie bei der Besichtigung achten.",
+  "crumb": "Immobilie mit Pool",
+  "eyebrow": "Kaufen in Spanien · Praxis",
+  "h1": "Immobilie mit Pool in Spanien kaufen",
+  "hero_alt": "Steinvilla mit privatem Pool und Sonnenliegen",
+  "short": "An der Costa Blanca und der Costa del Sol lässt sich ein Pool sechs Monate und länger im Jahr nutzen, und er gehört zu den meistgefragten Ausstattungen bei Käufern und Feriengästen. Sie haben die Wahl zwischen einem privaten Pool, über den Sie allein bestimmen und den Sie allein bezahlen, und einem Gemeinschaftspool, dessen Kosten über das Hausgeld geteilt werden. Ein privater Pool kostet im Betrieb typischerweise etwa 1.000 bis 3.000 € im Jahr, je nach Größe, Heizung und Poolservice. Ein gebauter Pool braucht eine Genehmigung der Gemeinde und muss beim Katasteramt gemeldet sein, was den Katasterwert und damit die IBI erhöht. Prüfen Sie vor dem Kauf, ob der Pool legal und eingetragen ist, und testen Sie Pumpe, Filter und Heizung.",
+  "intro": [
+   "Ein Pool verändert, wie Sie ein Haus in Spanien nutzen. Er verändert aber auch die laufenden Kosten, die Prüfung vor dem Kauf und die Vermietbarkeit. Das sagen wir unseren eigenen Käufern."
+  ],
+  "sections": [
+   {
+    "id": "value",
+    "h2": "Lohnt sich ein Pool?",
+    "html": "<p>Für die meisten Käufer an der Küste: ja. Bei Ferienimmobilien ist der Pool auf Buchungsportalen oft der erste Filter, und Objekte mit Pool sind meist mehr Wochen und zu höheren Preisen vermietet. Beim Verkauf erreichen Sie mehr Interessenten, vor allem bei Villen.</p><p>Nicht immer ist er die richtige Wahl. Ein privater Pool bedeutet Kosten und Pflege das ganze Jahr, auch in den Monaten, in denen Sie nicht da sind. Wer nur wenige Wochen im Jahr in Spanien verbringt und nicht vermieten will, bekommt mit einer Wohnung mit gut geführtem Gemeinschaftspool den Großteil des Vergnügens bei viel weniger Aufwand.</p>"
+   },
+   {
+    "id": "types",
+    "h2": "Privater Pool oder Gemeinschaftspool",
+    "alt": "Gemeinschaftspool zwischen Palmen in einer modernen Wohnanlage",
+    "html": "<ul><li><strong>Privater Pool</strong>: üblich bei Villen, manchen Reihenhäusern und Erdgeschosswohnungen. Volle Privatsphäre und Kontrolle, aber Sie tragen alle Kosten und organisieren die Pflege.</li><li><strong>Gemeinschaftspool</strong>: üblich in Wohnanlagen und geschlossenen Urbanisationen. Wartung, Reinigung, Versicherung und, wo vorgeschrieben, der Rettungsschwimmer werden aus dem Hausgeld bezahlt, die Kosten pro Eigentümer sind also gering. Die Gemeinschaft legt Saison, Öffnungszeiten und Regeln fest.</li></ul><p>Vergleichen Sie beim Gemeinschaftspool das Hausgeld, was es abdeckt und wie der Pool gepflegt wird. Unser Ratgeber zur <a href=\"{up}de-de/comunidad-de-propietarios.html\">Eigentümergemeinschaft</a> erklärt, wie Beiträge und Regeln funktionieren.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Was ein privater Pool im Betrieb kostet",
+    "alt": "Person reinigt einen Pool mit einem Kescher",
+    "html": "<p>Typische Spannen für einen durchschnittlichen Villenpool (etwa 8 × 4 m) an der Küste. Ihre Zahlen hängen von Größe, Technik, Saisonlänge und örtlichen Preisen ab.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Kosten</th><th>Typisch pro Jahr</th></tr></thead><tbody><tr><td>Chemie (Chlor oder Salz, pH)</td><td>150 – 500 €</td></tr><tr><td>Strom für Pumpe und Filter</td><td>300 – 700 €</td></tr><tr><td>Wasser zum Nachfüllen</td><td>100 – 300 €</td></tr><tr><td>Poolservice (in der Saison wöchentlich)</td><td>900 – 1.800 €</td></tr><tr><td>Reparaturen und Teile (Pumpe, Salzzelle, Filtersand)</td><td>100 – 500 € im Schnitt</td></tr></tbody></table></div><p>Eine Wärmepumpe erhöht die Stromrechnung spürbar, verlängert aber die Saison ins Frühjahr und in den Herbst. Eine Salzanlage braucht weniger Chemie, ihre Zelle muss jedoch alle paar Jahre ersetzt werden. Ein Pool erhöht außerdem den Katasterwert, die jährliche <a href=\"{up}de-de/grundsteuer-in-spanien-ibi-2026.html\">IBI</a> fällt also etwas höher aus.</p>"
+   },
+   {
+    "id": "rules",
+    "h2": "Genehmigung, Katasteramt und Hygieneregeln",
+    "alt": "Runder Gemeinschaftspool vor einem weißen Apartmenthaus",
+    "html": "<p><strong>Genehmigung.</strong> Für den Bau eines Pools braucht es die Zustimmung der Gemeinde, je nach Ort eine Baugenehmigung oder eine vorherige Anzeige. Ein Pool ohne Genehmigung kann ein baurechtlicher Verstoß sein, und die spätere Legalisierung erfordert ein technisches Projekt und Gebühren.</p><p><strong>Katasteramt.</strong> Ein gebauter Pool muss beim Catastro gemeldet werden, das daraufhin den Katasterwert und damit die IBI anpasst. Das Catastro findet nicht gemeldete Pools über Luft- und Satellitenbilder und erfasst sie nachträglich, mit Gebühr und Steuernachzahlung. Prüfen Sie den Katasterauszug (<em>consulta descriptiva y gráfica</em>) der Immobilie: Fehlt der Pool, sollte der Verkäufer das vor dem Notartermin regeln.</p><p><strong>Hygieneregeln.</strong> Das Königliche Dekret 742/2013 legt Wasserqualität und Sicherheitsanforderungen für Pools fest, die von mehreren Personen genutzt werden, auch für Gemeinschaftspools. Die Regionen ergänzen eigene Vorschriften, etwa zu Rettungsschwimmern, Beschilderung und Kontrollen. In der Region Valencia und in Andalusien betrifft das vor allem Gemeinschaftspools, und verantwortlich ist die Gemeinschaft, nicht der einzelne Eigentümer. Für den privaten Pool eines Einfamilienhauses gilt das Dekret nur teilweise, Sie haften aber trotzdem, wenn jemand zu Schaden kommt. Halten Sie den Pool also sauber und sicher und schließen Sie eine Haftpflicht ab.</p><p><strong>Wasserbeschränkungen.</strong> In Dürreperioden begrenzen manche Gemeinden das Befüllen privater Pools. Fragen Sie vor Ort und denken Sie an eine Abdeckung gegen Verdunstung.</p><p><strong>Ferienvermietung.</strong> Wenn Sie vermieten, muss der Pool für Gäste sicher sein, und Ihre <a href=\"{up}de-de/versicherung-von-immobilien-in-spanien.html\">Versicherung</a> sollte die Haftung ihnen gegenüber abdecken. Die Regeln für Ferienvermietung selbst finden Sie im Beitrag zu den <a href=\"{up}de-de/neue-vorschriften-fur-kurzzeitvermietungen-in-spanien.html\">Vorschriften für Kurzzeitvermietung</a>.</p>"
+   },
+   {
+    "id": "check",
+    "h2": "Worauf Sie bei der Besichtigung achten",
+    "html": "<ul><li><strong>Rechtsstatus</strong>: Genehmigung für den Pool und Eintrag im Katasteramt sowie in der Objektbeschreibung.</li><li><strong>Sonne</strong>: wie viele Stunden der Pool im Frühjahr und Herbst Sonne bekommt, nicht nur mittags im Sommer.</li><li><strong>Zustand</strong>: Risse, lose Fliesen, Undichtigkeiten (fragen Sie nach den Wasserrechnungen), Alter von Pumpe, Filter, Salzzelle oder Wärmepumpe.</li><li><strong>Wassertechnik</strong>: Chlor oder Salz, automatische Dosierung, Beleuchtung.</li><li><strong>Sicherheit</strong>: Tiefe, Stufen oder Flachbereich, Zaun oder Abdeckung, wenn Kinder den Pool nutzen.</li><li><strong>Gemeinschaftspools</strong>: Saison und Öffnungszeiten, Regeln für Gäste und Mieter und die Pflegekosten in der letzten Abrechnung.</li></ul><p>Wenn Sie nicht das ganze Jahr vor Ort sind, lohnt es sich, von Anfang an einen Poolservice und eine <a href=\"{up}de-de/betreuung-einer-wohnung-in-spanien.html\">Objektbetreuung</a> zu organisieren.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Was kostet der Unterhalt eines privaten Pools in Spanien?",
+    "Für einen durchschnittlichen Villenpool insgesamt etwa 1.000 bis 3.000 € im Jahr für Chemie, Strom, Wasser, Poolservice und kleine Reparaturen. Eine Heizung erhöht die Kosten."
+   ],
+   [
+    "Erhöht ein Pool die IBI?",
+    "Ja. Ein gebauter Pool ist Teil des Katasterwerts der Immobilie, und die IBI wird auf diesen Wert berechnet. Die jährliche Steuer steigt also etwas."
+   ],
+   [
+    "Was, wenn der Pool nicht im Kataster eingetragen ist?",
+    "Der Eigentümer muss ihn melden. Das Catastro findet nicht gemeldete Pools auch über Luftbilder und erfasst sie mit Gebühr und Steuernachzahlung. Beim Kauf sollte der Verkäufer das vor dem Notartermin regeln."
+   ],
+   [
+    "Braucht ein Gemeinschaftspool einen Rettungsschwimmer?",
+    "Das hängt von den regionalen Vorschriften sowie von Größe und Nutzung des Pools ab. Wo einer vorgeschrieben ist, organisiert und bezahlt ihn die Gemeinschaft über das Hausgeld."
+   ],
+   [
+    "Braucht man für die Ferienvermietung einen Pool?",
+    "Vorgeschrieben ist er nicht, aber an der Küste beeinflusst er Nachfrage und Preis stark, besonders bei Villen und Familienurlauben."
+   ]
+  ],
+  "closing": {
+   "h2": "Finden Sie das Haus mit dem passenden Pool",
+   "alt": "Sonnenliegen und zwei Gläser Wein auf einer Terrasse bei Sonnenuntergang",
+   "html": "<p>Sagen Sie uns, ob Sie einen privaten oder einen gepflegten Gemeinschaftspool bevorzugen. Wir stellen passende Objekte an der Costa Blanca und der Costa del Sol zusammen und prüfen die Unterlagen zum Pool, bevor Sie sich festlegen. <a href=\"{up}index.html#contact\">Kontaktieren Sie uns</a> oder lesen Sie den <a href=\"{up}de-de/ein-luxushaus-oder-eine-villa-in-spanien-kaufen-wo-soll-man-suchen-was-ist-wissenswert.html\">Ratgeber zum Villenkauf</a>.</p>"
+  }
+ },
+ "es": {
+  "slug": "comprar-una-propiedad-en-espana-con-piscina",
+  "title": "Comprar una vivienda con piscina en España – costes y normas",
+  "description": "Comprar una casa o un piso con piscina en España: piscina privada o comunitaria, coste anual de mantenimiento, licencia y Catastro, normas sanitarias de las piscinas comunitarias y qué revisar en la visita.",
+  "crumb": "Vivienda con piscina",
+  "eyebrow": "Comprar en España · Guía práctica",
+  "h1": "Comprar una vivienda con piscina en España",
+  "hero_alt": "Chalet de piedra con piscina privada y tumbonas",
+  "short": "En la Costa Blanca y la Costa del Sol la piscina se puede usar seis meses o más al año, y es una de las características que más piden compradores y huéspedes. Puede elegir una piscina privada, que controla y paga usted, o una comunitaria, cuyos gastos se reparten a través de la cuota de comunidad. Una piscina privada suele costar entre unos 1.000 y 3.000 € al año, según el tamaño, la climatización y si contrata un servicio de mantenimiento. Una piscina de obra necesita licencia municipal y debe estar declarada en el Catastro, lo que sube el valor catastral y el IBI. Antes de comprar, compruebe que es legal y está declarada, y pruebe la bomba, el filtro y la climatización.",
+  "intro": [
+   "Una piscina cambia la forma de vivir una casa en España. También cambia lo que cuesta mantenerla, lo que conviene revisar antes de comprar y lo fácil que resulta alquilarla. Esto es lo que contamos a nuestros propios compradores."
+  ],
+  "sections": [
+   {
+    "id": "value",
+    "h2": "¿Merece la pena pagar por una piscina?",
+    "html": "<p>Para la mayoría de compradores en la costa, sí. En una vivienda vacacional la piscina suele ser el primer filtro de los huéspedes en las plataformas de reserva, y las viviendas con piscina se alquilan más semanas y a mejor precio. Al vender, llega a más compradores, sobre todo en chalets.</p><p>No siempre es la mejor opción. Una piscina privada supone gastos y trabajo todo el año, también los meses en que usted no está. Si solo va a pasar unas semanas al año en la costa y no piensa alquilar, un piso con una piscina comunitaria bien gestionada le da casi todo el disfrute con mucho menos esfuerzo.</p>"
+   },
+   {
+    "id": "types",
+    "h2": "Piscina privada o comunitaria",
+    "alt": "Piscina comunitaria entre palmeras en un residencial moderno",
+    "html": "<ul><li><strong>Piscina privada</strong>: habitual en chalets y en algunos adosados y bajos. Total privacidad y control, pero usted paga todos los gastos y organiza el mantenimiento.</li><li><strong>Piscina comunitaria</strong>: habitual en residenciales y urbanizaciones cerradas. El mantenimiento, la limpieza, el seguro y, cuando es obligatorio, el socorrista se pagan con la cuota de comunidad, así que el coste por propietario es bajo. La comunidad fija la temporada, el horario y las normas.</li></ul><p>Al comparar piscinas comunitarias, fíjese en la cuota, lo que incluye y cómo se cuida la piscina. Nuestra guía sobre la <a href=\"{up}es-es/comunidad-de-propietarios.html\">comunidad de propietarios</a> explica cómo funcionan las cuotas y las normas.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Cuánto cuesta mantener una piscina privada",
+    "alt": "Persona limpiando una piscina con un recogehojas",
+    "html": "<p>Rangos habituales para una piscina media de chalet (unos 8 × 4 m) en la costa. Sus cifras dependerán del tamaño, el equipo, la duración de la temporada y los precios de la zona.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Gasto</th><th>Habitual al año</th></tr></thead><tbody><tr><td>Productos químicos (cloro o sal, pH)</td><td>150 – 500 €</td></tr><tr><td>Electricidad de bomba y depuradora</td><td>300 – 700 €</td></tr><tr><td>Agua para rellenar</td><td>100 – 300 €</td></tr><tr><td>Servicio de mantenimiento (semanal en temporada)</td><td>900 – 1.800 €</td></tr><tr><td>Reparaciones y piezas (bomba, célula de sal, arena del filtro)</td><td>100 – 500 € de media</td></tr></tbody></table></div><p>Una bomba de calor u otra climatización sube bastante la factura de la luz, pero alarga la temporada a primavera y otoño. La cloración salina gasta menos productos, aunque su célula hay que cambiarla cada pocos años. La piscina también aumenta el valor catastral, por lo que el <a href=\"{up}es-es/impuesto-sobre-bienes-inmuebles-en-espana.html\">IBI</a> anual es algo más alto.</p>"
+   },
+   {
+    "id": "rules",
+    "h2": "Licencia, Catastro y normas sanitarias",
+    "alt": "Piscina comunitaria redonda frente a un edificio blanco de apartamentos",
+    "html": "<p><strong>Licencia.</strong> Construir una piscina requiere autorización del ayuntamiento, licencia de obra o declaración responsable según el municipio. Una piscina hecha sin ella puede ser una infracción urbanística, y legalizarla después exige un proyecto técnico y tasas.</p><p><strong>Catastro.</strong> La piscina de obra debe declararse al Catastro, que actualiza el valor catastral y con él el IBI. El Catastro detecta piscinas no declaradas con imágenes aéreas y de satélite y las regulariza, con tasa y liquidación de los años atrasados. Revise la consulta descriptiva y gráfica de la vivienda: si la piscina no aparece, pida al vendedor que lo resuelva antes de la escritura.</p><p><strong>Normas sanitarias.</strong> El Real Decreto 742/2013 fija los criterios de calidad del agua y seguridad de las piscinas de uso colectivo, incluidas las comunitarias. Las comunidades autónomas añaden sus propias normas, por ejemplo sobre socorristas, carteles e inspecciones. En la Comunitat Valenciana y Andalucía afectan sobre todo a las piscinas comunitarias, y la responsable es la comunidad, no cada propietario. A la piscina privada de una vivienda unifamiliar el decreto solo se aplica en parte, pero usted responde si alguien sufre un daño, así que manténgala limpia y segura y tenga un seguro de responsabilidad civil.</p><p><strong>Restricciones de agua.</strong> En épocas de sequía algunos municipios limitan el llenado de piscinas privadas. Infórmese en su ayuntamiento y valore una cubierta para reducir la evaporación.</p><p><strong>Alquiler vacacional.</strong> Si alquila, la piscina debe ser segura para los huéspedes y su <a href=\"{up}es-es/seguro-de-propiedad-en-espana.html\">seguro</a> debe cubrir la responsabilidad frente a ellos. Las normas del alquiler turístico están en nuestra guía sobre <a href=\"{up}es-es/nuevas-normas-sobre-alquileres-a-corto-plazo-en-espana.html\">alquileres de corta duración</a>.</p>"
+   },
+   {
+    "id": "check",
+    "h2": "Qué revisar al visitar una vivienda con piscina",
+    "html": "<ul><li><strong>Situación legal</strong>: licencia de la piscina y que figure en el Catastro y en la descripción de la finca.</li><li><strong>Sol</strong>: cuántas horas de sol recibe en primavera y otoño, no solo al mediodía en verano.</li><li><strong>Estado</strong>: grietas, azulejos sueltos, fugas (pregunte por las facturas de agua), antigüedad de la bomba, el filtro y la célula de sal o la bomba de calor.</li><li><strong>Tratamiento del agua</strong>: cloro o sal, dosificación automática, iluminación.</li><li><strong>Seguridad</strong>: profundidad, escalones o zona poco profunda, valla o cubierta si la usarán niños.</li><li><strong>Piscinas comunitarias</strong>: temporada y horario, normas para invitados e inquilinos y el gasto de mantenimiento en las últimas cuentas.</li></ul><p>Si no va a estar todo el año, conviene contratar desde el principio un servicio de piscina y a alguien que <a href=\"{up}es-es/cuidado-de-la-vivienda-en-espana.html\">cuide la vivienda</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuánto cuesta mantener una piscina privada en España?",
+    "Para una piscina media de chalet, en total unos 1.000 a 3.000 € al año entre productos, electricidad, agua, servicio de mantenimiento y pequeñas reparaciones. La climatización lo encarece."
+   ],
+   [
+    "¿La piscina sube el IBI?",
+    "Sí. La piscina de obra forma parte del valor catastral de la vivienda y el IBI se calcula sobre ese valor, así que el recibo anual sube algo."
+   ],
+   [
+    "¿Qué pasa si la piscina no está declarada en el Catastro?",
+    "El propietario debe declararla. El Catastro también detecta piscinas no declaradas con imágenes aéreas y las regulariza con tasa y liquidación de atrasos. Al comprar, pida al vendedor que la regularice antes de la escritura."
+   ],
+   [
+    "¿Una piscina comunitaria necesita socorrista?",
+    "Depende de la normativa autonómica y del tamaño y uso de la piscina. Cuando es obligatorio, la comunidad lo contrata y lo paga a través de las cuotas."
+   ],
+   [
+    "¿Hace falta piscina para alquilar una vivienda vacacional?",
+    "No es obligatoria, pero en la costa influye mucho en la demanda y el precio, sobre todo en chalets y estancias familiares."
+   ]
+  ],
+  "closing": {
+   "h2": "Encuentre la vivienda con la piscina adecuada",
+   "alt": "Tumbonas y dos copas de vino en una terraza al atardecer",
+   "html": "<p>Díganos si prefiere piscina privada o una comunitaria bien cuidada: le preparamos una selección en la Costa Blanca y la Costa del Sol y revisamos la documentación de la piscina antes de que se comprometa. <a href=\"{up}index.html#contact\">Contacte con nosotros</a> o lea la <a href=\"{up}es-es/comprar-una-casa-o-chalet-de-lujo-en-espana-donde-buscar-que-merece-la-pena-saber.html\">guía para comprar un chalet</a>.</p>"
+  }
+ }
+}
