@@ -289,3 +289,24 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
   .coasts { grid-template-columns: 1fr; }
   .coast { min-height: 260px; }
 }
+
+/* Property description: key info, costs, FAQ, similar */
+.prop-text h3 { font-size: 1.3rem; margin: 2rem 0 .6rem; }
+.info-list { margin: 0; border-top: 1px solid #ece7df; }
+.info-list div { display: grid; grid-template-columns: 9.5rem 1fr; gap: 1rem; padding: .55rem 0; border-bottom: 1px solid #ece7df; }
+.info-list dt { font-weight: 700; color: var(--ink); }
+.info-list dd { margin: 0; }
+.small-print { font-size: .85rem; color: var(--muted); }
+.cost-table { width: 100%; max-width: 40rem; border-collapse: collapse; margin: 1rem 0; }
+.cost-table th, .cost-table td { padding: .65rem 0; border-bottom: 1px solid #ece7df; text-align: left; font-weight: 400; }
+.cost-table td { text-align: right; white-space: nowrap; padding-left: 1rem; }
+.cost-table .total th, .cost-table .total td { font-weight: 700; color: var(--ink); border-bottom: 2px solid var(--gold); }
+.faq details { border-bottom: 1px solid #ece7df; }
+.faq summary { cursor: pointer; padding: .85rem 1.5rem .85rem 0; font-weight: 700; color: var(--ink); list-style: none; position: relative; }
+.faq summary::-webkit-details-marker { display: none; }
+.faq summary::after { content: "+"; position: absolute; right: 0; top: .7rem; color: var(--gold); font-size: 1.2rem; }
+.faq details[open] summary::after { content: "–"; }
+.faq details p { margin: 0 0 1rem; }
+.similar { margin-top: 4rem; padding-top: 2.5rem; border-top: 1px solid #ece7df; }
+.similar h2 { font-size: clamp(1.6rem, 3vw, 2.1rem); margin-bottom: 1.5rem; }
+@media (max-width: 600px) { .info-list div { grid-template-columns: 1fr; gap: .1rem; } }
