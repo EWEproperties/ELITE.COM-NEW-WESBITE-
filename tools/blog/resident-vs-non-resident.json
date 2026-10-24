@@ -1,0 +1,192 @@
+{
+  "author": "anita",
+  "published": "2026-02-10",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/resident-vs-non-resident/gran-via-madrid-at-sunset.jpg",
+  "images": {
+    "compare": "assets/blog/resident-vs-non-resident/spanish-tax-form-with-calculator.jpg",
+    "mistakes": "assets/blog/resident-vs-non-resident/remote-worker-in-cafe.jpg",
+    "closing": "assets/blog/resident-vs-non-resident/meeting-with-tax-adviser.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/rezydent-vs-nierezydent-w-hiszpanii",
+  "cards": ["20927700", "26234196", "23844656"],
+  "sources": [
+    ["Agencia Tributaria – Tax residence (Ley 35/2006, art. 9)", "https://sede.agenciatributaria.gob.es/Sede/en_gb/irpf/residencia-fiscal.html"],
+    ["Agencia Tributaria – Non-resident income tax, form 210", "https://sede.agenciatributaria.gob.es/Sede/en_gb/no-residentes.html"],
+    ["Guía Fiscal – IRPF brackets 2026", "https://guiafiscal.es/irpf/tramos-irpf-2026/"]
+  ],
+  "en": {
+    "slug": "resident-vs-non-resident-in-spain",
+    "title": "Tax Resident vs Non-Resident in Spain – What Changes for Owners",
+    "description": "When you become a tax resident in Spain, how residents and non-residents are taxed, 2026 rates for rental income, savings and property sales, and the common mistakes foreign property owners make.",
+    "crumb": "Resident vs non-resident",
+    "eyebrow": "Owning in Spain · Taxes",
+    "h1": "Tax Resident or Non-Resident in Spain – What Changes for Property Owners",
+    "hero_alt": "Gran Vía in Madrid at sunset with light trails from traffic",
+    "short": "You are a Spanish tax resident if you spend more than 183 days a year in Spain, if your main business or economic interests are in Spain, or (as a presumption) if your spouse and minor children live there. Buying a home alone does not make you resident. Residents pay tax on their worldwide income at progressive rates, roughly 19% to 47–54% depending on region. Non-residents pay only on Spanish income: 19% (EU/EEA) or 24% (others) on rent, an imputed tax on homes they do not rent out, and 19% on gains when they sell.",
+    "intro": [
+      "Most buyers think about the sun and the sea first and about tax much later. Yet whether Spain sees you as a resident or a non-resident decides which income Spain taxes, at what rates, and whether Spain is interested in what you earn at home.",
+      "This guide explains when you become a tax resident, how each group is taxed, and the mistakes that most often cause problems."
+    ],
+    "sections": [
+      {
+        "id": "when",
+        "h2": "When are you a tax resident in Spain?",
+        "alt": "",
+        "html": "<p>Tax residency does not depend on your nationality or on owning property. It depends on facts. Under Spanish law you are a tax resident for a calendar year if:</p><ul><li>you spend <strong>more than 183 days</strong> in Spain in that year (short trips abroad still count as days in Spain unless you prove tax residence in another country), or</li><li>the <strong>main centre of your business or economic interests</strong> is in Spain, or</li><li>your spouse (not legally separated) and minor children live in Spain. This is a presumption you can rebut.</li></ul><p>If you also count as resident in your home country, the double tax treaty between the two countries decides, looking in turn at where you have a permanent home, where your personal and economic life is centred, where you usually live and your nationality.</p><p>Tax residency is not the same as legal residence. EU citizens who stay more than three months must register as residents, and non-EU citizens need a visa. Our guide to <a href=\"{up}staying-in-spain-for-more-than-90-days-while-owning-property.html\">staying in Spain for more than 90 days</a> covers that side.</p>"
+      },
+      {
+        "id": "residents",
+        "h2": "How residents are taxed",
+        "alt": "",
+        "html": "<p>Spanish tax residents pay income tax (<em>IRPF</em>) on their <strong>worldwide income</strong>: salary, pensions, business income, rent, interest, dividends and capital gains, wherever they come from. They file a yearly return between April and June. Tax already paid abroad is credited under the double tax treaty.</p><ul><li><strong>Work, pension and rental income</strong> is taxed on a progressive scale shared by the State and the region. It starts at about 19% and the top rate is about 47% in Andalusia and close to 54% in the Valencian Community.</li><li><strong>Savings income</strong> (interest, dividends and capital gains) is taxed at 19% up to €6,000, then 21%, 23%, 27% and 30% above €300,000.</li><li>Residents can deduct rental costs and get allowances, and gains on selling a main home are tax-free if reinvested in a new main home, or if the seller is over 65.</li><li>Residents with more than €50,000 in assets abroad in one category (accounts, investments or property) must report them on form 720.</li><li>Wealth tax applies to worldwide assets, with allowances set by each region. In the Valencian Community the allowance rises from €1 million to €2 million from tax year 2026.</li></ul><p>People who move to Spain for work may qualify for the special regime for impatriates (the \"Beckham law\"), with a flat 24% on Spanish work income up to €600,000 for six years.</p>"
+      },
+      {
+        "id": "nonresidents",
+        "h2": "How non-residents are taxed",
+        "alt": "",
+        "html": "<p>Non-residents pay non-resident income tax (<em>IRNR</em>) only on <strong>income from Spain</strong>, using form 210. For a property owner that means:</p><ul><li><strong>Rental income:</strong> 19% for residents of the EU, Norway and Iceland, who can deduct costs such as IBI, community fees, repairs and interest. Everyone else, including UK, Swiss and US owners, pays 24% on gross rent with no deductions.</li><li><strong>A home you do not rent out:</strong> tax on an imputed income of 1.1% of the cadastral value (2% if not revised recently), at the same 19% or 24%. This is due every year, by 31 December of the following year.</li><li><strong>Selling:</strong> 19% on the gain. The buyer holds back 3% of the price and pays it to the tax office on your account. If that is more than your tax, you claim the difference back.</li></ul><p>Non-residents get no personal allowances and do not file the normal yearly return. They also pay wealth tax on their Spanish assets above the allowance. Our guide to <a href=\"{up}property-and-wealth-taxes-in-spain.html\">property and wealth taxes in Spain</a> has the details.</p>"
+      },
+      {
+        "id": "compare",
+        "h2": "Side by side",
+        "alt": "Spanish tax form with a calculator, coins and a Spanish flag",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Resident</th><th>Non-resident</th></tr></thead><tbody><tr><td>What is taxed</td><td>worldwide income</td><td>Spanish income only</td></tr><tr><td>Tax and form</td><td>IRPF, yearly return</td><td>IRNR, form 210</td></tr><tr><td>Rental income</td><td>progressive scale, costs deductible, allowances</td><td>19% (EU/EEA, costs deductible) or 24% gross</td></tr><tr><td>Home not rented out</td><td>no tax if it is your main home; imputed income on second homes</td><td>imputed income every year</td></tr><tr><td>Gain on sale</td><td>19–30%, exemptions for main home</td><td>19%, 3% withheld by buyer</td></tr><tr><td>Wealth tax</td><td>worldwide assets</td><td>Spanish assets only</td></tr><tr><td>Assets abroad</td><td>form 720 above €50,000</td><td>not reported</td></tr></tbody></table></div><p>Neither status is better in itself. For one holiday home and income earned at home, non-resident status is usually simpler and cheaper. If you live and work in Spain, you are a resident whether you like it or not.</p>"
+      },
+      {
+        "id": "mistakes",
+        "h2": "Common mistakes",
+        "alt": "Man working on a laptop in a café terrace",
+        "html": "<p>Most problems come from wrong assumptions rather than from the rates:</p><ul><li><strong>Thinking a home you do not rent costs no tax.</strong> Non-residents pay the imputed tax every year, even if the home stands empty.</li><li><strong>Not counting days.</strong> Long winters plus summer holidays can pass 183 days. Keep travel records.</li><li><strong>Working remotely from Spain</strong> for months while declaring residence elsewhere.</li><li><strong>Moving your life to Spain</strong> (family, car, doctor, social life) while your tax papers still say you live at home.</li><li><strong>Missing the 3% when selling</strong> and not claiming back the excess.</li></ul><p>The result can be back taxes, interest and fines, and sometimes being taxed twice until the two countries sort it out.</p>"
+      }
+    ],
+    "faq": [
+      ["Does buying a house in Spain make me a tax resident?", "No. Owning property does not make you resident. What counts is where you spend more than 183 days a year, where your main economic interests are and, as a presumption, where your spouse and minor children live."],
+      ["How much tax does a non-resident pay on a Spanish holiday home?", "If you do not rent it out, you pay 19% (EU/EEA) or 24% (others) on an imputed income of 1.1–2% of the cadastral value, plus the local IBI tax. For a typical apartment this is often around €150–400 a year."],
+      ["Can I be tax resident in two countries at once?", "Both countries can claim you under their own rules. The double tax treaty then decides where you are resident, based on your permanent home, centre of vital interests, habitual residence and nationality."],
+      ["Do non-residents have to file a tax return every year?", "Yes, if they own property in Spain. Form 210 covers both the imputed income on a home you do not rent and any rental income."],
+      ["Which status is better?", "It depends on where you really live and work. A non-resident with one holiday home usually pays less. If you live in Spain, residency is not a choice but a consequence."]
+    ],
+    "closing": {
+      "h2": "Plan your tax status before you buy",
+      "alt": "Tax adviser going through documents with a client",
+      "html": "<p>Your tax status affects how you should buy, rent out and one day sell your home. <a href=\"{up}index.html#contact\">Contact us</a> and we will introduce you to an independent tax adviser who works with international owners, before you sign anything.</p>"
+    }
+  },
+  "de": {
+    "slug": "steuerresident-oder-nichtresident-in-spanien",
+    "title": "Steuerresident oder Nichtresident in Spanien – was das für Eigentümer bedeutet",
+    "description": "Wann Sie in Spanien steuerlich ansässig werden, wie Residenten und Nichtresidenten besteuert werden, die Sätze 2026 für Miete, Kapitalerträge und Verkauf und typische Fehler ausländischer Eigentümer.",
+    "crumb": "Resident oder Nichtresident",
+    "eyebrow": "Eigentum in Spanien · Steuern",
+    "h1": "Steuerresident oder Nichtresident in Spanien – was sich für Eigentümer ändert",
+    "hero_alt": "Gran Vía in Madrid bei Sonnenuntergang mit Lichtspuren des Verkehrs",
+    "short": "Steuerlich ansässig in Spanien sind Sie, wenn Sie mehr als 183 Tage im Jahr in Spanien verbringen, wenn Ihre wirtschaftlichen Interessen hauptsächlich in Spanien liegen oder (als Vermutung) wenn Ehepartner und minderjährige Kinder dort leben. Der Kauf einer Immobilie allein macht Sie nicht zum Residenten. Residenten versteuern ihr Welteinkommen progressiv, je nach Region etwa 19 % bis 47–54 %. Nichtresidenten zahlen nur auf spanische Einkünfte: 19 % (EU/EWR) oder 24 % (z. B. Schweiz) auf Mieten, eine fiktive Steuer auf nicht vermietete Immobilien und 19 % auf Veräußerungsgewinne.",
+    "intro": [
+      "Die meisten Käufer denken zuerst an Sonne und Meer und erst viel später an Steuern. Dabei entscheidet die Frage, ob Spanien Sie als Residenten oder Nichtresidenten sieht, welche Einkünfte Spanien besteuert, zu welchen Sätzen und ob sich das spanische Finanzamt für Ihr Einkommen in Deutschland, Österreich oder der Schweiz interessiert.",
+      "Dieser Ratgeber erklärt, wann Sie steuerlich ansässig werden, wie beide Gruppen besteuert werden und welche Fehler am häufigsten Ärger machen."
+    ],
+    "sections": [
+      {
+        "id": "when",
+        "h2": "Wann sind Sie in Spanien steuerlich ansässig?",
+        "alt": "",
+        "html": "<p>Die steuerliche Ansässigkeit hängt nicht von Staatsangehörigkeit oder Immobilienbesitz ab, sondern von Tatsachen. Nach spanischem Recht sind Sie für ein Kalenderjahr steuerlich ansässig, wenn:</p><ul><li>Sie sich <strong>mehr als 183 Tage</strong> in dem Jahr in Spanien aufhalten (kurze Reisen ins Ausland zählen mit, solange Sie keine Ansässigkeit in einem anderen Land nachweisen), oder</li><li>der <strong>Mittelpunkt Ihrer geschäftlichen oder wirtschaftlichen Interessen</strong> in Spanien liegt, oder</li><li>Ihr Ehepartner (nicht getrennt) und Ihre minderjährigen Kinder in Spanien leben. Diese Vermutung können Sie widerlegen.</li></ul><p>Gelten Sie auch zu Hause als ansässig, entscheidet das Doppelbesteuerungsabkommen zwischen Spanien und Deutschland, Österreich oder der Schweiz. Es prüft der Reihe nach ständige Wohnstätte, Mittelpunkt der Lebensinteressen, gewöhnlichen Aufenthalt und Staatsangehörigkeit.</p><p>Steuerliche Ansässigkeit ist nicht dasselbe wie das Aufenthaltsrecht. EU-Bürger, die länger als drei Monate bleiben, müssen sich registrieren, Schweizer ebenso. Unser Ratgeber zum <a href=\"{up}de-de/aufenthalt-in-spanien-von-mehr-als-90-tagen-mit-immobilienbesitz.html\">Aufenthalt von mehr als 90 Tagen</a> erklärt diese Seite.</p>"
+      },
+      {
+        "id": "residents",
+        "h2": "Wie Residenten besteuert werden",
+        "alt": "",
+        "html": "<p>Steuerresidenten zahlen Einkommensteuer (<em>IRPF</em>) auf ihr <strong>Welteinkommen</strong>: Gehalt, Renten, Unternehmensgewinne, Mieten, Zinsen, Dividenden und Veräußerungsgewinne, egal woher. Die Erklärung wird jährlich zwischen April und Juni abgegeben. Im Ausland gezahlte Steuer wird nach dem Doppelbesteuerungsabkommen angerechnet.</p><ul><li><strong>Arbeits-, Renten- und Mieteinkünfte</strong> werden progressiv besteuert, mit einem staatlichen und einem regionalen Anteil. Der Tarif beginnt bei etwa 19 %, der Spitzensatz liegt bei etwa 47 % in Andalusien und fast 54 % in der Region Valencia.</li><li><strong>Kapitalerträge</strong> (Zinsen, Dividenden, Veräußerungsgewinne) kosten 19 % bis 6.000 €, dann 21 %, 23 %, 27 % und 30 % über 300.000 €.</li><li>Residenten können Mietkosten abziehen und erhalten Freibeträge. Gewinne aus dem Verkauf der Hauptwohnung sind steuerfrei, wenn sie in eine neue Hauptwohnung reinvestiert werden oder der Verkäufer über 65 ist.</li><li>Wer im Ausland mehr als 50.000 € in einer Kategorie (Konten, Wertpapiere oder Immobilien) besitzt, muss dies mit dem Formular 720 melden, also auch das Haus und das Depot in Deutschland.</li><li>Die Vermögensteuer gilt für das Weltvermögen, die Freibeträge legen die Regionen fest. In der Region Valencia steigt er ab dem Steuerjahr 2026 von 1 Mio. € auf 2 Mio. €.</li></ul><p>Wer zum Arbeiten nach Spanien zieht, kann unter Umständen die Sonderregelung für Zuzügler (\"Beckham-Gesetz\") nutzen: pauschal 24 % auf spanische Arbeitseinkünfte bis 600.000 € für sechs Jahre.</p>"
+      },
+      {
+        "id": "nonresidents",
+        "h2": "Wie Nichtresidenten besteuert werden",
+        "alt": "",
+        "html": "<p>Nichtresidenten zahlen Einkommensteuer für Nichtresidenten (<em>IRNR</em>) nur auf <strong>Einkünfte aus Spanien</strong>, mit dem Formular 210. Für Immobilieneigentümer heißt das:</p><ul><li><strong>Mieteinnahmen:</strong> 19 % für Ansässige in der EU, Norwegen und Island, die Kosten wie IBI, Gemeinschaftskosten, Reparaturen und Zinsen abziehen dürfen. Alle anderen, auch Schweizer, zahlen 24 % auf die Bruttomiete ohne Abzüge.</li><li><strong>Nicht vermietete Immobilie:</strong> Steuer auf ein fiktives Einkommen von 1,1 % des Katasterwerts (2 %, wenn er länger nicht neu festgesetzt wurde), zu denselben 19 % oder 24 %. Fällig jedes Jahr bis zum 31. Dezember des Folgejahres.</li><li><strong>Verkauf:</strong> 19 % auf den Gewinn. Der Käufer behält 3 % des Preises ein und führt sie für Sie an das Finanzamt ab. Ist das mehr als Ihre Steuer, fordern Sie die Differenz zurück.</li></ul><p>Nichtresidenten erhalten keine persönlichen Freibeträge und geben keine normale Jahreserklärung ab. Auf spanisches Vermögen über dem Freibetrag zahlen sie Vermögensteuer. Einzelheiten in unserem Ratgeber zu <a href=\"{up}de-de/immobilien--und-vermogenssteuern-in-spanien.html\">Immobilien- und Vermögensteuern</a>.</p><p>Wichtig für Deutsche: Spanische Mieteinkünfte sind in Deutschland steuerfrei, erhöhen aber über den Progressionsvorbehalt den Steuersatz auf Ihr übriges Einkommen. Lassen Sie das von Ihrem Steuerberater zu Hause prüfen.</p>"
+      },
+      {
+        "id": "compare",
+        "h2": "Im Vergleich",
+        "alt": "Spanisches Steuerformular mit Taschenrechner, Münzen und spanischer Flagge",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Resident</th><th>Nichtresident</th></tr></thead><tbody><tr><td>Was besteuert wird</td><td>Welteinkommen</td><td>nur spanische Einkünfte</td></tr><tr><td>Steuer und Formular</td><td>IRPF, Jahreserklärung</td><td>IRNR, Formular 210</td></tr><tr><td>Mieteinnahmen</td><td>progressiv, Kosten abziehbar, Freibeträge</td><td>19 % (EU/EWR, Kosten abziehbar) oder 24 % brutto</td></tr><tr><td>Nicht vermietete Immobilie</td><td>keine Steuer auf die Hauptwohnung, fiktives Einkommen für Zweitwohnungen</td><td>jedes Jahr fiktives Einkommen</td></tr><tr><td>Veräußerungsgewinn</td><td>19–30 %, Befreiungen für Hauptwohnung</td><td>19 %, 3 % Einbehalt durch Käufer</td></tr><tr><td>Vermögensteuer</td><td>Weltvermögen</td><td>nur spanisches Vermögen</td></tr><tr><td>Auslandsvermögen</td><td>Formular 720 über 50.000 €</td><td>keine Meldung</td></tr></tbody></table></div><p>Kein Status ist an sich besser. Mit einer Ferienimmobilie und Einkommen zu Hause ist der Nichtresidenten-Status meist einfacher und günstiger. Wer in Spanien lebt und arbeitet, ist Resident, ob er will oder nicht.</p>"
+      },
+      {
+        "id": "mistakes",
+        "h2": "Typische Fehler",
+        "alt": "Mann arbeitet am Laptop auf einer Café-Terrasse",
+        "html": "<p>Die meisten Probleme entstehen durch falsche Annahmen, nicht durch die Steuersätze:</p><ul><li><strong>Zu glauben, eine nicht vermietete Immobilie koste keine Steuer.</strong> Nichtresidenten zahlen die fiktive Steuer jedes Jahr, auch bei Leerstand.</li><li><strong>Tage nicht mitzählen.</strong> Ein langer Winter plus Sommerurlaub kann 183 Tage überschreiten. Bewahren Sie Reisebelege auf.</li><li><strong>Monatelang aus Spanien remote arbeiten</strong> und weiter in Deutschland als ansässig gelten wollen.</li><li><strong>Den Lebensmittelpunkt verlegen</strong> (Familie, Auto, Arzt, Freundeskreis), während die Steuerunterlagen weiter den alten Wohnsitz nennen.</li><li><strong>Die 3 % beim Verkauf übersehen</strong> und den zu viel einbehaltenen Betrag nicht zurückfordern.</li></ul><p>Die Folgen können Nachzahlungen, Zinsen und Strafen sein, im schlimmsten Fall eine Doppelbesteuerung, bis beide Länder sich geeinigt haben.</p>"
+      }
+    ],
+    "faq": [
+      ["Werde ich durch den Kauf einer Immobilie in Spanien steuerlich ansässig?", "Nein. Immobilienbesitz allein begründet keine Ansässigkeit. Entscheidend sind mehr als 183 Tage Aufenthalt, der Mittelpunkt Ihrer wirtschaftlichen Interessen und, als Vermutung, wo Ehepartner und minderjährige Kinder leben."],
+      ["Wie viel Steuer zahlt ein Nichtresident für eine Ferienwohnung?", "Ohne Vermietung zahlen Sie 19 % (EU/EWR) oder 24 % (z. B. Schweiz) auf ein fiktives Einkommen von 1,1–2 % des Katasterwerts, dazu die Grundsteuer IBI. Bei einer typischen Wohnung sind das oft etwa 150–400 € im Jahr."],
+      ["Kann ich in zwei Ländern gleichzeitig ansässig sein?", "Beide Länder können Sie nach ihrem Recht als ansässig ansehen. Dann entscheidet das Doppelbesteuerungsabkommen anhand von ständiger Wohnstätte, Lebensmittelpunkt, gewöhnlichem Aufenthalt und Staatsangehörigkeit."],
+      ["Müssen Nichtresidenten jedes Jahr eine Steuererklärung abgeben?", "Ja, wenn sie eine Immobilie in Spanien besitzen. Das Formular 210 deckt das fiktive Einkommen und eventuelle Mieteinnahmen ab."],
+      ["Welcher Status ist besser?", "Das hängt davon ab, wo Sie wirklich leben und arbeiten. Ein Nichtresident mit einer Ferienimmobilie zahlt meist weniger. Wer in Spanien lebt, hat keine Wahl."]
+    ],
+    "closing": {
+      "h2": "Den Steuerstatus vor dem Kauf klären",
+      "alt": "Steuerberaterin bespricht Unterlagen mit einem Kunden",
+      "html": "<p>Ihr Steuerstatus beeinflusst, wie Sie kaufen, vermieten und eines Tages verkaufen sollten. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>. Wir vermitteln Ihnen vor der Unterschrift einen unabhängigen Steuerberater, der mit deutschsprachigen Eigentümern arbeitet.</p>"
+    }
+  },
+  "es": {
+    "slug": "residente-vs-no-residente-en-espana",
+    "title": "Residente fiscal o no residente en España – qué cambia para el propietario",
+    "description": "Cuándo es residente fiscal en España, cómo tributan residentes y no residentes, los tipos de 2026 para alquiler, ahorro y venta de inmuebles, y los errores más comunes de los propietarios.",
+    "crumb": "Residente vs no residente",
+    "eyebrow": "Ser propietario en España · Impuestos",
+    "h1": "Residente fiscal o no residente en España – qué cambia para el propietario",
+    "hero_alt": "La Gran Vía de Madrid al atardecer con estelas de luz del tráfico",
+    "short": "Es residente fiscal en España si pasa más de 183 días al año en el país, si su núcleo principal de actividades o intereses económicos está en España o (como presunción) si su cónyuge e hijos menores viven aquí. Comprar una vivienda no le convierte en residente. Los residentes tributan por su renta mundial con una escala progresiva, de aproximadamente el 19 % al 47–54 % según la comunidad. Los no residentes solo tributan por rentas españolas: 19 % (UE/EEE) o 24 % (resto) por el alquiler, una renta imputada si no alquilan y 19 % por la ganancia al vender.",
+    "intro": [
+      "Al comprar en España se piensa primero en el sol y el mar, y mucho después en los impuestos. Pero ser residente o no residente decide qué rentas grava España, a qué tipos y si Hacienda se interesa por lo que gana en otro país.",
+      "Esta guía explica cuándo pasa a ser residente fiscal, cómo tributa cada grupo y qué errores causan más problemas, tanto si vive fuera de España como si se está mudando."
+    ],
+    "sections": [
+      {
+        "id": "when",
+        "h2": "¿Cuándo es residente fiscal en España?",
+        "alt": "",
+        "html": "<p>La residencia fiscal no depende de la nacionalidad ni de tener una vivienda, sino de los hechos. Según la ley del IRPF, es residente en un año natural si:</p><ul><li>permanece <strong>más de 183 días</strong> en España ese año (las ausencias esporádicas cuentan como días en España salvo que acredite residencia fiscal en otro país), o</li><li>radica en España el <strong>núcleo principal o la base de sus actividades o intereses económicos</strong>, o</li><li>su cónyuge no separado legalmente y sus hijos menores residen habitualmente en España. Es una presunción que admite prueba en contrario.</li></ul><p>Si otro país también le considera residente, decide el convenio de doble imposición, que mira por orden la vivienda permanente, el centro de intereses vitales, la residencia habitual y la nacionalidad.</p><p>La residencia fiscal no es lo mismo que la residencia legal. Los ciudadanos de la UE que se quedan más de tres meses deben inscribirse en el registro de extranjeros, y los de fuera de la UE necesitan un visado. Nuestra guía sobre la <a href=\"{up}es-es/estancia-en-espana-superior-a-90-dias-siendo-propietario-de-un-inmueble.html\">estancia de más de 90 días</a> lo explica.</p>"
+      },
+      {
+        "id": "residents",
+        "h2": "Cómo tributan los residentes",
+        "alt": "",
+        "html": "<p>Los residentes fiscales pagan IRPF por su <strong>renta mundial</strong>: salario, pensiones, actividades económicas, alquileres, intereses, dividendos y ganancias, vengan de donde vengan. La declaración se presenta cada año entre abril y junio. Lo pagado en el extranjero se deduce según el convenio de doble imposición.</p><ul><li><strong>Rentas del trabajo, pensiones y alquileres</strong> tributan en la base general, con una escala estatal y otra autonómica. Empieza en torno al 19 % y el tipo máximo ronda el 47 % en Andalucía y casi el 54 % en la Comunitat Valenciana.</li><li><strong>Rentas del ahorro</strong> (intereses, dividendos y ganancias): 19 % hasta 6.000 €, después 21 %, 23 %, 27 % y 30 % a partir de 300.000 €.</li><li>Los residentes pueden deducir gastos del alquiler y aplicar mínimos personales. La ganancia por vender la vivienda habitual está exenta si se reinvierte en otra vivienda habitual o si el vendedor tiene más de 65 años.</li><li>Quien tenga más de 50.000 € en bienes en el extranjero en una categoría (cuentas, valores o inmuebles) debe declararlos en el modelo 720.</li><li>El impuesto sobre el patrimonio grava los bienes mundiales, con mínimos exentos que fija cada comunidad. En la Comunitat Valenciana pasa de 1 a 2 millones de euros desde el ejercicio 2026.</li></ul><p>Quien se traslada a España para trabajar puede acogerse al régimen de impatriados (la \"ley Beckham\"): un 24 % fijo sobre los rendimientos del trabajo en España hasta 600.000 € durante seis años.</p>"
+      },
+      {
+        "id": "nonresidents",
+        "h2": "Cómo tributan los no residentes",
+        "alt": "",
+        "html": "<p>Los no residentes pagan el impuesto sobre la renta de no residentes (<em>IRNR</em>) solo por las <strong>rentas obtenidas en España</strong>, con el modelo 210. Para un propietario esto significa:</p><ul><li><strong>Alquiler:</strong> 19 % para residentes en la UE, Noruega e Islandia, que pueden deducir gastos como el IBI, la comunidad, las reparaciones y los intereses. El resto, incluidos los residentes en Latinoamérica, EE. UU., Reino Unido o Suiza, paga el 24 % sobre el ingreso íntegro, sin deducciones.</li><li><strong>Vivienda no alquilada:</strong> renta imputada del 1,1 % del valor catastral (2 % si no se ha revisado recientemente), al mismo 19 % o 24 %. Se declara cada año, hasta el 31 de diciembre del año siguiente.</li><li><strong>Venta:</strong> 19 % sobre la ganancia. El comprador retiene el 3 % del precio y lo ingresa a cuenta en Hacienda. Si es más que su impuesto, puede pedir la devolución.</li></ul><p>Los no residentes no tienen mínimos personales ni presentan la declaración ordinaria. Pagan el impuesto sobre el patrimonio por sus bienes en España por encima del mínimo exento. Más detalles en nuestra guía de <a href=\"{up}es-es/impuestos-sobre-la-propiedad-y-el-patrimonio-en-espana.html\">impuestos sobre la propiedad y el patrimonio</a>.</p>"
+      },
+      {
+        "id": "compare",
+        "h2": "Comparación",
+        "alt": "Formulario de Hacienda con calculadora, monedas y bandera de España",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Residente</th><th>No residente</th></tr></thead><tbody><tr><td>Qué tributa</td><td>renta mundial</td><td>solo rentas españolas</td></tr><tr><td>Impuesto y modelo</td><td>IRPF, declaración anual</td><td>IRNR, modelo 210</td></tr><tr><td>Alquiler</td><td>escala progresiva, gastos deducibles, mínimos</td><td>19 % (UE/EEE, gastos deducibles) o 24 % íntegro</td></tr><tr><td>Vivienda no alquilada</td><td>sin impuesto si es la habitual; renta imputada en segundas viviendas</td><td>renta imputada cada año</td></tr><tr><td>Ganancia en la venta</td><td>19–30 %, exenciones para la vivienda habitual</td><td>19 %, retención del 3 % por el comprador</td></tr><tr><td>Patrimonio</td><td>bienes mundiales</td><td>solo bienes en España</td></tr><tr><td>Bienes en el extranjero</td><td>modelo 720 por encima de 50.000 €</td><td>no se declaran</td></tr></tbody></table></div><p>Ningún estatus es mejor en sí mismo. Con una segunda residencia e ingresos en otro país, ser no residente suele ser más sencillo y barato. Si vive y trabaja en España, es residente quiera o no.</p>"
+      },
+      {
+        "id": "mistakes",
+        "h2": "Errores frecuentes",
+        "alt": "Hombre trabajando con un portátil en la terraza de una cafetería",
+        "html": "<p>La mayoría de problemas vienen de suposiciones erróneas, no de los tipos:</p><ul><li><strong>Creer que una vivienda que no se alquila no paga impuestos.</strong> El no residente paga la renta imputada cada año, aunque esté vacía.</li><li><strong>No contar los días.</strong> Un invierno largo y las vacaciones de verano pueden superar los 183 días. Guarde los justificantes de viaje.</li><li><strong>Teletrabajar meses desde España</strong> declarando residencia en otro país.</li><li><strong>Trasladar la vida a España</strong> (familia, coche, médico, amigos) mientras los papeles fiscales siguen diciendo que vive fuera.</li><li><strong>Olvidar la retención del 3 % al vender</strong> y no pedir la devolución del exceso.</li></ul><p>Las consecuencias pueden ser liquidaciones con intereses y sanciones, y a veces doble imposición hasta que ambos países se pongan de acuerdo.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Comprar una casa en España me hace residente fiscal?", "No. Tener una vivienda no le convierte en residente. Cuenta pasar más de 183 días al año, dónde está su núcleo de intereses económicos y, como presunción, dónde viven su cónyuge e hijos menores."],
+      ["¿Cuánto paga un no residente por una segunda vivienda?", "Si no la alquila, paga el 19 % (UE/EEE) o el 24 % (resto) sobre una renta imputada del 1,1–2 % del valor catastral, más el IBI. En un piso típico suele ser unos 150–400 € al año."],
+      ["¿Puedo ser residente fiscal en dos países a la vez?", "Cada país puede considerarle residente según sus normas. Entonces decide el convenio de doble imposición, según la vivienda permanente, el centro de intereses vitales, la residencia habitual y la nacionalidad."],
+      ["¿Tienen que declarar cada año los no residentes?", "Sí, si tienen un inmueble en España. El modelo 210 cubre la renta imputada y los ingresos por alquiler."],
+      ["¿Qué estatus conviene más?", "Depende de dónde vive y trabaja realmente. Un no residente con una segunda vivienda suele pagar menos. Si vive en España, la residencia no es una elección sino una consecuencia."]
+    ],
+    "closing": {
+      "h2": "Planifique su estatus fiscal antes de comprar",
+      "alt": "Asesora fiscal revisando documentos con un cliente",
+      "html": "<p>Su estatus fiscal influye en cómo comprar, alquilar y algún día vender la vivienda. <a href=\"{up}index.html#contact\">Escríbanos</a> y le pondremos en contacto con un asesor fiscal independiente antes de firmar nada.</p>"
+    }
+  }
+}
