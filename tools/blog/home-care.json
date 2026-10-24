@@ -1,0 +1,187 @@
+{
+  "author": "aleksandra",
+  "published": "2025-07-21",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/home-care/open-plan-room-with-sea-view.jpg",
+  "images": {
+    "what": "assets/blog/home-care/bedroom-with-sea-view.jpg",
+    "leave": "assets/blog/home-care/man-on-glazed-terrace.jpg",
+    "closing": "assets/blog/home-care/modern-living-room.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/opieka-nad-mieszkaniem-w-hiszpanii",
+  "cards": ["26232807", "21034180", "26239846"],
+  "en": {
+    "slug": "looking-after-your-flat-in-spain",
+    "title": "Looking After Your Home in Spain While You Are Away – Key Holding and Costs",
+    "description": "How to look after a holiday home in Spain from abroad: what key holding and home-care services include, what they cost, how to prepare the home before you leave, and when full rental management makes sense.",
+    "crumb": "Looking after your home",
+    "eyebrow": "Owning in Spain · Practical",
+    "h1": "Looking After Your Home in Spain While You Are Away",
+    "hero_alt": "Open-plan living and dining room with large windows over the sea",
+    "short": "Most holiday homes in Spain stand empty for months. A key holding or home-care service visits regularly to check for leaks, damp, power cuts and break-ins, airs the rooms, runs the taps and air conditioning, collects the post and acts as your contact for the alarm company and the community. Simple fortnightly checks cost from a few dozen euros a month; full rental management usually costs a percentage of the income. Prepare the home before you leave, pay bills by direct debit and check that your insurance covers long absences.",
+    "intro": [
+      "A home by the sea needs attention even when nobody lives there. Humidity, storms, power cuts and blocked drains do more damage to empty homes than people expect, and a full postbox tells everyone the owner is away.",
+      "Here is what a home-care service does, what it costs and how to set up your home so you can leave it with peace of mind."
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "h2": "What a home-care service does",
+        "alt": "Bedroom with armchairs and large windows facing the sea",
+        "html": "<p>A key holder or home-care company keeps a set of keys and checks the home on a fixed schedule, usually weekly or every two weeks. A typical visit includes:</p><ul><li>checking doors, windows, shutters and the alarm,</li><li>looking for leaks, damp, mould and signs of insects,</li><li>running taps and flushing toilets so drains do not dry out and smell,</li><li>airing the rooms and running the air conditioning briefly,</li><li>checking the fridge, fuse box and water heater after power cuts,</li><li>collecting and forwarding post,</li><li>a short report with photos.</li></ul><p>Extra services are usually available: checks after storms, cleaning and fresh linen before you arrive, filling the fridge, garden and pool care, meeting tradespeople and handling small repairs. The company can also be the contact for your alarm and for the community administrator, which matters because alarm companies call a local key holder, not you.</p>"
+      },
+      {
+        "id": "cost",
+        "h2": "What it costs",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Service</th><th>Typical pricing</th></tr></thead><tbody><tr><td>Key holding and fortnightly checks</td><td>from a few dozen euros a month for an apartment</td></tr><tr><td>Weekly checks for a villa with garden and pool</td><td>higher, depending on size</td></tr><tr><td>Arrival preparation, cleaning, linen</td><td>per visit</td></tr><tr><td>Garden and pool maintenance</td><td>monthly contract</td></tr><tr><td>Full holiday rental management</td><td>usually a percentage of the rental income</td></tr></tbody></table></div><p>Prices vary a lot by area, size and scope, so ask two or three companies for a written offer. The cost is small compared with the bill for a leak that runs for two months unnoticed.</p>"
+      },
+      {
+        "id": "leave",
+        "h2": "Before you leave: a checklist",
+        "alt": "Man with a coffee and laptop on a glazed terrace overlooking a bay",
+        "html": "<ol><li><strong>Water:</strong> close the main tap, or at least the one to the water heater, unless a garden or pool system needs it.</li><li><strong>Electricity:</strong> leave the fridge open and switched off if empty, unplug devices, keep the alarm and any router or cameras on.</li><li><strong>Damp:</strong> leave interior doors open, consider a dehumidifier on a timer, and do not leave wet towels or food.</li><li><strong>Outside:</strong> bring in or tie down terrace furniture and close awnings before storm season.</li><li><strong>Bills:</strong> pay utilities, community fees and IBI by direct debit from a Spanish account.</li><li><strong>Insurance:</strong> read the policy. Some exclude damage if the home is empty for long periods or ask for regular visits.</li><li><strong>Smart devices:</strong> water-leak sensors and a smart plug for the router are cheap and useful. Cameras may only film your own home, not communal areas or the street.</li></ol><p>A home that looks lived in and is visited regularly is also the best protection against squatters. Our guide to <a href=\"{up}squatters-in-spain-is-there-anything-to-fear-when-buying-property.html\">squatters in Spain</a> explains the risk in more detail.</p>"
+      },
+      {
+        "id": "rent",
+        "h2": "Home care or rental management?",
+        "alt": "",
+        "html": "<p>If you want the home to earn money while you are away, a rental manager goes further: advertising, bookings, guest check-in, cleaning between stays, guest registration with the police and the rental taxes. That only works with a valid tourist licence, or as a long-term or seasonal let.</p><p>If you mainly use the home yourself, simple home care is enough. Many owners combine both: rental in the summer peak, home care the rest of the year.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "How to choose a company",
+        "alt": "",
+        "html": "<ul><li>A registered business with a written contract and clear prices.</li><li>Liability insurance and a safe system for keys.</li><li>Reports with date-stamped photos after each visit.</li><li>Reachable by phone or messaging in your language.</li><li>References from owners in the same complex or area.</li></ul>"
+      }
+    ],
+    "faq": [
+      ["How often should an empty holiday home be checked?", "Every one or two weeks is common, plus a visit after storms or power cuts. Villas with pools and gardens may need weekly visits."],
+      ["How much does key holding cost in Spain?", "Basic key holding with regular checks starts at a few dozen euros a month for an apartment. Villas and extra services cost more."],
+      ["Does my home insurance cover a home that stands empty?", "Not always. Some policies limit cover after a period of absence or require regular visits. Check the conditions and keep the visit reports."],
+      ["Should I turn off the water when I leave?", "Usually yes, at least the main tap or the water heater supply, unless an irrigation or pool system needs water."],
+      ["Can a home-care company also rent out my home?", "Many offer rental management too, but holiday lets need a tourist licence. Without one, only long-term or seasonal lets are allowed."]
+    ],
+    "closing": {
+      "h2": "Buy a home that is easy to look after",
+      "alt": "Modern living room with sofa and open kitchen",
+      "html": "<p>Homes on well-run complexes with security and communal gardens are much easier to leave for months. <a href=\"{up}index.html#contact\">Contact us</a> and we will show you homes that suit part-time owners and introduce you to local home-care companies.</p>"
+    }
+  },
+  "de": {
+    "slug": "betreuung-einer-wohnung-in-spanien",
+    "title": "Hausbetreuung in Spanien – Ihre Immobilie in guten Händen, wenn Sie nicht da sind",
+    "description": "Ferienimmobilie in Spanien aus der Ferne betreuen: Was Schlüsseldienst und Hausbetreuung leisten, was sie kosten, wie Sie die Wohnung vor der Abreise vorbereiten und wann sich eine Vermietungsverwaltung lohnt.",
+    "crumb": "Hausbetreuung",
+    "eyebrow": "Eigentum in Spanien · Praktisches",
+    "h1": "Hausbetreuung in Spanien – Ihre Immobilie, während Sie nicht da sind",
+    "hero_alt": "Offener Wohn- und Essbereich mit großen Fenstern zum Meer",
+    "short": "Die meisten Ferienimmobilien in Spanien stehen monatelang leer. Ein Hausbetreuer kommt regelmäßig vorbei, prüft auf Lecks, Feuchtigkeit, Stromausfälle und Einbrüche, lüftet, lässt Wasser laufen, schaltet kurz die Klimaanlage ein, leert den Briefkasten und ist Ansprechpartner für Alarmfirma und Eigentümergemeinschaft. Einfache Kontrollen alle zwei Wochen kosten ab einigen Dutzend Euro im Monat, eine Vermietungsverwaltung meist einen Prozentsatz der Einnahmen. Bereiten Sie die Wohnung vor der Abreise vor, zahlen Sie Rechnungen per Lastschrift und prüfen Sie, ob Ihre Versicherung lange Abwesenheit abdeckt.",
+    "intro": [
+      "Ein Zuhause am Meer braucht Pflege, auch wenn niemand dort wohnt. Feuchtigkeit, Unwetter, Stromausfälle und verstopfte Abflüsse richten an leeren Häusern mehr Schaden an, als viele denken, und ein voller Briefkasten verrät, dass der Eigentümer weg ist.",
+      "Hier lesen Sie, was eine Hausbetreuung leistet, was sie kostet und wie Sie Ihre Immobilie vorbereiten, damit Sie beruhigt nach Deutschland, Österreich oder in die Schweiz zurückfahren."
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "h2": "Was eine Hausbetreuung leistet",
+        "alt": "Schlafzimmer mit Sesseln und großen Fenstern zum Meer",
+        "html": "<p>Ein Schlüsselhalter oder Hausbetreuungsdienst verwahrt einen Schlüsselsatz und kontrolliert die Immobilie nach festem Plan, meist wöchentlich oder alle zwei Wochen. Ein typischer Besuch umfasst:</p><ul><li>Kontrolle von Türen, Fenstern, Rollläden und Alarmanlage,</li><li>Suche nach Lecks, Feuchtigkeit, Schimmel und Insekten,</li><li>Wasser laufen lassen und Toiletten spülen, damit Siphons nicht austrocknen,</li><li>Lüften und kurzes Einschalten der Klimaanlage,</li><li>Kontrolle von Kühlschrank, Sicherungskasten und Boiler nach Stromausfällen,</li><li>Post leeren und weiterleiten,</li><li>einen kurzen Bericht mit Fotos.</li></ul><p>Zusätzlich gibt es meist: Kontrollen nach Unwettern, Reinigung und frische Wäsche vor Ihrer Ankunft, Einkäufe, Garten- und Poolpflege, Termine mit Handwerkern und kleine Reparaturen. Der Dienst kann auch Ansprechpartner für Alarmfirma und Verwalter der Gemeinschaft sein. Das ist wichtig, denn Alarmfirmen rufen einen Schlüsselhalter vor Ort an, nicht Sie.</p>"
+      },
+      {
+        "id": "cost",
+        "h2": "Was es kostet",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Leistung</th><th>Übliche Preisgestaltung</th></tr></thead><tbody><tr><td>Schlüsselverwahrung und Kontrolle alle zwei Wochen</td><td>ab einigen Dutzend Euro im Monat für eine Wohnung</td></tr><tr><td>Wöchentliche Kontrolle einer Villa mit Garten und Pool</td><td>höher, je nach Größe</td></tr><tr><td>Ankunftsvorbereitung, Reinigung, Wäsche</td><td>pro Einsatz</td></tr><tr><td>Garten- und Poolpflege</td><td>Monatsvertrag</td></tr><tr><td>Komplette Ferienvermietung</td><td>meist ein Prozentsatz der Mieteinnahmen</td></tr></tbody></table></div><p>Die Preise schwanken stark nach Gegend, Größe und Umfang. Holen Sie zwei oder drei schriftliche Angebote ein. Die Kosten sind gering im Vergleich zu einem Wasserschaden, der zwei Monate unbemerkt bleibt.</p>"
+      },
+      {
+        "id": "leave",
+        "h2": "Vor der Abreise: eine Checkliste",
+        "alt": "Mann mit Kaffee und Laptop auf einer verglasten Terrasse über einer Bucht",
+        "html": "<ol><li><strong>Wasser:</strong> Haupthahn schließen, zumindest den Zulauf zum Boiler, sofern keine Bewässerung oder Poolanlage Wasser braucht.</li><li><strong>Strom:</strong> leeren Kühlschrank ausschalten und offen lassen, Geräte ausstecken, Alarmanlage, Router und Kameras eingeschaltet lassen.</li><li><strong>Feuchtigkeit:</strong> Innentüren offen lassen, eventuell einen Luftentfeuchter mit Zeitschaltuhr, keine nassen Handtücher oder Lebensmittel zurücklassen.</li><li><strong>Draußen:</strong> Terrassenmöbel hereinholen oder sichern und Markisen vor der Sturmzeit schließen.</li><li><strong>Rechnungen:</strong> Strom, Wasser, Hausgeld und IBI per Lastschrift von einem spanischen Konto.</li><li><strong>Versicherung:</strong> Bedingungen lesen. Manche Policen schließen Schäden bei längerem Leerstand aus oder verlangen regelmäßige Kontrollen.</li><li><strong>Smarte Helfer:</strong> Wassermelder und eine smarte Steckdose für den Router sind günstig und nützlich. Kameras dürfen nur die eigene Wohnung filmen, nicht Gemeinschaftsflächen oder die Straße.</li></ol><p>Eine bewohnt wirkende, regelmäßig besuchte Immobilie ist auch der beste Schutz vor Hausbesetzern. Mehr dazu in unserem Ratgeber zu <a href=\"{up}de-de/okupas-in-spanien-muss-man-beim-kauf-einer-immobilie-angst-haben.html\">Okupas in Spanien</a>.</p>"
+      },
+      {
+        "id": "rent",
+        "h2": "Hausbetreuung oder Vermietungsverwaltung?",
+        "alt": "",
+        "html": "<p>Soll die Immobilie in Ihrer Abwesenheit Geld verdienen, geht eine Vermietungsverwaltung weiter: Werbung, Buchungen, Check-in, Reinigung zwischen den Gästen, Gästemeldung bei der Polizei und Steuern auf die Mieteinnahmen. Das geht nur mit gültiger Touristenlizenz oder als Langzeit- bzw. Saisonvermietung.</p><p>Nutzen Sie die Immobilie hauptsächlich selbst, reicht eine einfache Hausbetreuung. Viele Eigentümer kombinieren beides: Vermietung in der Hauptsaison, Betreuung im Rest des Jahres.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "So wählen Sie einen Anbieter",
+        "alt": "",
+        "html": "<ul><li>Ein eingetragenes Unternehmen mit schriftlichem Vertrag und klaren Preisen.</li><li>Haftpflichtversicherung und ein sicheres Schlüsselsystem.</li><li>Berichte mit datierten Fotos nach jedem Besuch.</li><li>Erreichbar per Telefon oder Messenger, auf Deutsch oder Englisch.</li><li>Referenzen von Eigentümern in derselben Anlage oder Gegend.</li></ul>"
+      }
+    ],
+    "faq": [
+      ["Wie oft sollte eine leere Ferienimmobilie kontrolliert werden?", "Üblich sind alle ein bis zwei Wochen, dazu ein Besuch nach Unwettern oder Stromausfällen. Villen mit Pool und Garten brauchen oft wöchentliche Besuche."],
+      ["Was kostet ein Schlüsseldienst in Spanien?", "Einfache Schlüsselverwahrung mit regelmäßiger Kontrolle beginnt bei einigen Dutzend Euro im Monat für eine Wohnung. Villen und Zusatzleistungen kosten mehr."],
+      ["Zahlt meine Versicherung bei Leerstand?", "Nicht immer. Manche Policen begrenzen den Schutz nach einer gewissen Abwesenheit oder verlangen regelmäßige Kontrollen. Prüfen Sie die Bedingungen und bewahren Sie die Berichte auf."],
+      ["Soll ich vor der Abreise das Wasser abdrehen?", "Meist ja, zumindest den Haupthahn oder den Boilerzulauf, sofern keine Bewässerung oder Poolanlage Wasser braucht."],
+      ["Kann der Hausbetreuer auch vermieten?", "Viele bieten auch Vermietungsverwaltung an. Ferienvermietung braucht aber eine Touristenlizenz, ohne sie ist nur Langzeit- oder Saisonvermietung erlaubt."]
+    ],
+    "closing": {
+      "h2": "Eine Immobilie kaufen, die sich leicht betreuen lässt",
+      "alt": "Modernes Wohnzimmer mit Sofa und offener Küche",
+      "html": "<p>Wohnungen in gut geführten Anlagen mit Sicherheitsdienst und Gemeinschaftsgärten lassen sich viel leichter monatelang allein lassen. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>. Wir zeigen Ihnen passende Immobilien für Teilzeit-Eigentümer und stellen Ihnen Hausbetreuer vor Ort vor.</p>"
+    }
+  },
+  "es": {
+    "slug": "cuidado-de-la-vivienda-en-espana",
+    "title": "Cuidado de la vivienda en España cuando no está – custodia de llaves y costes",
+    "description": "Cómo cuidar una segunda vivienda en España a distancia: qué incluyen los servicios de custodia de llaves y mantenimiento, cuánto cuestan, cómo preparar la casa antes de irse y cuándo compensa la gestión del alquiler.",
+    "crumb": "Cuidado de la vivienda",
+    "eyebrow": "Ser propietario en España · Práctico",
+    "h1": "Cuidar su vivienda en España mientras está fuera",
+    "hero_alt": "Salón comedor abierto con grandes ventanales al mar",
+    "short": "Muchas segundas viviendas pasan meses vacías. Un servicio de custodia de llaves o de cuidado del hogar visita la casa con regularidad para detectar fugas, humedades, cortes de luz o intrusiones, ventila, abre los grifos, enciende un rato el aire acondicionado, recoge el correo y es el contacto para la central de alarmas y la comunidad. Las revisiones quincenales básicas cuestan desde unas decenas de euros al mes; la gestión completa del alquiler suele cobrarse con un porcentaje de los ingresos. Prepare la vivienda antes de irse, domicilie los recibos y compruebe que su seguro cubre ausencias largas.",
+    "intro": [
+      "Una casa junto al mar necesita atención aunque no viva nadie. La humedad, los temporales, los cortes de luz y los desagües atascados dañan más las viviendas vacías de lo que parece, y un buzón lleno avisa de que el dueño no está.",
+      "Le explicamos qué hace un servicio de cuidado del hogar, cuánto cuesta y cómo dejar la vivienda preparada para irse tranquilo."
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "h2": "Qué hace un servicio de cuidado del hogar",
+        "alt": "Dormitorio con butacas y grandes ventanales frente al mar",
+        "html": "<p>Una empresa de custodia de llaves guarda un juego de llaves y revisa la vivienda con una frecuencia fija, normalmente semanal o quincenal. Una visita típica incluye:</p><ul><li>comprobar puertas, ventanas, persianas y alarma,</li><li>buscar fugas, humedades, moho e insectos,</li><li>abrir grifos y tirar de la cadena para que los sifones no se sequen,</li><li>ventilar y encender un rato el aire acondicionado,</li><li>revisar nevera, cuadro eléctrico y termo tras un corte de luz,</li><li>recoger y reenviar el correo,</li><li>un breve informe con fotos.</li></ul><p>Suele haber servicios extra: revisiones tras temporales, limpieza y ropa de cama antes de su llegada, compra, jardín y piscina, citas con técnicos y pequeñas reparaciones. La empresa también puede ser el contacto de la central de alarmas y del administrador de la comunidad, algo importante porque la central llama a un contacto local, no a usted.</p>"
+      },
+      {
+        "id": "cost",
+        "h2": "Cuánto cuesta",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Servicio</th><th>Precio habitual</th></tr></thead><tbody><tr><td>Custodia de llaves y revisión quincenal</td><td>desde unas decenas de euros al mes para un piso</td></tr><tr><td>Revisión semanal de una villa con jardín y piscina</td><td>más, según el tamaño</td></tr><tr><td>Preparación de llegada, limpieza, ropa de cama</td><td>por visita</td></tr><tr><td>Mantenimiento de jardín y piscina</td><td>contrato mensual</td></tr><tr><td>Gestión completa del alquiler vacacional</td><td>normalmente un porcentaje de los ingresos</td></tr></tbody></table></div><p>Los precios varían mucho según zona, tamaño y servicios, así que pida dos o tres presupuestos por escrito. El coste es pequeño frente al de una fuga que pasa dos meses sin detectarse.</p>"
+      },
+      {
+        "id": "leave",
+        "h2": "Antes de irse: lista de comprobación",
+        "alt": "Hombre con café y portátil en una terraza acristalada sobre una bahía",
+        "html": "<ol><li><strong>Agua:</strong> cierre la llave de paso, o al menos la del termo, salvo que el riego o la piscina la necesiten.</li><li><strong>Luz:</strong> deje la nevera vacía, apagada y abierta, desenchufe aparatos y mantenga encendidos la alarma, el router y las cámaras.</li><li><strong>Humedad:</strong> deje las puertas interiores abiertas, valore un deshumidificador con temporizador y no deje toallas húmedas ni comida.</li><li><strong>Exterior:</strong> recoja o sujete los muebles de terraza y cierre los toldos antes de la época de temporales.</li><li><strong>Recibos:</strong> domicilie luz, agua, comunidad e IBI en una cuenta española.</li><li><strong>Seguro:</strong> lea la póliza. Algunas excluyen daños si la vivienda está desocupada mucho tiempo o exigen visitas periódicas.</li><li><strong>Dispositivos:</strong> los detectores de fugas y un enchufe inteligente para el router son baratos y útiles. Las cámaras solo pueden grabar su vivienda, no zonas comunes ni la calle.</li></ol><p>Una vivienda que parece habitada y se visita con frecuencia es también la mejor protección contra la okupación. Lo explicamos en nuestra guía sobre <a href=\"{up}es-es/okupas-en-espana-hay-que-tener-miedo-al-comprar-una-propiedad.html\">okupas en España</a>.</p>"
+      },
+      {
+        "id": "rent",
+        "h2": "¿Cuidado del hogar o gestión del alquiler?",
+        "alt": "",
+        "html": "<p>Si quiere que la vivienda genere ingresos mientras está fuera, un gestor de alquiler va más allá: anuncios, reservas, entrada de huéspedes, limpieza entre estancias, registro de viajeros e impuestos. Solo es posible con licencia turística, o como alquiler de larga duración o de temporada.</p><p>Si usa la vivienda sobre todo usted, basta con el cuidado básico. Muchos propietarios combinan ambos: alquiler en temporada alta y cuidado el resto del año.</p>"
+      },
+      {
+        "id": "choose",
+        "h2": "Cómo elegir empresa",
+        "alt": "",
+        "html": "<ul><li>Empresa registrada, con contrato escrito y precios claros.</li><li>Seguro de responsabilidad civil y un sistema seguro de llaves.</li><li>Informes con fotos fechadas tras cada visita.</li><li>Localizable por teléfono o mensajería.</li><li>Referencias de propietarios del mismo residencial o zona.</li></ul>"
+      }
+    ],
+    "faq": [
+      ["¿Cada cuánto hay que revisar una vivienda vacía?", "Lo habitual es cada una o dos semanas, más una visita tras temporales o cortes de luz. Las villas con piscina y jardín suelen necesitar visitas semanales."],
+      ["¿Cuánto cuesta la custodia de llaves en España?", "La custodia básica con revisiones periódicas parte de unas decenas de euros al mes para un piso. Las villas y los servicios extra cuestan más."],
+      ["¿Cubre el seguro una vivienda desocupada?", "No siempre. Algunas pólizas limitan la cobertura tras un tiempo de ausencia o exigen visitas periódicas. Revise las condiciones y guarde los informes."],
+      ["¿Debo cerrar el agua al irme?", "Normalmente sí, al menos la llave general o la del termo, salvo que el riego o la piscina necesiten agua."],
+      ["¿Puede la empresa de cuidado alquilar mi vivienda?", "Muchas ofrecen gestión de alquiler, pero el vacacional exige licencia turística. Sin ella, solo se permite alquiler de larga duración o de temporada."]
+    ],
+    "closing": {
+      "h2": "Compre una vivienda fácil de cuidar",
+      "alt": "Salón moderno con sofá y cocina abierta",
+      "html": "<p>Las viviendas en residenciales bien gestionados, con seguridad y jardines comunes, son mucho más fáciles de dejar durante meses. <a href=\"{up}index.html#contact\">Escríbanos</a> y le enseñaremos viviendas pensadas para propietarios a tiempo parcial y le presentaremos empresas locales de cuidado del hogar.</p>"
+    }
+  }
+}
