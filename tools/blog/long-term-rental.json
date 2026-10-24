@@ -1,0 +1,192 @@
+{
+  "author": "aleksandra",
+  "published": "2026-01-16",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/long-term-rental/bright-living-room-and-kitchen.jpg",
+  "images": {
+    "prepare": "assets/blog/long-term-rental/modern-white-kitchen.jpg",
+    "tax": "assets/blog/long-term-rental/aerial-view-of-alicante.jpg",
+    "closing": "assets/blog/long-term-rental/apartment-terrace-with-view.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/wynajem-dugoterminowy-w-hiszpanii",
+  "cards": ["20598512", "23844656", "18595762"],
+  "sources": [
+    ["BOE – Urban Leases Act (Ley 29/1994, LAU), consolidated", "https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003"],
+    ["BOE – Housing Act (Ley 12/2023)", "https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203"],
+    ["INE – Rental update index (IRAV)", "https://www.ine.es/"]
+  ],
+  "en": {
+    "slug": "long-term-rental-in-spain",
+    "title": "Long-Term Rental in Spain 2026 – Rules, Contracts and Tax for Landlords",
+    "description": "Renting out a home long term in Spain: contract length and tenant rights under the LAU, deposits and guarantees, rent increases (IRAV), seasonal lets, documents, taxes for residents and non-residents, and how to choose a tenant.",
+    "crumb": "Long-term rental",
+    "eyebrow": "Owning in Spain · Renting out",
+    "h1": "Long-Term Rental in Spain – What Landlords Need to Know in 2026",
+    "hero_alt": "Bright apartment living room with open kitchen and balcony",
+    "short": "A long-term let of a home in Spain falls under the Urban Leases Act (LAU). The tenant can stay up to 5 years (7 if the landlord is a company) even if the contract says one year, and can leave after 6 months with 30 days' notice. The deposit is one month's rent, plus at most two months in extra guarantees, and must be lodged with the regional authority. Yearly rent rises are capped by the INE's IRAV index (about 2.5% in 2026). The landlord pays the agency fees. Non-residents from the EU pay 19% tax on net rent; others pay 24% on gross rent.",
+    "intro": [
+      "Long-term rental is the quiet alternative to holiday lets: one tenant, steady monthly income, less wear and none of the tourist-licence rules. Demand is strong on the Costa Blanca and Costa del Sol, from local families, remote workers and people moving to Spain.",
+      "Spanish tenancy law protects tenants quite strongly, so it pays to know the rules before you sign. Here is how a long-term let works in 2026."
+    ],
+    "sections": [
+      {
+        "id": "law",
+        "h2": "The contract: length and notice",
+        "alt": "",
+        "html": "<p>Renting a home as the tenant's permanent residence is governed by the Urban Leases Act (<em>Ley de Arrendamientos Urbanos</em>, LAU). The key rules:</p><ul><li><strong>Minimum term.</strong> You can sign for one year, but the tenant can extend year by year up to <strong>5 years</strong>, or <strong>7 years</strong> if the landlord is a company.</li><li><strong>Further extension.</strong> If neither side gives notice at the end, the contract extends by up to three more years, one at a time.</li><li><strong>Tenant leaving early.</strong> After 6 months, with 30 days' notice. The contract can set a penalty of one month's rent for each remaining year.</li><li><strong>Landlord needing the home back.</strong> Only if the contract says so, for the landlord or close family to live in, after the first year and with two months' notice.</li><li><strong>Selling.</strong> The tenant has a right of first refusal unless the contract excludes it, and the lease continues with the new owner in most cases.</li></ul><p>Contracts for a fixed season, such as a winter let or a stay for work or study (<em>alquiler de temporada</em>), are not covered by these protections. They must be genuine short stays, not a way around the law.</p>"
+      },
+      {
+        "id": "money",
+        "h2": "Deposit, rent increases and fees",
+        "alt": "",
+        "html": "<ul><li><strong>Deposit</strong> (<em>fianza</em>): one month's rent, which must be lodged with the regional housing authority.</li><li><strong>Extra guarantees:</strong> at most two more months' rent, as a deposit or bank guarantee, for leases up to 5 or 7 years. Many landlords also take rent-default insurance.</li><li><strong>Rent increases:</strong> once a year, only if the contract says so. Since 2025 the increase is capped by the INE's rental update index (IRAV), around 2.5% in autumn 2026.</li><li><strong>Agency fees:</strong> since 2023 the landlord pays the agency and the cost of drawing up the contract, not the tenant.</li></ul><p>Some regions have \"stressed areas\" with rent caps. As of autumn 2026 there are none in the Valencian Community or Andalusia.</p>"
+      },
+      {
+        "id": "prepare",
+        "h2": "Preparing the home and finding a tenant",
+        "alt": "Modern white kitchen with island and built-in oven",
+        "html": "<p>Before you rent out, you need:</p><ul><li>an <strong>energy performance certificate</strong>, shown in the advert,</li><li>the occupancy licence or habitability certificate the region requires,</li><li>home insurance, and the utilities in working order (the contract says who pays them).</li></ul><p>Tenants for good homes expect fast fibre internet, air conditioning and heating, a well-equipped kitchen and, for villas, a maintained pool and garden. Good photos and a clear description in Spanish and English help.</p><p>Check every candidate carefully: employment contract or proof of income, recent payslips or tax returns, ID and references. Ask for an inventory with photos signed by both sides at the start.</p>"
+      },
+      {
+        "id": "tax",
+        "h2": "Tax on rental income",
+        "alt": "Aerial view of Alicante with the castle hill and the sea",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Owner</th><th>Tax</th><th>Deductions</th></tr></thead><tbody><tr><td>Non-resident from the EU, Norway or Iceland</td><td>19% (form 210)</td><td>costs such as IBI, community fees, insurance, repairs, interest and 3% depreciation of the building</td></tr><tr><td>Non-resident from elsewhere (UK, US, Switzerland…)</td><td>24% (form 210)</td><td>none, tax on gross rent</td></tr><tr><td>Spanish tax resident</td><td>progressive income tax</td><td>same costs, plus a 50–90% reduction on net income from letting a tenant's main home</td></tr></tbody></table></div><p>Non-residents also pay tax at home in many cases, with a credit for the Spanish tax under the double tax treaty. Our guide to <a href=\"{up}resident-vs-non-resident-in-spain.html\">resident and non-resident tax</a> explains the difference.</p>"
+      },
+      {
+        "id": "manage",
+        "h2": "Managing from abroad",
+        "alt": "",
+        "html": "<p>If you live outside Spain, a local property manager can find and check tenants, draw up the contract, lodge the deposit, collect the rent, handle repairs and file your non-resident tax returns. Fees are usually a percentage of the rent.</p><p>Long-term rental suits owners who want steady income and little involvement, and who do not need to use the home themselves. If you want to spend summers there, a seasonal winter let or holiday rental may fit better. Our guide to the <a href=\"{up}new-regulations-on-short-term-rentals-in-spain.html\">holiday rental rules</a> covers that option.</p>"
+      }
+    ],
+    "faq": [
+      ["How long can a tenant stay in Spain?", "For a main home, up to 5 years (7 if the landlord is a company) even if the contract is for one year, plus up to 3 more years if nobody gives notice."],
+      ["How much deposit can I ask for?", "One month's rent as the legal deposit, plus at most two months' rent as an extra guarantee."],
+      ["How much can I raise the rent each year?", "Only once a year and only if the contract allows it. The rise is capped by the INE's IRAV index, about 2.5% in autumn 2026."],
+      ["Who pays the agency fee for a long-term let?", "The landlord. Since 2023 tenants no longer pay agency or contract fees for a home rented as their main residence."],
+      ["Do I need a tourist licence for a long-term rental?", "No. A tourist licence is only needed for holiday lets. A long-term let needs an energy certificate and the usual occupancy documents."]
+    ],
+    "closing": {
+      "h2": "Buy a home that rents well",
+      "alt": "Apartment terrace with plants and a view over the city",
+      "html": "<p>We can tell you what similar homes rent for in each area and introduce you to reliable property managers. <a href=\"{up}index.html#contact\">Contact us</a> to find a home that suits long-term tenants.</p>"
+    }
+  },
+  "de": {
+    "slug": "langzeitmiete-in-spanien",
+    "title": "Langzeitvermietung in Spanien 2026 – Regeln, Vertrag und Steuern",
+    "description": "Langfristig vermieten in Spanien: Laufzeit und Mieterrechte nach dem LAU, Kaution und Sicherheiten, Mieterhöhungen (IRAV), Saisonmiete, Unterlagen, Steuern für Residenten und Nichtresidenten und die Wahl des Mieters.",
+    "crumb": "Langzeitvermietung",
+    "eyebrow": "Eigentum in Spanien · Vermietung",
+    "h1": "Langzeitvermietung in Spanien – was Vermieter 2026 wissen müssen",
+    "hero_alt": "Helles Wohnzimmer mit offener Küche und Balkon",
+    "short": "Die langfristige Vermietung einer Wohnung in Spanien unterliegt dem Mietgesetz LAU. Der Mieter kann bis zu 5 Jahre bleiben (7, wenn der Vermieter eine Gesellschaft ist), auch wenn der Vertrag nur ein Jahr nennt, und nach 6 Monaten mit 30 Tagen Frist kündigen. Die Kaution beträgt eine Monatsmiete plus höchstens zwei Monatsmieten Zusatzsicherheit und muss bei der Regionalbehörde hinterlegt werden. Jährliche Erhöhungen sind durch den IRAV-Index begrenzt (2026 rund 2,5 %). Die Maklerprovision zahlt der Vermieter. Nichtresidenten aus der EU zahlen 19 % auf die Nettomiete, Schweizer 24 % auf die Bruttomiete.",
+    "intro": [
+      "Langzeitvermietung ist die ruhige Alternative zur Ferienvermietung: ein Mieter, regelmäßige Einnahmen, weniger Abnutzung und keine Touristenlizenz. Die Nachfrage an Costa Blanca und Costa del Sol ist hoch, von einheimischen Familien, Remote-Arbeitern und Zuzüglern.",
+      "Das spanische Mietrecht schützt Mieter recht stark, ähnlich wie in Deutschland, aber mit anderen Regeln. So funktioniert eine Langzeitvermietung 2026."
+    ],
+    "sections": [
+      {
+        "id": "law",
+        "h2": "Der Vertrag: Laufzeit und Kündigung",
+        "alt": "",
+        "html": "<p>Die Vermietung als Hauptwohnsitz des Mieters regelt das spanische Mietgesetz (<em>Ley de Arrendamientos Urbanos</em>, LAU). Die wichtigsten Punkte:</p><ul><li><strong>Mindestlaufzeit.</strong> Sie können für ein Jahr abschließen, der Mieter kann aber jährlich bis zu <strong>5 Jahre</strong> verlängern, bei einer Gesellschaft als Vermieter bis zu <strong>7 Jahre</strong>.</li><li><strong>Weitere Verlängerung.</strong> Kündigt keiner zum Ende, verlängert sich der Vertrag jährlich um bis zu drei weitere Jahre.</li><li><strong>Kündigung durch den Mieter.</strong> Nach 6 Monaten mit 30 Tagen Frist. Der Vertrag kann eine Entschädigung von einer Monatsmiete je verbleibendem Jahr vorsehen.</li><li><strong>Eigenbedarf.</strong> Nur wenn der Vertrag es vorsieht, für Vermieter oder nahe Angehörige, nach dem ersten Jahr und mit zwei Monaten Frist.</li><li><strong>Verkauf.</strong> Der Mieter hat ein Vorkaufsrecht, sofern der Vertrag es nicht ausschließt, und der Vertrag läuft meist mit dem neuen Eigentümer weiter.</li></ul><p>Verträge für eine bestimmte Saison, etwa eine Wintervermietung oder einen Aufenthalt für Arbeit oder Studium (<em>alquiler de temporada</em>), fallen nicht unter diesen Schutz. Es muss sich aber wirklich um einen vorübergehenden Aufenthalt handeln.</p>"
+      },
+      {
+        "id": "money",
+        "h2": "Kaution, Mieterhöhung und Provision",
+        "alt": "",
+        "html": "<ul><li><strong>Kaution</strong> (<em>fianza</em>): eine Monatsmiete, die bei der regionalen Wohnungsbehörde hinterlegt werden muss.</li><li><strong>Zusätzliche Sicherheiten:</strong> höchstens zwei weitere Monatsmieten als Kaution oder Bankbürgschaft. Viele Vermieter schließen zudem eine Mietausfallversicherung ab.</li><li><strong>Mieterhöhung:</strong> einmal im Jahr und nur, wenn der Vertrag es vorsieht. Seit 2025 ist sie durch den Index IRAV des Statistikamts INE begrenzt, im Herbst 2026 rund 2,5 %.</li><li><strong>Provision:</strong> Seit 2023 zahlt der Vermieter Makler und Vertragserstellung, nicht der Mieter.</li></ul><p>Einige Regionen haben \"angespannte Gebiete\" mit Mietpreisbremse. Stand Herbst 2026 gibt es keine in der Region Valencia oder in Andalusien.</p>"
+      },
+      {
+        "id": "prepare",
+        "h2": "Wohnung vorbereiten und Mieter finden",
+        "alt": "Moderne weiße Küche mit Kochinsel und Einbaubackofen",
+        "html": "<p>Vor der Vermietung brauchen Sie:</p><ul><li>einen <strong>Energieausweis</strong>, der in der Anzeige genannt wird,</li><li>die Nutzungsgenehmigung oder Bewohnbarkeitsbescheinigung, die die Region verlangt,</li><li>eine Wohngebäudeversicherung und funktionierende Versorgungsanschlüsse (der Vertrag regelt, wer zahlt).</li></ul><p>Mieter guter Wohnungen erwarten schnelles Glasfaser-Internet, Klimaanlage und Heizung, eine gut ausgestattete Küche und bei Villen gepflegten Pool und Garten. Gute Fotos und eine klare Beschreibung auf Spanisch und Englisch helfen.</p><p>Prüfen Sie jeden Bewerber gründlich: Arbeitsvertrag oder Einkommensnachweis, aktuelle Gehaltsabrechnungen oder Steuerbescheide, Ausweis und Referenzen. Vereinbaren Sie zu Beginn ein Übergabeprotokoll mit Fotos, von beiden unterschrieben.</p>"
+      },
+      {
+        "id": "tax",
+        "h2": "Steuern auf Mieteinnahmen",
+        "alt": "Luftaufnahme von Alicante mit Burgberg und Meer",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Eigentümer</th><th>Steuer</th><th>Abzüge</th></tr></thead><tbody><tr><td>Nichtresident aus EU, Norwegen oder Island</td><td>19 % (Formular 210)</td><td>Kosten wie IBI, Hausgeld, Versicherung, Reparaturen, Zinsen und 3 % Abschreibung auf das Gebäude</td></tr><tr><td>Nichtresident aus anderen Ländern (z. B. Schweiz)</td><td>24 % (Formular 210)</td><td>keine, Steuer auf die Bruttomiete</td></tr><tr><td>Steuerresident in Spanien</td><td>progressive Einkommensteuer</td><td>dieselben Kosten, dazu 50–90 % Ermäßigung auf den Nettoertrag bei Vermietung als Hauptwohnsitz</td></tr></tbody></table></div><p>In Deutschland sind spanische Mieteinkünfte nach dem Doppelbesteuerungsabkommen steuerfrei, erhöhen aber über den Progressionsvorbehalt den Steuersatz. Unser Ratgeber <a href=\"{up}de-de/steuerresident-oder-nichtresident-in-spanien.html\">Steuerresident oder Nichtresident</a> erklärt den Unterschied.</p>"
+      },
+      {
+        "id": "manage",
+        "h2": "Verwaltung aus dem Ausland",
+        "alt": "",
+        "html": "<p>Wer außerhalb Spaniens lebt, kann einen örtlichen Hausverwalter beauftragen: Er sucht und prüft Mieter, erstellt den Vertrag, hinterlegt die Kaution, zieht die Miete ein, kümmert sich um Reparaturen und gibt Ihre Steuererklärungen als Nichtresident ab. Die Gebühr ist meist ein Prozentsatz der Miete.</p><p>Langzeitvermietung passt zu Eigentümern, die regelmäßige Einnahmen und wenig Aufwand wollen und die Immobilie nicht selbst nutzen. Wer die Sommer selbst dort verbringen möchte, fährt mit Wintervermietung oder Ferienvermietung oft besser. Unser Ratgeber zur <a href=\"{up}de-de/neue-vorschriften-fur-kurzzeitvermietungen-in-spanien.html\">Ferienvermietung</a> erklärt diese Möglichkeit.</p>"
+      }
+    ],
+    "faq": [
+      ["Wie lange darf ein Mieter in Spanien bleiben?", "Bei Vermietung als Hauptwohnsitz bis zu 5 Jahre (7 bei einer Gesellschaft als Vermieter), auch bei einem Einjahresvertrag, plus bis zu 3 weitere Jahre, wenn niemand kündigt."],
+      ["Wie viel Kaution darf ich verlangen?", "Eine Monatsmiete als gesetzliche Kaution plus höchstens zwei Monatsmieten als zusätzliche Sicherheit."],
+      ["Wie stark darf ich die Miete jährlich erhöhen?", "Nur einmal im Jahr und nur, wenn der Vertrag es vorsieht. Die Obergrenze ist der IRAV-Index, im Herbst 2026 etwa 2,5 %."],
+      ["Wer zahlt die Maklerprovision?", "Der Vermieter. Seit 2023 zahlen Mieter von Hauptwohnsitzen weder Provision noch Vertragskosten."],
+      ["Brauche ich für Langzeitvermietung eine Touristenlizenz?", "Nein. Die Lizenz gilt nur für Ferienvermietung. Für Langzeitvermietung brauchen Sie einen Energieausweis und die üblichen Nutzungsunterlagen."]
+    ],
+    "closing": {
+      "h2": "Eine gut vermietbare Immobilie kaufen",
+      "alt": "Wohnungsterrasse mit Pflanzen und Blick über die Stadt",
+      "html": "<p>Wir sagen Ihnen, welche Mieten vergleichbare Wohnungen in jeder Gegend erzielen, und stellen Ihnen zuverlässige Hausverwalter vor. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a> und finden Sie eine Immobilie für Langzeitmieter.</p>"
+    }
+  },
+  "es": {
+    "slug": "alquiler-a-largo-plazo-en-espana",
+    "title": "Alquiler de larga duración en España 2026 – normas, contrato e impuestos",
+    "description": "Alquilar una vivienda a largo plazo: duración y derechos del inquilino según la LAU, fianza y garantías, actualización de la renta (IRAV), alquiler de temporada, documentos, impuestos para residentes y no residentes, y cómo elegir inquilino.",
+    "crumb": "Alquiler de larga duración",
+    "eyebrow": "Ser propietario en España · Alquilar",
+    "h1": "Alquiler de larga duración en España – lo que debe saber el propietario en 2026",
+    "hero_alt": "Salón luminoso con cocina abierta y balcón",
+    "short": "El alquiler de vivienda habitual se rige por la Ley de Arrendamientos Urbanos (LAU). El inquilino puede quedarse hasta 5 años (7 si el arrendador es una empresa) aunque el contrato sea de un año, y puede irse a los 6 meses avisando con 30 días. La fianza es de un mes, más un máximo de dos meses de garantías adicionales, y debe depositarse en el organismo autonómico. Las subidas anuales están limitadas por el IRAV del INE (en torno al 2,5 % en 2026). Los honorarios de la inmobiliaria los paga el arrendador. Los no residentes de la UE tributan un 19 % sobre el neto; el resto, un 24 % sobre el íntegro.",
+    "intro": [
+      "El alquiler de larga duración es la alternativa tranquila al vacacional: un inquilino, ingresos estables, menos desgaste y sin licencia turística. La demanda en la Costa Blanca y la Costa del Sol es alta, de familias locales, teletrabajadores y personas que se mudan a España.",
+      "La ley protege bastante al inquilino, así que conviene conocer las normas antes de firmar. Así funciona un alquiler de larga duración en 2026."
+    ],
+    "sections": [
+      {
+        "id": "law",
+        "h2": "El contrato: duración y preaviso",
+        "alt": "",
+        "html": "<p>El alquiler de una vivienda como residencia habitual del inquilino se rige por la Ley de Arrendamientos Urbanos (LAU). Las claves:</p><ul><li><strong>Duración mínima.</strong> Puede firmar por un año, pero el inquilino puede prorrogar año a año hasta <strong>5 años</strong>, o <strong>7</strong> si el arrendador es persona jurídica.</li><li><strong>Prórroga tácita.</strong> Si nadie avisa al final, el contrato se prorroga por anualidades hasta tres años más.</li><li><strong>Desistimiento del inquilino.</strong> A partir de los 6 meses, con 30 días de preaviso. Se puede pactar una indemnización de una mensualidad por cada año que falte.</li><li><strong>Necesidad del arrendador.</strong> Solo si consta en el contrato, para el arrendador o familiares cercanos, tras el primer año y con dos meses de preaviso.</li><li><strong>Venta.</strong> El inquilino tiene derecho de adquisición preferente salvo que se excluya en el contrato, y el arrendamiento suele continuar con el nuevo propietario.</li></ul><p>Los contratos de temporada (por ejemplo, un invierno o una estancia por trabajo o estudios) no tienen estas protecciones, pero deben responder a una necesidad temporal real.</p>"
+      },
+      {
+        "id": "money",
+        "h2": "Fianza, actualización de la renta y honorarios",
+        "alt": "",
+        "html": "<ul><li><strong>Fianza:</strong> una mensualidad, que debe depositarse en el organismo de vivienda de la comunidad autónoma.</li><li><strong>Garantías adicionales:</strong> como máximo dos mensualidades más, en depósito o aval bancario. Muchos propietarios contratan además un seguro de impago.</li><li><strong>Actualización:</strong> una vez al año y solo si el contrato lo prevé. Desde 2025 el límite es el Índice de Referencia para la Actualización de Arrendamientos (IRAV) del INE, en torno al 2,5 % en otoño de 2026.</li><li><strong>Honorarios:</strong> desde 2023 los gastos de inmobiliaria y de formalización del contrato los paga el arrendador.</li></ul><p>Algunas comunidades tienen zonas tensionadas con límites de renta. A otoño de 2026 no hay ninguna en la Comunitat Valenciana ni en Andalucía.</p>"
+      },
+      {
+        "id": "prepare",
+        "h2": "Preparar la vivienda y encontrar inquilino",
+        "alt": "Cocina blanca moderna con isla y horno integrado",
+        "html": "<p>Antes de alquilar necesita:</p><ul><li>el <strong>certificado de eficiencia energética</strong>, que debe figurar en el anuncio,</li><li>la licencia de ocupación o cédula de habitabilidad que exija la comunidad,</li><li>un seguro de hogar y los suministros en regla (el contrato indica quién los paga).</li></ul><p>Los inquilinos de viviendas de calidad esperan fibra óptica, aire acondicionado y calefacción, cocina equipada y, en las villas, piscina y jardín cuidados. Buenas fotos y una descripción clara ayudan.</p><p>Revise bien a cada candidato: contrato de trabajo o justificante de ingresos, últimas nóminas o declaraciones, documento de identidad y referencias. Firme al inicio un inventario con fotos.</p>"
+      },
+      {
+        "id": "tax",
+        "h2": "Impuestos sobre el alquiler",
+        "alt": "Vista aérea de Alicante con el monte del castillo y el mar",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Propietario</th><th>Impuesto</th><th>Deducciones</th></tr></thead><tbody><tr><td>No residente de la UE, Noruega o Islandia</td><td>19 % (modelo 210)</td><td>gastos como IBI, comunidad, seguro, reparaciones, intereses y amortización del 3 % de la construcción</td></tr><tr><td>No residente de otros países (Latinoamérica, EE. UU., Reino Unido, Suiza…)</td><td>24 % (modelo 210)</td><td>ninguna, tributa sobre el ingreso íntegro</td></tr><tr><td>Residente fiscal en España</td><td>IRPF progresivo</td><td>los mismos gastos y una reducción del 50–90 % del rendimiento neto si alquila como vivienda habitual</td></tr></tbody></table></div><p>Muchos no residentes tributan también en su país, con deducción del impuesto español según el convenio. Nuestra guía <a href=\"{up}es-es/residente-vs-no-residente-en-espana.html\">residente vs no residente</a> explica la diferencia.</p>"
+      },
+      {
+        "id": "manage",
+        "h2": "Gestionar desde fuera",
+        "alt": "",
+        "html": "<p>Si vive fuera de España, un gestor local puede buscar y verificar inquilinos, redactar el contrato, depositar la fianza, cobrar la renta, ocuparse de las reparaciones y presentar sus declaraciones de no residente. Suele cobrar un porcentaje de la renta.</p><p>El alquiler de larga duración encaja con quien busca ingresos estables y poca implicación y no necesita usar la vivienda. Si quiere pasar allí los veranos, el alquiler de temporada de invierno o el vacacional puede encajar mejor. Nuestra guía del <a href=\"{up}es-es/nuevas-normas-sobre-alquileres-a-corto-plazo-en-espana.html\">alquiler vacacional</a> explica esa opción.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Cuánto tiempo puede quedarse un inquilino?", "En vivienda habitual, hasta 5 años (7 si el arrendador es una empresa) aunque el contrato sea de un año, más hasta 3 años de prórroga tácita si nadie avisa."],
+      ["¿Cuánta fianza puedo pedir?", "Una mensualidad de fianza legal, más un máximo de dos mensualidades de garantía adicional."],
+      ["¿Cuánto puedo subir el alquiler cada año?", "Una vez al año y solo si el contrato lo permite. El límite es el IRAV del INE, en torno al 2,5 % en otoño de 2026."],
+      ["¿Quién paga los honorarios de la inmobiliaria?", "El arrendador. Desde 2023 el inquilino de vivienda habitual no paga honorarios ni gastos de formalización."],
+      ["¿Necesito licencia turística para alquilar a largo plazo?", "No. La licencia turística solo es necesaria para el alquiler vacacional. Para el de larga duración basta con el certificado energético y la documentación de ocupación habitual."]
+    ],
+    "closing": {
+      "h2": "Compre una vivienda que se alquile bien",
+      "alt": "Terraza de un piso con plantas y vistas a la ciudad",
+      "html": "<p>Le diremos qué renta obtienen viviendas similares en cada zona y le presentaremos gestores de confianza. <a href=\"{up}index.html#contact\">Escríbanos</a> para encontrar una vivienda pensada para el alquiler de larga duración.</p>"
+    }
+  }
+}
