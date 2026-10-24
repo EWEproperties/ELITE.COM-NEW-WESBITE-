@@ -1,0 +1,210 @@
+{
+  "author": "anita",
+  "published": "2026-02-24",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/ibi-property-tax/house-model-and-tax-paperwork.jpg",
+  "images": {
+    "rates": "assets/blog/ibi-property-tax/terrace-view-of-calpe.jpg",
+    "rise": "assets/blog/ibi-property-tax/modern-townhouse-with-pool.jpg",
+    "closing": "assets/blog/ibi-property-tax/apartment-complex-with-gardens.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/podatek-katastralny-w-hiszpanii-ibi-2026",
+  "cards": ["23527637", "21034180", "24623926"],
+  "sources": [
+    ["Guía Fiscal – IBI by municipality 2026", "https://guiafiscal.es/patrimonio/ibi/"],
+    ["Ayuntamiento de Alicante – IBI rate 2026", "https://www.alicante.es/es/noticias/mas-336000-viviendas-y-locales-alicante-se-beneficiaran-rebaja-del-ibi"],
+    ["Sede Electrónica del Catastro", "https://www.sedecatastro.gob.es/"]
+  ],
+  "en": {
+    "slug": "property-tax-in-spain-ibi-2026",
+    "title": "IBI Property Tax in Spain 2026 – Rates, Examples and Who Pays",
+    "description": "What the IBI property tax in Spain is, how it is calculated from the cadastral value, 2026 rates in Alicante, Torrevieja, Benidorm, Orihuela and Marbella, who pays it when you buy, and how it can rise.",
+    "crumb": "IBI property tax",
+    "eyebrow": "Owning in Spain · Taxes",
+    "h1": "IBI Property Tax in Spain 2026 – What You Will Pay",
+    "hero_alt": "Small red house model next to coins and a person filling in tax papers",
+    "short": "IBI is the yearly local property tax every owner in Spain pays to the town hall, resident or not. It is a percentage of the cadastral value (valor catastral), which is usually well below the market price. Towns set their own rate between 0.4% and 1.1%. In 2026 the urban rate is 0.4% in Torrevieja, about 0.62% in Alicante, 0.695% in Orihuela, 0.82% in Benidorm and 0.65% in Marbella. A typical apartment on the Costa Blanca pays a few hundred euros a year. Whoever owns the home on 1 January owes that year's IBI.",
+    "intro": [
+      "When you buy in Spain, the purchase taxes get all the attention. IBI is smaller, but you pay it every year for as long as you own the home, so it belongs in any honest budget.",
+      "Here is how IBI works, what it costs in the main towns on the Costa Blanca and Costa del Sol in 2026, and what to check before you buy."
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "h2": "What is IBI?",
+        "alt": "",
+        "html": "<p>IBI (<em>Impuesto sobre Bienes Inmuebles</em>) is an annual tax on owning real estate, collected by the town hall (<em>ayuntamiento</em>). It applies to apartments, houses, plots and commercial premises.</p><p>The tax is tied to the property, not to the person. Every owner pays it, whether resident or non-resident, and whether the home is lived in, rented out or empty.</p><p>IBI is only one of the yearly costs of owning. Non-residents also pay non-resident income tax on the home, and some owners pay wealth tax. Our guide to <a href=\"{up}property-and-wealth-taxes-in-spain.html\">property and wealth taxes in Spain</a> covers them all.</p>"
+      },
+      {
+        "id": "how",
+        "h2": "How is IBI calculated?",
+        "alt": "",
+        "html": "<p>IBI does not depend on what you paid for the home. It is based on the <strong>cadastral value</strong> (<em>valor catastral</em>), an official value set by the Spanish land registry office (<em>Catastro</em>) for every property. It is usually far below the market price, often less than half.</p><p>The town hall applies its own rate to that value:</p><p><strong>IBI = cadastral value × town rate</strong></p><p>By law, the rate for urban property must be between <strong>0.4% and 1.1%</strong> in most towns. Many towns also offer discounts, for example for large families, homes with solar panels or new homes owned by a developer, and some give a small discount if you pay by direct debit.</p><p>You can find the cadastral value on the last IBI bill or in the online land registry (<em>Sede Electrónica del Catastro</em>).</p>"
+      },
+      {
+        "id": "rates",
+        "h2": "IBI rates in 2026 on the Costa Blanca and Costa del Sol",
+        "alt": "Terrace with outdoor sofas looking towards the Peñón de Ifach in Calpe",
+        "html": "<p>Urban IBI rates in 2026 in towns where many of our clients buy:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Town</th><th>IBI rate 2026</th><th>Tax on €100,000 cadastral value</th></tr></thead><tbody><tr><td>Torrevieja</td><td>0.40%</td><td>€400</td></tr><tr><td>Málaga city</td><td>0.451%</td><td>€451</td></tr><tr><td>Alicante city</td><td>0.620%</td><td>€620</td></tr><tr><td>Marbella</td><td>0.65%</td><td>€650</td></tr><tr><td>Orihuela (incl. Orihuela Costa)</td><td>0.695%</td><td>€695</td></tr><tr><td>Benidorm</td><td>0.82%</td><td>€820</td></tr></tbody></table></div><p>Because cadastral values are low, the real bills are modest. An average home pays about €220 a year in Torrevieja, €315 in Alicante and €495 in Benidorm. In Marbella, where cadastral values are higher, the average is close to €1,000.</p><p>Rates change, so check the current tax ordinance (<em>ordenanza fiscal</em>) of the town before you buy, or ask us for the last bill of the home you like.</p>"
+      },
+      {
+        "id": "pay",
+        "h2": "Who pays and when?",
+        "alt": "",
+        "html": "<p>IBI is due from whoever owns the home on <strong>1 January</strong>. If you buy in March, the seller legally owes that year's tax, but most purchase contracts split it between buyer and seller by the number of days each owns the home.</p><p>In the province of Alicante, most towns collect IBI through the provincial tax office SUMA. In 2026 the payment period there ran from late July to early October. Other provinces and towns have their own dates. The easiest way, especially if you live abroad, is a direct debit from a Spanish bank account.</p><h3>Check for unpaid IBI before you buy</h3><p>Unpaid IBI stays with the property. If the seller has not paid the last years, the town can claim it from the new owner. Your lawyer should ask for the last IBI receipt and a certificate that there is no debt before the signing.</p>"
+      },
+      {
+        "id": "rise",
+        "h2": "Can IBI go up?",
+        "alt": "Modern white townhouse with a terrace and private pool",
+        "html": "<p>Yes, for two reasons:</p><ul><li><strong>The town changes its rate.</strong> This is decided each year in the tax ordinance.</li><li><strong>The cadastral value is updated.</strong> The Catastro can revise the values in a whole town, or the State can apply a yearly update coefficient that the town has asked for. Your IBI then rises even if the market price of your home has not.</li></ul><p>Rises are usually gradual, but over 10–15 years they add up. When you compare two homes, look at the actual bill and the cadastral value, not just the rate.</p>"
+      },
+      {
+        "id": "rental",
+        "h2": "IBI and rental income",
+        "alt": "",
+        "html": "<p>If you rent out your home, IBI is a cost of the rental. Residents of Spain and non-residents from the EU or EEA can deduct it, together with other costs, from their rental income. Non-residents from outside the EU and EEA, including the UK, are taxed on gross rental income and cannot deduct it.</p><p>The cadastral value also matters for other taxes. Non-residents pay income tax on an imputed income of 1.1% of the cadastral value (2% if it has not been revised recently) for every year the home is not rented out. Our guide to <a href=\"{up}resident-vs-non-resident-in-spain.html\">resident and non-resident tax</a> explains the difference.</p>"
+      }
+    ],
+    "faq": [
+      ["How much is IBI on an apartment in Spain?", "It depends on the cadastral value and the town. On the Costa Blanca, a typical apartment pays roughly €200–600 a year. In Marbella and other high-value areas it is often €1,000 or more."],
+      ["Do non-residents pay IBI?", "Yes. IBI is paid by every owner, resident or not. Non-residents also pay non-resident income tax on the home every year."],
+      ["Who pays IBI in the year I buy?", "Legally, the owner on 1 January. In practice most purchase contracts split that year's IBI between seller and buyer by the days each owns the home."],
+      ["Where do I find the cadastral value of a property?", "On the IBI bill, or in the Sede Electrónica del Catastro using the cadastral reference. The owner can download a certificate with the value."],
+      ["What happens if the seller has not paid IBI?", "The debt stays with the property, so the town can claim it from you. Ask for the last receipt and a no-debt certificate before signing."]
+    ],
+    "closing": {
+      "h2": "Know the yearly costs before you buy",
+      "alt": "Apartment complex with palm trees, gardens and pool",
+      "html": "<p>For every home we show, we can give you the last IBI bill, the community fees and an estimate of your yearly taxes, so you know the real cost of owning. <a href=\"{up}index.html#contact\">Contact us</a> for a full cost summary.</p>"
+    }
+  },
+  "de": {
+    "slug": "grundsteuer-in-spanien-ibi-2026",
+    "title": "Grundsteuer IBI in Spanien 2026 – Sätze, Beispiele, wer zahlt",
+    "description": "Was die spanische Grundsteuer IBI ist, wie sie aus dem Katasterwert berechnet wird, die Sätze 2026 in Alicante, Torrevieja, Benidorm, Orihuela und Marbella, wer beim Kauf zahlt und wann sie steigt.",
+    "crumb": "Grundsteuer IBI",
+    "eyebrow": "Eigentum in Spanien · Steuern",
+    "h1": "Grundsteuer IBI in Spanien 2026 – was Sie zahlen",
+    "hero_alt": "Kleines rotes Hausmodell neben Münzen und einer Person, die Steuerformulare ausfüllt",
+    "short": "Die IBI ist die jährliche Grundsteuer, die jeder Eigentümer in Spanien an die Gemeinde zahlt, ob Resident oder nicht. Sie ist ein Prozentsatz des Katasterwerts (valor catastral), der meist deutlich unter dem Marktpreis liegt. Die Gemeinden legen den Satz zwischen 0,4 % und 1,1 % fest. 2026 liegt er in Torrevieja bei 0,4 %, in Alicante bei etwa 0,62 %, in Orihuela bei 0,695 %, in Benidorm bei 0,82 % und in Marbella bei 0,65 %. Eine typische Wohnung an der Costa Blanca zahlt einige Hundert Euro im Jahr. Wer am 1. Januar Eigentümer ist, schuldet die Steuer für das Jahr.",
+    "intro": [
+      "Beim Kauf in Spanien schauen alle auf die Grunderwerbsteuer. Die IBI ist kleiner, aber Sie zahlen sie jedes Jahr, solange Ihnen die Immobilie gehört. In eine ehrliche Kalkulation gehört sie deshalb hinein.",
+      "Hier erfahren Sie, wie die IBI funktioniert, was sie 2026 in den wichtigsten Orten an der Costa Blanca und Costa del Sol kostet und was Sie vor dem Kauf prüfen sollten."
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "h2": "Was ist die IBI?",
+        "alt": "",
+        "html": "<p>Die IBI (<em>Impuesto sobre Bienes Inmuebles</em>) ist eine jährliche Steuer auf Grundbesitz, die die Gemeinde (<em>ayuntamiento</em>) erhebt. Sie gilt für Wohnungen, Häuser, Grundstücke und Gewerbeflächen und entspricht in etwa der Grundsteuer in Deutschland und Österreich.</p><p>Die Steuer hängt an der Immobilie, nicht an der Person. Jeder Eigentümer zahlt sie, ob Resident oder Nichtresident, und ob die Immobilie bewohnt, vermietet oder leer ist.</p><p>Die IBI ist nur eine der laufenden Kosten. Nichtresidenten zahlen außerdem Einkommensteuer für Nichtresidenten auf die Immobilie, manche auch Vermögensteuer. Unser Ratgeber zu <a href=\"{up}de-de/immobilien--und-vermogenssteuern-in-spanien.html\">Immobilien- und Vermögensteuern in Spanien</a> erklärt alle.</p>"
+      },
+      {
+        "id": "how",
+        "h2": "Wie wird die IBI berechnet?",
+        "alt": "",
+        "html": "<p>Die IBI hängt nicht vom Kaufpreis ab. Grundlage ist der <strong>Katasterwert</strong> (<em>valor catastral</em>), ein amtlicher Wert, den das spanische Katasteramt (<em>Catastro</em>) für jede Immobilie festlegt. Er liegt meist weit unter dem Marktpreis, oft bei weniger als der Hälfte.</p><p>Die Gemeinde wendet darauf ihren eigenen Satz an:</p><p><strong>IBI = Katasterwert × Gemeindesatz</strong></p><p>Gesetzlich muss der Satz für städtische Immobilien in den meisten Gemeinden zwischen <strong>0,4 % und 1,1 %</strong> liegen. Viele Gemeinden gewähren Ermäßigungen, etwa für kinderreiche Familien, Häuser mit Solaranlage oder Neubauten im Besitz des Bauträgers, manche auch einen kleinen Rabatt bei Lastschrift.</p><p>Den Katasterwert finden Sie auf dem letzten IBI-Bescheid oder online beim Katasteramt (<em>Sede Electrónica del Catastro</em>).</p>"
+      },
+      {
+        "id": "rates",
+        "h2": "IBI-Sätze 2026 an der Costa Blanca und Costa del Sol",
+        "alt": "Terrasse mit Loungemöbeln und Blick auf den Peñón de Ifach in Calpe",
+        "html": "<p>Städtische IBI-Sätze 2026 in Orten, in denen viele unserer Kunden kaufen:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Ort</th><th>IBI-Satz 2026</th><th>Steuer bei 100.000 € Katasterwert</th></tr></thead><tbody><tr><td>Torrevieja</td><td>0,40 %</td><td>400 €</td></tr><tr><td>Málaga Stadt</td><td>0,451 %</td><td>451 €</td></tr><tr><td>Alicante Stadt</td><td>0,620 %</td><td>620 €</td></tr><tr><td>Marbella</td><td>0,65 %</td><td>650 €</td></tr><tr><td>Orihuela (mit Orihuela Costa)</td><td>0,695 %</td><td>695 €</td></tr><tr><td>Benidorm</td><td>0,82 %</td><td>820 €</td></tr></tbody></table></div><p>Weil die Katasterwerte niedrig sind, bleiben die Bescheide überschaubar. Eine durchschnittliche Wohnung zahlt etwa 220 € im Jahr in Torrevieja, 315 € in Alicante und 495 € in Benidorm. In Marbella mit höheren Katasterwerten sind es im Schnitt fast 1.000 €.</p><p>Die Sätze ändern sich. Prüfen Sie vor dem Kauf die aktuelle Steuersatzung (<em>ordenanza fiscal</em>) der Gemeinde oder fragen Sie uns nach dem letzten Bescheid der Immobilie.</p>"
+      },
+      {
+        "id": "pay",
+        "h2": "Wer zahlt und wann?",
+        "alt": "",
+        "html": "<p>Die IBI schuldet, wer am <strong>1. Januar</strong> Eigentümer ist. Kaufen Sie im März, schuldet rechtlich der Verkäufer die Steuer für das Jahr. In den meisten Kaufverträgen wird sie aber tageweise zwischen Käufer und Verkäufer aufgeteilt.</p><p>In der Provinz Alicante ziehen die meisten Gemeinden die IBI über das Provinzsteueramt SUMA ein. 2026 lief die Zahlungsfrist dort von Ende Juli bis Anfang Oktober. Andere Provinzen und Gemeinden haben eigene Termine. Am einfachsten, gerade wenn Sie im Ausland leben, ist eine Lastschrift von einem spanischen Konto.</p><h3>Vor dem Kauf auf Rückstände prüfen</h3><p>Unbezahlte IBI bleibt an der Immobilie haften. Hat der Verkäufer die letzten Jahre nicht bezahlt, kann die Gemeinde vom neuen Eigentümer zahlen lassen. Ihr Anwalt sollte vor der Unterschrift den letzten IBI-Beleg und eine Bescheinigung über Schuldenfreiheit verlangen.</p>"
+      },
+      {
+        "id": "rise",
+        "h2": "Kann die IBI steigen?",
+        "alt": "Modernes weißes Reihenhaus mit Terrasse und privatem Pool",
+        "html": "<p>Ja, aus zwei Gründen:</p><ul><li><strong>Die Gemeinde ändert den Satz.</strong> Das wird jedes Jahr in der Steuersatzung beschlossen.</li><li><strong>Der Katasterwert wird angepasst.</strong> Das Katasteramt kann die Werte einer ganzen Gemeinde neu festsetzen, oder der Staat wendet einen jährlichen Anpassungsfaktor an, den die Gemeinde beantragt hat. Dann steigt die IBI, auch wenn der Marktpreis gleich bleibt.</li></ul><p>Erhöhungen kommen meist schrittweise, summieren sich aber über 10–15 Jahre. Vergleichen Sie bei zwei Immobilien daher den tatsächlichen Bescheid und den Katasterwert, nicht nur den Satz.</p>"
+      },
+      {
+        "id": "rental",
+        "h2": "IBI und Mieteinnahmen",
+        "alt": "",
+        "html": "<p>Wenn Sie vermieten, ist die IBI eine Kostenposition der Vermietung. Residenten in Spanien und Nichtresidenten aus der EU oder dem EWR können sie zusammen mit anderen Kosten von den Mieteinnahmen abziehen. Schweizer Nichtresidenten werden dagegen auf die Bruttomiete besteuert und können sie nicht abziehen.</p><p>Der Katasterwert zählt auch für andere Steuern. Nichtresidenten versteuern für jedes Jahr ohne Vermietung ein fiktives Einkommen von 1,1 % des Katasterwerts (2 %, wenn er länger nicht neu festgesetzt wurde). Unser Ratgeber <a href=\"{up}de-de/steuerresident-oder-nichtresident-in-spanien.html\">Steuerresident oder Nichtresident</a> erklärt den Unterschied.</p>"
+      }
+    ],
+    "faq": [
+      ["Wie hoch ist die IBI für eine Wohnung in Spanien?", "Das hängt von Katasterwert und Gemeinde ab. An der Costa Blanca zahlt eine typische Wohnung grob 200–600 € im Jahr, in Marbella und anderen teuren Lagen oft 1.000 € und mehr."],
+      ["Zahlen Nichtresidenten IBI?", "Ja. Jeder Eigentümer zahlt die IBI, ob Resident oder nicht. Nichtresidenten zahlen zusätzlich jedes Jahr Einkommensteuer für Nichtresidenten auf die Immobilie."],
+      ["Wer zahlt die IBI im Kaufjahr?", "Rechtlich der Eigentümer am 1. Januar. In der Praxis teilen die meisten Kaufverträge die IBI des Jahres tageweise zwischen Verkäufer und Käufer auf."],
+      ["Wo finde ich den Katasterwert?", "Auf dem IBI-Bescheid oder in der Sede Electrónica del Catastro über die Katasternummer. Der Eigentümer kann dort eine Bescheinigung mit dem Wert herunterladen."],
+      ["Was passiert, wenn der Verkäufer die IBI nicht bezahlt hat?", "Die Schuld haftet an der Immobilie, die Gemeinde kann sie also von Ihnen fordern. Verlangen Sie vor der Unterschrift den letzten Beleg und eine Bescheinigung über Schuldenfreiheit."]
+    ],
+    "closing": {
+      "h2": "Laufende Kosten kennen, bevor Sie kaufen",
+      "alt": "Wohnanlage mit Palmen, Gärten und Pool",
+      "html": "<p>Zu jeder Immobilie, die wir zeigen, nennen wir Ihnen den letzten IBI-Bescheid, die Gemeinschaftskosten und eine Schätzung Ihrer jährlichen Steuern, damit Sie die echten Kosten kennen. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a> für eine vollständige Kostenübersicht.</p>"
+    }
+  },
+  "es": {
+    "slug": "impuesto-sobre-bienes-inmuebles-en-espana",
+    "title": "IBI en España 2026 – tipos, ejemplos y quién lo paga",
+    "description": "Qué es el IBI, cómo se calcula sobre el valor catastral, los tipos de 2026 en Alicante, Torrevieja, Benidorm, Orihuela y Marbella, quién lo paga al comprar y por qué puede subir.",
+    "crumb": "IBI",
+    "eyebrow": "Ser propietario en España · Impuestos",
+    "h1": "IBI en España 2026 – cuánto pagará",
+    "hero_alt": "Pequeña maqueta de casa roja junto a monedas y una persona rellenando papeles de impuestos",
+    "short": "El IBI es el impuesto municipal que todo propietario paga cada año al ayuntamiento, sea residente o no. Se calcula como un porcentaje del valor catastral, que suele estar muy por debajo del precio de mercado. Cada ayuntamiento fija su tipo entre el 0,4 % y el 1,1 %. En 2026 el tipo urbano es del 0,4 % en Torrevieja, alrededor del 0,62 % en Alicante, 0,695 % en Orihuela, 0,82 % en Benidorm y 0,65 % en Marbella. Un piso típico de la Costa Blanca paga unos cientos de euros al año. Lo debe quien sea propietario el 1 de enero.",
+    "intro": [
+      "Al comprar una vivienda, la atención se la llevan los impuestos de compra. El IBI es menor, pero se paga cada año mientras sea propietario, así que debe estar en cualquier presupuesto serio.",
+      "Le explicamos cómo funciona el IBI, cuánto cuesta en 2026 en los principales municipios de la Costa Blanca y la Costa del Sol, y qué comprobar antes de comprar."
+    ],
+    "sections": [
+      {
+        "id": "what",
+        "h2": "¿Qué es el IBI?",
+        "alt": "",
+        "html": "<p>El IBI (<em>Impuesto sobre Bienes Inmuebles</em>) es un impuesto anual sobre la propiedad que cobra el ayuntamiento. Se aplica a pisos, casas, solares y locales.</p><p>El impuesto va ligado al inmueble, no a la persona. Lo paga todo propietario, residente o no, y tanto si la vivienda está habitada como alquilada o vacía.</p><p>El IBI es solo uno de los gastos anuales. Los no residentes pagan además el impuesto sobre la renta de no residentes por la vivienda, y algunos propietarios el impuesto sobre el patrimonio. Nuestra guía de <a href=\"{up}es-es/impuestos-sobre-la-propiedad-y-el-patrimonio-en-espana.html\">impuestos sobre la propiedad y el patrimonio</a> los explica todos.</p>"
+      },
+      {
+        "id": "how",
+        "h2": "¿Cómo se calcula el IBI?",
+        "alt": "",
+        "html": "<p>El IBI no depende del precio que pagó. La base es el <strong>valor catastral</strong>, un valor oficial que fija la Dirección General del Catastro para cada inmueble. Suele estar muy por debajo del precio de mercado, a menudo por debajo de la mitad.</p><p>El ayuntamiento aplica su propio tipo a ese valor:</p><p><strong>IBI = valor catastral × tipo municipal</strong></p><p>Por ley, el tipo para inmuebles urbanos debe estar entre el <strong>0,4 % y el 1,1 %</strong> en la mayoría de municipios. Muchos ayuntamientos aplican bonificaciones, por ejemplo a familias numerosas, a viviendas con placas solares o a obra nueva de promotoras, y algunos un pequeño descuento por domiciliar el pago.</p><p>El valor catastral aparece en el último recibo del IBI o en la Sede Electrónica del Catastro.</p>"
+      },
+      {
+        "id": "rates",
+        "h2": "Tipos de IBI en 2026 en la Costa Blanca y la Costa del Sol",
+        "alt": "Terraza con sofás de exterior con vistas al Peñón de Ifach en Calpe",
+        "html": "<p>Tipos del IBI urbano en 2026 en municipios donde compran muchos de nuestros clientes:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Municipio</th><th>Tipo IBI 2026</th><th>Cuota con 100.000 € de valor catastral</th></tr></thead><tbody><tr><td>Torrevieja</td><td>0,40 %</td><td>400 €</td></tr><tr><td>Málaga capital</td><td>0,451 %</td><td>451 €</td></tr><tr><td>Alicante capital</td><td>0,620 %</td><td>620 €</td></tr><tr><td>Marbella</td><td>0,65 %</td><td>650 €</td></tr><tr><td>Orihuela (con Orihuela Costa)</td><td>0,695 %</td><td>695 €</td></tr><tr><td>Benidorm</td><td>0,82 %</td><td>820 €</td></tr></tbody></table></div><p>Como los valores catastrales son bajos, los recibos son moderados. Una vivienda media paga unos 220 € al año en Torrevieja, 315 € en Alicante y 495 € en Benidorm. En Marbella, con valores catastrales más altos, la media ronda los 1.000 €.</p><p>Los tipos cambian, así que consulte la ordenanza fiscal vigente del municipio antes de comprar, o pídanos el último recibo de la vivienda que le interesa.</p>"
+      },
+      {
+        "id": "pay",
+        "h2": "¿Quién paga y cuándo?",
+        "alt": "",
+        "html": "<p>El IBI lo debe quien es propietario el <strong>1 de enero</strong>. Si compra en marzo, legalmente el impuesto de ese año corresponde al vendedor, pero la mayoría de contratos lo reparten entre comprador y vendedor según los días de propiedad de cada uno.</p><p>En la provincia de Alicante, la mayoría de municipios cobra el IBI a través de SUMA Gestión Tributaria. En 2026 el periodo de pago fue de finales de julio a principios de octubre. Otras provincias y municipios tienen sus propias fechas. Lo más cómodo, sobre todo si vive fuera, es domiciliarlo en una cuenta española.</p><h3>Compruebe deudas de IBI antes de comprar</h3><p>El IBI impagado queda afecto al inmueble. Si el vendedor no ha pagado los últimos años, el ayuntamiento puede reclamárselo al nuevo propietario. Su abogado debe pedir el último recibo y un certificado de deudas antes de la firma.</p>"
+      },
+      {
+        "id": "rise",
+        "h2": "¿Puede subir el IBI?",
+        "alt": "Adosado moderno blanco con terraza y piscina privada",
+        "html": "<p>Sí, por dos motivos:</p><ul><li><strong>El ayuntamiento cambia el tipo.</strong> Se decide cada año en la ordenanza fiscal.</li><li><strong>Se actualiza el valor catastral.</strong> El Catastro puede revisar los valores de todo un municipio, o el Estado aplica un coeficiente anual de actualización si el ayuntamiento lo ha pedido. El IBI sube aunque el precio de mercado no cambie.</li></ul><p>Las subidas suelen ser graduales, pero en 10–15 años se notan. Al comparar dos viviendas, fíjese en el recibo real y el valor catastral, no solo en el tipo.</p>"
+      },
+      {
+        "id": "rental",
+        "h2": "IBI y rentas del alquiler",
+        "alt": "",
+        "html": "<p>Si alquila la vivienda, el IBI es un gasto del alquiler. Los residentes en España y los no residentes de la UE o del EEE pueden deducirlo, junto con otros gastos, de los ingresos del alquiler. Los no residentes de fuera de la UE y el EEE tributan por el ingreso íntegro y no pueden deducirlo.</p><p>El valor catastral cuenta también para otros impuestos. Los no residentes tributan cada año que la vivienda no está alquilada por una renta imputada del 1,1 % del valor catastral (2 % si no se ha revisado recientemente). Nuestra guía <a href=\"{up}es-es/residente-vs-no-residente-en-espana.html\">residente vs no residente</a> explica la diferencia.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Cuánto se paga de IBI por un piso en España?", "Depende del valor catastral y del municipio. En la Costa Blanca un piso típico paga aproximadamente 200–600 € al año; en Marbella y otras zonas caras, a menudo 1.000 € o más."],
+      ["¿Pagan IBI los no residentes?", "Sí. Todo propietario paga el IBI, sea residente o no. Los no residentes pagan además cada año el impuesto sobre la renta de no residentes por la vivienda."],
+      ["¿Quién paga el IBI el año de la compra?", "Legalmente, el propietario a 1 de enero. En la práctica, la mayoría de contratos reparte el IBI de ese año entre vendedor y comprador según los días de propiedad."],
+      ["¿Dónde consulto el valor catastral?", "En el recibo del IBI o en la Sede Electrónica del Catastro con la referencia catastral. El propietario puede descargar allí una certificación con el valor."],
+      ["¿Qué pasa si el vendedor no pagó el IBI?", "La deuda queda afecta al inmueble, así que el ayuntamiento puede reclamársela a usted. Pida el último recibo y un certificado de deudas antes de firmar."]
+    ],
+    "closing": {
+      "h2": "Conozca los gastos anuales antes de comprar",
+      "alt": "Residencial con palmeras, jardines y piscina",
+      "html": "<p>Para cada vivienda que le enseñamos podemos darle el último recibo del IBI, la cuota de comunidad y una estimación de sus impuestos anuales, para que sepa el coste real de ser propietario. <a href=\"{up}index.html#contact\">Escríbanos</a> y le preparamos un resumen completo de gastos.</p>"
+    }
+  }
+}
