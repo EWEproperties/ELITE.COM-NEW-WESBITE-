@@ -1,0 +1,113 @@
+{
+ "author": "lucyna",
+ "published": "2025-04-18",
+ "modified": "2026-10-24",
+ "hero": "assets/blog/altea/altea-old-town-and-church.jpg",
+ "images": {
+  "where": "assets/blog/altea/altea-seafront.jpg",
+  "old-town": "assets/blog/altea/old-town-street-blue-domes.jpg",
+  "beaches": "assets/blog/altea/altea-pebble-beach.jpg",
+  "do": "assets/blog/altea/viewpoint-over-the-bay.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/altea-w-hiszpanii-co-zobaczyc-na-wybrzezu-costa-blanca",
+ "cards": ["18595762", "23527637", "20598512"],
+ "en": {
+  "slug": "altea-in-spain-what-is-there-to-see-on-the-costa-blanca",
+  "title": "Altea, Spain – What to See and Do on the Costa Blanca",
+  "description": "A guide to Altea on the Costa Blanca: the white old town and its blue-domed church, the best beaches and coves, things to do, local food and where to live.",
+  "crumb": "Altea",
+  "eyebrow": "Costa Blanca · Areas",
+  "h1": "Altea in Spain – What Is There to See on the Costa Blanca?",
+  "hero_alt": "White houses of Altea's old town with the church and mountains behind",
+  "short": "Altea is a town of about 22,000 people on the northern Costa Blanca, 11 km from Benidorm and about an hour from Alicante airport. It is known for its white hilltop old town, the blue-domed church of Nuestra Señora del Consuelo, pebble beaches and quiet coves, and an artistic, relaxed feel. Altea Hills and Mascarat are among the most sought-after areas for villas on the coast.",
+  "intro": ["Altea is one of the prettiest towns on the Costa Blanca. It is calm, yet close to everything, which is why many visitors come back to buy a home here. This is what to see and do, and what life in Altea is like."],
+  "sections": [
+   {"id": "where", "h2": "Where is Altea?", "alt": "Altea seafront with palm trees, white apartment buildings and the church above",
+    "html": "<p>Altea lies in the province of Alicante, on the bay where the River Algar meets the Mediterranean, between the Serra Gelada and the Sierra de Bernia mountains. It is:</p><ul><li>about 11 km from Benidorm,</li><li>about 20 km from Calpe,</li><li>about 60 km from Alicante and its airport (around an hour by car).</li></ul><p>The coastal tram (TRAM line 9) and buses link Altea with Benidorm, Calpe and Dénia.</p>"},
+   {"id": "old-town", "h2": "The old town", "alt": "Whitewashed street in Altea's old town leading to the blue-domed church",
+    "html": "<p>Altea is called the white town of the Costa Blanca, and its old town (<em>Casco Antiguo</em>) shows why. It sits on a hill above the sea, with narrow cobbled streets, whitewashed houses, flower-filled balconies and small squares.</p><p>At the top stands the church of <strong>Nuestra Señora del Consuelo</strong>, the symbol of the town. Its blue and white tiled domes, finished in the early 20th century, can be seen from far along the coast. The square in front of it, Plaza de la Iglesia, is lined with cafés.</p><p>Walk to the viewpoints around the old town for some of the best views on the coast, such as the <strong>Mirador de los Cronistas</strong> and the Mirador de la Plaza de la Iglesia.</p>"},
+   {"id": "beaches", "h2": "Beaches and coves", "alt": "Long pebble beach in Altea with the coast towards Calpe in the distance",
+    "html": "<p>Most of Altea's beaches are made of smooth pebbles, which keeps the water very clear. The best known are:</p><ul><li><strong>Playa de la Roda</strong>, the main beach below the old town, with a promenade, cafés and water sports.</li><li><strong>Playa de la Olla</strong>, quieter, facing the small island of l'Olla.</li><li><strong>Cap Negret</strong>, a calm beach between rocks, good for snorkelling.</li><li><strong>Cala del Soio</strong> and the coves around <strong>Mascarat</strong>, small and rocky, popular with divers.</li></ul><p>The seafront promenade runs from the old town along the bay and is perfect for an evening walk.</p>"},
+   {"id": "do", "h2": "Things to do", "alt": "Woman photographing the bay of Altea from a viewpoint with flowers",
+    "html": "<ul><li><strong>Water sports.</strong> Sailing, paddle boarding, kayaking and diving from the Club Náutico and the beaches.</li><li><strong>Art.</strong> Altea has long attracted artists. It is home to the Faculty of Fine Arts of Miguel Hernández University and many small galleries and studios in the old town.</li><li><strong>Festivals.</strong> In August, the Castell de l'Olla fills the bay with fireworks over the island. At the end of September, the Moors and Christians festival brings parades and music to the streets.</li><li><strong>Nature.</strong> Hike in the Serra Gelada Natural Park, which protects cliffs and sea between Altea and Benidorm, or visit the waterfalls and pools of the Fonts de l'Algar, about 20 minutes inland.</li><li><strong>Day trips.</strong> Guadalest, Calpe, Jávea and the vineyards of the Jalón valley are all within easy reach.</li></ul>"},
+   {"id": "food", "h2": "Food in Altea", "alt": "",
+    "html": "<p>Altea's cooking is based on fresh fish, seafood and rice. Besides paella, try:</p><ul><li><strong>arròs a banda</strong>, rice cooked in a rich fish stock,</li><li><strong>suquet de peix</strong>, a fish and potato stew,</li><li><strong>arròs al forn</strong>, oven-baked rice with pork, chickpeas and sausage,</li><li><strong>coca</strong>, the local flatbread with toppings.</li></ul><p>The old town has many small restaurants and terraces with views over the bay, and the seafront is lined with fish restaurants.</p>"},
+   {"id": "live", "h2": "Living in Altea", "alt": "",
+    "html": "<p>Many people who visit Altea come back to live. The town has an international community, good healthcare nearby and international schools within driving distance. Popular areas include:</p><ul><li><strong>Altea Hills</strong>, a gated estate with large villas and sea views,</li><li><strong>Mascarat</strong>, with the Greenwich marina and modern apartments,</li><li><strong>Sierra de Altea</strong> and the countryside around <strong>Altea la Vella</strong>, for quiet villas with gardens,</li><li>the area near the old town and the seafront, for apartments within walking distance of everything.</li></ul>"}
+  ],
+  "faq": [
+   ["Is Altea worth visiting?", "Yes. Its white old town, blue-domed church, clear-water beaches and relaxed, artistic feel make it one of the most attractive towns on the Costa Blanca."],
+   ["How far is Altea from Alicante airport?", "About 60 km, or around an hour by car."],
+   ["Does Altea have sandy beaches?", "Most beaches in Altea are pebble beaches, which keeps the water very clear. For sand, Albir and Benidorm are a short drive away."],
+   ["Where are the best areas to buy in Altea?", "Altea Hills and Mascarat for luxury villas and sea views, the Sierra de Altea for quiet homes with gardens, and the area around the old town and seafront for apartments."]
+  ],
+  "closing": {"h2": "Find your home in Altea", "alt": "",
+   "html": "<p>Altea is a place for people who want calm, beauty and good food, with Benidorm, Alicante and the airport close at hand. We know the town and its surroundings well. <a href=\"{up}index.html#contact\">Tell us what you are looking for</a> and we will show you villas and apartments in Altea and nearby.</p>"}
+ },
+ "de": {
+  "slug": "altea-in-spanien-was-gibt-es-an-der-costa-blanca-zu-sehen",
+  "title": "Altea in Spanien – Sehenswürdigkeiten an der Costa Blanca",
+  "description": "Ein Ratgeber für Altea an der Costa Blanca: die weiße Altstadt mit der blauen Kuppelkirche, die schönsten Strände und Buchten, Aktivitäten, Küche und die besten Wohngegenden.",
+  "crumb": "Altea",
+  "eyebrow": "Costa Blanca · Orte",
+  "h1": "Altea in Spanien – Was gibt es an der Costa Blanca zu sehen?",
+  "hero_alt": "Weiße Häuser der Altstadt von Altea mit Kirche und Bergen im Hintergrund",
+  "short": "Altea ist ein Ort mit rund 22.000 Einwohnern an der nördlichen Costa Blanca, 11 km von Benidorm und etwa eine Stunde vom Flughafen Alicante entfernt. Bekannt ist es für seine weiße Altstadt auf dem Hügel, die Kirche Nuestra Señora del Consuelo mit ihren blauen Kuppeln, Kiesstrände und stille Buchten und eine entspannte, künstlerische Atmosphäre. Altea Hills und Mascarat gehören zu den gefragtesten Villenlagen der Küste.",
+  "intro": ["Altea ist einer der schönsten Orte der Costa Blanca. Es ist ruhig und trotzdem nah an allem, deshalb kommen viele Besucher wieder, um hier ein Haus zu kaufen. Das sollten Sie sehen und erleben, und so lebt es sich in Altea."],
+  "sections": [
+   {"id": "where", "h2": "Wo liegt Altea?", "alt": "Strandpromenade von Altea mit Palmen, weißen Wohnhäusern und der Kirche darüber",
+    "html": "<p>Altea liegt in der Provinz Alicante an der Bucht, in der der Fluss Algar ins Mittelmeer mündet, zwischen den Gebirgen Serra Gelada und Sierra de Bernia. Die Entfernungen:</p><ul><li>etwa 11 km nach Benidorm,</li><li>etwa 20 km nach Calpe,</li><li>etwa 60 km nach Alicante und zum Flughafen (rund eine Stunde mit dem Auto).</li></ul><p>Die Küstenstraßenbahn (TRAM Linie 9) und Busse verbinden Altea mit Benidorm, Calpe und Dénia.</p>"},
+   {"id": "old-town", "h2": "Die Altstadt", "alt": "Weiß getünchte Gasse in der Altstadt von Altea mit Blick auf die blaue Kuppelkirche",
+    "html": "<p>Altea wird die weiße Stadt der Costa Blanca genannt, und die Altstadt (<em>Casco Antiguo</em>) zeigt, warum. Sie liegt auf einem Hügel über dem Meer, mit engen Kopfsteinpflastergassen, weiß getünchten Häusern, blumengeschmückten Balkonen und kleinen Plätzen.</p><p>Ganz oben steht die Kirche <strong>Nuestra Señora del Consuelo</strong>, das Wahrzeichen des Ortes. Ihre blau-weiß gefliesten Kuppeln, fertiggestellt Anfang des 20. Jahrhunderts, sieht man weit entlang der Küste. Der Platz davor, die Plaza de la Iglesia, ist von Cafés gesäumt.</p><p>Von den Aussichtspunkten rund um die Altstadt, etwa dem <strong>Mirador de los Cronistas</strong>, haben Sie einen der schönsten Blicke der Küste.</p>"},
+   {"id": "beaches", "h2": "Strände und Buchten", "alt": "Langer Kiesstrand in Altea mit der Küste Richtung Calpe in der Ferne",
+    "html": "<p>Die meisten Strände in Altea bestehen aus glatten Kieseln, deshalb ist das Wasser besonders klar. Die bekanntesten:</p><ul><li><strong>Playa de la Roda</strong>, der Hauptstrand unterhalb der Altstadt, mit Promenade, Cafés und Wassersport.</li><li><strong>Playa de la Olla</strong>, ruhiger, gegenüber der kleinen Insel l'Olla.</li><li><strong>Cap Negret</strong>, ein ruhiger Strand zwischen Felsen, gut zum Schnorcheln.</li><li><strong>Cala del Soio</strong> und die Buchten bei <strong>Mascarat</strong>, klein und felsig, beliebt bei Tauchern.</li></ul><p>Die Strandpromenade führt von der Altstadt die Bucht entlang und ist ideal für einen Abendspaziergang.</p>"},
+   {"id": "do", "h2": "Was man unternehmen kann", "alt": "Frau fotografiert die Bucht von Altea von einem Aussichtspunkt mit Blumen",
+    "html": "<ul><li><strong>Wassersport.</strong> Segeln, Stand-up-Paddling, Kajak und Tauchen vom Club Náutico und den Stränden aus.</li><li><strong>Kunst.</strong> Altea zieht seit Langem Künstler an. Hier sitzt die Fakultät der Schönen Künste der Universität Miguel Hernández, und in der Altstadt gibt es viele kleine Galerien und Ateliers.</li><li><strong>Feste.</strong> Im August erhellt das Castell de l'Olla die Bucht mit einem Feuerwerk über der Insel. Ende September bringt das Fest der Mauren und Christen Umzüge und Musik in die Straßen.</li><li><strong>Natur.</strong> Wandern Sie im Naturpark Serra Gelada, der Klippen und Meer zwischen Altea und Benidorm schützt, oder besuchen Sie die Wasserfälle und Becken der Fonts de l'Algar, etwa 20 Minuten landeinwärts.</li><li><strong>Ausflüge.</strong> Guadalest, Calpe, Jávea und die Weinberge des Jalón-Tals sind schnell erreicht.</li></ul>"},
+   {"id": "food", "h2": "Essen in Altea", "alt": "",
+    "html": "<p>Die Küche von Altea beruht auf frischem Fisch, Meeresfrüchten und Reis. Neben Paella sollten Sie probieren:</p><ul><li><strong>Arròs a banda</strong>, Reis in kräftigem Fischfond,</li><li><strong>Suquet de peix</strong>, einen Eintopf aus Fisch und Kartoffeln,</li><li><strong>Arròs al forn</strong>, im Ofen gebackenen Reis mit Schweinefleisch, Kichererbsen und Wurst,</li><li><strong>Coca</strong>, das belegte Fladenbrot der Region.</li></ul><p>In der Altstadt gibt es viele kleine Restaurants und Terrassen mit Blick über die Bucht, an der Promenade reihen sich Fischrestaurants.</p>"},
+   {"id": "live", "h2": "Leben in Altea", "alt": "",
+    "html": "<p>Viele, die Altea besuchen, kommen wieder, um hier zu leben. Der Ort hat eine internationale Gemeinschaft, eine gute medizinische Versorgung in der Nähe und internationale Schulen in Fahrweite. Beliebte Wohngegenden:</p><ul><li><strong>Altea Hills</strong>, eine bewachte Anlage mit großen Villen und Meerblick,</li><li><strong>Mascarat</strong>, mit dem Jachthafen Greenwich und modernen Wohnungen,</li><li>die <strong>Sierra de Altea</strong> und die Umgebung von <strong>Altea la Vella</strong>, für ruhige Villen mit Garten,</li><li>die Gegend um Altstadt und Promenade, für Wohnungen mit allem in Gehweite.</li></ul>"}
+  ],
+  "faq": [
+   ["Lohnt sich ein Besuch in Altea?", "Ja. Die weiße Altstadt, die Kirche mit den blauen Kuppeln, die Strände mit klarem Wasser und die entspannte, künstlerische Atmosphäre machen Altea zu einem der schönsten Orte der Costa Blanca."],
+   ["Wie weit ist Altea vom Flughafen Alicante entfernt?", "Etwa 60 km, rund eine Stunde mit dem Auto."],
+   ["Hat Altea Sandstrände?", "Die meisten Strände in Altea sind Kiesstrände, deshalb ist das Wasser so klar. Sandstrände finden Sie in Albir und Benidorm, nur eine kurze Fahrt entfernt."],
+   ["Wo kauft man in Altea am besten?", "Altea Hills und Mascarat für Luxusvillen mit Meerblick, die Sierra de Altea für ruhige Häuser mit Garten und die Gegend um Altstadt und Promenade für Wohnungen."]
+  ],
+  "closing": {"h2": "Finden Sie Ihr Zuhause in Altea", "alt": "",
+   "html": "<p>Altea ist ein Ort für alle, die Ruhe, Schönheit und gutes Essen suchen, mit Benidorm, Alicante und dem Flughafen in der Nähe. Wir kennen den Ort und seine Umgebung gut. <a href=\"{up}index.html#contact\">Sagen Sie uns, was Sie suchen</a>, und wir zeigen Ihnen Villen und Wohnungen in Altea und Umgebung.</p>"}
+ },
+ "es": {
+  "slug": "altea-espana-que-hay-para-ver-en-la-costa-blanca",
+  "title": "Altea – Qué ver y hacer en la Costa Blanca",
+  "description": "Guía de Altea en la Costa Blanca: el casco antiguo blanco y su iglesia de cúpulas azules, las mejores playas y calas, qué hacer, gastronomía y dónde vivir.",
+  "crumb": "Altea",
+  "eyebrow": "Costa Blanca · Zonas",
+  "h1": "Altea, España – ¿Qué hay para ver en la Costa Blanca?",
+  "hero_alt": "Casas blancas del casco antiguo de Altea con la iglesia y las montañas al fondo",
+  "short": "Altea es un municipio de unos 22.000 habitantes en el norte de la Costa Blanca, a 11 km de Benidorm y a una hora del aeropuerto de Alicante. Es conocido por su casco antiguo blanco en lo alto de una colina, la iglesia de Nuestra Señora del Consuelo con sus cúpulas azules, sus playas de cantos rodados y calas tranquilas, y su ambiente artístico y relajado. Altea Hills y el Mascarat están entre las zonas de villas más buscadas de la costa.",
+  "intro": ["Altea es uno de los pueblos más bonitos de la Costa Blanca. Es tranquilo y a la vez está cerca de todo, por eso muchos visitantes vuelven para comprar una casa. Esto es lo que hay que ver y hacer, y así es la vida en Altea."],
+  "sections": [
+   {"id": "where", "h2": "¿Dónde está Altea?", "alt": "Paseo marítimo de Altea con palmeras, edificios blancos y la iglesia en lo alto",
+    "html": "<p>Altea está en la provincia de Alicante, en la bahía donde el río Algar desemboca en el Mediterráneo, entre la Serra Gelada y la Sierra de Bernia. Se encuentra a:</p><ul><li>unos 11 km de Benidorm,</li><li>unos 20 km de Calpe,</li><li>unos 60 km de Alicante y su aeropuerto (alrededor de una hora en coche).</li></ul><p>El TRAM de la costa (línea 9) y los autobuses comunican Altea con Benidorm, Calpe y Dénia.</p>"},
+   {"id": "old-town", "h2": "El casco antiguo", "alt": "Calle encalada del casco antiguo de Altea que sube hacia la iglesia de cúpulas azules",
+    "html": "<p>A Altea se la llama la villa blanca de la Costa Blanca, y su casco antiguo lo demuestra. Se alza sobre una colina junto al mar, con calles estrechas empedradas, casas encaladas, balcones llenos de flores y pequeñas plazas.</p><p>En lo más alto está la iglesia de <strong>Nuestra Señora del Consuelo</strong>, símbolo del pueblo. Sus cúpulas de azulejos azules y blancos, terminadas a principios del siglo XX, se ven desde muy lejos a lo largo de la costa. La plaza de la Iglesia, frente a ella, está llena de cafeterías.</p><p>Los miradores del casco antiguo, como el <strong>Mirador de los Cronistas</strong>, ofrecen algunas de las mejores vistas de la costa.</p>"},
+   {"id": "beaches", "h2": "Playas y calas", "alt": "Larga playa de cantos rodados en Altea con la costa de Calpe al fondo",
+    "html": "<p>La mayoría de las playas de Altea son de cantos rodados, lo que mantiene el agua muy limpia. Las más conocidas son:</p><ul><li><strong>Playa de la Roda</strong>, la principal, bajo el casco antiguo, con paseo, cafeterías y deportes náuticos.</li><li><strong>Playa de la Olla</strong>, más tranquila, frente al islote de l'Olla.</li><li><strong>Cap Negret</strong>, una playa tranquila entre rocas, ideal para hacer snorkel.</li><li><strong>Cala del Soio</strong> y las calas del <strong>Mascarat</strong>, pequeñas y rocosas, muy apreciadas por los buceadores.</li></ul><p>El paseo marítimo recorre la bahía desde el casco antiguo y es perfecto para pasear al atardecer.</p>"},
+   {"id": "do", "h2": "Qué hacer", "alt": "Mujer fotografiando la bahía de Altea desde un mirador con flores",
+    "html": "<ul><li><strong>Deportes náuticos.</strong> Vela, pádel surf, kayak y buceo desde el Club Náutico y las playas.</li><li><strong>Arte.</strong> Altea atrae a artistas desde hace décadas. Aquí está la Facultad de Bellas Artes de la Universidad Miguel Hernández, y el casco antiguo está lleno de galerías y talleres.</li><li><strong>Fiestas.</strong> En agosto, el Castell de l'Olla llena la bahía de fuegos artificiales sobre el islote. A finales de septiembre, los Moros y Cristianos llenan las calles de desfiles y música.</li><li><strong>Naturaleza.</strong> Haga senderismo en el Parque Natural de la Serra Gelada, que protege acantilados y mar entre Altea y Benidorm, o visite las cascadas y pozas de las Fonts de l'Algar, a unos 20 minutos hacia el interior.</li><li><strong>Excursiones.</strong> Guadalest, Calpe, Jávea y los viñedos del valle de Jalón están muy cerca.</li></ul>"},
+   {"id": "food", "h2": "Gastronomía en Altea", "alt": "",
+    "html": "<p>La cocina de Altea se basa en el pescado fresco, el marisco y el arroz. Además de la paella, pruebe:</p><ul><li>el <strong>arròs a banda</strong>, arroz cocinado en un fumet de pescado,</li><li>el <strong>suquet de peix</strong>, guiso de pescado y patata,</li><li>el <strong>arròs al forn</strong>, arroz al horno con cerdo, garbanzos y embutido,</li><li>la <strong>coca</strong>, la torta salada típica de la zona.</li></ul><p>En el casco antiguo hay muchos restaurantes pequeños y terrazas con vistas a la bahía, y el paseo marítimo está lleno de marisquerías.</p>"},
+   {"id": "live", "h2": "Vivir en Altea", "alt": "",
+    "html": "<p>Muchos de los que visitan Altea vuelven para quedarse. El pueblo tiene una comunidad internacional, buena atención sanitaria cerca y colegios internacionales a poca distancia en coche. Las zonas más buscadas son:</p><ul><li><strong>Altea Hills</strong>, urbanización cerrada con grandes villas y vistas al mar,</li><li>el <strong>Mascarat</strong>, con el puerto deportivo Greenwich y pisos modernos,</li><li>la <strong>Sierra de Altea</strong> y los alrededores de <strong>Altea la Vella</strong>, para villas tranquilas con jardín,</li><li>la zona del casco antiguo y el paseo marítimo, para pisos con todo a mano.</li></ul>"}
+  ],
+  "faq": [
+   ["¿Merece la pena visitar Altea?", "Sí. Su casco antiguo blanco, la iglesia de cúpulas azules, las playas de agua cristalina y su ambiente artístico y relajado la convierten en uno de los pueblos más bonitos de la Costa Blanca."],
+   ["¿A qué distancia está Altea del aeropuerto de Alicante?", "A unos 60 km, alrededor de una hora en coche."],
+   ["¿Tiene Altea playas de arena?", "La mayoría de las playas de Altea son de cantos rodados, por eso el agua es tan clara. Para arena, el Albir y Benidorm están a pocos minutos en coche."],
+   ["¿Cuáles son las mejores zonas para comprar en Altea?", "Altea Hills y el Mascarat para villas de lujo con vistas al mar, la Sierra de Altea para casas tranquilas con jardín, y la zona del casco antiguo y el paseo para pisos."]
+  ],
+  "closing": {"h2": "Encuentre su casa en Altea", "alt": "",
+   "html": "<p>Altea es para quien busca calma, belleza y buena mesa, con Benidorm, Alicante y el aeropuerto cerca. Conocemos bien el pueblo y sus alrededores. <a href=\"{up}index.html#contact\">Cuéntenos qué busca</a> y le enseñaremos villas y pisos en Altea y alrededores.</p>"}
+ }
+}
