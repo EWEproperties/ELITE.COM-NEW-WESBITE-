@@ -1,0 +1,229 @@
+{
+ "author": "anita",
+ "published": "2025-04-28",
+ "modified": "2026-10-24",
+ "hero": "assets/blog/banks/bank-of-spain-building-madrid.jpg",
+ "images": {
+  "types": "assets/blog/banks/bank-cards-and-spanish-flag.jpg",
+  "fees": "assets/blog/banks/card-in-cash-machine.jpg",
+  "property": "assets/blog/banks/euro-notes-at-cash-machine.jpg",
+  "closing": "assets/blog/banks/couple-banking-online.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/banki-w-hiszpanii-jak-otworzy-konto",
+ "cards": ["26234196", "21034180", "23844656"],
+ "sources": [
+  ["Banco de España – basic payment account", "https://clientebancario.bde.es/pcb/es/blog/cuenta-de-pago-basica.html"],
+  ["Fondo de Garantía de Depósitos", "https://www.fgd.es/"],
+  ["Agencia Tributaria – non-resident taxation of interest", "https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-tributacion-no-residentes/capitulo-03-tributacion-rentas-comunes-nr/otros-rendimientos/rendimientos-capital-mobiliario.html"]
+ ],
+ "en": {
+  "slug": "banks-in-spain-how-to-open-an-account",
+  "title": "Opening a Bank Account in Spain as a Non-Resident or Resident",
+  "description": "How to open a Spanish bank account: non-resident and resident accounts, documents, steps, fees and how to avoid them, paying for a property, deposit protection and how interest is taxed.",
+  "crumb": "Spanish bank account",
+  "eyebrow": "Owning in Spain · Practical",
+  "h1": "Banks in Spain: How to Open an Account",
+  "hero_alt": "Bank of Spain headquarters in Madrid",
+  "short": "You do not need a Spanish bank account to buy a property, but almost every owner opens one: it is the easiest way to pay electricity, water, IBI and community fees by direct debit, and a Spanish mortgage requires one. Non-residents open a non-resident account with a passport, an NIE and proof that they live abroad, and the bank will ask where your money comes from. Accounts often carry a monthly fee unless you meet conditions. Deposits are protected up to €100,000 per person per bank. If you live in another EU country, interest from a Spanish account is generally exempt from Spanish tax.",
+  "intro": [
+   "A Spanish account makes owning a home in Spain much simpler, and it is usually one of the first things we help buyers with. Here is how it works and what to prepare."
+  ],
+  "sections": [
+   {
+    "id": "need",
+    "h2": "Do you need a Spanish bank account?",
+    "html": "<p>It is not legally required, and since EU rules ban \"IBAN discrimination\", companies should accept direct debits from any euro account in the SEPA area. In practice a Spanish account is still much easier for:</p><ul><li>paying electricity, water, internet, IBI and <a href=\"{up}comunidad-de-propietarios.html\">community fees</a> by direct debit,</li><li>receiving rent from tenants or holiday guests,</li><li>taking a <a href=\"{up}mortgage-loan-in-spain-for-the-purchase-of-real-estate-how-to-obtain-one.html\">Spanish mortgage</a>, which always comes with an account at the lending bank,</li><li>paying local tradespeople, a cleaner or a property manager.</li></ul>"
+   },
+   {
+    "id": "types",
+    "h2": "Non-resident, resident and basic accounts",
+    "alt": "Bank cards with a small Spanish flag",
+    "html": "<ul><li><strong>Non-resident account</strong> (<em>cuenta de no residente</em>): for owners whose tax home is outside Spain. The bank records you as non-resident, so it does not withhold Spanish tax on interest where you are exempt.</li><li><strong>Resident account</strong>: once you are tax resident in Spain, you tell the bank and the account is converted. Banks usually offer better terms to residents, especially if your salary or pension is paid in.</li><li><strong>Basic payment account</strong> (<em>cuenta de pago básica</em>): anyone legally resident in the EU has the right to one, with a fee capped at €3 a month covering the card, cash withdrawals and up to 120 euro payments a year. It is a useful fallback if a bank is slow to accept you.</li></ul><p>Not sure which applies to you? Read <a href=\"{up}resident-vs-non-resident-in-spain.html\">resident or non-resident</a>.</p>"
+   },
+   {
+    "id": "documents",
+    "h2": "Documents you need",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Non-resident</th><th>Resident</th></tr></thead><tbody><tr><td>Valid passport or EU ID card</td><td>Passport or ID card and TIE or EU registration certificate</td></tr><tr><td><a href=\"{up}nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a> (most banks ask for it)</td><td>NIE</td></tr><tr><td>Proof of address abroad and a certificate of non-residence or tax residence certificate from your country</td><td>Spanish address, e.g. rental contract or padrón</td></tr><tr><td>Proof of income: payslips, pension statement, tax return or company accounts</td><td>Employment contract, payslips or pension statement</td></tr><tr><td>Source of the funds you will deposit</td><td>Source of funds for large deposits</td></tr></tbody></table></div><p>Requirements vary by bank and branch. Documents in other languages may need a sworn translation.</p>"
+   },
+   {
+    "id": "steps",
+    "h2": "How to open the account, step by step",
+    "html": "<ol><li><strong>Choose a bank.</strong> In coastal towns, branches of the large banks often have an international desk with English-speaking staff.</li><li><strong>Book an appointment</strong> or start online. Many banks let residents open fully online; non-residents often still need to sign at a branch or by video call.</li><li><strong>Answer the anti-money-laundering questions</strong>: your job, income, why you need the account and where the money comes from. This is a legal requirement, not distrust.</li><li><strong>Sign the contract</strong> and receive online banking access, usually within days. The card follows by post or at the branch.</li><li><strong>Set up direct debits</strong> for utilities, IBI and community fees once you own the property.</li></ol><p>If you buy through us, we can introduce you to a branch used to working with foreign buyers.</p>"
+   },
+   {
+    "id": "fees",
+    "h2": "Fees and how to avoid them",
+    "alt": "Bank card being inserted into a cash machine",
+    "html": "<p>Spanish banks commonly charge a monthly account fee unless you meet conditions, such as paying in a salary or pension, a minimum monthly deposit, a number of card payments or holding other products. Non-resident accounts are often charged more. Also look at:</p><ul><li>fees for international transfers and for cash withdrawals at other banks' machines,</li><li>card fees,</li><li>exchange rates if your income is not in euros.</li></ul><p>Ask for the fee sheet before you sign. For moving larger sums from pounds, francs or other currencies, a currency specialist or a digital bank usually offers a better rate than a traditional bank.</p>"
+   },
+   {
+    "id": "banks",
+    "h2": "Which banks?",
+    "html": "<p>The largest banks are CaixaBank, Santander, BBVA, Sabadell and Bankinter, with Unicaja strong in Andalusia. All have many branches on the Costa Blanca and Costa del Sol and English-language apps. ING and other online banks are cheaper but may not open non-resident accounts. Digital providers such as Wise or Revolut are handy for card payments and currency exchange, but some utilities, town halls or lenders still prefer a traditional Spanish account. Many owners keep one of each.</p><p>Spanish bank deposits are protected up to €100,000 per depositor per bank by the Fondo de Garantía de Depósitos.</p>"
+   },
+   {
+    "id": "property",
+    "h2": "Paying for a property",
+    "alt": "Euro banknotes held at a cash machine",
+    "html": "<p>The money for the purchase is usually sent to your lawyer's client account or paid at the notary by bank transfer or banker's draft (<em>cheque bancario</em>). The notary records in the deed how every payment was made, and cash cannot be used for the price. Keep the transfer confirmations: they prove where the money came from and you will need them when you sell. See <a href=\"{up}how-to-buy-an-apartment-or-house-in-spain.html\">how to buy in Spain</a> for the full process.</p>"
+   },
+   {
+    "id": "tax",
+    "h2": "Bank accounts and tax",
+    "html": "<ul><li><strong>Non-residents living in the EU</strong>: interest from a Spanish account is generally exempt from Spanish tax. Give the bank your tax residence certificate so it does not withhold tax.</li><li><strong>Non-residents from outside the EU</strong>: interest is taxed at 19%, or a lower rate under a tax treaty.</li><li><strong>Spanish residents</strong>: interest is taxed with other savings income at 19% to 30%. Foreign accounts worth more than €50,000 in total must be reported on form 720.</li><li><strong>Your home country</strong>: you will usually have to declare a Spanish account and its interest there as well. Ask your tax adviser.</li></ul>"
+   }
+  ],
+  "faq": [
+   ["Can a non-resident open a bank account in Spain?", "Yes. You open a non-resident account with your passport, usually an NIE, proof of address and income abroad, and information on where your money comes from."],
+   ["Do I need a Spanish bank account to buy a property?", "No, but it makes paying utilities, IBI and community fees much easier, and a Spanish mortgage always requires one."],
+   ["Are Spanish bank accounts free?", "Often not. Most banks charge a monthly fee unless you meet conditions such as paying in a salary or pension. EU residents have the right to a basic payment account with a fee of at most €3 a month."],
+   ["Is my money safe in a Spanish bank?", "Deposits are guaranteed up to €100,000 per depositor per bank by the Spanish deposit guarantee fund."],
+   ["Do non-residents pay tax on Spanish bank interest?", "Residents of other EU countries are generally exempt in Spain. Others pay 19% or a lower treaty rate. You may also have to declare the interest at home."]
+  ],
+  "closing": {
+   "h2": "We help with the paperwork",
+   "alt": "Older couple smiling while looking at a laptop at home",
+   "html": "<p>Opening an account, getting your NIE and setting up direct debits are part of the help we give every buyer. <a href=\"{up}index.html#contact\">Contact us</a> to start.</p>"
+  }
+ },
+ "de": {
+  "slug": "banken-in-spanien-wie-eroffnet-man-ein-konto",
+  "title": "Bankkonto in Spanien eröffnen – für Nichtresidente und Residente",
+  "description": "So eröffnen Sie ein spanisches Bankkonto: Konto für Nichtresidente und Residente, Unterlagen, Ablauf, Gebühren, Zahlung beim Immobilienkauf, Einlagensicherung und Besteuerung von Zinsen.",
+  "crumb": "Spanisches Bankkonto",
+  "eyebrow": "Eigentum in Spanien · Praxis",
+  "h1": "Banken in Spanien: So eröffnen Sie ein Konto",
+  "hero_alt": "Gebäude der spanischen Zentralbank in Madrid",
+  "short": "Für den Kauf einer Immobilie brauchen Sie kein spanisches Konto, fast alle Eigentümer eröffnen aber eines: Strom, Wasser, IBI und Hausgeld lassen sich so am einfachsten per Lastschrift zahlen, und eine spanische Hypothek setzt ein Konto voraus. Nichtresidente eröffnen ein Konto für Nichtresidente mit Reisepass oder Personalausweis, NIE und Nachweis des Wohnsitzes im Ausland, und die Bank fragt nach der Herkunft der Gelder. Oft fällt eine Monatsgebühr an, wenn Sie keine Bedingungen erfüllen. Einlagen sind bis 100.000 € pro Person und Bank gesichert. Wer in einem anderen EU-Land lebt, zahlt auf Zinsen eines spanischen Kontos in der Regel keine spanische Steuer.",
+  "intro": [
+   "Ein spanisches Konto macht den Alltag als Eigentümer deutlich einfacher, und es gehört zu den ersten Dingen, bei denen wir unseren Käufern helfen. So funktioniert es und das sollten Sie vorbereiten."
+  ],
+  "sections": [
+   {
+    "id": "need",
+    "h2": "Brauchen Sie ein spanisches Konto?",
+    "html": "<p>Gesetzlich vorgeschrieben ist es nicht, und weil EU-Regeln die „IBAN-Diskriminierung“ verbieten, müssten Unternehmen Lastschriften von jedem Euro-Konto im SEPA-Raum akzeptieren. In der Praxis ist ein spanisches Konto trotzdem viel einfacher für:</p><ul><li>Strom, Wasser, Internet, IBI und <a href=\"{up}de-de/comunidad-de-propietarios.html\">Hausgeld</a> per Lastschrift,</li><li>Mieteinnahmen von Mietern oder Feriengästen,</li><li>eine <a href=\"{up}de-de/hypothekendarlehen-in-spanien-fur-den-erwerb-von-immobilien-wie-erhalt-man-einen.html\">spanische Hypothek</a>, die immer mit einem Konto bei der finanzierenden Bank verbunden ist,</li><li>Zahlungen an Handwerker, Reinigungskräfte oder die Objektbetreuung vor Ort.</li></ul>"
+   },
+   {
+    "id": "types",
+    "h2": "Konto für Nichtresidente, Residente und Basiskonto",
+    "alt": "Bankkarten mit einer kleinen spanischen Flagge",
+    "html": "<ul><li><strong>Konto für Nichtresidente</strong> (<em>cuenta de no residente</em>): für Eigentümer mit steuerlichem Wohnsitz außerhalb Spaniens. Die Bank führt Sie als nichtresident und behält daher keine spanische Steuer auf Zinsen ein, wenn Sie befreit sind.</li><li><strong>Konto für Residente</strong>: Sobald Sie in Spanien steuerlich ansässig sind, melden Sie das der Bank, und das Konto wird umgestellt. Residente bekommen meist bessere Konditionen, vor allem mit Gehalts- oder Renteneingang.</li><li><strong>Basiskonto</strong> (<em>cuenta de pago básica</em>): Wer rechtmäßig in der EU lebt, hat Anspruch darauf. Die Gebühr ist auf 3 € im Monat begrenzt und deckt Karte, Bargeldabhebungen und bis zu 120 Euro-Zahlungen im Jahr. Eine gute Ausweichlösung, wenn eine Bank zögert.</li></ul><p>Unsicher, was für Sie gilt? Lesen Sie <a href=\"{up}de-de/steuerresident-oder-nichtresident-in-spanien.html\">Steuerresident oder Nichtresident</a>.</p>"
+   },
+   {
+    "id": "documents",
+    "h2": "Diese Unterlagen brauchen Sie",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Nichtresident</th><th>Resident</th></tr></thead><tbody><tr><td>Gültiger Reisepass oder Personalausweis</td><td>Pass oder Ausweis und TIE bzw. EU-Registrierungsbescheinigung</td></tr><tr><td><a href=\"{up}de-de/nie-nummer-in-spanien-was-ist-das-und-wie-bekommt-man-sie.html\">NIE-Nummer</a> (die meisten Banken verlangen sie)</td><td>NIE</td></tr><tr><td>Nachweis der Adresse im Ausland und Bescheinigung über die Nichtansässigkeit oder Ansässigkeitsbescheinigung Ihres Finanzamts</td><td>Spanische Adresse, z. B. Mietvertrag oder Padrón</td></tr><tr><td>Einkommensnachweis: Gehaltsabrechnungen, Rentenbescheid, Steuerbescheid oder Firmenabschluss</td><td>Arbeitsvertrag, Gehaltsabrechnungen oder Rentenbescheid</td></tr><tr><td>Herkunft der Gelder, die Sie einzahlen</td><td>Herkunft größerer Einzahlungen</td></tr></tbody></table></div><p>Die Anforderungen unterscheiden sich je nach Bank und Filiale. Dokumente in anderen Sprachen brauchen eventuell eine beglaubigte Übersetzung.</p>"
+   },
+   {
+    "id": "steps",
+    "h2": "Kontoeröffnung Schritt für Schritt",
+    "html": "<ol><li><strong>Bank wählen.</strong> In Küstenorten haben die Filialen großer Banken oft einen internationalen Schalter mit englisch- oder deutschsprachigem Personal.</li><li><strong>Termin vereinbaren</strong> oder online beginnen. Residente können oft komplett online eröffnen, Nichtresidente müssen meist noch in der Filiale oder per Videocall unterschreiben.</li><li><strong>Fragen zur Geldwäscheprävention beantworten</strong>: Beruf, Einkommen, Zweck des Kontos und Herkunft der Gelder. Das ist gesetzlich vorgeschrieben, kein Misstrauen.</li><li><strong>Vertrag unterschreiben</strong> und Online-Banking-Zugang erhalten, meist innerhalb weniger Tage. Die Karte kommt per Post oder in die Filiale.</li><li><strong>Lastschriften einrichten</strong> für Versorger, IBI und Hausgeld, sobald Ihnen die Immobilie gehört.</li></ol><p>Wenn Sie über uns kaufen, stellen wir den Kontakt zu einer Filiale her, die Erfahrung mit ausländischen Käufern hat.</p>"
+   },
+   {
+    "id": "fees",
+    "h2": "Gebühren und wie Sie sie vermeiden",
+    "alt": "Bankkarte wird in einen Geldautomaten gesteckt",
+    "html": "<p>Spanische Banken verlangen häufig eine monatliche Kontogebühr, es sei denn, Sie erfüllen Bedingungen wie Gehalts- oder Renteneingang, eine monatliche Mindesteinzahlung, eine Zahl von Kartenzahlungen oder weitere Produkte. Konten für Nichtresidente sind oft teurer. Achten Sie außerdem auf:</p><ul><li>Gebühren für Auslandsüberweisungen und Abhebungen an fremden Automaten,</li><li>Kartengebühren,</li><li>Wechselkurse, wenn Ihr Einkommen nicht in Euro ist.</li></ul><p>Lassen Sie sich vor der Unterschrift das Gebührenblatt geben. Für größere Beträge aus Schweizer Franken bietet ein Devisenspezialist oder eine Digitalbank meist einen besseren Kurs als eine klassische Bank.</p>"
+   },
+   {
+    "id": "banks",
+    "h2": "Welche Banken?",
+    "html": "<p>Die größten Banken sind CaixaBank, Santander, BBVA, Sabadell und Bankinter, in Andalusien zudem Unicaja. Alle haben viele Filialen an der Costa Blanca und der Costa del Sol und Apps auf Englisch. ING und andere Onlinebanken sind günstiger, eröffnen aber nicht immer Konten für Nichtresidente. Digitale Anbieter wie Wise oder Revolut sind praktisch für Kartenzahlungen und Währungstausch, manche Versorger, Gemeinden oder Kreditgeber bevorzugen aber ein klassisches spanisches Konto. Viele Eigentümer haben beides.</p><p>Einlagen bei spanischen Banken sind bis 100.000 € pro Einleger und Bank durch den Fondo de Garantía de Depósitos geschützt.</p>"
+   },
+   {
+    "id": "property",
+    "h2": "Zahlung beim Immobilienkauf",
+    "alt": "Euroscheine an einem Geldautomaten",
+    "html": "<p>Der Kaufpreis wird meist auf das Anderkonto Ihres Anwalts überwiesen oder beim Notar per Überweisung oder Bankscheck (<em>cheque bancario</em>) bezahlt. Der Notar hält in der Urkunde fest, wie jede Zahlung erfolgt ist, Bargeld ist für den Kaufpreis ausgeschlossen. Bewahren Sie die Überweisungsbelege auf: Sie belegen die Herkunft der Gelder und werden beim Verkauf gebraucht. Den ganzen Ablauf beschreibt <a href=\"{up}de-de/wie-kann-man-in-spanien-eine-wohnung-oder-ein-haus-kaufen.html\">Immobilienkauf in Spanien</a>.</p>"
+   },
+   {
+    "id": "tax",
+    "h2": "Bankkonto und Steuern",
+    "html": "<ul><li><strong>Nichtresidente mit Wohnsitz in der EU</strong> (z. B. Deutschland oder Österreich): Zinsen eines spanischen Kontos sind in Spanien in der Regel steuerfrei. Geben Sie der Bank Ihre Ansässigkeitsbescheinigung, damit sie keine Steuer einbehält.</li><li><strong>Nichtresidente außerhalb der EU</strong> (z. B. Schweiz): Zinsen werden mit 19 % besteuert oder mit dem niedrigeren Satz des Doppelbesteuerungsabkommens.</li><li><strong>Residente in Spanien</strong>: Zinsen werden mit den übrigen Kapitalerträgen zu 19 bis 30 % besteuert. Auslandskonten mit zusammen mehr als 50.000 € müssen im Formular 720 gemeldet werden.</li><li><strong>Ihr Heimatland</strong>: Die spanischen Zinsen geben Sie in der Regel auch dort an. Fragen Sie Ihren Steuerberater.</li></ul>"
+   }
+  ],
+  "faq": [
+   ["Kann ein Nichtresident in Spanien ein Bankkonto eröffnen?", "Ja. Sie eröffnen ein Konto für Nichtresidente mit Pass oder Ausweis, meist mit NIE, Nachweis von Adresse und Einkommen im Ausland und Angaben zur Herkunft der Gelder."],
+   ["Brauche ich für den Immobilienkauf ein spanisches Konto?", "Nein, aber es erleichtert die Zahlung von Versorgern, IBI und Hausgeld erheblich, und eine spanische Hypothek setzt immer eines voraus."],
+   ["Sind spanische Konten kostenlos?", "Oft nicht. Die meisten Banken verlangen eine Monatsgebühr, wenn Sie keine Bedingungen wie Gehalts- oder Renteneingang erfüllen. Wer in der EU lebt, hat Anspruch auf ein Basiskonto für höchstens 3 € im Monat."],
+   ["Ist mein Geld bei einer spanischen Bank sicher?", "Einlagen sind bis 100.000 € pro Einleger und Bank durch den spanischen Einlagensicherungsfonds garantiert."],
+   ["Zahlen Nichtresidente Steuern auf spanische Zinsen?", "Wer in einem anderen EU-Land lebt, ist in Spanien in der Regel befreit. Andere zahlen 19 % oder den niedrigeren Abkommenssatz. Zu Hause müssen Sie die Zinsen meist ebenfalls angeben."]
+  ],
+  "closing": {
+   "h2": "Wir helfen beim Papierkram",
+   "alt": "Älteres Paar schaut lächelnd auf einen Laptop",
+   "html": "<p>Kontoeröffnung, NIE und Einrichtung der Lastschriften gehören zu der Unterstützung, die jeder unserer Käufer bekommt. <a href=\"{up}index.html#contact\">Kontaktieren Sie uns</a>.</p>"
+  }
+ },
+ "es": {
+  "slug": "bancos-en-espana-como-abrir-una-cuenta",
+  "title": "Abrir una cuenta bancaria en España – residentes y no residentes",
+  "description": "Cómo abrir una cuenta bancaria en España: cuenta de no residente y de residente, documentos, pasos, comisiones, pago de una vivienda, garantía de depósitos y tributación de los intereses.",
+  "crumb": "Cuenta bancaria",
+  "eyebrow": "Propietarios en España · Guía práctica",
+  "h1": "Bancos en España: cómo abrir una cuenta",
+  "hero_alt": "Sede del Banco de España en Madrid",
+  "short": "No necesita una cuenta española para comprar una vivienda, pero casi todos los propietarios abren una: es la forma más sencilla de domiciliar la luz, el agua, el IBI y la comunidad, y una hipoteca española la exige. Los no residentes abren una cuenta de no residente con pasaporte o DNI de su país, NIE y prueba de su residencia en el extranjero, y el banco preguntará por el origen de los fondos. Muchas cuentas tienen comisión mensual salvo que cumpla condiciones. Los depósitos están garantizados hasta 100.000 € por titular y entidad. Si reside en otro país de la UE, los intereses de una cuenta española suelen estar exentos en España.",
+  "intro": [
+   "Una cuenta española facilita mucho la vida del propietario, y es una de las primeras gestiones en las que ayudamos a nuestros compradores. Así funciona y esto es lo que debe preparar."
+  ],
+  "sections": [
+   {
+    "id": "need",
+    "h2": "¿Necesita una cuenta bancaria española?",
+    "html": "<p>No es obligatoria y, como la normativa europea prohíbe la «discriminación por IBAN», las empresas deberían aceptar domiciliaciones desde cualquier cuenta en euros de la zona SEPA. Aun así, en la práctica una cuenta española es mucho más cómoda para:</p><ul><li>domiciliar luz, agua, internet, IBI y <a href=\"{up}es-es/comunidad-de-propietarios.html\">cuotas de comunidad</a>,</li><li>cobrar rentas de inquilinos o huéspedes,</li><li>firmar una <a href=\"{up}es-es/prestamo-hipotecario-en-espana-para-la-compra-de-bienes-inmuebles-como-obtenerlo.html\">hipoteca española</a>, que siempre va ligada a una cuenta en el banco que la concede,</li><li>pagar a profesionales, limpieza o gestión de la vivienda.</li></ul>"
+   },
+   {
+    "id": "types",
+    "h2": "Cuenta de no residente, de residente y cuenta básica",
+    "alt": "Tarjetas bancarias con una pequeña bandera de España",
+    "html": "<ul><li><strong>Cuenta de no residente</strong>: para propietarios con residencia fiscal fuera de España. El banco le registra como no residente y no retiene impuesto sobre los intereses cuando está exento.</li><li><strong>Cuenta de residente</strong>: cuando pase a ser residente fiscal en España, comuníquelo al banco y la cuenta se convierte. Los residentes suelen tener mejores condiciones, sobre todo con nómina o pensión domiciliada.</li><li><strong>Cuenta de pago básica</strong>: toda persona que resida legalmente en la UE tiene derecho a ella, con una comisión máxima de 3 € al mes que incluye tarjeta, retiradas de efectivo y hasta 120 pagos en euros al año. Es una buena alternativa si un banco pone pegas.</li></ul><p>¿No sabe qué caso es el suyo? Lea <a href=\"{up}es-es/residente-vs-no-residente-en-espana.html\">residente o no residente</a>.</p>"
+   },
+   {
+    "id": "documents",
+    "h2": "Documentos necesarios",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>No residente</th><th>Residente</th></tr></thead><tbody><tr><td>Pasaporte o documento de identidad UE en vigor</td><td>Pasaporte o documento de identidad y TIE o certificado de registro de ciudadano UE</td></tr><tr><td><a href=\"{up}es-es/numero-nie-en-espana-que-es-y-como-obtenerlo.html\">Número NIE</a> (la mayoría de bancos lo piden)</td><td>NIE</td></tr><tr><td>Justificante de domicilio en el extranjero y certificado de no residencia o certificado de residencia fiscal de su país</td><td>Domicilio en España, p. ej. contrato de alquiler o padrón</td></tr><tr><td>Justificante de ingresos: nóminas, pensión, declaración de la renta o cuentas de la empresa</td><td>Contrato de trabajo, nóminas o certificado de pensión</td></tr><tr><td>Origen de los fondos que va a ingresar</td><td>Origen de ingresos importantes</td></tr></tbody></table></div><p>Los requisitos varían según el banco y la oficina. Los documentos en otros idiomas pueden necesitar traducción jurada.</p>"
+   },
+   {
+    "id": "steps",
+    "h2": "Cómo abrir la cuenta paso a paso",
+    "html": "<ol><li><strong>Elija banco.</strong> En los municipios de costa, las oficinas de los grandes bancos suelen tener un departamento internacional.</li><li><strong>Pida cita</strong> o empiece por internet. Los residentes suelen poder abrir la cuenta totalmente en línea; los no residentes a menudo deben firmar en la oficina o por videollamada.</li><li><strong>Responda al cuestionario de prevención del blanqueo</strong>: profesión, ingresos, para qué quiere la cuenta y de dónde procede el dinero. Es una obligación legal, no desconfianza.</li><li><strong>Firme el contrato</strong> y reciba el acceso a la banca en línea, normalmente en pocos días. La tarjeta llega por correo o a la oficina.</li><li><strong>Domicilie los recibos</strong> de suministros, IBI y comunidad cuando ya sea propietario.</li></ol><p>Si compra con nosotros, le ponemos en contacto con una oficina acostumbrada a trabajar con compradores extranjeros.</p>"
+   },
+   {
+    "id": "fees",
+    "h2": "Comisiones y cómo evitarlas",
+    "alt": "Tarjeta bancaria introducida en un cajero automático",
+    "html": "<p>Los bancos españoles suelen cobrar comisión de mantenimiento salvo que cumpla condiciones como domiciliar la nómina o la pensión, un ingreso mínimo mensual, un número de pagos con tarjeta o contratar otros productos. Las cuentas de no residente suelen ser más caras. Revise también:</p><ul><li>comisiones por transferencias internacionales y por sacar dinero en cajeros de otras entidades,</li><li>comisiones de la tarjeta,</li><li>el tipo de cambio si sus ingresos no son en euros.</li></ul><p>Pida el folleto de comisiones antes de firmar. Para cambiar sumas importantes desde otra divisa, un especialista en cambio o un banco digital suelen ofrecer mejor tipo que un banco tradicional.</p>"
+   },
+   {
+    "id": "banks",
+    "h2": "¿Qué bancos?",
+    "html": "<p>Los mayores bancos son CaixaBank, Santander, BBVA, Sabadell y Bankinter, y en Andalucía también Unicaja. Todos tienen muchas oficinas en la Costa Blanca y la Costa del Sol y aplicaciones en inglés. ING y otros bancos en línea son más baratos, pero no siempre abren cuentas a no residentes. Proveedores digitales como Wise o Revolut son prácticos para pagar con tarjeta y cambiar divisas, aunque algunas compañías, ayuntamientos o bancos prefieren una cuenta española tradicional. Muchos propietarios tienen ambas.</p><p>Los depósitos en bancos españoles están garantizados hasta 100.000 € por titular y entidad por el Fondo de Garantía de Depósitos.</p>"
+   },
+   {
+    "id": "property",
+    "h2": "Cómo se paga una vivienda",
+    "alt": "Billetes de euro en la mano junto a un cajero",
+    "html": "<p>El dinero de la compra suele enviarse a la cuenta de clientes de su abogado o pagarse en la notaría por transferencia o cheque bancario. El notario hace constar en la escritura cómo se realizó cada pago, y el precio no puede pagarse en efectivo. Guarde los justificantes: acreditan el origen del dinero y los necesitará cuando venda. El proceso completo está en <a href=\"{up}es-es/como-comprar-un-piso-o-una-casa-en-espana.html\">cómo comprar una vivienda en España</a>.</p>"
+   },
+   {
+    "id": "tax",
+    "h2": "Cuentas bancarias e impuestos",
+    "html": "<ul><li><strong>No residentes que viven en la UE</strong>: los intereses de una cuenta española suelen estar exentos en España. Entregue al banco su certificado de residencia fiscal para que no practique retención.</li><li><strong>No residentes de fuera de la UE</strong>: los intereses tributan al 19% o al tipo inferior que fije el convenio.</li><li><strong>Residentes en España</strong>: los intereses tributan con el resto del ahorro, del 19% al 30%. Las cuentas en el extranjero que en conjunto superen 50.000 € se declaran en el modelo 720.</li><li><strong>Su país de residencia</strong>: normalmente también tendrá que declarar allí la cuenta y sus intereses. Consulte a su asesor.</li></ul>"
+   }
+  ],
+  "faq": [
+   ["¿Puede un no residente abrir una cuenta bancaria en España?", "Sí. Se abre una cuenta de no residente con pasaporte o documento de identidad, normalmente el NIE, justificantes de domicilio e ingresos en el extranjero e información sobre el origen de los fondos."],
+   ["¿Necesito una cuenta española para comprar una vivienda?", "No, pero facilita mucho el pago de suministros, IBI y comunidad, y una hipoteca española siempre la exige."],
+   ["¿Son gratuitas las cuentas en España?", "A menudo no. La mayoría de bancos cobran comisión mensual salvo que cumpla condiciones como domiciliar la nómina o la pensión. Los residentes en la UE tienen derecho a una cuenta de pago básica con comisión máxima de 3 € al mes."],
+   ["¿Está seguro mi dinero en un banco español?", "Los depósitos están garantizados hasta 100.000 € por titular y entidad por el Fondo de Garantía de Depósitos."],
+   ["¿Pagan impuestos los no residentes por los intereses?", "Los residentes en otro país de la UE suelen estar exentos en España. El resto paga el 19% o el tipo menor del convenio. Es posible que también deba declararlos en su país."]
+  ],
+  "closing": {
+   "h2": "Le ayudamos con los trámites",
+   "alt": "Pareja mayor sonriendo mientras mira un portátil en casa",
+   "html": "<p>Abrir la cuenta, obtener el NIE y domiciliar los recibos forman parte de la ayuda que damos a cada comprador. <a href=\"{up}index.html#contact\">Contacte con nosotros</a>.</p>"
+  }
+ }
+}
