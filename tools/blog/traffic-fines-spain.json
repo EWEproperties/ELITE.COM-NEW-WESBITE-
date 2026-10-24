@@ -1,0 +1,118 @@
+{
+ "author": "aleksandra",
+ "published": "2026-03-20",
+ "modified": "2026-10-24",
+ "hero": "assets/blog/traffic-fines-spain/speed-control-sign-motorway.jpg",
+ "images": {
+  "why": "assets/blog/traffic-fines-spain/fixed-speed-camera.jpg",
+  "common": "assets/blog/traffic-fines-spain/guardia-civil-roadside-check.jpg",
+  "speed": "assets/blog/traffic-fines-spain/speed-limit-40-sign.jpg",
+  "rental": "assets/blog/traffic-fines-spain/car-on-mountain-road.jpg",
+  "pay": "assets/blog/traffic-fines-spain/parking-meter-street.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/mandaty-w-hiszpanii",
+ "cards": ["24758318", "23844656", "23935651"],
+ "sources": [
+  ["Ley sobre Tráfico, RDL 6/2015 (BOE)", "https://www.boe.es/buscar/act.php?id=BOE-A-2015-11722"],
+  ["DGT – pay a fine", "https://sede.dgt.gob.es/es/multas/"]
+ ],
+ "en": {
+  "slug": "traffic-fines-spain",
+  "title": "Traffic Fines in Spain 2026 – Amounts, Speed Cameras and the 50% Discount",
+  "description": "How much traffic fines cost in Spain in 2026, how speed cameras and alcohol limits work, what happens with rental and foreign cars, and how to pay with a 50% discount.",
+  "crumb": "Traffic fines in Spain",
+  "eyebrow": "Living in Spain · Practical",
+  "h1": "Traffic Fines in Spain – What They Cost and How to Pay Less",
+  "hero_alt": "Blue speed control sign beside a busy Spanish motorway",
+  "short": "Most serious traffic offences in Spain cost €200, such as holding a phone, not wearing a seatbelt or running a red light, and drink-driving costs €500 or €1,000. Speeding fines run from €100 to €600. Fines reach you even in a rental or foreign car, and if you pay within 20 days you get 50% off, but you give up the right to appeal.",
+  "intro": ["Getting a traffic fine in Spain is surprisingly easy. A glance at your phone, a few km/h too fast on an empty road or a car parked in the wrong spot is enough. Here is what the most common fines cost, how the checks work and how to pay less if you get one."],
+  "sections": [
+   {"id": "why", "h2": "Why fines catch so many drivers out", "alt": "Fixed speed camera on the side of a multi-lane road",
+    "html": "<p>Spain's road checks are largely automatic. Fixed and mobile speed cameras, average speed zones, cameras at traffic lights and low-emission zones in the bigger cities record offences without a police officer stopping you. The traffic authority (DGT) also uses helicopters, drones and unmarked cars.</p><p>So many drivers only learn about a fine weeks later, by post, by email from the rental company or through the DGT's electronic mailbox.</p>"},
+   {"id": "common", "h2": "The most common fines", "alt": "Guardia Civil officer talking to a driver at a roadside check",
+    "html": "<p>Fines are set by the national traffic law. Serious offences also cost points on your licence.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Offence</th><th>Fine</th><th>Points</th></tr></thead><tbody><tr><td>Holding a mobile phone while driving</td><td>€200</td><td>6</td></tr><tr><td>Not wearing a seatbelt or no child seat</td><td>€200</td><td>4</td></tr><tr><td>Running a red light or a stop sign</td><td>€200</td><td>4</td></tr><tr><td>Overtaking where it is not allowed</td><td>€200</td><td>4</td></tr><tr><td>Speeding</td><td>€100–€600</td><td>0–6</td></tr><tr><td>Alcohol over the limit</td><td>€500 or €1,000</td><td>4 or 6</td></tr><tr><td>Driving without insurance</td><td>€601–€3,005</td><td>–</td></tr><tr><td>Parking offences (set by each town)</td><td>usually €80–€200</td><td>–</td></tr></tbody></table></div><p>Every person in the car who is not wearing a seatbelt counts, and the driver is responsible for passengers under 18.</p>"},
+   {"id": "speed", "h2": "Speed limits and speeding fines", "alt": "Speed limit sign of 40 km/h seen from inside a car",
+    "html": "<p>The general limits are:</p><ul><li>120 km/h on motorways (<em>autopistas</em> and <em>autovías</em>),</li><li>90 km/h on other roads,</li><li>50 km/h on town streets with two or more lanes in each direction, 30 km/h on streets with one lane each way, and 20 km/h on streets where pavement and road are at the same level.</li></ul><p>Speeding fines depend on how far over the limit you were. Going up to 20 km/h too fast on a 50 km/h street, or up to 30 km/h too fast on a motorway, costs €100 and no points. Higher speeds cost €300 to €600 and 2 to 6 points. Driving more than 60 km/h over the limit in town, or more than 80 km/h over on other roads, is a criminal offence.</p>"},
+   {"id": "alcohol", "h2": "Alcohol and drugs", "alt": "",
+    "html": "<p>The limit is 0.5 g/l in the blood (0.25 mg/l in breath). For drivers with less than two years' experience and professional drivers it is 0.3 g/l (0.15 mg/l in breath).</p><ul><li>Over the limit: €500 and 4 points.</li><li>More than twice the limit, or a repeat offence within a year: €1,000 and 6 points.</li><li>More than 1.2 g/l (0.60 mg/l in breath) is a criminal offence, with a fine, community service or prison, and loss of the licence.</li></ul><p>Driving with drugs in your system costs €1,000 and 6 points. Refusing a test is a criminal offence.</p>"},
+   {"id": "rental", "h2": "Rental cars and foreign cars", "alt": "Red car on a mountain road below rocky cliffs",
+    "html": "<p>If you are caught in a rental car, the fine goes first to the rental company. It gives your details to the authorities, who send you the fine, often weeks later. Most companies also charge an admin fee to your card.</p><p>A fine also reaches you at home if you drive your own foreign car. EU countries share vehicle owner data for the main road safety offences, such as speeding, drink-driving, not wearing a seatbelt and using a phone, so a camera fine follows you home.</p><p>If you have no address in Spain and are stopped by the police, you will normally have to pay on the spot, with the 50% discount. If you cannot pay, the car can be held until you do.</p>"},
+   {"id": "pay", "h2": "How to pay and get 50% off", "alt": "Parking meter on a street lined with parked cars",
+    "html": "<p>Most fines are halved if you pay within 20 calendar days of receiving the notice. If you take the discount, you accept the fine and can no longer appeal it, and the points are still deducted.</p><p>You can pay:</p><ul><li>online on the DGT website or the miDGT app,</li><li>at a bank or post office using the notice,</li><li>at a DGT office.</li></ul><p>Fines for parking and other town offences are paid to the town hall, usually online. If you own a Spanish car or live in Spain, sign up to the DGT's electronic mailbox (DEV) so you receive notices quickly and do not miss the discount.</p>"}
+  ],
+  "faq": [
+   ["How much is a speeding fine in Spain?", "From €100 for going slightly over the limit up to €600 for the most serious cases, with up to 6 points. Going more than 60 km/h over the limit in town or 80 km/h over elsewhere is a criminal offence."],
+   ["Will a Spanish traffic fine reach me at home?", "Yes. EU countries exchange vehicle owner data for speeding, drink-driving, seatbelt and phone offences, so a fine can be sent to your home address in another EU country."],
+   ["How do I get the 50% discount?", "Pay within 20 calendar days of receiving the notice. You give up the right to appeal, and any points are still deducted."],
+   ["What is the alcohol limit for drivers in Spain?", "0.5 g/l in the blood or 0.25 mg/l in breath. For new drivers (less than two years) and professional drivers it is 0.3 g/l, or 0.15 mg/l in breath."]
+  ],
+  "closing": {"h2": "Drive relaxed", "alt": "",
+   "html": "<p>Spanish roads are good and the coast is a pleasure to drive. Keep your phone out of reach, watch the speed limits in towns and check where you can park, and fines will rarely trouble you. If you are moving to Spain or buying a holiday home, <a href=\"{up}index.html#contact\">ask us</a> about everyday practicalities, from registering a car to getting a Spanish licence.</p>"}
+ },
+ "de": {
+  "slug": "bussgelder-spanien",
+  "title": "Bußgelder in Spanien 2026 – Höhe, Blitzer und 50 % Rabatt",
+  "description": "Wie hoch Bußgelder in Spanien 2026 sind, wie Blitzer und Promillegrenzen funktionieren, was bei Mietwagen und deutschen Autos gilt und wie Sie mit 50 % Rabatt zahlen.",
+  "crumb": "Bußgelder in Spanien",
+  "eyebrow": "Leben in Spanien · Praktisches",
+  "h1": "Bußgelder in Spanien – was sie kosten und wie Sie weniger zahlen",
+  "hero_alt": "Blaues Schild zur Geschwindigkeitskontrolle an einer spanischen Autobahn",
+  "short": "Die meisten schweren Verkehrsverstöße kosten in Spanien 200 €, etwa Handy in der Hand, fehlender Gurt oder eine rote Ampel. Alkohol am Steuer kostet 500 € oder 1.000 €. Geschwindigkeitsverstöße kosten 100 € bis 600 €. Bußgelder erreichen Sie auch im Mietwagen oder im deutschen Auto, und wer innerhalb von 20 Tagen zahlt, bekommt 50 % Rabatt, verzichtet aber auf den Einspruch.",
+  "intro": ["Ein Bußgeld in Spanien bekommt man überraschend schnell. Ein Blick aufs Handy, ein paar km/h zu schnell auf leerer Straße oder ein falsch geparktes Auto reichen. Hier erfahren Sie, was die häufigsten Verstöße kosten, wie kontrolliert wird und wie Sie weniger zahlen."],
+  "sections": [
+   {"id": "why", "h2": "Warum so viele Fahrer überrascht werden", "alt": "Fester Blitzer am Rand einer mehrspurigen Straße",
+    "html": "<p>Kontrollen laufen in Spanien weitgehend automatisch. Feste und mobile Blitzer, Abschnittskontrollen, Ampelkameras und Umweltzonen in größeren Städten erfassen Verstöße, ohne dass ein Polizist Sie anhält. Die Verkehrsbehörde DGT setzt zudem Hubschrauber, Drohnen und Zivilfahrzeuge ein.</p><p>Viele Fahrer erfahren deshalb erst Wochen später von einem Bußgeld, per Post, per E-Mail vom Autovermieter oder über das elektronische Postfach der DGT.</p>"},
+   {"id": "common", "h2": "Die häufigsten Bußgelder", "alt": "Beamter der Guardia Civil spricht bei einer Kontrolle mit einem Fahrer",
+    "html": "<p>Die Beträge legt das nationale Verkehrsgesetz fest. Schwere Verstöße kosten zusätzlich Punkte.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Verstoß</th><th>Bußgeld</th><th>Punkte</th></tr></thead><tbody><tr><td>Handy in der Hand beim Fahren</td><td>200 €</td><td>6</td></tr><tr><td>Kein Gurt oder kein Kindersitz</td><td>200 €</td><td>4</td></tr><tr><td>Rote Ampel oder Stoppschild missachtet</td><td>200 €</td><td>4</td></tr><tr><td>Überholen, wo es verboten ist</td><td>200 €</td><td>4</td></tr><tr><td>Zu schnell gefahren</td><td>100–600 €</td><td>0–6</td></tr><tr><td>Alkohol über dem Grenzwert</td><td>500 € oder 1.000 €</td><td>4 oder 6</td></tr><tr><td>Fahren ohne Versicherung</td><td>601–3.005 €</td><td>–</td></tr><tr><td>Parkverstöße (je nach Gemeinde)</td><td>meist 80–200 €</td><td>–</td></tr></tbody></table></div><p>Jede nicht angeschnallte Person im Auto zählt, und für Mitfahrer unter 18 haftet der Fahrer. Die Punkte gelten für den spanischen Führerschein; mit einem deutschen Führerschein werden sie auf einem Punktekonto in Spanien geführt und können zu einem Fahrverbot in Spanien führen.</p>"},
+   {"id": "speed", "h2": "Tempolimits und Geschwindigkeitsverstöße", "alt": "Schild mit Tempolimit 40 km/h aus dem Auto gesehen",
+    "html": "<p>Die allgemeinen Limits sind:</p><ul><li>120 km/h auf Autobahnen (<em>autopistas</em> und <em>autovías</em>),</li><li>90 km/h auf anderen Straßen,</li><li>innerorts 50 km/h auf Straßen mit zwei oder mehr Spuren je Richtung, 30 km/h auf Straßen mit einer Spur je Richtung und 20 km/h auf Straßen, in denen Gehweg und Fahrbahn auf gleicher Höhe liegen.</li></ul><p>Die Höhe des Bußgelds hängt davon ab, wie viel zu schnell Sie waren. Bis 20 km/h zu schnell bei Tempo 50 oder bis 30 km/h zu schnell auf der Autobahn kosten 100 € und keine Punkte. Höhere Überschreitungen kosten 300 € bis 600 € und 2 bis 6 Punkte. Mehr als 60 km/h zu schnell innerorts oder mehr als 80 km/h außerorts ist eine Straftat.</p>"},
+   {"id": "alcohol", "h2": "Alkohol und Drogen", "alt": "",
+    "html": "<p>Der Grenzwert liegt bei 0,5 Promille im Blut (0,25 mg/l Atemluft), wie in Deutschland. Für Fahrer mit weniger als zwei Jahren Erfahrung und Berufsfahrer gilt 0,3 Promille (0,15 mg/l Atemluft).</p><ul><li>Über dem Grenzwert: 500 € und 4 Punkte.</li><li>Mehr als doppelt so viel oder Wiederholung innerhalb eines Jahres: 1.000 € und 6 Punkte.</li><li>Über 1,2 Promille (0,60 mg/l Atemluft) ist eine Straftat, mit Geldstrafe, gemeinnütziger Arbeit oder Haft und Führerscheinentzug.</li></ul><p>Fahren unter Drogeneinfluss kostet 1.000 € und 6 Punkte. Wer einen Test verweigert, begeht eine Straftat.</p>"},
+   {"id": "rental", "h2": "Mietwagen und Autos mit deutschem Kennzeichen", "alt": "Rotes Auto auf einer Bergstraße unter Felswänden",
+    "html": "<p>Werden Sie im Mietwagen erfasst, geht das Bußgeld zuerst an den Vermieter. Er gibt Ihre Daten an die Behörden weiter, die Ihnen den Bescheid schicken, oft Wochen später. Die meisten Vermieter belasten Ihre Karte zusätzlich mit einer Bearbeitungsgebühr.</p><p>Auch mit dem eigenen Auto aus Deutschland, Österreich oder der Schweiz erreicht Sie ein Bußgeld zu Hause. Die EU-Staaten tauschen Halterdaten für die wichtigsten Verkehrsverstöße aus, etwa Raserei, Alkohol, fehlenden Gurt und Handy am Steuer. Bußgelder ab 70 € können zudem in Deutschland vollstreckt werden.</p><p>Wer keinen Wohnsitz in Spanien hat und von der Polizei angehalten wird, muss in der Regel sofort zahlen, mit 50 % Rabatt. Kann man nicht zahlen, darf das Auto festgehalten werden.</p>"},
+   {"id": "pay", "h2": "So zahlen Sie mit 50 % Rabatt", "alt": "Parkscheinautomat an einer Straße mit parkenden Autos",
+    "html": "<p>Die meisten Bußgelder halbieren sich, wenn Sie innerhalb von 20 Kalendertagen nach Zustellung zahlen. Mit dem Rabatt erkennen Sie den Verstoß an und können keinen Einspruch mehr einlegen, die Punkte werden trotzdem abgezogen.</p><p>Bezahlen können Sie:</p><ul><li>online auf der Website der DGT oder in der App miDGT,</li><li>bei einer Bank oder der Post mit dem Bescheid,</li><li>in einem Büro der DGT.</li></ul><p>Bußgelder fürs Parken und andere städtische Verstöße zahlen Sie an das Rathaus, meist online. Wenn Sie ein spanisches Auto besitzen oder in Spanien wohnen, melden Sie sich beim elektronischen Postfach der DGT (DEV) an, damit Sie Bescheide schnell erhalten und den Rabatt nicht verpassen.</p>"}
+  ],
+  "faq": [
+   ["Wie hoch ist ein Bußgeld für zu schnelles Fahren in Spanien?", "Von 100 € für eine leichte Überschreitung bis 600 € in den schwersten Fällen, mit bis zu 6 Punkten. Mehr als 60 km/h zu schnell innerorts oder 80 km/h außerorts ist eine Straftat."],
+   ["Kommt ein spanisches Bußgeld nach Deutschland?", "Ja. Die EU-Staaten tauschen Halterdaten für Raserei, Alkohol, Gurt- und Handyverstöße aus, und Bußgelder ab 70 € können in Deutschland vollstreckt werden."],
+   ["Wie bekomme ich 50 % Rabatt?", "Zahlen Sie innerhalb von 20 Kalendertagen nach Zustellung. Sie verzichten damit auf den Einspruch, Punkte werden trotzdem abgezogen."],
+   ["Welche Promillegrenze gilt in Spanien?", "0,5 Promille im Blut oder 0,25 mg/l Atemluft. Für Fahranfänger (unter zwei Jahren) und Berufsfahrer 0,3 Promille, also 0,15 mg/l Atemluft."]
+  ],
+  "closing": {"h2": "Entspannt unterwegs", "alt": "",
+   "html": "<p>Spaniens Straßen sind gut und die Küste lässt sich herrlich befahren. Lassen Sie das Handy liegen, achten Sie innerorts auf das Tempo und prüfen Sie, wo Sie parken dürfen, dann werden Bußgelder selten ein Thema. Wenn Sie nach Spanien ziehen oder ein Ferienhaus kaufen, <a href=\"{up}index.html#contact\">fragen Sie uns</a> nach dem Alltag vor Ort, von der Ummeldung des Autos bis zum spanischen Führerschein.</p>"}
+ },
+ "es": {
+  "slug": "multas-espana",
+  "title": "Multas de tráfico en España 2026 – Importes, radares y el descuento del 50 %",
+  "description": "Cuánto cuestan las multas de tráfico en España en 2026, cómo funcionan los radares y las tasas de alcohol, qué pasa con coches de alquiler y extranjeros y cómo pagar con un 50 % de descuento.",
+  "crumb": "Multas de tráfico",
+  "eyebrow": "Vivir en España · Práctico",
+  "h1": "Multas de tráfico en España – Cuánto cuestan y cómo pagar menos",
+  "hero_alt": "Señal azul de control de velocidad junto a una autovía con tráfico",
+  "short": "La mayoría de las infracciones graves en España cuestan 200 €, como usar el móvil en la mano, no llevar el cinturón o saltarse un semáforo, y conducir con alcohol cuesta 500 € o 1.000 €. Las multas por velocidad van de 100 € a 600 €. Las multas llegan aunque conduzca un coche de alquiler o extranjero, y si paga en 20 días tiene un 50 % de descuento, aunque renuncia a recurrir.",
+  "intro": ["Recibir una multa de tráfico en España es muy fácil. Basta con mirar el móvil, ir unos km/h por encima del límite en una carretera vacía o aparcar donde no se debe. Aquí verá cuánto cuestan las multas más habituales, cómo funcionan los controles y cómo pagar menos."],
+  "sections": [
+   {"id": "why", "h2": "Por qué sorprenden tanto las multas", "alt": "Radar fijo al borde de una carretera de varios carriles",
+    "html": "<p>Los controles en España son en gran parte automáticos. Radares fijos y móviles, tramos de velocidad media, cámaras en semáforos y zonas de bajas emisiones en las grandes ciudades registran las infracciones sin que un agente le pare. La DGT usa además helicópteros, drones y coches camuflados.</p><p>Por eso muchos conductores se enteran de la multa semanas después, por correo, por un email de la empresa de alquiler o a través de la Dirección Electrónica Vial (DEV).</p>"},
+   {"id": "common", "h2": "Las multas más habituales", "alt": "Agente de la Guardia Civil hablando con un conductor en un control",
+    "html": "<p>Los importes los fija la Ley de Tráfico. Las infracciones graves también restan puntos del carné.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Infracción</th><th>Multa</th><th>Puntos</th></tr></thead><tbody><tr><td>Usar el móvil sujeto con la mano</td><td>200 €</td><td>6</td></tr><tr><td>No llevar el cinturón o la silla infantil</td><td>200 €</td><td>4</td></tr><tr><td>Saltarse un semáforo o un stop</td><td>200 €</td><td>4</td></tr><tr><td>Adelantar donde está prohibido</td><td>200 €</td><td>4</td></tr><tr><td>Exceso de velocidad</td><td>100–600 €</td><td>0–6</td></tr><tr><td>Alcohol por encima de la tasa</td><td>500 € o 1.000 €</td><td>4 o 6</td></tr><tr><td>Conducir sin seguro</td><td>601–3.005 €</td><td>–</td></tr><tr><td>Aparcamiento (según cada ayuntamiento)</td><td>normalmente 80–200 €</td><td>–</td></tr></tbody></table></div><p>Cuenta cada ocupante que no lleve el cinturón, y el conductor responde de los menores de 18 años.</p>"},
+   {"id": "speed", "h2": "Límites y multas por velocidad", "alt": "Señal de límite de 40 km/h vista desde el interior de un coche",
+    "html": "<p>Los límites generales son:</p><ul><li>120 km/h en autopistas y autovías,</li><li>90 km/h en el resto de carreteras,</li><li>en ciudad, 50 km/h en vías de dos o más carriles por sentido, 30 km/h en vías de un carril por sentido y 20 km/h en calles de plataforma única.</li></ul><p>La multa depende de cuánto se supere el límite. Ir hasta 20 km/h por encima en una calle de 50, o hasta 30 km/h por encima en autovía, cuesta 100 € y no resta puntos. Excesos mayores cuestan de 300 € a 600 € y de 2 a 6 puntos. Superar el límite en más de 60 km/h en ciudad o en más de 80 km/h en carretera es delito.</p>"},
+   {"id": "alcohol", "h2": "Alcohol y drogas", "alt": "",
+    "html": "<p>La tasa máxima es de 0,5 g/l en sangre (0,25 mg/l en aire espirado). Para conductores noveles (menos de dos años) y profesionales es de 0,3 g/l (0,15 mg/l en aire).</p><ul><li>Por encima de la tasa: 500 € y 4 puntos.</li><li>Más del doble de la tasa, o reincidencia en un año: 1.000 € y 6 puntos.</li><li>Más de 1,2 g/l (0,60 mg/l en aire) es delito, con multa, trabajos en beneficio de la comunidad o prisión, y retirada del carné.</li></ul><p>Conducir con presencia de drogas cuesta 1.000 € y 6 puntos. Negarse a la prueba es delito.</p>"},
+   {"id": "rental", "h2": "Coches de alquiler y extranjeros", "alt": "Coche rojo en una carretera de montaña bajo paredes de roca",
+    "html": "<p>Si le captan con un coche de alquiler, la multa llega primero a la empresa. Esta identifica al conductor ante la autoridad, que le envía la multa, a menudo semanas después. La mayoría de empresas cobra además una tasa de gestión en su tarjeta.</p><p>Si tiene amigos o familia que vienen con su propio coche extranjero, la multa también les llega a casa: los países de la UE intercambian los datos de los titulares para las infracciones principales, como velocidad, alcohol, cinturón y móvil.</p><p>Un conductor sin domicilio en España al que para la policía debe pagar en el acto, con el 50 % de descuento. Si no puede, el vehículo puede quedar inmovilizado.</p>"},
+   {"id": "pay", "h2": "Cómo pagar con un 50 % de descuento", "alt": "Parquímetro en una calle con coches aparcados",
+    "html": "<p>La mayoría de las multas se reducen a la mitad si se pagan en 20 días naturales desde la notificación. Al aceptar el descuento, el procedimiento termina y ya no puede recurrir, y los puntos se restan igualmente.</p><p>Puede pagar:</p><ul><li>en la sede electrónica de la DGT o en la app miDGT,</li><li>en un banco o en Correos con la notificación,</li><li>en una Jefatura de Tráfico.</li></ul><p>Las multas de aparcamiento y otras infracciones municipales se pagan al ayuntamiento, normalmente por internet. Si tiene coche o vive en España, dese de alta en la Dirección Electrónica Vial (DEV) para recibir las notificaciones a tiempo y no perder el descuento.</p>"}
+  ],
+  "faq": [
+   ["¿Cuánto es una multa por exceso de velocidad?", "Desde 100 € por superar ligeramente el límite hasta 600 € en los casos más graves, con hasta 6 puntos. Superar el límite en más de 60 km/h en ciudad u 80 km/h en carretera es delito."],
+   ["¿Llegan las multas españolas a otros países de la UE?", "Sí. Los países de la UE intercambian los datos de los titulares para infracciones de velocidad, alcohol, cinturón y móvil, así que la multa llega al domicilio en otro país."],
+   ["¿Cómo consigo el 50 % de descuento?", "Pagando en 20 días naturales desde la notificación. Renuncia a recurrir y los puntos se restan igualmente."],
+   ["¿Cuál es la tasa de alcohol permitida?", "0,5 g/l en sangre o 0,25 mg/l en aire espirado. Para noveles (menos de dos años) y profesionales, 0,3 g/l, o 0,15 mg/l en aire."]
+  ],
+  "closing": {"h2": "Conduzca tranquilo", "alt": "",
+   "html": "<p>Las carreteras españolas son buenas y la costa se disfruta al volante. Deje el móvil a un lado, vigile la velocidad en ciudad y compruebe dónde puede aparcar, y las multas rara vez le darán problemas. Si va a comprar una vivienda en la costa, <a href=\"{up}index.html#contact\">pregúntenos</a> también por los trámites del día a día.</p>"}
+ }
+}
