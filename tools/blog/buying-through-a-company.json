@@ -1,0 +1,209 @@
+{
+  "author": "anita",
+  "published": "2025-08-08",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/buying-through-a-company/handshake-over-contract-and-building-model.jpg",
+  "images": {
+    "pros": "assets/blog/buying-through-a-company/business-partners-in-office.jpg",
+    "steps": "assets/blog/buying-through-a-company/meeting-with-advisers.jpg",
+    "closing": "assets/blog/buying-through-a-company/modern-apartment-building.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/kupno-nieruchomoci-w-hiszpanii-na-firm",
+  "cards": ["26627092", "26232807", "24623926"],
+  "sources": [
+    ["BOE – Corporate Income Tax Act (Ley 27/2014), depreciation table", "https://www.boe.es/buscar/act.php?id=BOE-A-2014-12328"],
+    ["BOE – VAT Act (Ley 37/1992), art. 20 exemptions", "https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740"]
+  ],
+  "en": {
+    "slug": "buying-property-in-spain-for-a-company",
+    "title": "Buying Property in Spain Through a Company – Pros, Cons and Taxes",
+    "description": "When it makes sense to buy Spanish property through a company: Spanish SL or foreign company, VAT and transfer tax, corporate tax, depreciation, private use by owners, and the steps to buy.",
+    "crumb": "Buying through a company",
+    "eyebrow": "Buying in Spain · Investors",
+    "h1": "Buying Property in Spain Through a Company – When It Pays Off",
+    "hero_alt": "Two people shaking hands over a contract next to a model building",
+    "short": "A company can buy Spanish property like a private person, but it only pays off in some cases: several rental properties, a real rental business, or property used by an existing company. The company pays 25% corporate tax on profit, can deduct costs and depreciate the building at up to 2% a year, but profits are taxed again when paid out to you. VAT on a new build is only recoverable if the company charges VAT, which plain holiday or long-term rentals do not. If owners use the home privately, it counts as taxable income. For one holiday home, buying in your own name is usually simpler and cheaper.",
+    "intro": [
+      "Most homes in Spain are bought by private people, but companies are active buyers too, especially investors with several properties and business owners who want to keep business and private assets apart.",
+      "Buying through a company can save tax in some cases and cost more in others. This guide explains when it makes sense, what taxes apply and how the purchase works."
+    ],
+    "sections": [
+      {
+        "id": "options",
+        "h2": "Which company can buy?",
+        "alt": "",
+        "html": "<p>There are three common routes:</p><ul><li><strong>A Spanish limited company</strong> (<em>Sociedad Limitada</em>, SL). It can be set up with as little as €1 of share capital, usually through a lawyer or gestor, and is taxed in Spain on all its income. This is the usual choice for a rental business in Spain.</li><li><strong>An existing company in your home country</strong>. It needs a Spanish tax number (NIF) and its beneficial owners must be identified at the notary. Its Spanish rental income is taxed in Spain as non-resident income, and the company's home country has its own rules on top.</li><li><strong>A Spanish branch</strong> of your existing company, for larger investors who want to operate in Spain without a separate company.</li></ul><p>Avoid companies in tax havens. Spain charges a special yearly levy of 3% of the cadastral value on property owned by companies in non-cooperative jurisdictions.</p>"
+      },
+      {
+        "id": "pros",
+        "h2": "The advantages",
+        "alt": "Three business partners talking in a modern office",
+        "html": "<ul><li><strong>Costs are deductible</strong>: interest, community fees, IBI, insurance, repairs, management, cleaning and furniture.</li><li><strong>Depreciation</strong>: the building (not the land) can be written off at up to 2% a year, furniture faster.</li><li><strong>One tax rate</strong>: corporate tax is 25% on profit, instead of personal rates that can reach 47–54% for residents.</li><li><strong>Separate assets</strong>: business risks stay in the company, and a portfolio is easier to manage, finance and pass on as shares.</li><li><strong>Reinvesting</strong>: profits left in the company can fund the next purchase without personal income tax.</li></ul>"
+      },
+      {
+        "id": "cons",
+        "h2": "The disadvantages",
+        "alt": "",
+        "html": "<ul><li><strong>Double taxation when you take money out.</strong> Profits pay 25% in the company and then 19–30% as dividends in Spain, or tax at home.</li><li><strong>Running costs.</strong> Bookkeeping, yearly accounts, corporate tax returns and VAT returns cost money every year, even when the property earns little.</li><li><strong>Private use is taxed.</strong> If you or your family stay in the home for free, the market rent counts as income for you, and the company may lose the right to deduct costs for those periods.</li><li><strong>Small-company rates do not apply.</strong> A company that only holds property is usually treated as an asset-holding company (<em>entidad patrimonial</em>) and pays the full 25%.</li><li><strong>Harder mortgages.</strong> Banks lend to companies, but ask for more guarantees, often personal ones from the owners.</li><li><strong>Wealth tax still applies.</strong> Shares in a company whose assets are mainly Spanish property are taxed in Spain, also for non-residents.</li></ul>"
+      },
+      {
+        "id": "taxes",
+        "h2": "Taxes on purchase and ownership",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Private buyer</th><th>Company</th></tr></thead><tbody><tr><td>New build</td><td>10% VAT + stamp duty (AJD)</td><td>10% VAT + AJD; VAT recoverable only if the company charges VAT on its activity</td></tr><tr><td>Resale</td><td>transfer tax (ITP), set by the region</td><td>ITP; in some cases VAT can replace ITP if both sides are VAT-registered businesses</td></tr><tr><td>Rental income</td><td>personal or non-resident income tax</td><td>25% corporate tax on profit</td></tr><tr><td>Home not rented out</td><td>tax on imputed income</td><td>no imputed income, but no rental income either</td></tr><tr><td>Selling</td><td>19–30% (residents), 19% (non-residents)</td><td>25% in the company, then tax on dividends</td></tr></tbody></table></div><h3>VAT on new builds</h3><p>Renting a home long term is exempt from VAT, and so is a holiday rental without hotel-type services. In those cases the company cannot recover the 10% VAT paid on a new build. Only a tourist rental that offers hotel services such as daily cleaning, linen changes and reception charges VAT and can recover it. This is the most common misunderstanding about company purchases.</p>"
+      },
+      {
+        "id": "when",
+        "h2": "When does a company make sense?",
+        "alt": "",
+        "html": "<p>A company is usually worth it if:</p><ul><li>you plan to buy <strong>several properties</strong> to rent out and reinvest the income,</li><li>you run a <strong>real rental or hotel-type business</strong> with staff and services,</li><li>the property is used by an <strong>existing business</strong>, for example as offices or staff housing,</li><li>you want to pass a portfolio on to the next generation as shares.</li></ul><p>For one holiday home that you use yourself and rent out now and then, buying in your own name is almost always simpler and cheaper. Ask a tax adviser to compare both routes for your situation and your home country before you sign.</p>"
+      },
+      {
+        "id": "steps",
+        "h2": "Buying through a company, step by step",
+        "alt": "Two advisers meeting with a client at a desk",
+        "html": "<ol><li><strong>Get tax advice in both countries</strong> and choose the structure.</li><li><strong>Set up or register the company</strong>: incorporate an SL, or get a Spanish NIF for your foreign company with its registry extract, articles and the director's powers, apostilled and translated.</li><li><strong>Open a Spanish company bank account.</strong></li><li><strong>Check the property</strong> as any buyer would: Nota Simple, debts, licences and, for rentals, the tourist licence.</li><li><strong>Sign the deposit contract and the deed</strong> at the notary. The director signs, or someone with a company power of attorney.</li><li><strong>Pay the taxes</strong> and register the property in the company's name.</li><li><strong>Keep the books</strong>, file quarterly and yearly returns, and invoice any private use.</li></ol><p>The rest of the process is the same as for a private buyer. Our guide to <a href=\"{up}how-to-buy-an-apartment-or-house-in-spain.html\">buying property in Spain</a> explains each step.</p>"
+      }
+    ],
+    "faq": [
+      ["Can a foreign company buy property in Spain?", "Yes. It needs a Spanish tax number (NIF), its documents apostilled and translated, and its beneficial owners identified at the notary. A Spanish SL is often simpler for a rental business in Spain."],
+      ["Can a company recover the VAT on a new apartment?", "Only if its activity is subject to VAT, such as a tourist rental with hotel-type services. Long-term rentals and plain holiday rentals are VAT-exempt, so the 10% VAT is a cost."],
+      ["Can I use a company-owned holiday home myself?", "Yes, but private use is taxed. The market rent for your stay counts as income for you, and the company may lose deductions for that period."],
+      ["Is buying through a company cheaper for one holiday home?", "Usually not. Set-up costs, yearly accounts and tax on dividends normally outweigh the savings. A company pays off mainly for several rentals or a real business."],
+      ["What corporate tax does a Spanish property company pay?", "Generally 25% on profit. Companies that only hold property usually cannot use the reduced rates for small companies."]
+    ],
+    "closing": {
+      "h2": "Choose the structure before the property",
+      "alt": "Modern apartment building with balconies under a blue sky",
+      "html": "<p>The right structure depends on your plans and your home country. <a href=\"{up}index.html#contact\">Contact us</a> and we will introduce you to a tax adviser for international investors, then help you find properties that fit the plan.</p>"
+    }
+  },
+  "de": {
+    "slug": "kauf-einer-immobilie-in-spanien-fur-ein-unternehmen",
+    "title": "Immobilie in Spanien über eine Firma kaufen – Vor- und Nachteile, Steuern",
+    "description": "Wann sich der Kauf einer spanischen Immobilie über eine Gesellschaft lohnt: spanische SL oder deutsche GmbH, Mehrwertsteuer und Grunderwerbsteuer, Körperschaftsteuer, Abschreibung, Eigennutzung und Ablauf.",
+    "crumb": "Kauf über eine Firma",
+    "eyebrow": "Kaufen in Spanien · Investoren",
+    "h1": "Immobilie in Spanien über eine Firma kaufen – wann es sich lohnt",
+    "hero_alt": "Zwei Personen geben sich über einem Vertrag neben einem Gebäudemodell die Hand",
+    "short": "Eine Gesellschaft kann in Spanien wie eine Privatperson kaufen, doch es lohnt sich nur in bestimmten Fällen: mehrere Mietobjekte, ein echter Vermietungsbetrieb oder Nutzung durch ein bestehendes Unternehmen. Die Gesellschaft zahlt 25 % Körperschaftsteuer auf den Gewinn, kann Kosten abziehen und das Gebäude mit bis zu 2 % im Jahr abschreiben, aber Ausschüttungen werden erneut besteuert. Die Mehrwertsteuer auf einen Neubau ist nur erstattungsfähig, wenn die Gesellschaft selbst Mehrwertsteuer berechnet, was normale Ferien- oder Dauervermietung nicht tut. Für eine einzelne Ferienimmobilie ist der Kauf auf den eigenen Namen meist einfacher und günstiger.",
+    "intro": [
+      "Die meisten Immobilien in Spanien kaufen Privatleute, aber auch Gesellschaften sind aktive Käufer, vor allem Investoren mit mehreren Objekten und Unternehmer, die Betriebs- und Privatvermögen trennen möchten.",
+      "Der Kauf über eine Firma kann in manchen Fällen Steuern sparen und in anderen mehr kosten. Dieser Ratgeber erklärt, wann er sinnvoll ist, welche Steuern anfallen und wie der Kauf abläuft."
+    ],
+    "sections": [
+      {
+        "id": "options",
+        "h2": "Welche Gesellschaft kann kaufen?",
+        "alt": "",
+        "html": "<p>Es gibt drei übliche Wege:</p><ul><li><strong>Eine spanische GmbH</strong> (<em>Sociedad Limitada</em>, SL). Sie kann schon mit 1 € Stammkapital gegründet werden, meist über einen Anwalt oder Gestor, und wird in Spanien auf ihr gesamtes Einkommen besteuert. Das ist die übliche Wahl für einen Vermietungsbetrieb in Spanien.</li><li><strong>Ihre bestehende GmbH oder AG</strong> in Deutschland, Österreich oder der Schweiz. Sie braucht eine spanische Steuernummer (NIF), und ihre wirtschaftlich Berechtigten werden beim Notar festgestellt. Die spanischen Mieteinkünfte werden in Spanien als Einkünfte eines Nichtresidenten besteuert, und das Heimatland hat eigene Regeln dazu.</li><li><strong>Eine spanische Zweigniederlassung</strong> Ihrer Gesellschaft, für größere Investoren, die ohne eigene Tochter in Spanien tätig sein wollen.</li></ul><p>Meiden Sie Gesellschaften in Steueroasen. Spanien erhebt auf Immobilien von Gesellschaften aus nicht kooperativen Ländern eine jährliche Sonderabgabe von 3 % des Katasterwerts.</p>"
+      },
+      {
+        "id": "pros",
+        "h2": "Die Vorteile",
+        "alt": "Drei Geschäftspartner im Gespräch in einem modernen Büro",
+        "html": "<ul><li><strong>Kosten sind abziehbar</strong>: Zinsen, Gemeinschaftskosten, IBI, Versicherung, Reparaturen, Verwaltung, Reinigung und Möbel.</li><li><strong>Abschreibung</strong>: das Gebäude (nicht der Boden) mit bis zu 2 % im Jahr, Möbel schneller.</li><li><strong>Ein fester Satz</strong>: 25 % Körperschaftsteuer auf den Gewinn statt persönlicher Sätze, die für Residenten 47–54 % erreichen können.</li><li><strong>Getrenntes Vermögen</strong>: Geschäftsrisiken bleiben in der Gesellschaft, und ein Bestand lässt sich leichter verwalten, finanzieren und als Anteile übertragen.</li><li><strong>Reinvestition</strong>: Gewinne in der Gesellschaft finanzieren den nächsten Kauf ohne persönliche Einkommensteuer.</li></ul>"
+      },
+      {
+        "id": "cons",
+        "h2": "Die Nachteile",
+        "alt": "",
+        "html": "<ul><li><strong>Doppelte Besteuerung bei Ausschüttung.</strong> Gewinne zahlen 25 % in der Gesellschaft und dann Steuer auf die Dividende in Spanien oder, als Gesellschafter in Deutschland, Abgeltung- bzw. Teileinkünfteverfahren zu Hause.</li><li><strong>Laufende Kosten.</strong> Buchhaltung, Jahresabschluss, Körperschaftsteuer- und Mehrwertsteuererklärungen kosten jedes Jahr Geld, auch wenn die Immobilie wenig einbringt.</li><li><strong>Eigennutzung wird besteuert.</strong> Wohnen Sie oder Ihre Familie kostenlos in der Immobilie, gilt die Marktmiete als Einkommen für Sie, und die Gesellschaft kann für diese Zeiten Kosten verlieren.</li><li><strong>Keine Kleinunternehmer-Sätze.</strong> Eine reine Vermögensverwaltungsgesellschaft (<em>entidad patrimonial</em>) zahlt meist die vollen 25 %.</li><li><strong>Schwierigere Finanzierung.</strong> Banken leihen Gesellschaften Geld, verlangen aber mehr Sicherheiten, oft persönliche Bürgschaften.</li><li><strong>Vermögensteuer gilt weiter.</strong> Anteile an einer Gesellschaft, deren Vermögen hauptsächlich aus spanischen Immobilien besteht, werden in Spanien besteuert, auch bei Nichtresidenten.</li></ul>"
+      },
+      {
+        "id": "taxes",
+        "h2": "Steuern bei Kauf und Besitz",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Privatkäufer</th><th>Gesellschaft</th></tr></thead><tbody><tr><td>Neubau</td><td>10 % Mehrwertsteuer + Stempelsteuer (AJD)</td><td>10 % MwSt. + AJD; MwSt. nur erstattbar, wenn die Gesellschaft selbst MwSt. berechnet</td></tr><tr><td>Bestandsimmobilie</td><td>Grunderwerbsteuer (ITP), je nach Region</td><td>ITP; in Sonderfällen MwSt. statt ITP, wenn beide Seiten Unternehmer sind</td></tr><tr><td>Mieteinnahmen</td><td>Einkommensteuer bzw. Steuer für Nichtresidenten</td><td>25 % Körperschaftsteuer auf den Gewinn</td></tr><tr><td>Nicht vermietete Immobilie</td><td>Steuer auf fiktives Einkommen</td><td>kein fiktives Einkommen, aber auch keine Einnahmen</td></tr><tr><td>Verkauf</td><td>19–30 % (Residenten), 19 % (Nichtresidenten)</td><td>25 % in der Gesellschaft, dann Steuer auf Ausschüttung</td></tr></tbody></table></div><h3>Mehrwertsteuer beim Neubau</h3><p>Langfristige Wohnraumvermietung ist von der Mehrwertsteuer befreit, ebenso eine Ferienvermietung ohne hotelähnliche Leistungen. Dann kann die Gesellschaft die 10 % MwSt. auf einen Neubau nicht zurückholen. Nur eine touristische Vermietung mit Hotelleistungen wie täglicher Reinigung, Wäschewechsel und Rezeption berechnet MwSt. und kann sie abziehen. Das ist das häufigste Missverständnis beim Kauf über eine Firma.</p>"
+      },
+      {
+        "id": "when",
+        "h2": "Wann lohnt sich eine Gesellschaft?",
+        "alt": "",
+        "html": "<p>Eine Gesellschaft lohnt sich meist, wenn:</p><ul><li>Sie <strong>mehrere Immobilien</strong> vermieten und die Erträge reinvestieren wollen,</li><li>Sie einen <strong>echten Vermietungs- oder Hotelbetrieb</strong> mit Personal und Leistungen führen,</li><li>die Immobilie von einem <strong>bestehenden Unternehmen</strong> genutzt wird, etwa als Büro oder Personalunterkunft,</li><li>Sie einen Bestand als Anteile an die nächste Generation übergeben möchten.</li></ul><p>Für eine einzelne Ferienimmobilie, die Sie selbst nutzen und gelegentlich vermieten, ist der Kauf auf den eigenen Namen fast immer einfacher und günstiger. Wer über eine deutsche GmbH kaufen will, sollte zusätzlich die Hinzurechnungsbesteuerung und die verdeckte Gewinnausschüttung bei Eigennutzung mit seinem Steuerberater prüfen.</p>"
+      },
+      {
+        "id": "steps",
+        "h2": "Kauf über eine Gesellschaft Schritt für Schritt",
+        "alt": "Zwei Berater im Gespräch mit einer Kundin am Schreibtisch",
+        "html": "<ol><li><strong>Steuerberatung in beiden Ländern</strong> einholen und die Struktur wählen.</li><li><strong>Gesellschaft gründen oder registrieren</strong>: eine SL gründen oder für Ihre GmbH eine spanische NIF beantragen, mit Handelsregisterauszug, Satzung und Vertretungsnachweis, apostilliert und übersetzt.</li><li><strong>Spanisches Firmenkonto eröffnen.</strong></li><li><strong>Die Immobilie prüfen</strong> wie jeder Käufer: Nota Simple, Schulden, Genehmigungen und bei Vermietung die touristische Lizenz.</li><li><strong>Anzahlungsvertrag und Kaufurkunde</strong> beim Notar unterzeichnen, durch den Geschäftsführer oder einen Bevollmächtigten.</li><li><strong>Steuern zahlen</strong> und die Immobilie auf die Gesellschaft eintragen.</li><li><strong>Bücher führen</strong>, Quartals- und Jahreserklärungen abgeben und Eigennutzung abrechnen.</li></ol><p>Alles Weitere läuft wie beim Privatkauf. Unser Ratgeber zum <a href=\"{up}de-de/wie-kann-man-in-spanien-eine-wohnung-oder-ein-haus-kaufen.html\">Immobilienkauf in Spanien</a> erklärt jeden Schritt.</p>"
+      }
+    ],
+    "faq": [
+      ["Kann eine deutsche GmbH in Spanien eine Immobilie kaufen?", "Ja. Sie braucht eine spanische Steuernummer (NIF), apostillierte und übersetzte Unterlagen, und ihre wirtschaftlich Berechtigten werden beim Notar festgestellt. Für einen Vermietungsbetrieb in Spanien ist eine spanische SL oft einfacher."],
+      ["Kann die Gesellschaft die Mehrwertsteuer auf einen Neubau zurückholen?", "Nur wenn ihre Tätigkeit mehrwertsteuerpflichtig ist, etwa eine touristische Vermietung mit Hotelleistungen. Dauer- und einfache Ferienvermietung sind befreit, die 10 % MwSt. sind dann Kosten."],
+      ["Darf ich eine Ferienimmobilie der Firma selbst nutzen?", "Ja, aber die Eigennutzung wird besteuert. Die Marktmiete für Ihren Aufenthalt gilt als Einkommen, und die Gesellschaft kann für diese Zeit Abzüge verlieren."],
+      ["Ist der Kauf über eine Firma bei einer Ferienimmobilie günstiger?", "Meist nicht. Gründungskosten, Jahresabschlüsse und die Steuer auf Ausschüttungen übersteigen in der Regel die Ersparnis. Lohnend ist es vor allem bei mehreren Mietobjekten oder einem echten Betrieb."],
+      ["Wie hoch ist die Körperschaftsteuer einer spanischen Immobiliengesellschaft?", "In der Regel 25 % auf den Gewinn. Reine Vermögensverwaltungsgesellschaften können die ermäßigten Sätze für kleine Unternehmen meist nicht nutzen."]
+    ],
+    "closing": {
+      "h2": "Erst die Struktur, dann die Immobilie",
+      "alt": "Modernes Wohnhaus mit Balkonen unter blauem Himmel",
+      "html": "<p>Die richtige Struktur hängt von Ihren Plänen und Ihrem Heimatland ab. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>. Wir stellen Ihnen einen Steuerberater für internationale Investoren vor und helfen Ihnen dann, passende Immobilien zu finden.</p>"
+    }
+  },
+  "es": {
+    "slug": "comprar-una-propiedad-en-espana-a-nombre-de-una-empresa",
+    "title": "Comprar una vivienda en España a nombre de una empresa – ventajas, inconvenientes e impuestos",
+    "description": "Cuándo compensa comprar un inmueble en España a través de una sociedad: SL española o sociedad extranjera, IVA e ITP, impuesto sobre sociedades, amortización, uso privado por los socios y pasos de la compra.",
+    "crumb": "Comprar con una empresa",
+    "eyebrow": "Comprar en España · Inversores",
+    "h1": "Comprar una vivienda en España a nombre de una empresa – cuándo compensa",
+    "hero_alt": "Dos personas se dan la mano sobre un contrato junto a la maqueta de un edificio",
+    "short": "Una sociedad puede comprar en España igual que un particular, pero solo compensa en algunos casos: varias viviendas en alquiler, una actividad de alquiler real o un inmueble que usa una empresa existente. La sociedad paga un 25 % del impuesto sobre sociedades, deduce gastos y amortiza el edificio hasta un 2 % anual, pero los beneficios vuelven a tributar al repartirse. El IVA de una obra nueva solo se recupera si la sociedad repercute IVA, algo que no hacen el alquiler de larga duración ni el vacacional sin servicios hoteleros. Para una sola segunda vivienda, comprar a su nombre suele ser más sencillo y barato.",
+    "intro": [
+      "La mayoría de viviendas en España las compran particulares, pero las sociedades también son compradores activos, sobre todo inversores con varios inmuebles y empresarios que quieren separar el patrimonio empresarial del personal.",
+      "Comprar a través de una empresa puede ahorrar impuestos en algunos casos y costar más en otros. Esta guía explica cuándo tiene sentido, qué impuestos se aplican y cómo es la compra."
+    ],
+    "sections": [
+      {
+        "id": "options",
+        "h2": "¿Qué sociedad puede comprar?",
+        "alt": "",
+        "html": "<p>Hay tres vías habituales:</p><ul><li><strong>Una sociedad limitada española</strong> (SL). Desde 2022 puede constituirse con 1 € de capital, normalmente a través de un abogado o gestor, y tributa en España por todas sus rentas. Es la opción habitual para un negocio de alquiler en España.</li><li><strong>Una sociedad que ya tiene en su país</strong>. Necesita un NIF español y la identificación de sus titulares reales ante notario. Sus rentas de alquiler en España tributan como renta de no residentes, y su país aplica además sus propias normas.</li><li><strong>Una sucursal en España</strong> de su sociedad, para inversores mayores que quieren operar sin una filial.</li></ul><p>Evite sociedades en paraísos fiscales. España aplica un gravamen especial anual del 3 % del valor catastral a los inmuebles de entidades residentes en jurisdicciones no cooperativas.</p>"
+      },
+      {
+        "id": "pros",
+        "h2": "Las ventajas",
+        "alt": "Tres socios conversando en una oficina moderna",
+        "html": "<ul><li><strong>Gastos deducibles</strong>: intereses, comunidad, IBI, seguros, reparaciones, gestión, limpieza y mobiliario.</li><li><strong>Amortización</strong>: el edificio (no el suelo) hasta un 2 % anual, el mobiliario más rápido.</li><li><strong>Un tipo fijo</strong>: 25 % sobre el beneficio, frente a tipos personales que para residentes pueden llegar al 47–54 %.</li><li><strong>Patrimonio separado</strong>: los riesgos del negocio quedan en la sociedad, y una cartera es más fácil de gestionar, financiar y transmitir como participaciones.</li><li><strong>Reinversión</strong>: los beneficios que quedan en la sociedad financian la siguiente compra sin pasar por el IRPF.</li></ul>"
+      },
+      {
+        "id": "cons",
+        "h2": "Los inconvenientes",
+        "alt": "",
+        "html": "<ul><li><strong>Doble tributación al sacar el dinero.</strong> El beneficio paga un 25 % en la sociedad y después un 19–30 % como dividendo, o los impuestos de su país.</li><li><strong>Costes fijos.</strong> Contabilidad, cuentas anuales, impuesto sobre sociedades y declaraciones de IVA cuestan dinero cada año, aunque el inmueble rinda poco.</li><li><strong>El uso privado tributa.</strong> Si usted o su familia usan la vivienda gratis, el alquiler de mercado se considera renta suya, y la sociedad puede perder la deducción de gastos de esos periodos.</li><li><strong>Sin tipos reducidos.</strong> Una sociedad que solo tiene inmuebles suele ser entidad patrimonial y paga el 25 % completo.</li><li><strong>Hipotecas más difíciles.</strong> Los bancos prestan a sociedades, pero piden más garantías, a menudo avales personales de los socios.</li><li><strong>El patrimonio sigue tributando.</strong> Las participaciones en una sociedad cuyo activo es principalmente inmobiliario en España tributan en España, también para no residentes.</li></ul>"
+      },
+      {
+        "id": "taxes",
+        "h2": "Impuestos en la compra y la tenencia",
+        "alt": "",
+        "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Particular</th><th>Sociedad</th></tr></thead><tbody><tr><td>Obra nueva</td><td>10 % de IVA + AJD</td><td>10 % de IVA + AJD; el IVA solo se recupera si la sociedad repercute IVA</td></tr><tr><td>Segunda mano</td><td>ITP, según la comunidad</td><td>ITP; en algunos casos IVA en lugar de ITP si ambas partes son empresarios (renuncia a la exención)</td></tr><tr><td>Alquiler</td><td>IRPF o IRNR</td><td>25 % del impuesto sobre sociedades sobre el beneficio</td></tr><tr><td>Vivienda no alquilada</td><td>renta imputada</td><td>sin renta imputada, pero tampoco ingresos</td></tr><tr><td>Venta</td><td>19–30 % (residentes), 19 % (no residentes)</td><td>25 % en la sociedad y después impuesto sobre el dividendo</td></tr></tbody></table></div><h3>El IVA de la obra nueva</h3><p>El alquiler de vivienda de larga duración está exento de IVA, igual que el alquiler vacacional sin servicios propios de la industria hotelera. En esos casos la sociedad no puede recuperar el 10 % de IVA de una obra nueva. Solo un alquiler turístico con servicios hoteleros, como limpieza diaria, cambio de ropa y recepción, repercute IVA y puede deducirlo. Es el malentendido más frecuente al comprar con una empresa.</p>"
+      },
+      {
+        "id": "when",
+        "h2": "¿Cuándo compensa una sociedad?",
+        "alt": "",
+        "html": "<p>Una sociedad suele compensar si:</p><ul><li>piensa comprar <strong>varios inmuebles</strong> para alquilar y reinvertir las rentas,</li><li>tiene una <strong>actividad real de alquiler o tipo hotelero</strong> con personal y servicios,</li><li>el inmueble lo usa una <strong>empresa existente</strong>, por ejemplo como oficina o alojamiento de empleados,</li><li>quiere transmitir una cartera a la siguiente generación como participaciones.</li></ul><p>Para una sola segunda vivienda que usa usted y alquila de vez en cuando, comprar a su nombre es casi siempre más sencillo y barato. Pida a un asesor fiscal que compare ambas opciones para su caso antes de firmar.</p>"
+      },
+      {
+        "id": "steps",
+        "h2": "La compra con una sociedad, paso a paso",
+        "alt": "Dos asesores reunidos con una clienta en un despacho",
+        "html": "<ol><li><strong>Asesórese fiscalmente</strong>, en España y en su país si vive fuera, y elija la estructura.</li><li><strong>Constituya o registre la sociedad</strong>: una SL nueva, o el NIF español para su sociedad extranjera con certificado del registro, estatutos y poderes del administrador, apostillados y traducidos.</li><li><strong>Abra una cuenta bancaria de empresa en España.</strong></li><li><strong>Revise el inmueble</strong> como cualquier comprador: nota simple, deudas, licencias y, si va a alquilar, la licencia turística.</li><li><strong>Firme las arras y la escritura</strong> ante notario, a través del administrador o un apoderado.</li><li><strong>Pague los impuestos</strong> e inscriba el inmueble a nombre de la sociedad.</li><li><strong>Lleve la contabilidad</strong>, presente las declaraciones trimestrales y anuales, y facture el uso privado.</li></ol><p>El resto del proceso es igual que para un particular. Nuestra guía para <a href=\"{up}es-es/como-comprar-un-piso-o-una-casa-en-espana.html\">comprar una vivienda en España</a> explica cada paso.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Puede una sociedad extranjera comprar un inmueble en España?", "Sí. Necesita un NIF español, documentos apostillados y traducidos, e identificar a sus titulares reales ante notario. Para un negocio de alquiler en España, una SL española suele ser más sencilla."],
+      ["¿Puede la sociedad recuperar el IVA de un piso nuevo?", "Solo si su actividad está sujeta a IVA, como un alquiler turístico con servicios hoteleros. El alquiler de larga duración y el vacacional sin servicios están exentos, así que el 10 % de IVA es un coste."],
+      ["¿Puedo usar yo una vivienda vacacional de mi empresa?", "Sí, pero el uso privado tributa. El alquiler de mercado de su estancia cuenta como renta suya, y la sociedad puede perder deducciones de ese periodo."],
+      ["¿Es más barato comprar una segunda vivienda con una sociedad?", "Normalmente no. Los costes de constitución, las cuentas anuales y el impuesto sobre dividendos suelen superar el ahorro. Compensa sobre todo con varios alquileres o un negocio real."],
+      ["¿Qué impuesto sobre sociedades paga una sociedad patrimonial?", "En general el 25 % del beneficio. Las sociedades que solo tienen inmuebles no suelen poder aplicar los tipos reducidos de empresas pequeñas."]
+    ],
+    "closing": {
+      "h2": "Primero la estructura, después el inmueble",
+      "alt": "Edificio de viviendas moderno con balcones bajo un cielo azul",
+      "html": "<p>La estructura adecuada depende de sus planes y de dónde vive. <a href=\"{up}index.html#contact\">Escríbanos</a> y le presentaremos a un asesor fiscal para inversores, y después le ayudaremos a encontrar inmuebles que encajen con el plan.</p>"
+    }
+  }
+}
