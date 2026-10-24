@@ -1,0 +1,228 @@
+{
+  "author": "aleksandra",
+  "published": "2025-02-19",
+  "modified": "2026-10-24",
+  "hero": "assets/blog/mortgage-spain/white-houses-above-marina.jpg",
+  "images": {
+    "documents": "assets/blog/mortgage-spain/couple-signing-with-adviser.jpg",
+    "rates": "assets/blog/mortgage-spain/euro-coins-and-spanish-flag.jpg",
+    "closing": "assets/blog/mortgage-spain/keys-to-new-home.jpg"
+  },
+  "pl": "https://www.eliteworldestates.com/pl-pl/kredyt-hipoteczny-w-hiszpanii-na-zakup-nieruchomosci-jak-uzyskac",
+  "cards": ["18595762", "20598512", "26157630"],
+  "sources": [
+    ["INE – Mortgage statistics, July 2026", "https://www.ine.es/dyngs/Prensa/H0726.htm"],
+    ["BOE – Ley 5/2019 on real estate credit agreements", "https://www.boe.es/buscar/act.php?id=BOE-A-2019-3814"],
+    ["Banco de España – Portal del Cliente Bancario", "https://clientebancario.bde.es/"]
+  ],
+  "en": {
+    "slug": "mortgage-loan-in-spain-for-the-purchase-of-real-estate-how-to-obtain-one",
+    "title": "Mortgages in Spain for Foreign Buyers – How to Get One (2026)",
+    "description": "How foreigners get a mortgage in Spain in 2026: how much banks lend to residents and non-residents, interest rates, terms, who pays which costs, the documents you need and how long it takes.",
+    "crumb": "Mortgages in Spain",
+    "eyebrow": "Buying in Spain · Finance",
+    "h1": "Mortgages in Spain for Foreign Buyers – How to Get One",
+    "hero_alt": "White houses with terracotta roofs above a marina on the Costa Blanca",
+    "short": "Spanish banks lend to foreigners, including non-residents. Non-residents can usually borrow 60–70% of the purchase price or valuation (whichever is lower), residents up to 80%. Terms run to about 20–25 years for non-residents and up to 30 for residents, and the loan should be repaid by age 70–75. The average rate on new Spanish home loans was 3.01% in July 2026. Plan on 30–40% of the price plus 10–14% for taxes and fees from your own funds, and allow 4–8 weeks from application to signing.",
+    "intro": [
+      "You do not need to pay cash for a home in Spain. Spanish banks finance holiday homes and investment properties for foreign buyers every day, as long as you can show a steady income and a clean credit record.",
+      "This guide explains how much you can borrow, what it costs, which documents to prepare and how the process works, from the first bank meeting to the signing at the notary."
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "h2": "Can a foreigner get a mortgage in Spain?",
+        "alt": "",
+        "html": "<p>Yes. Spanish banks lend to EU and non-EU citizens, whether or not they live in Spain. What matters is that you can prove where your income comes from, how much it is and that your existing debts are under control. Most large banks, such as Santander, BBVA, CaixaBank, Sabadell and Bankinter, have teams for international clients, and some lenders work only with non-residents.</p><p>The bank treats you as a <strong>resident</strong> if you live in Spain and pay tax there, usually because you spend more than 183 days a year in the country. Everyone else is a <strong>non-resident</strong>, and the conditions differ quite a bit, as the table below shows.</p><p>You can finance a main home, a holiday home or an investment property. Before you apply you need an <a href=\"{up}nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a> and, in practice, a Spanish bank account.</p>"
+      },
+      {
+        "id": "terms",
+        "h2": "How much can you borrow and for how long?",
+        "alt": "",
+        "html": "<p>Banks lend a percentage of the purchase price or the official valuation (<em>tasación</em>), whichever is lower. Typical conditions in 2026:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Resident</th><th>Non-resident</th></tr></thead><tbody><tr><td>Loan to value</td><td>up to 80%</td><td>usually 60–70%</td></tr><tr><td>Maximum term</td><td>up to 30 years</td><td>usually 20–25 years</td></tr><tr><td>Age at last payment</td><td>about 70–75</td><td>about 70–75</td></tr><tr><td>Interest rate</td><td>standard offers</td><td>often a few tenths of a point higher</td></tr><tr><td>Income documents</td><td>Spanish payslips and tax returns</td><td>foreign documents, often translated</td></tr></tbody></table></div><p>Banks also look at affordability. As a rule, all your monthly loan payments together, in Spain and at home, should not be more than about 30–35% of your net income.</p><p>The purchase taxes and fees are not financed. As a non-resident you should plan to pay <strong>30–40% of the price plus about 10–14% in costs</strong> from your own money. Our guide to <a href=\"{up}how-to-buy-an-apartment-or-house-in-spain.html\">buying property in Spain</a> breaks those costs down.</p>"
+      },
+      {
+        "id": "rates",
+        "h2": "Interest rates: fixed, variable or mixed",
+        "alt": "Stacks of euro coins in front of a Spanish flag",
+        "html": "<p>Spanish banks offer three types of loan:</p><ul><li><strong>Fixed rate</strong> (<em>tipo fijo</em>): the same payment for the whole term. Most Spanish buyers now choose this, 62% of new home loans in July 2026.</li><li><strong>Variable rate</strong> (<em>tipo variable</em>): 12-month Euribor plus a margin, reviewed every 6 or 12 months. Euribor was around 3% in autumn 2026, after a low of about 2.2% earlier in the year.</li><li><strong>Mixed</strong> (<em>tipo mixto</em>): fixed for the first years, then variable.</li></ul><p>According to the Spanish statistics office INE, the average rate on new home loans was <strong>3.01% in July 2026</strong> (3.03% fixed, 2.97% variable at the start), with an average term of 26 years. Non-residents often pay a little more. Banks lower the rate if you take extra products such as home and life insurance or pay your income into the account, so always compare the rate with and without these extras.</p><h3>A word on currency</h3><p>Spanish mortgages are in euros. If you earn in pounds, Swiss francs or dollars, your monthly cost changes with the exchange rate, and some banks lend you less for that reason. A fixed rate removes the interest risk but not the currency risk.</p>"
+      },
+      {
+        "id": "costs",
+        "h2": "Who pays what?",
+        "alt": "",
+        "html": "<p>Since the 2019 mortgage law (<em>Ley 5/2019</em>), the bank pays most costs of setting up the mortgage. You pay:</p><ul><li>the valuation (<em>tasación</em>), usually €300–600,</li><li>any opening fee (<em>comisión de apertura</em>), often 0–1% and many banks charge none,</li><li>home insurance, which is required, and any optional products you accept,</li><li>copies of the deed you ask for.</li></ul><p>The bank pays the notary for the mortgage deed, the land registry, the processing agency (<em>gestoría</em>) and the stamp duty on the mortgage. The taxes on the purchase itself are still yours.</p><p>The law also caps the fees for paying back early. On a variable loan, the bank can charge 0.25% in the first 3 years or 0.15% in the first 5 years, depending on the contract. On a fixed loan it can charge up to 2% in the first 10 years and 1.5% after that.</p>"
+      },
+      {
+        "id": "documents",
+        "h2": "Which documents do you need?",
+        "alt": "Couple shaking hands with an adviser after agreeing a mortgage",
+        "html": "<p>Requirements vary by bank, but most ask for:</p><ul><li>passport and NIE,</li><li>employment contract and the last 3–6 payslips, or company accounts if you are self-employed,</li><li>your tax returns for the last 2 years,</li><li>bank statements for the last 6 months,</li><li>a credit report from your home country,</li><li>a list of your other loans and assets,</li><li>proof of the money you will put in yourself,</li><li>the reservation or deposit contract for the property.</li></ul><p>Documents in another language than Spanish or English often need a sworn translation. Ask the bank early which ones, because translations take time.</p>"
+      },
+      {
+        "id": "process",
+        "h2": "The process, step by step",
+        "alt": "",
+        "html": "<ol><li><strong>Pre-approval.</strong> Send your documents to two or three banks or to a mortgage broker before you reserve a property, so you know your budget.</li><li><strong>Reservation.</strong> Reserve the property and agree a deposit contract that gives you enough time for the loan.</li><li><strong>Valuation.</strong> The bank sends a valuer to the property.</li><li><strong>Binding offer.</strong> The bank gives you the European Standardised Information Sheet (<em>FEIN</em>) and a warning sheet (<em>FiAE</em>) at least 10 calendar days before signing.</li><li><strong>Notary check.</strong> In those 10 days you meet the notary, free of charge, who explains the loan and confirms you understand it. You can do this through a lawyer with a power of attorney if you are abroad.</li><li><strong>Signing.</strong> The purchase deed and the mortgage deed are signed at the notary on the same day, and you get the keys.</li></ol><p>From application to signing, allow <strong>4–8 weeks</strong>, sometimes longer for non-residents or complex incomes. For an off-plan home, the mortgage is signed only at completion, when the building is finished.</p>"
+      },
+      {
+        "id": "example",
+        "h2": "Example: a €300,000 home on the Costa Blanca",
+        "alt": "",
+        "html": "<p>A non-resident buys a resale apartment for €300,000 in the Valencian Community and borrows 70%:</p><div class=\"tablewrap\"><table class=\"compare-table\"><tbody><tr><td>Mortgage (70%)</td><td>€210,000</td></tr><tr><td>Own funds for the price (30%)</td><td>€90,000</td></tr><tr><td>Transfer tax (ITP 9%)</td><td>€27,000</td></tr><tr><td>Notary, registry, lawyer, valuation (about 2%)</td><td>about €6,000</td></tr><tr><td><strong>Total own funds</strong></td><td><strong>about €123,000</strong></td></tr><tr><td>Monthly payment, 25 years at an assumed 3.3% fixed</td><td>about €1,030</td></tr></tbody></table></div><p>The rate is only an example. Your offer depends on the bank, your income and the products you take.</p>"
+      }
+    ],
+    "faq": [
+      ["Can a non-resident get a mortgage in Spain?", "Yes. Non-residents usually get 60–70% of the price or valuation over 20–25 years, provided they can prove a stable income and a good credit record in their home country."],
+      ["Can I get a 100% mortgage in Spain as a foreigner?", "Not as a non-resident. Expect to pay at least 30% of the price plus 10–14% for taxes and fees yourself. Residents can sometimes get 80% or more."],
+      ["Do I have to be in Spain to sign the mortgage?", "No. You can give a lawyer a power of attorney to sign for you, including the notary check before signing. Many buyers still come for the signing."],
+      ["How long does a Spanish mortgage take?", "Usually 4–8 weeks from a complete application to signing at the notary, including the valuation and the 10-day period after the binding offer."],
+      ["Can I use a mortgage in my home country instead?", "Some buyers borrow against a home they already own at home. It can be simpler, but compare the total cost and the currency risk with a Spanish loan."]
+    ],
+    "closing": {
+      "h2": "Know your budget before you search",
+      "alt": "Hand holding the keys in front of a new home",
+      "html": "<p>A pre-approval tells you exactly how much you can spend and makes your offer stronger. <a href=\"{up}index.html#contact\">Contact us</a> and we will put you in touch with independent mortgage brokers and banks that work with international buyers, and show you homes that fit your budget.</p>"
+    }
+  },
+  "de": {
+    "slug": "hypothekendarlehen-in-spanien-fur-den-erwerb-von-immobilien-wie-erhalt-man-einen",
+    "title": "Hypothek in Spanien für Ausländer – so bekommen Sie sie (2026)",
+    "description": "Hypothek in Spanien 2026: wie viel Banken Residenten und Nichtresidenten leihen, Zinsen, Laufzeiten, wer welche Kosten trägt, welche Unterlagen Sie brauchen und wie lange es dauert.",
+    "crumb": "Hypothek in Spanien",
+    "eyebrow": "Kaufen in Spanien · Finanzierung",
+    "h1": "Hypothek in Spanien für Ausländer – so bekommen Sie sie",
+    "hero_alt": "Weiße Häuser mit Terrakottadächern über einem Jachthafen an der Costa Blanca",
+    "short": "Spanische Banken finanzieren auch Ausländer ohne Wohnsitz in Spanien. Nichtresidenten erhalten meist 60–70 % des Kaufpreises oder Schätzwerts (der niedrigere Wert zählt), Residenten bis zu 80 %. Die Laufzeit beträgt für Nichtresidenten etwa 20–25 Jahre, für Residenten bis zu 30, und das Darlehen sollte mit 70–75 Jahren abbezahlt sein. Der Durchschnittszins neuer spanischer Wohnungsbaukredite lag im Juli 2026 bei 3,01 %. Rechnen Sie mit 30–40 % Eigenkapital plus 10–14 % Nebenkosten und 4–8 Wochen bis zur Unterschrift.",
+    "intro": [
+      "Eine Ferienimmobilie in Spanien müssen Sie nicht bar bezahlen. Spanische Banken finanzieren täglich Käufe von Ausländern, auch von Deutschen, Österreichern und Schweizern ohne Wohnsitz in Spanien, sofern Einkommen und Bonität stimmen.",
+      "Dieser Ratgeber erklärt, wie viel Sie leihen können, was es kostet, welche Unterlagen Sie vorbereiten sollten und wie der Ablauf vom ersten Bankgespräch bis zur Unterschrift beim Notar aussieht."
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "h2": "Bekommen Ausländer in Spanien eine Hypothek?",
+        "alt": "",
+        "html": "<p>Ja. Spanische Banken vergeben Darlehen an EU-Bürger und Nicht-EU-Bürger, ob sie in Spanien leben oder nicht. Entscheidend ist, dass Sie Herkunft und Höhe Ihres Einkommens nachweisen und Ihre bestehenden Kredite im Rahmen sind. Die großen Banken wie Santander, BBVA, CaixaBank, Sabadell und Bankinter haben Abteilungen für internationale Kunden, einige Anbieter arbeiten nur mit Nichtresidenten.</p><p>Als <strong>Resident</strong> gilt, wer in Spanien lebt und dort steuerpflichtig ist, meist weil er mehr als 183 Tage im Jahr im Land verbringt. Alle anderen sind <strong>Nichtresidenten</strong>, und für sie gelten deutlich andere Bedingungen, wie die Tabelle unten zeigt.</p><p>Finanzieren können Sie den Hauptwohnsitz, eine Ferienimmobilie oder eine Kapitalanlage. Vorher brauchen Sie eine <a href=\"{up}de-de/nie-nummer-in-spanien-was-ist-das-und-wie-bekommt-man-sie.html\">NIE-Nummer</a> und in der Praxis ein spanisches Bankkonto.</p>"
+      },
+      {
+        "id": "terms",
+        "h2": "Wie viel und wie lange?",
+        "alt": "",
+        "html": "<p>Banken finanzieren einen Prozentsatz des Kaufpreises oder des offiziellen Schätzwerts (<em>tasación</em>), je nachdem, welcher niedriger ist. Typische Bedingungen 2026:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Resident</th><th>Nichtresident</th></tr></thead><tbody><tr><td>Beleihung</td><td>bis 80 %</td><td>meist 60–70 %</td></tr><tr><td>Maximale Laufzeit</td><td>bis 30 Jahre</td><td>meist 20–25 Jahre</td></tr><tr><td>Alter bei letzter Rate</td><td>etwa 70–75</td><td>etwa 70–75</td></tr><tr><td>Zins</td><td>Standardangebote</td><td>oft einige Zehntelpunkte höher</td></tr><tr><td>Einkommensnachweise</td><td>spanische Lohnabrechnungen und Steuererklärungen</td><td>ausländische Unterlagen, oft übersetzt</td></tr></tbody></table></div><p>Die Bank prüft auch die Tragfähigkeit. Als Faustregel sollten alle monatlichen Kreditraten zusammen, in Spanien und zu Hause, nicht mehr als etwa 30–35 % des Nettoeinkommens betragen.</p><p>Grunderwerbsteuer und Nebenkosten werden nicht finanziert. Als Nichtresident sollten Sie <strong>30–40 % des Preises plus etwa 10–14 % Nebenkosten</strong> aus eigenen Mitteln einplanen. Unser Ratgeber zum <a href=\"{up}de-de/wie-kann-man-in-spanien-eine-wohnung-oder-ein-haus-kaufen.html\">Immobilienkauf in Spanien</a> schlüsselt diese Kosten auf.</p>"
+      },
+      {
+        "id": "rates",
+        "h2": "Zinsen: fest, variabel oder gemischt",
+        "alt": "Stapel von Euromünzen vor einer spanischen Flagge",
+        "html": "<p>Spanische Banken bieten drei Darlehensarten:</p><ul><li><strong>Festzins</strong> (<em>tipo fijo</em>): gleiche Rate über die ganze Laufzeit, anders als in Deutschland oft für 20 oder 25 Jahre. Die meisten Spanier wählen ihn heute, 62 % der neuen Wohnungsbaukredite im Juli 2026.</li><li><strong>Variabler Zins</strong> (<em>tipo variable</em>): 12-Monats-Euribor plus Marge, angepasst alle 6 oder 12 Monate. Der Euribor lag im Herbst 2026 bei rund 3 %, nach einem Tief von etwa 2,2 % zu Jahresbeginn.</li><li><strong>Gemischt</strong> (<em>tipo mixto</em>): die ersten Jahre fest, danach variabel.</li></ul><p>Laut dem spanischen Statistikamt INE lag der Durchschnittszins neuer Wohnungsbaukredite im <strong>Juli 2026 bei 3,01 %</strong> (fest 3,03 %, variabel anfangs 2,97 %), bei einer durchschnittlichen Laufzeit von 26 Jahren. Nichtresidenten zahlen oft etwas mehr. Banken senken den Zins, wenn Sie Zusatzprodukte wie Wohngebäude- und Lebensversicherung abschließen oder Ihr Gehalt auf das Konto überweisen. Vergleichen Sie daher den Zins mit und ohne diese Produkte.</p><h3>Für Schweizer: das Währungsrisiko</h3><p>Spanische Hypotheken laufen in Euro. Wer in Franken verdient, trägt das Wechselkursrisiko, und manche Banken leihen deshalb weniger. Ein Festzins schützt vor steigenden Zinsen, nicht vor Kursschwankungen.</p>"
+      },
+      {
+        "id": "costs",
+        "h2": "Wer zahlt was?",
+        "alt": "",
+        "html": "<p>Seit dem Hypothekengesetz von 2019 (<em>Ley 5/2019</em>) trägt die Bank die meisten Kosten der Bestellung. Sie zahlen:</p><ul><li>die Schätzung (<em>tasación</em>), meist 300–600 €,</li><li>eine eventuelle Bearbeitungsgebühr (<em>comisión de apertura</em>), oft 0–1 %, viele Banken verlangen keine,</li><li>die vorgeschriebene Gebäudeversicherung und freiwillige Zusatzprodukte, die Sie annehmen,</li><li>Abschriften der Urkunde, die Sie anfordern.</li></ul><p>Die Bank zahlt Notar und Grundbuch für die Hypothek, die Abwicklungsagentur (<em>gestoría</em>) und die Stempelsteuer auf die Hypothek. Die Steuern auf den Kauf selbst bleiben bei Ihnen.</p><p>Das Gesetz begrenzt auch die Vorfälligkeitsentschädigung. Bei variablem Zins darf die Bank je nach Vertrag 0,25 % in den ersten 3 Jahren oder 0,15 % in den ersten 5 Jahren verlangen. Bei Festzins sind es höchstens 2 % in den ersten 10 Jahren und danach 1,5 %.</p>"
+      },
+      {
+        "id": "documents",
+        "h2": "Welche Unterlagen brauchen Sie?",
+        "alt": "Paar reicht einer Beraterin nach der Hypothekenzusage die Hand",
+        "html": "<p>Die Anforderungen unterscheiden sich je nach Bank, meist werden verlangt:</p><ul><li>Reisepass und NIE,</li><li>Arbeitsvertrag und die letzten 3–6 Gehaltsabrechnungen, bei Selbstständigen die Jahresabschlüsse,</li><li>Steuerbescheide der letzten 2 Jahre,</li><li>Kontoauszüge der letzten 6 Monate,</li><li>eine Bonitätsauskunft aus Ihrem Land: Schufa-Auskunft in Deutschland, KSV in Österreich, Betreibungsauszug in der Schweiz,</li><li>eine Aufstellung Ihrer anderen Kredite und Vermögenswerte,</li><li>den Nachweis Ihres Eigenkapitals,</li><li>den Reservierungs- oder Anzahlungsvertrag für die Immobilie.</li></ul><p>Deutsche Unterlagen brauchen oft eine beglaubigte Übersetzung ins Spanische oder Englische. Fragen Sie die Bank früh, welche, denn Übersetzungen kosten Zeit.</p>"
+      },
+      {
+        "id": "process",
+        "h2": "Der Ablauf Schritt für Schritt",
+        "alt": "",
+        "html": "<ol><li><strong>Vorabzusage.</strong> Schicken Sie Ihre Unterlagen an zwei oder drei Banken oder einen Hypothekenvermittler, bevor Sie reservieren. So kennen Sie Ihr Budget.</li><li><strong>Reservierung.</strong> Reservieren Sie die Immobilie und vereinbaren Sie im Anzahlungsvertrag genug Zeit für die Finanzierung.</li><li><strong>Schätzung.</strong> Die Bank schickt einen Gutachter zur Immobilie.</li><li><strong>Verbindliches Angebot.</strong> Sie erhalten das Europäische Standardisierte Merkblatt (<em>FEIN</em>) und ein Warnblatt (<em>FiAE</em>) mindestens 10 Kalendertage vor der Unterschrift.</li><li><strong>Notarprüfung.</strong> In diesen 10 Tagen erklärt Ihnen der Notar kostenlos das Darlehen und bestätigt, dass Sie es verstanden haben. Aus dem Ausland geht das über einen Anwalt mit Vollmacht.</li><li><strong>Unterschrift.</strong> Kaufurkunde und Hypothekenurkunde werden am selben Tag beim Notar unterschrieben, und Sie bekommen die Schlüssel.</li></ol><p>Vom Antrag bis zur Unterschrift vergehen meist <strong>4–8 Wochen</strong>, bei Nichtresidenten oder komplexen Einkommen auch länger. Bei einem Neubau auf Plan wird die Hypothek erst bei Fertigstellung unterschrieben.</p>"
+      },
+      {
+        "id": "example",
+        "h2": "Beispiel: eine Wohnung für 300.000 € an der Costa Blanca",
+        "alt": "",
+        "html": "<p>Ein Nichtresident kauft eine Bestandswohnung für 300.000 € in der Region Valencia und finanziert 70 %:</p><div class=\"tablewrap\"><table class=\"compare-table\"><tbody><tr><td>Hypothek (70 %)</td><td>210.000 €</td></tr><tr><td>Eigenkapital für den Preis (30 %)</td><td>90.000 €</td></tr><tr><td>Grunderwerbsteuer (ITP 9 %)</td><td>27.000 €</td></tr><tr><td>Notar, Grundbuch, Anwalt, Schätzung (etwa 2 %)</td><td>etwa 6.000 €</td></tr><tr><td><strong>Eigenmittel gesamt</strong></td><td><strong>etwa 123.000 €</strong></td></tr><tr><td>Monatsrate, 25 Jahre bei angenommenen 3,3 % fest</td><td>etwa 1.030 €</td></tr></tbody></table></div><p>Der Zins ist nur ein Beispiel. Ihr Angebot hängt von Bank, Einkommen und Zusatzprodukten ab.</p>"
+      }
+    ],
+    "faq": [
+      ["Bekommen Nichtresidenten eine Hypothek in Spanien?", "Ja. Nichtresidenten erhalten meist 60–70 % des Preises oder Schätzwerts über 20–25 Jahre, wenn sie ein stabiles Einkommen und eine gute Bonität im Heimatland nachweisen."],
+      ["Gibt es eine 100-%-Finanzierung für Ausländer?", "Für Nichtresidenten nicht. Rechnen Sie mit mindestens 30 % des Preises plus 10–14 % Nebenkosten aus eigenen Mitteln. Residenten erhalten teils 80 % oder mehr."],
+      ["Muss ich zur Unterschrift nach Spanien reisen?", "Nein. Ein Anwalt kann mit notarieller Vollmacht für Sie unterschreiben, auch die Notarprüfung vorher. Viele Käufer kommen trotzdem selbst."],
+      ["Wie lange dauert eine spanische Hypothek?", "Meist 4–8 Wochen vom vollständigen Antrag bis zum Notartermin, einschließlich Schätzung und der 10-Tage-Frist nach dem verbindlichen Angebot."],
+      ["Kann ich stattdessen bei meiner Bank zu Hause finanzieren?", "Manche Käufer beleihen eine Immobilie, die sie bereits zu Hause besitzen. Das kann einfacher sein. Vergleichen Sie aber Gesamtkosten und, für Schweizer, das Währungsrisiko mit einem spanischen Darlehen."]
+    ],
+    "closing": {
+      "h2": "Erst das Budget, dann die Suche",
+      "alt": "Hand mit Schlüsseln vor einem neuen Haus",
+      "html": "<p>Eine Vorabzusage zeigt genau, wie viel Sie ausgeben können, und stärkt Ihr Angebot. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>. Wir stellen den Kontakt zu unabhängigen Hypothekenvermittlern und Banken her, die mit internationalen Käufern arbeiten, und zeigen Ihnen passende Immobilien.</p>"
+    }
+  },
+  "es": {
+    "slug": "prestamo-hipotecario-en-espana-para-la-compra-de-bienes-inmuebles-como-obtenerlo",
+    "title": "Hipoteca en España para extranjeros – cómo conseguirla (2026)",
+    "description": "Cómo conseguir una hipoteca en España en 2026: cuánto prestan los bancos a residentes y no residentes, tipos de interés, plazos, quién paga cada gasto, documentos y plazos del proceso.",
+    "crumb": "Hipoteca en España",
+    "eyebrow": "Comprar en España · Financiación",
+    "h1": "Hipoteca en España para extranjeros – cómo conseguirla",
+    "hero_alt": "Casas blancas con tejados de terracota sobre un puerto deportivo en la Costa Blanca",
+    "short": "Los bancos españoles prestan a extranjeros, también a no residentes. Un no residente suele obtener el 60–70 % del precio o de la tasación (el menor de los dos) y un residente hasta el 80 %. El plazo llega a unos 20–25 años para no residentes y hasta 30 para residentes, y el préstamo debe terminar hacia los 70–75 años. El tipo medio de las nuevas hipotecas sobre vivienda fue del 3,01 % en julio de 2026. Cuente con aportar un 30–40 % del precio más un 10–14 % de impuestos y gastos, y con 4–8 semanas hasta la firma.",
+    "intro": [
+      "No hace falta pagar al contado una vivienda en España. Los bancos financian cada día segundas residencias e inversiones de compradores extranjeros, siempre que demuestren ingresos estables y un buen historial de crédito.",
+      "Esta guía explica cuánto le pueden prestar, qué cuesta, qué documentos preparar y cómo es el proceso, desde la primera reunión con el banco hasta la firma ante notario."
+    ],
+    "sections": [
+      {
+        "id": "who",
+        "h2": "¿Puede un extranjero conseguir una hipoteca en España?",
+        "alt": "",
+        "html": "<p>Sí. Los bancos españoles prestan a ciudadanos de la UE y de fuera de la UE, vivan o no en España. Lo importante es acreditar de dónde vienen sus ingresos, cuánto son y que sus deudas actuales están bajo control. Las grandes entidades, como Santander, BBVA, CaixaBank, Sabadell o Bankinter, tienen equipos para clientes internacionales, y algunas financieras trabajan solo con no residentes.</p><p>El banco le considera <strong>residente</strong> si vive y tributa en España, normalmente porque pasa más de 183 días al año en el país. Todos los demás son <strong>no residentes</strong>, con condiciones bastante distintas, como muestra la tabla.</p><p>Puede financiar una vivienda habitual, una segunda residencia o una inversión. Antes necesita el <a href=\"{up}es-es/numero-nie-en-espana-que-es-y-como-obtenerlo.html\">número NIE</a> y, en la práctica, una cuenta en un banco español.</p>"
+      },
+      {
+        "id": "terms",
+        "h2": "¿Cuánto le prestan y a qué plazo?",
+        "alt": "",
+        "html": "<p>Los bancos financian un porcentaje del precio de compra o de la tasación oficial, el que sea menor. Condiciones habituales en 2026:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Residente</th><th>No residente</th></tr></thead><tbody><tr><td>Financiación</td><td>hasta el 80 %</td><td>normalmente 60–70 %</td></tr><tr><td>Plazo máximo</td><td>hasta 30 años</td><td>normalmente 20–25 años</td></tr><tr><td>Edad al terminar</td><td>unos 70–75 años</td><td>unos 70–75 años</td></tr><tr><td>Tipo de interés</td><td>ofertas estándar</td><td>a menudo unas décimas más alto</td></tr><tr><td>Justificantes de ingresos</td><td>nóminas y declaraciones españolas</td><td>documentos extranjeros, a menudo traducidos</td></tr></tbody></table></div><p>El banco también mira la capacidad de pago. Como norma, todas sus cuotas mensuales juntas, en España y en su país, no deberían superar el 30–35 % de sus ingresos netos. Si es residente, el banco consultará además la CIRBE del Banco de España.</p><p>Los impuestos y gastos de compra no se financian. Como no residente, cuente con pagar <strong>el 30–40 % del precio más un 10–14 % de gastos</strong> con fondos propios. Nuestra guía para <a href=\"{up}es-es/como-comprar-un-piso-o-una-casa-en-espana.html\">comprar una vivienda en España</a> detalla esos gastos.</p>"
+      },
+      {
+        "id": "rates",
+        "h2": "Tipo de interés: fijo, variable o mixto",
+        "alt": "Montones de monedas de euro delante de una bandera de España",
+        "html": "<p>Los bancos ofrecen tres tipos de préstamo:</p><ul><li><strong>Tipo fijo</strong>: la misma cuota durante todo el plazo. Es la opción mayoritaria, el 62 % de las nuevas hipotecas sobre vivienda en julio de 2026.</li><li><strong>Tipo variable</strong>: Euríbor a 12 meses más un diferencial, revisado cada 6 o 12 meses. El Euríbor rondaba el 3 % en otoño de 2026, tras un mínimo de alrededor del 2,2 % a principios de año.</li><li><strong>Tipo mixto</strong>: fijo los primeros años y variable después.</li></ul><p>Según el INE, el tipo medio de las nuevas hipotecas sobre vivienda fue del <strong>3,01 % en julio de 2026</strong> (3,03 % fijo y 2,97 % variable inicial), con un plazo medio de 26 años. Los no residentes suelen pagar algo más. Los bancos bonifican el tipo si contrata seguros de hogar y vida o domicilia la nómina, así que compare siempre el tipo con y sin esas vinculaciones.</p><h3>Si cobra en otra moneda</h3><p>Las hipotecas españolas son en euros. Si sus ingresos son en dólares, pesos u otra divisa, su cuota real cambia con el tipo de cambio, y algunos bancos prestan menos por eso. Un tipo fijo elimina el riesgo de tipos, no el de divisa.</p>"
+      },
+      {
+        "id": "costs",
+        "h2": "¿Quién paga cada gasto?",
+        "alt": "",
+        "html": "<p>Desde la ley hipotecaria de 2019 (<em>Ley 5/2019</em>), el banco paga la mayor parte de los gastos de constitución. Usted paga:</p><ul><li>la tasación, normalmente 300–600 €,</li><li>la comisión de apertura, si la hay, a menudo del 0–1 % y muchos bancos no la cobran,</li><li>el seguro de daños del hogar, que es obligatorio, y los productos opcionales que acepte,</li><li>las copias de la escritura que usted pida.</li></ul><p>El banco paga la notaría de la escritura de hipoteca, el registro, la gestoría y el impuesto de actos jurídicos documentados de la hipoteca. Los impuestos de la compraventa siguen siendo suyos.</p><p>La ley también limita la comisión por amortización anticipada. En un préstamo variable, el banco puede cobrar el 0,25 % los 3 primeros años o el 0,15 % los 5 primeros, según el contrato. En un préstamo fijo, hasta el 2 % los 10 primeros años y el 1,5 % después.</p>"
+      },
+      {
+        "id": "documents",
+        "h2": "¿Qué documentos necesita?",
+        "alt": "Pareja estrechando la mano a una asesora tras acordar la hipoteca",
+        "html": "<p>Cada banco tiene sus requisitos, pero casi todos piden:</p><ul><li>pasaporte o documento de identidad y NIE,</li><li>contrato de trabajo y las 3–6 últimas nóminas, o las cuentas de su empresa si es autónomo,</li><li>las declaraciones de la renta de los 2 últimos años,</li><li>extractos bancarios de los 6 últimos meses,</li><li>un informe de crédito de su país,</li><li>una relación de sus otros préstamos y bienes,</li><li>el justificante de los fondos que aportará,</li><li>el contrato de reserva o de arras de la vivienda.</li></ul><p>Los documentos en otros idiomas suelen necesitar traducción jurada. Pregunte pronto al banco cuáles, porque las traducciones llevan tiempo.</p>"
+      },
+      {
+        "id": "process",
+        "h2": "El proceso paso a paso",
+        "alt": "",
+        "html": "<ol><li><strong>Preaprobación.</strong> Envíe su documentación a dos o tres bancos o a un intermediario hipotecario antes de reservar, para conocer su presupuesto.</li><li><strong>Reserva.</strong> Reserve la vivienda y pacte en el contrato de arras tiempo suficiente para la financiación.</li><li><strong>Tasación.</strong> El banco envía un tasador a la vivienda.</li><li><strong>Oferta vinculante.</strong> Recibe la Ficha Europea de Información Normalizada (<em>FEIN</em>) y la Ficha de Advertencias Estandarizadas (<em>FiAE</em>) al menos 10 días naturales antes de la firma.</li><li><strong>Acta de transparencia.</strong> En esos 10 días acude gratis al notario, que le explica el préstamo y comprueba que lo entiende. Desde el extranjero puede hacerlo un abogado con poder notarial.</li><li><strong>Firma.</strong> La escritura de compraventa y la de hipoteca se firman el mismo día ante notario y recibe las llaves.</li></ol><p>Desde la solicitud hasta la firma, cuente con <strong>4–8 semanas</strong>, a veces más para no residentes o ingresos complejos. En una vivienda sobre plano, la hipoteca se firma al terminar la obra.</p>"
+      },
+      {
+        "id": "example",
+        "h2": "Ejemplo: una vivienda de 300.000 € en la Costa Blanca",
+        "alt": "",
+        "html": "<p>Un no residente compra un piso de segunda mano de 300.000 € en la Comunitat Valenciana y financia el 70 %:</p><div class=\"tablewrap\"><table class=\"compare-table\"><tbody><tr><td>Hipoteca (70 %)</td><td>210.000 €</td></tr><tr><td>Aportación al precio (30 %)</td><td>90.000 €</td></tr><tr><td>Impuesto de transmisiones (ITP 9 %)</td><td>27.000 €</td></tr><tr><td>Notaría, registro, abogado, tasación (aprox. 2 %)</td><td>unos 6.000 €</td></tr><tr><td><strong>Fondos propios en total</strong></td><td><strong>unos 123.000 €</strong></td></tr><tr><td>Cuota mensual, 25 años a un supuesto 3,3 % fijo</td><td>unos 1.030 €</td></tr></tbody></table></div><p>El tipo es solo un ejemplo. Su oferta depende del banco, de sus ingresos y de los productos vinculados.</p>"
+      }
+    ],
+    "faq": [
+      ["¿Puede un no residente conseguir una hipoteca en España?", "Sí. Los no residentes suelen obtener el 60–70 % del precio o la tasación a 20–25 años, si acreditan ingresos estables y buen historial de crédito en su país."],
+      ["¿Hay hipotecas al 100 % para extranjeros?", "Para no residentes, no. Cuente con aportar al menos el 30 % del precio más un 10–14 % de impuestos y gastos. Los residentes pueden obtener el 80 % o, en algunos casos, más."],
+      ["¿Tengo que estar en España para firmar?", "No. Un abogado con poder notarial puede firmar por usted, también el acta de transparencia previa. Muchos compradores vienen de todos modos a la firma."],
+      ["¿Cuánto tarda una hipoteca en España?", "Normalmente 4–8 semanas desde la solicitud completa hasta la notaría, incluida la tasación y el plazo de 10 días tras la oferta vinculante."],
+      ["¿Puedo financiar la compra en mi país?", "Algunos compradores hipotecan una vivienda que ya tienen en su país. Puede ser más sencillo, pero compare el coste total y el riesgo de divisa con un préstamo español."]
+    ],
+    "closing": {
+      "h2": "Conozca su presupuesto antes de buscar",
+      "alt": "Mano con las llaves delante de una vivienda nueva",
+      "html": "<p>Una preaprobación le dice exactamente cuánto puede gastar y refuerza su oferta. <a href=\"{up}index.html#contact\">Escríbanos</a> y le pondremos en contacto con intermediarios hipotecarios independientes y bancos que trabajan con compradores internacionales, y le enseñaremos viviendas que encajan con su presupuesto.</p>"
+    }
+  }
+}
