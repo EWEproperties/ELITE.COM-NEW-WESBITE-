@@ -1,0 +1,168 @@
+{
+ "author": "lucyna",
+ "published": "2026-01-23",
+ "modified": "2026-10-25",
+ "hero": "assets/blog/near-the-sea/terrace-overlooking-the-sea.jpg",
+ "images": {
+  "types": "assets/blog/near-the-sea/balconies-with-sea-view.jpg",
+  "costas": "assets/blog/near-the-sea/coastal-path-and-cove.jpg",
+  "where": "assets/blog/near-the-sea/rooftops-and-long-beach.jpg",
+  "closing": "assets/blog/near-the-sea/turquoise-bay-aerial.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/nieruchomosci-niedaleko-morza-w-hiszpanii",
+ "cards": ["24758318", "23935651", "18595762"],
+ "sources": [
+  ["BOE – Coastal Act (Ley 22/1988 de Costas)", "https://www.boe.es/buscar/act.php?id=BOE-A-1988-18762"],
+  ["MITECO – National flood zone map (SNCZI)", "https://www.miteco.gob.es/es/agua/temas/gestion-de-los-riesgos-de-inundacion/snczi.html"]
+ ],
+ "en": {
+  "slug": "properties-near-the-sea-in-spain",
+  "title": "Buying Property Near the Sea in Spain – Frontline, Views, Rules",
+  "description": "What to know before buying a home by the sea in Spain: frontline vs sea view vs walking distance, the Coastal Act zones, flood maps, salt-air upkeep, and the best seaside areas on the Costa Blanca and Costa del Sol.",
+  "crumb": "Property near the sea",
+  "eyebrow": "Buying in Spain · Practical",
+  "h1": "Buying a Property Near the Sea in Spain",
+  "hero_alt": "Apartment terrace with a table and chairs looking out over the sea",
+  "short": "A home by the sea is what most buyers on the Spanish coast want, and it holds its value best because the supply cannot grow. But \"near the sea\" can mean three different things: frontline (nothing between you and the beach), sea views from higher up, or a short walk to the beach, each with its own price. Close to the shore, the Coastal Act limits what can be built or extended within 100 metres of the sea, so check the property's status before you buy. Also look at the flood map, the building's upkeep against salt air, and summer noise and parking.",
+  "intro": [
+   "Waking up to the sound of the waves is the reason many of our clients buy in Spain. Here is how to choose the right kind of seaside home, the rules that apply close to the shore, and where to look on the Costa Blanca and Costa del Sol."
+  ],
+  "sections": [
+   {
+    "id": "types",
+    "h2": "Frontline, sea view or walking distance?",
+    "alt": "Apartment balconies with palm trees and the sea behind",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Type</th><th>What it means</th><th>Good to know</th></tr></thead><tbody><tr><td>Frontline (<em>primera línea</em>)</td><td>Only the beach or promenade between you and the sea</td><td>Highest price and demand; check if a road runs in between</td></tr><tr><td>Sea view</td><td>Open view from a higher floor or a hillside</td><td>Often better value; check the view cannot be built over</td></tr><tr><td>Walking distance</td><td>Beach within about 5–10 minutes on foot</td><td>Most choice and lower prices; easy to let</td></tr></tbody></table></div><p>Frontline homes usually rise most in value and let most easily, but walking-distance homes often give the best balance of price, space and quiet.</p>"
+   },
+   {
+    "id": "costas",
+    "h2": "The Coastal Act: what you can build near the shore",
+    "alt": "Coastal path above a small cove with apartment buildings behind",
+    "html": "<p>Spain's Coastal Act (<em>Ley de Costas</em>) protects the shoreline. In short:</p><ul><li>The beach and the strip closest to the sea are <strong>public land</strong>; nobody can own them.</li><li>A <strong>protection zone</strong> runs 100 metres inland (20 metres in areas that were already urban in 1988). New homes are not allowed there, and existing ones can be repaired and modernised but not enlarged.</li><li>A 6-metre <strong>access strip</strong> next to the shore must stay open to the public.</li></ul><p>Most apartments in established resorts are not affected, but for frontline villas and older houses ask your lawyer to check the Coastal Act status and any limits on renovation before you sign. See <a href=\"{up}how-to-buy-an-apartment-or-house-in-spain.html\">how to buy in Spain</a>.</p>"
+   },
+   {
+    "id": "checks",
+    "h2": "Other checks for a seaside home",
+    "html": "<ul><li><strong>Flood risk</strong>: look the address up on the national flood map (SNCZI), especially for ground floors and homes near riverbeds (<em>ramblas</em>). Floods are covered by the state insurance pool through your <a href=\"{up}property-insurance-in-spain.html\">home insurance</a>.</li><li><strong>Salt air</strong>: it wears railings, window frames, air-conditioning units and paintwork faster. Ask about recent works and check the <a href=\"{up}comunidad-de-propietarios.html\">community's reserve fund</a>.</li><li><strong>Humidity</strong>: ground-floor and north-facing homes near the sea can suffer from damp; look for marks and ask how the home is ventilated in winter.</li><li><strong>Summer life</strong>: beach towns get busy in July and August. Visit in high season and in winter, and check parking.</li><li><strong>Orientation</strong>: a south or east-facing terrace gets the winter sun and the morning light over the sea.</li></ul>"
+   },
+   {
+    "id": "where",
+    "h2": "Where to look",
+    "alt": "Rooftops in the foreground and a long sandy beach along the coast",
+    "html": "<p><strong>Costa del Sol</strong>: Marbella's Golden Mile and Puerto Banús for frontline luxury, Estepona for its old town and new beachfront developments, and the hills of Benahavís for villas with sea views. The coast is more international and lively all year.</p><p><strong>Northern Costa Blanca</strong>: Jávea and Moraira for coves and low-rise villas, Altea and Altea Hills for art, views and character, Calpe for apartments beneath the Peñón de Ifach. Quieter, greener and less built up.</p><p><strong>Southern Costa Blanca</strong>: Alicante city, Torrevieja and Orihuela Costa for long sandy beaches and the most affordable seaside apartments.</p><p>Compare the two coasts in more detail in <a href=\"{up}costa-blanca-or-costa-del-sol.html\">Costa Blanca or Costa del Sol?</a> and see current <a href=\"{up}prices-of-apartments-in-spain-how-much-does-an-apartment-cost-and-how-much-does-a-luxury-villa-cost.html\">property prices</a>.</p>"
+   }
+  ],
+  "faq": [
+   ["What does frontline mean in Spain?", "Primera línea means that only the beach or the promenade lies between the property and the sea. Some listings also use it when a road runs in between, so check on the map."],
+   ["Can I renovate a house right on the beach?", "Within the Coastal Act's 100-metre protection zone, existing homes can be repaired and modernised but not enlarged, and new homes are not allowed. A lawyer should check the status before you buy."],
+   ["Is a sea-view property a good investment?", "Generally yes. Sea views and frontline positions are limited in supply, so they hold their value well and are the easiest to let."],
+   ["How do I check flood risk?", "Look the address up on the national flood zone map (SNCZI) and ask the community about past floods, especially for ground floors."],
+   ["Where are the cheapest seaside apartments?", "On the southern Costa Blanca, around Torrevieja and Orihuela Costa."]
+  ],
+  "closing": {
+   "h2": "Find your home by the sea",
+   "alt": "Aerial view of a turquoise bay with a sandy beach and town",
+   "html": "<p>We know both coasts well and can check the Coastal Act status, flood risk and building condition before you commit. <a href=\"{up}index.html#contact\">Contact us</a> for a shortlist of seaside homes.</p>"
+  }
+ },
+ "de": {
+  "slug": "immobilien-in-meeresnahe-in-spanien",
+  "title": "Immobilie am Meer in Spanien kaufen – erste Linie, Meerblick, Regeln",
+  "description": "Was Sie vor dem Kauf einer Immobilie am Meer in Spanien wissen sollten: erste Linie, Meerblick oder Strandnähe, das Küstengesetz, Hochwasserkarten, Pflege bei salziger Luft und die besten Küstenorte an Costa Blanca und Costa del Sol.",
+  "crumb": "Immobilie am Meer",
+  "eyebrow": "Kaufen in Spanien · Praxis",
+  "h1": "Eine Immobilie am Meer in Spanien kaufen",
+  "hero_alt": "Wohnungsterrasse mit Tisch und Stühlen und Blick aufs Meer",
+  "short": "Ein Zuhause am Meer wünschen sich die meisten Käufer an der spanischen Küste, und es hält seinen Wert am besten, weil das Angebot nicht wachsen kann. „Am Meer“ kann aber dreierlei bedeuten: erste Linie (nichts zwischen Ihnen und dem Strand), Meerblick aus höherer Lage oder ein kurzer Fußweg zum Strand, jeweils zu einem anderen Preis. Nah am Ufer begrenzt das Küstengesetz, was innerhalb von 100 Metern zum Meer gebaut oder erweitert werden darf, daher sollte der Status vor dem Kauf geprüft werden. Achten Sie außerdem auf die Hochwasserkarte, den Zustand des Gebäudes bei salziger Luft sowie Lärm und Parkplätze im Sommer.",
+  "intro": [
+   "Mit dem Rauschen der Wellen aufzuwachen ist für viele unserer Kunden der Grund, in Spanien zu kaufen. Hier lesen Sie, wie Sie die richtige Art von Immobilie am Meer wählen, welche Regeln nahe am Ufer gelten und wo Sie an der Costa Blanca und der Costa del Sol suchen sollten."
+  ],
+  "sections": [
+   {
+    "id": "types",
+    "h2": "Erste Linie, Meerblick oder Strandnähe?",
+    "alt": "Balkone eines Apartmenthauses mit Palmen und Meer",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Art</th><th>Bedeutung</th><th>Gut zu wissen</th></tr></thead><tbody><tr><td>Erste Linie (<em>primera línea</em>)</td><td>Nur Strand oder Promenade zwischen Ihnen und dem Meer</td><td>Höchster Preis und größte Nachfrage; prüfen, ob eine Straße dazwischen liegt</td></tr><tr><td>Meerblick</td><td>Freier Blick aus höherer Etage oder vom Hang</td><td>Oft das bessere Preis-Leistungs-Verhältnis; prüfen, ob der Blick verbaut werden kann</td></tr><tr><td>Strandnähe</td><td>Strand in etwa 5–10 Minuten zu Fuß</td><td>Größte Auswahl, niedrigere Preise, leicht zu vermieten</td></tr></tbody></table></div><p>Objekte in erster Linie steigen meist am stärksten im Wert und lassen sich am leichtesten vermieten, strandnahe Objekte bieten aber oft die beste Balance aus Preis, Platz und Ruhe.</p>"
+   },
+   {
+    "id": "costas",
+    "h2": "Das Küstengesetz: Was darf man am Ufer bauen?",
+    "alt": "Küstenweg über einer kleinen Bucht mit Wohnhäusern dahinter",
+    "html": "<p>Das spanische Küstengesetz (<em>Ley de Costas</em>) schützt die Küstenlinie. Kurz gesagt:</p><ul><li>Der Strand und der unmittelbare Uferstreifen sind <strong>öffentliches Gut</strong>; niemand kann sie besitzen.</li><li>Eine <strong>Schutzzone</strong> reicht 100 Meter landeinwärts (20 Meter in Gebieten, die schon 1988 städtisch waren). Neue Wohnhäuser sind dort nicht erlaubt, bestehende dürfen repariert und modernisiert, aber nicht vergrößert werden.</li><li>Ein 6 Meter breiter <strong>Durchgangsstreifen</strong> am Ufer muss öffentlich zugänglich bleiben.</li></ul><p>Die meisten Wohnungen in gewachsenen Ferienorten sind nicht betroffen. Bei Villen in erster Linie und älteren Häusern sollte Ihr Anwalt den Status nach dem Küstengesetz und mögliche Renovierungsgrenzen vor der Unterschrift prüfen. Siehe <a href=\"{up}de-de/wie-kann-man-in-spanien-eine-wohnung-oder-ein-haus-kaufen.html\">Immobilienkauf in Spanien</a>.</p>"
+   },
+   {
+    "id": "checks",
+    "h2": "Weitere Prüfpunkte für eine Immobilie am Meer",
+    "html": "<ul><li><strong>Hochwasserrisiko</strong>: Prüfen Sie die Adresse auf der nationalen Hochwasserkarte (SNCZI), besonders bei Erdgeschosswohnungen und Häusern nahe Trockenflussbetten (<em>ramblas</em>). Überschwemmungen deckt der staatliche Versicherungspool über Ihre <a href=\"{up}de-de/versicherung-von-immobilien-in-spanien.html\">Gebäudeversicherung</a>.</li><li><strong>Salzige Luft</strong>: Sie greift Geländer, Fensterrahmen, Klimageräte und Anstriche schneller an. Fragen Sie nach jüngsten Arbeiten und prüfen Sie die <a href=\"{up}de-de/comunidad-de-propietarios.html\">Rücklage der Gemeinschaft</a>.</li><li><strong>Feuchtigkeit</strong>: Erdgeschoss- und Nordwohnungen am Meer neigen zu Feuchtigkeit; achten Sie auf Spuren und fragen Sie, wie im Winter gelüftet wird.</li><li><strong>Sommerbetrieb</strong>: Strandorte sind im Juli und August voll. Besichtigen Sie in der Hochsaison und im Winter und prüfen Sie die Parkmöglichkeiten.</li><li><strong>Ausrichtung</strong>: Eine Süd- oder Ostterrasse bekommt Wintersonne und Morgenlicht über dem Meer.</li></ul>"
+   },
+   {
+    "id": "where",
+    "h2": "Wo Sie suchen sollten",
+    "alt": "Dächer im Vordergrund und ein langer Sandstrand an der Küste",
+    "html": "<p><strong>Costa del Sol</strong>: Marbellas Goldene Meile und Puerto Banús für Luxus in erster Linie, Estepona mit Altstadt und neuen Strandprojekten, die Hügel von Benahavís für Villen mit Meerblick. Internationaler und das ganze Jahr belebt.</p><p><strong>Nördliche Costa Blanca</strong>: Jávea und Moraira für Buchten und niedrige Villenbebauung, Altea und Altea Hills für Kunst, Aussicht und Charakter, Calpe für Wohnungen unter dem Peñón de Ifach. Ruhiger, grüner und weniger bebaut.</p><p><strong>Südliche Costa Blanca</strong>: Alicante-Stadt, Torrevieja und Orihuela Costa für lange Sandstrände und die günstigsten Wohnungen am Meer.</p><p>Einen ausführlichen Vergleich der beiden Küsten finden Sie unter <a href=\"{up}de-de/costa-blanca-oder-costa-del-sol.html\">Costa Blanca oder Costa del Sol?</a>, aktuelle Zahlen unter <a href=\"{up}de-de/preise-fur-wohnungen-in-spanien-wie-viel-kostet-eine-wohnung-und-wie-viel-kostet-eine-luxusvilla.html\">Immobilienpreise</a>.</p>"
+   }
+  ],
+  "faq": [
+   ["Was bedeutet „erste Linie“ in Spanien?", "Primera línea heißt, dass nur Strand oder Promenade zwischen Immobilie und Meer liegen. Manche Anzeigen nutzen den Begriff auch, wenn eine Straße dazwischen verläuft, also auf der Karte prüfen."],
+   ["Darf ich ein Haus direkt am Strand renovieren?", "In der 100-Meter-Schutzzone des Küstengesetzes dürfen bestehende Häuser repariert und modernisiert, aber nicht vergrößert werden; Neubauten sind nicht erlaubt. Ein Anwalt sollte den Status vor dem Kauf prüfen."],
+   ["Ist eine Immobilie mit Meerblick eine gute Anlage?", "In der Regel ja. Meerblick und erste Linie sind knapp, halten daher gut ihren Wert und lassen sich am leichtesten vermieten."],
+   ["Wie prüfe ich das Hochwasserrisiko?", "Suchen Sie die Adresse auf der nationalen Hochwasserkarte (SNCZI) und fragen Sie die Gemeinschaft nach früheren Überschwemmungen, besonders bei Erdgeschosswohnungen."],
+   ["Wo sind Wohnungen am Meer am günstigsten?", "An der südlichen Costa Blanca, rund um Torrevieja und Orihuela Costa."]
+  ],
+  "closing": {
+   "h2": "Ihr Zuhause am Meer",
+   "alt": "Luftbild einer türkisfarbenen Bucht mit Sandstrand und Ort",
+   "html": "<p>Wir kennen beide Küsten gut und prüfen Küstengesetz, Hochwasserrisiko und Gebäudezustand, bevor Sie sich festlegen. <a href=\"{up}index.html#contact\">Kontaktieren Sie uns</a> für eine Auswahl an Immobilien am Meer.</p>"
+  }
+ },
+ "es": {
+  "slug": "propiedades-cerca-del-mar-en-espana",
+  "title": "Comprar una vivienda cerca del mar en España – primera línea y normas",
+  "description": "Qué saber antes de comprar una vivienda junto al mar en España: primera línea, vistas al mar o playa a pie, la Ley de Costas, mapas de inundabilidad, mantenimiento por el salitre y las mejores zonas de la Costa Blanca y la Costa del Sol.",
+  "crumb": "Vivienda cerca del mar",
+  "eyebrow": "Comprar en España · Guía práctica",
+  "h1": "Comprar una vivienda cerca del mar en España",
+  "hero_alt": "Terraza de un piso con mesa y sillas frente al mar",
+  "short": "Una casa junto al mar es lo que buscan la mayoría de compradores en la costa, y es lo que mejor conserva su valor porque la oferta no puede crecer. Pero «cerca del mar» puede significar tres cosas: primera línea (nada entre usted y la playa), vistas al mar desde una planta alta o una ladera, o la playa a unos minutos a pie, cada una con su precio. Junto a la orilla, la Ley de Costas limita lo que se puede construir o ampliar a menos de 100 metros del mar, así que conviene revisar la situación de la vivienda antes de comprar. Mire también el mapa de inundabilidad, el estado del edificio frente al salitre y el ruido y el aparcamiento en verano.",
+  "intro": [
+   "Despertarse con el sonido de las olas es el motivo por el que muchos de nuestros clientes compran en España. Así se elige el tipo de vivienda junto al mar adecuado, estas son las normas que rigen cerca de la orilla y aquí es donde buscar en la Costa Blanca y la Costa del Sol."
+  ],
+  "sections": [
+   {
+    "id": "types",
+    "h2": "¿Primera línea, vistas al mar o playa a pie?",
+    "alt": "Terrazas de un edificio de apartamentos con palmeras y el mar",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Tipo</th><th>Qué significa</th><th>A tener en cuenta</th></tr></thead><tbody><tr><td>Primera línea</td><td>Solo la playa o el paseo entre usted y el mar</td><td>Precio y demanda más altos; compruebe si hay una carretera entre medias</td></tr><tr><td>Vistas al mar</td><td>Vista abierta desde una planta alta o una ladera</td><td>Suele tener mejor relación calidad-precio; compruebe que no se puede edificar delante</td></tr><tr><td>Playa a pie</td><td>Playa a unos 5–10 minutos andando</td><td>Más oferta, precios más bajos y fácil de alquilar</td></tr></tbody></table></div><p>La primera línea suele revalorizarse más y alquilarse con más facilidad, pero la playa a pie a menudo ofrece el mejor equilibrio entre precio, espacio y tranquilidad.</p>"
+   },
+   {
+    "id": "costas",
+    "h2": "La Ley de Costas: qué se puede construir junto a la orilla",
+    "alt": "Senda litoral sobre una pequeña cala con edificios detrás",
+    "html": "<p>La Ley de Costas protege el litoral. En resumen:</p><ul><li>La playa y la franja más cercana al mar son <strong>dominio público</strong>; nadie puede ser su propietario.</li><li>La <strong>servidumbre de protección</strong> abarca 100 metros tierra adentro (20 metros en suelo que ya era urbano en 1988). No se permiten viviendas nuevas, y las existentes pueden repararse y modernizarse pero no ampliarse.</li><li>Una <strong>servidumbre de tránsito</strong> de 6 metros junto a la orilla debe quedar libre para el público.</li></ul><p>La mayoría de pisos en zonas turísticas consolidadas no están afectados, pero en chalets en primera línea y casas antiguas pida a su abogado que revise la situación respecto a Costas y los límites de reforma antes de firmar. Vea <a href=\"{up}es-es/como-comprar-un-piso-o-una-casa-en-espana.html\">cómo comprar en España</a>.</p>"
+   },
+   {
+    "id": "checks",
+    "h2": "Otras comprobaciones para una vivienda junto al mar",
+    "html": "<ul><li><strong>Riesgo de inundación</strong>: consulte la dirección en el Sistema Nacional de Cartografía de Zonas Inundables (SNCZI), sobre todo en bajos y cerca de ramblas. Las inundaciones las cubre el Consorcio a través de su <a href=\"{up}es-es/seguro-de-propiedad-en-espana.html\">seguro de hogar</a>.</li><li><strong>Salitre</strong>: desgasta antes barandillas, carpinterías, aparatos de aire acondicionado y pintura. Pregunte por obras recientes y revise el <a href=\"{up}es-es/comunidad-de-propietarios.html\">fondo de reserva de la comunidad</a>.</li><li><strong>Humedad</strong>: los bajos y las viviendas orientadas al norte cerca del mar pueden tener humedades; busque manchas y pregunte cómo se ventila en invierno.</li><li><strong>El verano</strong>: los pueblos de playa se llenan en julio y agosto. Visite en temporada alta y en invierno y revise el aparcamiento.</li><li><strong>Orientación</strong>: una terraza al sur o al este recibe el sol de invierno y la luz de la mañana sobre el mar.</li></ul>"
+   },
+   {
+    "id": "where",
+    "h2": "Dónde buscar",
+    "alt": "Tejados en primer plano y una larga playa de arena",
+    "html": "<p><strong>Costa del Sol</strong>: la Milla de Oro de Marbella y Puerto Banús para el lujo en primera línea, Estepona por su casco antiguo y sus nuevas promociones junto a la playa, y las colinas de Benahavís para chalets con vistas. Más internacional y con vida todo el año.</p><p><strong>Norte de la Costa Blanca</strong>: Jávea y Moraira por sus calas y chalets de baja altura, Altea y Altea Hills por su arte, vistas y carácter, Calpe por sus pisos bajo el Peñón de Ifach. Más tranquila, verde y menos construida.</p><p><strong>Sur de la Costa Blanca</strong>: Alicante ciudad, Torrevieja y Orihuela Costa por sus largas playas de arena y los pisos junto al mar más asequibles.</p><p>Compare ambas costas en <a href=\"{up}es-es/costa-blanca-o-costa-del-sol.html\">¿Costa Blanca o Costa del Sol?</a> y vea los <a href=\"{up}es-es/precios-de-apartamentos-en-espana-cuanto-cuesta-un-apartamento-y-cuanto-cuesta-una-villa-de-lujo.html\">precios actuales</a>.</p>"
+   }
+  ],
+  "faq": [
+   ["¿Qué significa primera línea?", "Que solo la playa o el paseo marítimo separan la vivienda del mar. Algunos anuncios la usan aunque haya una carretera entre medias, así que compruébelo en el mapa."],
+   ["¿Puedo reformar una casa en primera línea de playa?", "Dentro de la servidumbre de protección de 100 metros, las viviendas existentes pueden repararse y modernizarse pero no ampliarse, y no se permiten viviendas nuevas. Un abogado debe revisarlo antes de comprar."],
+   ["¿Es buena inversión una vivienda con vistas al mar?", "En general sí. Las vistas al mar y la primera línea son escasas, conservan bien su valor y son las más fáciles de alquilar."],
+   ["¿Cómo compruebo el riesgo de inundación?", "Consulte la dirección en el mapa nacional de zonas inundables (SNCZI) y pregunte a la comunidad por inundaciones anteriores, sobre todo en bajos."],
+   ["¿Dónde están los pisos junto al mar más baratos?", "En el sur de la Costa Blanca, alrededor de Torrevieja y Orihuela Costa."]
+  ],
+  "closing": {
+   "h2": "Encuentre su casa junto al mar",
+   "alt": "Vista aérea de una bahía turquesa con playa y pueblo",
+   "html": "<p>Conocemos bien las dos costas y revisamos la situación respecto a Costas, el riesgo de inundación y el estado del edificio antes de que se comprometa. <a href=\"{up}index.html#contact\">Contacte con nosotros</a> para recibir una selección de viviendas junto al mar.</p>"
+  }
+ }
+}
