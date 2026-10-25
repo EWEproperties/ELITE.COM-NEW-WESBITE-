@@ -12,6 +12,23 @@ Contact: +34 672 519 809 · info@eliteworldestates.com
 - [Casas adosadas modernas en venta en Mutxamel, Alicante](https://www.eliteworldestates.com/es/propiedades/casas-adosadas-modernas-en-venta-en-mutxamel-alicante.html): the same listing in Spanish.
 - [Moderne Reihenhäuser zum Verkauf in Mutxamel, Alicante](https://www.eliteworldestates.com/de/immobilien/moderne-reihenhaeuser-zum-verkauf-in-mutxamel-alicante.html): the same listing in German.
 
+<!-- properties -->
+## Properties for sale
+
+All listings with full details: https://www.eliteworldestates.com/feeds/properties.json
+
+- [Sophisticated villa overlooking the golf course in La Finca, Algorfa](https://www.eliteworldestates.com/properties/sophisticated-villa-overlooking-the-golf-course-in-la-finca-algorfa.html): New build villa for sale in Algorfa, Alicante: 4 bedrooms, 3 bathrooms, 308 m² built, 420 m² plot, pool. €669,000. Ref. EWE1771.
+- [Ready-to-Move-In Penthouse with Sea Views Near the Beach in Villajoyosa](https://www.eliteworldestates.com/properties/ready-to-move-in-penthouse-with-sea-views-near-the-beach-in-villajoyosa.html): New build penthouse for sale in Villajoyosa / La Vila Joiosa, Alicante: 3 bedrooms, 3 bathrooms, 128 m² built. €635,000. Ref. EWE3353.
+- [Luxury villa close to the beach in San Pedro de Alcántara](https://www.eliteworldestates.com/properties/luxury-villa-close-to-the-beach-in-san-pedro-de-alcantara.html): New build villa for sale in Marbella, Málaga: 5 bedrooms, 6 bathrooms, 790 m² built, 815 m² plot. €3,790,000. Ref. EWE3407.
+- [Spacious apartament near a picturesque golf course in Pulpí](https://www.eliteworldestates.com/properties/spacious-apartament-near-a-picturesque-golf-course-in-pulpi.html): New build apartment for sale in Pulpí, Almería: 3 bedrooms, 2 bathrooms, 124 m² built. €331,000. Ref. EWE3609.
+- [Modern apartment close to the sea in El Campello, Alicante](https://www.eliteworldestates.com/properties/modern-apartment-close-to-the-sea-in-el-campello-alicante.html): New build apartment for sale in El Campello, Alicante: 3 bedrooms, 2 bathrooms, 67 m² built. €420,000. Ref. EWE3661.
+- [Magnificent semi-detached villa 3 km from the beach, Estepona](https://www.eliteworldestates.com/properties/magnificent-semi-detached-villa-3-km-from-the-beach-estepona.html): New build villa for sale in Estepona, Málaga: 3 bedrooms, 4 bathrooms, 200 m² built. €800,000. Ref. EWE3676.
+- [Mediterranean villa 400 m from the beach in San Pedro del Pinatar](https://www.eliteworldestates.com/properties/mediterranean-villa-400-m-from-the-beach-in-san-pedro-del-pinatar.html): New build villa for sale in San Pedro del Pinatar, Murcia: 3 bedrooms, 3 bathrooms, 159 m² built, 502 m² plot. €809,950. Ref. EWE3708.
+- [Luxury sea view apartments in Mijas](https://www.eliteworldestates.com/properties/luxury-sea-view-apartments-in-mijas.html): New build apartment for sale in Mijas, Málaga: 2 bedrooms, 2 bathrooms, 120 m² built. From €795,000. Ref. EWE3824.
+- [Completely Renovated Villa by the Golf Course in Altea la Vella](https://www.eliteworldestates.com/properties/completely-renovated-villa-by-the-golf-course-in-altea-la-vella.html): Villa for sale in Altea, Alicante: 4 bedrooms, 3 bathrooms, 324 m² built, 1,200 m² plot. €1,295,000. Ref. EWE3827.
+- [New Apartments with Large Terraces in Manilva](https://www.eliteworldestates.com/properties/new-apartments-with-large-terraces-in-manilva.html): New build apartment for sale in Manilva, Málaga: 1 bedroom, 1 bathroom, 59 m² built. From €235,000. Ref. EWE3893.
+
+<!-- /properties -->
 ## Articles
 
 - [Wellness Retreats in Marbella](https://www.eliteworldestates.com/wellness-retreats-in-marbella): five wellness retreats in and around Marbella compared (Shanti-Som, Finca Cortesin, Marbella Club, Boho Club, Buchinger Wilhelmi), with a comparison table and FAQ. By Lucyna Gacek, September 2026.

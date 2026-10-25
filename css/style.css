@@ -553,3 +553,9 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 /* Home: featured properties slideshow (same style as the sections below) */
 .featured { padding: 5rem 0 4rem; }
 .slide-count { min-width: 4.2rem; text-align: center; font-size: .78rem; font-weight: 700; letter-spacing: .12em; color: #5b4630; font-variant-numeric: tabular-nums; }
+
+/* Generated property pages: lists inside the eGO description, features */
+.prop-text ul { margin: 0 0 1rem; padding-left: 1.2rem; }
+.prop-text li { margin: .2rem 0; }
+.feature-list { columns: 2; column-gap: 2rem; }
+@media (max-width: 600px) { .feature-list { columns: 1; } }
