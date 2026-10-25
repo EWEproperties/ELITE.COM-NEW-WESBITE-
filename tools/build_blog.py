@@ -250,7 +250,7 @@ def page(a, lang):
     <nav class="main-nav" aria-label="{ui["main"]}">
       <a href="{up}index.html">{ui["home"]}</a>
       <a href="{up}index.html#properties">{ui["props"]}</a>
-      <a href="{up}index.html#articles" class="active">{ui["blog"]}</a>
+      <a href="{up}{DIRS[lang]}blog.html" class="active">{ui["blog"]}</a>
       <a href="{up}about-us.html">{ui["about"]}</a>
       <a href="{up}index.html#contact">{ui["contact"]}</a>
       <div class="lang">
@@ -263,7 +263,7 @@ def page(a, lang):
 <main class="article-page">
   <div class="container article-wrap">
     <nav class="breadcrumb" aria-label="{ui["crumbs"]}">
-      <a href="{up}index.html">{ui["home"]}</a> <span>/</span> <a href="{up}index.html#articles">{ui["blog"]}</a> <span>/</span> <span aria-current="page">{t["crumb"]}</span>
+      <a href="{up}index.html">{ui["home"]}</a> <span>/</span> <a href="{up}{DIRS[lang]}blog.html">{ui["blog"]}</a> <span>/</span> <span aria-current="page">{t["crumb"]}</span>
     </nav>
 
     <article class="post">

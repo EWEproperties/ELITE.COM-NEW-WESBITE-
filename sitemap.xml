@@ -1125,4 +1125,30 @@
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/villa-or-apartment/modern-villa-with-infinity-pool.jpg</image:loc></image:image>
   </url>
   <!-- /blog -->
+  <!-- blog-index -->
+  <url>
+    <loc>https://www.eliteworldestates.com/blog</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/blog</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/blog</loc>
+    <lastmod>2026-10-25</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+  </url>
+  <!-- /blog-index -->
 </urlset>

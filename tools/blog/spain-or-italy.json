@@ -66,7 +66,7 @@
     "id": "renting",
     "h2": "Renting out",
     "alt": "Modern living room in a new apartment",
-    "html": "<p>Both countries now regulate holiday letting closely. Spain has a national rental register (since July 2025) on top of regional licences, and Italy requires a national ID code (CIN) for every holiday let. In Spain non-residents pay tax on rental income at 19% (EU and EEA residents, with costs deductible) or 24%. Spanish coastal resorts have demand almost all year, which helps returns. See <a href=\"{up}new-regulations-on-short-term-rentals-in-spain.html\">short-term rental rules</a>.</p>"
+    "html": "<p>Both countries now regulate holiday letting closely. In Spain each region runs its own tourist-licence register (the Supreme Court annulled the national register in May 2026), and Italy requires a national ID code (CIN) for every holiday let. In Spain non-residents pay tax on rental income at 19% (EU and EEA residents, with costs deductible) or 24%. Spanish coastal resorts have demand almost all year, which helps returns. See <a href=\"{up}new-regulations-on-short-term-rentals-in-spain.html\">short-term rental rules</a>.</p>"
    },
    {
     "id": "verdict",
@@ -142,7 +142,7 @@
     "id": "renting",
     "h2": "Vermietung",
     "alt": "Modernes Wohnzimmer in einer neuen Wohnung",
-    "html": "<p>Beide Länder regeln die Ferienvermietung inzwischen streng. Spanien hat seit Juli 2025 ein nationales Mietregister zusätzlich zu den regionalen Lizenzen, Italien verlangt für jede Ferienwohnung einen nationalen Code (CIN). In Spanien zahlen Nichtresidenten mit Wohnsitz in der EU oder im EWR 19 % Steuer auf Mieteinnahmen, mit Abzug der Kosten; für Schweizer gilt der Satz von 24 % ohne Kostenabzug. Die spanischen Küstenorte haben fast das ganze Jahr Nachfrage. Siehe <a href=\"{up}de-de/neue-vorschriften-fur-kurzzeitvermietungen-in-spanien.html\">Regeln zur Kurzzeitvermietung</a>.</p>"
+    "html": "<p>Beide Länder regeln die Ferienvermietung inzwischen streng. In Spanien führt jede Region ihr eigenes Register für Ferienlizenzen (das nationale Register hat der Oberste Gerichtshof im Mai 2026 aufgehoben), Italien verlangt für jede Ferienwohnung einen nationalen Code (CIN). In Spanien zahlen Nichtresidenten mit Wohnsitz in der EU oder im EWR 19 % Steuer auf Mieteinnahmen, mit Abzug der Kosten; für Schweizer gilt der Satz von 24 % ohne Kostenabzug. Die spanischen Küstenorte haben fast das ganze Jahr Nachfrage. Siehe <a href=\"{up}de-de/neue-vorschriften-fur-kurzzeitvermietungen-in-spanien.html\">Regeln zur Kurzzeitvermietung</a>.</p>"
    },
    {
     "id": "verdict",
@@ -218,7 +218,7 @@
     "id": "renting",
     "h2": "Alquilar la vivienda",
     "alt": "Salón moderno en un apartamento nuevo",
-    "html": "<p>Ambos países regulan ya de cerca el alquiler vacacional. España tiene desde julio de 2025 un registro único estatal además de las licencias autonómicas, e Italia exige un código nacional (CIN) para cada vivienda turística. En España, los no residentes pagan el 19 % sobre las rentas si viven en la UE o el EEE (con gastos deducibles) y el 24 % en el resto de casos, por ejemplo desde Latinoamérica. Las zonas turísticas de la costa tienen demanda casi todo el año. Consulta <a href=\"{up}es-es/nuevas-normas-sobre-alquileres-a-corto-plazo-en-espana.html\">normas de alquiler de corta duración</a>.</p>"
+    "html": "<p>Ambos países regulan ya de cerca el alquiler vacacional. En España cada comunidad autónoma gestiona su registro de viviendas turísticas (el Tribunal Supremo anuló el registro único estatal en mayo de 2026), e Italia exige un código nacional (CIN) para cada vivienda turística. En España, los no residentes pagan el 19 % sobre las rentas si viven en la UE o el EEE (con gastos deducibles) y el 24 % en el resto de casos, por ejemplo desde Latinoamérica. Las zonas turísticas de la costa tienen demanda casi todo el año. Consulta <a href=\"{up}es-es/nuevas-normas-sobre-alquileres-a-corto-plazo-en-espana.html\">normas de alquiler de corta duración</a>.</p>"
    },
    {
     "id": "verdict",
