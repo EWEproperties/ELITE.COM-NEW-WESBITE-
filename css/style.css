@@ -581,3 +581,9 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .articles-more { text-align: center; margin-top: 2.75rem; }
 @media (max-width: 960px) { .carousel-track { grid-auto-columns: calc((100% - 1.75rem) / 2); } .car-prev { left: 6px; } .car-next { right: 6px; } }
 @media (max-width: 600px) { .carousel-track { grid-auto-columns: 84%; gap: 1rem; } .car-prev, .car-next { display: none; } }
+
+/* Blog index: author line sits at the same height on every card, just above the bottom line */
+.blog-grid .blog-card a { display: flex; flex-direction: column; }
+.blog-grid .blog-card-body { flex: 1; display: flex; flex-direction: column; }
+.blog-grid .blog-excerpt { margin-bottom: 1.2rem; }
+.blog-grid .blog-meta { margin-top: auto; }
