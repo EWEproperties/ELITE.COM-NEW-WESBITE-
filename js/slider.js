@@ -6,7 +6,6 @@ const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").match
 document.querySelectorAll(".feature-slider").forEach((slider) => {
   const slides = [...slider.querySelectorAll(".slide")];
   const dots = [...slider.querySelectorAll(".slide-dots button")];
-  const cards = [...slider.parentElement.querySelectorAll(".grid .card")];
   let current = 0;
   let timer = null;
   let paused = false;
@@ -20,8 +19,6 @@ document.querySelectorAll(".feature-slider").forEach((slider) => {
       s.tabIndex = on ? 0 : -1;
     });
     dots.forEach((d, k) => d.setAttribute("aria-current", k === current ? "true" : "false"));
-    const href = slides[current].getAttribute("href");
-    cards.forEach((c) => c.classList.toggle("is-current", c.getAttribute("href") === href));
   }
 
   function start() {
