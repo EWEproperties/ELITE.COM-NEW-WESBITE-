@@ -1,0 +1,257 @@
+{
+ "author": "aleksandra",
+ "published": "2025-10-03",
+ "modified": "2026-10-25",
+ "hero": "assets/blog/spain-or-italy/spanish-and-italian-flags.jpg",
+ "images": {
+  "costs": "assets/blog/spain-or-italy/living-room-with-sea-view.jpg",
+  "homes": "assets/blog/spain-or-italy/villas-on-the-coast-aerial.jpg",
+  "life": "assets/blog/spain-or-italy/old-italian-town-square.jpg",
+  "renting": "assets/blog/spain-or-italy/modern-living-room.jpg",
+  "closing": "assets/blog/spain-or-italy/spanish-and-italian-flags-wall.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/hiszpania-czy-wochy",
+ "cards": [
+  "20927700",
+  "26627092",
+  "26232807"
+ ],
+ "sources": [
+  [
+   "idealista.it – How much does it cost to buy property in Italy (2026)",
+   "https://www.idealista.it/en/news/financial-advice-in-italy/2026/01/21/247025-how-much-does-it-really-cost-to-buy-property-in-italy-your-complete-2025-guide"
+  ],
+  [
+   "Agenzia Tributaria – Spanish non-resident income tax",
+   "https://sede.agenciatributaria.gob.es/Sede/en_gb/irnr.html"
+  ]
+ ],
+ "en": {
+  "slug": "spain-or-italy",
+  "title": "Spain or Italy: Where to Buy a Home by the Sea?",
+  "description": "Spain or Italy for a holiday home or a move abroad: buying costs, annual taxes, the homes on offer, climate, daily life, renting out and which country suits which buyer.",
+  "crumb": "Spain or Italy",
+  "eyebrow": "Buying · Comparison",
+  "h1": "Spain or Italy: Which Is Better for Buying a Home?",
+  "hero_alt": "Spanish and Italian flags side by side against a blue sky",
+  "short": "Both countries use the euro, have good public healthcare and beautiful coasts. Spain usually wins for buyers who want a modern, ready-to-use home by the sea with sun all year: its coasts have far more new builds, the buying process is quick and the agent's fee is normally paid by the seller. Italy wins on historic towns and countryside and can be cheaper inland, but many homes need renovation, the buyer usually pays part of the agent's fee and winters are colder outside the far south. Buying costs are similar, roughly 10 to 15% of the price in both countries.",
+  "intro": [
+   "Spain and Italy are the two dream destinations for a home on the Mediterranean. Both are beautiful, but they suit different buyers. Here is a fair comparison of costs, homes and daily life to help you decide."
+  ],
+  "sections": [
+   {
+    "id": "glance",
+    "h2": "At a glance",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Spain (coast)</th><th>Italy</th></tr></thead><tbody><tr><td>Tax on resale purchase</td><td>Transfer tax on the price: 9% Valencian Community, 7% Andalusia</td><td>Registration tax 9% of the cadastral value (second home)</td></tr><tr><td>Tax on new build</td><td>10% VAT + 1.2–1.4% stamp duty</td><td>10% VAT for a second home</td></tr><tr><td>Agent's fee</td><td>Usually paid by the seller</td><td>Buyer usually pays 2–4% + VAT</td></tr><tr><td>Annual property tax</td><td>IBI, usually a few hundred euros a year</td><td>IMU on second homes, often higher</td></tr><tr><td>Homes on offer</td><td>Many new builds and modern villas</td><td>More historic and older homes</td></tr><tr><td>Winter on the coast</td><td>Mild, about 16–18 °C by day</td><td>Mild in the south, cooler in the north</td></tr><tr><td>Main airports for the coast</td><td>Alicante, Málaga, Valencia, Murcia</td><td>Spread across the country</td></tr></tbody></table></div><p>Figures for 2026. Taxes change, so check them before you buy.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Buying costs and taxes",
+    "alt": "Bright living room with a terrace and sea view",
+    "html": "<p>The total cost of buying is similar in both countries, about 10 to 15% on top of the price, but it is made up differently.</p><ul><li><strong>Spain</strong>: on a resale home you pay transfer tax on the price (9% in the Valencian Community, 11% above €1 million, 7% in Andalusia). On a new build you pay 10% VAT plus stamp duty. On the coast the agent's commission is normally included in the price and paid by the seller.</li><li><strong>Italy</strong>: on a resale second home you pay 9% registration tax, but on the cadastral value, which is often well below the price. In return, the buyer usually pays the agent 2 to 4% plus VAT, and notary fees are higher.</li></ul><p>Every year you pay local property tax in both countries. Spanish IBI is usually lower than Italian IMU on a second home. See <a href=\"{up}property-tax-in-spain-ibi-2026.html\">IBI property tax</a> and <a href=\"{up}how-to-buy-an-apartment-or-house-in-spain.html\">how to buy in Spain</a>.</p>"
+   },
+   {
+    "id": "homes",
+    "h2": "The homes on offer",
+    "alt": "Aerial view of villas with pools on a hillside by the sea",
+    "html": "<p>This is the biggest difference. The Spanish coast has built a lot in the last twenty years, and new developments are still being added. You can choose a new apartment with a pool and sea view or a modern villa, ready to move in and with warranties. See <a href=\"{up}new-construction-in-spain.html\">buying a new build in Spain</a>.</p><p>Italy has a smaller new-build market. Many homes for sale are older: farmhouses, town houses and historic villas full of character. They can be cheaper, especially inland and in the south, but renovation is often needed and costly. In the most famous places, such as Lake Como, the Amalfi Coast or Costa Smeralda, prices are very high.</p>"
+   },
+   {
+    "id": "life",
+    "h2": "Climate and daily life",
+    "alt": "Old stone square in an Italian hill town",
+    "html": "<ul><li><strong>Climate</strong>: the Costa Blanca and Costa del Sol have over 300 sunny days a year and mild winters, so you can live there all year. In Italy only the far south and the islands are as mild; Tuscany and the north are cold and wet in winter.</li><li><strong>International life</strong>: the Spanish coast has large international communities, English is widely spoken and services for foreign owners are everywhere. Italy feels more local, which many buyers love, but you need Italian sooner.</li><li><strong>Healthcare</strong>: both countries have good public healthcare and private clinics. On the Spanish coast many doctors speak English.</li><li><strong>Cost of living</strong>: similar, with Spain often slightly cheaper for eating out and services. See <a href=\"{up}how-much-does-it-cost-to-live-in-spain-prices-and-cost-of-living.html\">cost of living in Spain</a>.</li></ul>"
+   },
+   {
+    "id": "renting",
+    "h2": "Renting out",
+    "alt": "Modern living room in a new apartment",
+    "html": "<p>Both countries now regulate holiday letting closely. Spain has a national rental register (since July 2025) on top of regional licences, and Italy requires a national ID code (CIN) for every holiday let. In Spain non-residents pay tax on rental income at 19% (EU and EEA residents, with costs deductible) or 24%. Spanish coastal resorts have demand almost all year, which helps returns. See <a href=\"{up}new-regulations-on-short-term-rentals-in-spain.html\">short-term rental rules</a>.</p>"
+   },
+   {
+    "id": "verdict",
+    "h2": "Which one suits you?",
+    "html": "<ul><li><strong>Choose Spain</strong> if you want a modern home by the sea, sun in winter, many direct flights, an easy process and a property that is easy to rent or resell.</li><li><strong>Choose Italy</strong> if you dream of a historic house, a hill town or the countryside, are happy to renovate and spend time there mostly in spring and summer.</li></ul><p>Many of our clients considered both and chose Spain for the practical side. If you are still deciding, compare the Spanish coasts in <a href=\"{up}costa-blanca-or-costa-del-sol.html\">Costa Blanca or Costa del Sol</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Is it cheaper to buy in Spain or Italy?",
+    "Average prices are not much lower in Spain, and inland Italy can be cheaper. On the coast, Spain offers more modern homes for the money, and the agent's fee is usually paid by the seller."
+   ],
+   [
+    "What are the buying costs in Spain and Italy?",
+    "In both countries about 10 to 15% of the price. Spain charges transfer tax on the price or 10% VAT on new builds; Italy charges 9% registration tax on the cadastral value of a second home, and the buyer usually pays part of the agent's fee."
+   ],
+   [
+    "Which country has better weather in winter?",
+    "The Spanish Costa Blanca and Costa del Sol have milder, sunnier winters than most of Italy. Only southern Italy and the islands are comparable."
+   ],
+   [
+    "Can foreigners buy property freely in Spain and Italy?",
+    "In Spain anyone can buy with an NIE number. In Italy EU citizens can buy freely and most other nationalities can too, under reciprocity rules."
+   ],
+   [
+    "Is it easier to rent out a home in Spain or Italy?",
+    "Both regulate holiday lets. Spanish coastal resorts have demand for most of the year, which often makes renting easier."
+   ]
+  ],
+  "closing": {
+   "h2": "Looking at Spain? Talk to us",
+   "alt": "Spanish and Italian flags painted on a wall",
+   "html": "<p>If Spain is on your list, we can show you homes on the Costa del Sol and the Costa Blanca, explain the costs for your situation and arrange viewings. <a href=\"{up}index.html#contact\">Contact us</a>.</p>"
+  }
+ },
+ "de": {
+  "slug": "spanien-oder-italien",
+  "title": "Spanien oder Italien: Wo kauft man ein Haus am Meer?",
+  "description": "Spanien oder Italien für ein Ferienhaus oder den Umzug: Kaufnebenkosten, jährliche Steuern, das Immobilienangebot, Klima, Alltag, Vermietung und welches Land zu welchem Käufer passt.",
+  "crumb": "Spanien oder Italien",
+  "eyebrow": "Kaufen · Vergleich",
+  "h1": "Spanien oder Italien: Wo lohnt sich der Immobilienkauf mehr?",
+  "hero_alt": "Spanische und italienische Flagge nebeneinander vor blauem Himmel",
+  "short": "Beide Länder haben den Euro, ein gutes Gesundheitssystem und schöne Küsten. Spanien gewinnt meist bei Käufern, die eine moderne, bezugsfertige Immobilie am Meer mit Sonne das ganze Jahr suchen: An der Küste gibt es viel mehr Neubauten, der Kauf geht schnell und die Maklerprovision zahlt in der Regel der Verkäufer. Italien punktet mit historischen Orten und Landschaft und ist im Landesinneren oft günstiger, doch viele Häuser müssen renoviert werden, der Käufer zahlt meist einen Teil der Provision und die Winter sind außerhalb des Südens kühler. Die Kaufnebenkosten liegen in beiden Ländern bei etwa 10 bis 15 %.",
+  "intro": [
+   "Für viele Käufer aus Deutschland, Österreich und der Schweiz stehen Spanien und Italien ganz oben auf der Liste. Italien ist mit dem Auto erreichbar und vertraut, Spanien bietet mehr Sonne und moderne Immobilien. Hier ein fairer Vergleich von Kosten, Angebot und Alltag."
+  ],
+  "sections": [
+   {
+    "id": "glance",
+    "h2": "Auf einen Blick",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Spanien (Küste)</th><th>Italien</th></tr></thead><tbody><tr><td>Steuer beim Kauf aus Bestand</td><td>Grunderwerbsteuer auf den Preis: 9 % Region Valencia, 7 % Andalusien</td><td>Registersteuer 9 % auf den Katasterwert (Zweitwohnsitz)</td></tr><tr><td>Steuer beim Neubau</td><td>10 % IVA + 1,2–1,4 % Stempelsteuer</td><td>10 % MwSt. für einen Zweitwohnsitz</td></tr><tr><td>Maklerprovision</td><td>Zahlt in der Regel der Verkäufer</td><td>Käufer zahlt meist 2–4 % + MwSt.</td></tr><tr><td>Jährliche Grundsteuer</td><td>IBI, meist einige Hundert Euro im Jahr</td><td>IMU auf Zweitwohnsitze, oft höher</td></tr><tr><td>Angebot</td><td>Viele Neubauten und moderne Villen</td><td>Mehr historische und ältere Häuser</td></tr><tr><td>Winter an der Küste</td><td>Mild, tagsüber etwa 16–18 °C</td><td>Mild im Süden, kühler im Norden</td></tr><tr><td>Anreise</td><td>Direktflüge nach Alicante, Málaga, Valencia</td><td>Norditalien auch gut mit dem Auto</td></tr></tbody></table></div><p>Stand 2026. Steuern ändern sich, prüfen Sie sie vor dem Kauf.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Kaufnebenkosten und Steuern",
+    "alt": "Helles Wohnzimmer mit Terrasse und Meerblick",
+    "html": "<p>Insgesamt sind die Nebenkosten ähnlich, etwa 10 bis 15 % auf den Kaufpreis, sie setzen sich aber anders zusammen.</p><ul><li><strong>Spanien</strong>: Beim Kauf aus Bestand zahlen Sie Grunderwerbsteuer auf den Preis (9 % in der Region Valencia, 11 % über 1 Mio. €, 7 % in Andalusien). Beim Neubau zahlen Sie 10 % IVA plus Stempelsteuer. An der Küste ist die Maklerprovision normalerweise im Preis enthalten und wird vom Verkäufer bezahlt.</li><li><strong>Italien</strong>: Beim Kauf eines Zweitwohnsitzes aus Bestand zahlen Sie 9 % Registersteuer, aber auf den Katasterwert, der oft deutlich unter dem Preis liegt. Dafür zahlt der Käufer dem Makler meist 2 bis 4 % plus MwSt., und die Notarkosten sind höher.</li></ul><p>Jedes Jahr fällt in beiden Ländern eine Grundsteuer an. Die spanische IBI ist meist niedriger als die italienische IMU auf Zweitwohnsitze. Siehe <a href=\"{up}de-de/grundsteuer-in-spanien-ibi-2026.html\">Grundsteuer IBI</a> und <a href=\"{up}de-de/wie-kann-man-in-spanien-eine-wohnung-oder-ein-haus-kaufen.html\">Immobilienkauf in Spanien</a>.</p>"
+   },
+   {
+    "id": "homes",
+    "h2": "Das Immobilienangebot",
+    "alt": "Luftaufnahme von Villen mit Pools an einem Hang am Meer",
+    "html": "<p>Hier liegt der größte Unterschied. An der spanischen Küste wurde in den letzten zwanzig Jahren viel gebaut, und es entstehen weiter neue Projekte. Sie können eine neue Wohnung mit Pool und Meerblick oder eine moderne Villa wählen, bezugsfertig und mit Gewährleistung. Siehe <a href=\"{up}de-de/der-neubau-in-spanien.html\">Neubau in Spanien kaufen</a>.</p><p>In Italien ist der Neubaumarkt kleiner. Viele Angebote sind ältere Häuser: Bauernhäuser, Stadthäuser und historische Villen mit viel Charakter. Sie können günstiger sein, besonders im Landesinneren und im Süden, müssen aber oft aufwendig renoviert werden. An den bekanntesten Orten wie dem Comer See, der Amalfiküste oder der Costa Smeralda sind die Preise sehr hoch.</p>"
+   },
+   {
+    "id": "life",
+    "h2": "Klima und Alltag",
+    "alt": "Alter Steinplatz in einem italienischen Bergdorf",
+    "html": "<ul><li><strong>Klima</strong>: Costa Blanca und Costa del Sol haben über 300 Sonnentage im Jahr und milde Winter, ideal zum Überwintern oder ganzjährigen Wohnen. In Italien sind nur der tiefe Süden und die Inseln so mild; die Toskana und der Norden sind im Winter kalt und nass.</li><li><strong>Internationales Umfeld</strong>: An der spanischen Küste leben große internationale Gemeinschaften, auch viele Deutsche und Schweizer, mit deutschsprachigen Ärzten, Anwälten und Vereinen. Italien wirkt ursprünglicher, Sie brauchen aber früher Italienisch.</li><li><strong>Gesundheit</strong>: Beide Länder haben ein gutes öffentliches System und Privatkliniken.</li><li><strong>Lebenshaltung</strong>: ähnlich, Spanien ist bei Restaurants und Dienstleistungen oft etwas günstiger. Siehe <a href=\"{up}de-de/wie-hoch-sind-die-lebenshaltungskosten-in-spanien-preise-und-lebenshaltungskosten.html\">Lebenshaltungskosten in Spanien</a>.</li></ul>"
+   },
+   {
+    "id": "renting",
+    "h2": "Vermietung",
+    "alt": "Modernes Wohnzimmer in einer neuen Wohnung",
+    "html": "<p>Beide Länder regeln die Ferienvermietung inzwischen streng. Spanien hat seit Juli 2025 ein nationales Mietregister zusätzlich zu den regionalen Lizenzen, Italien verlangt für jede Ferienwohnung einen nationalen Code (CIN). In Spanien zahlen Nichtresidenten mit Wohnsitz in der EU oder im EWR 19 % Steuer auf Mieteinnahmen, mit Abzug der Kosten; für Schweizer gilt der Satz von 24 % ohne Kostenabzug. Die spanischen Küstenorte haben fast das ganze Jahr Nachfrage. Siehe <a href=\"{up}de-de/neue-vorschriften-fur-kurzzeitvermietungen-in-spanien.html\">Regeln zur Kurzzeitvermietung</a>.</p>"
+   },
+   {
+    "id": "verdict",
+    "h2": "Welches Land passt zu Ihnen?",
+    "html": "<ul><li><strong>Spanien</strong>, wenn Sie eine moderne Immobilie am Meer, Sonne im Winter, viele Direktflüge, einen einfachen Kauf und eine gut vermietbare oder wiederverkäufliche Immobilie suchen.</li><li><strong>Italien</strong>, wenn Sie von einem historischen Haus, einem Bergdorf oder dem Land träumen, gern renovieren, mit dem Auto anreisen möchten und vor allem im Frühling und Sommer dort sind.</li></ul><p>Viele unserer Kunden haben beide Länder verglichen und sich aus praktischen Gründen für Spanien entschieden. Die spanischen Küsten vergleichen Sie unter <a href=\"{up}de-de/costa-blanca-oder-costa-del-sol.html\">Costa Blanca oder Costa del Sol</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Ist der Kauf in Spanien oder Italien günstiger?",
+    "Die Durchschnittspreise sind in Spanien nicht viel niedriger, im italienischen Landesinneren kann es günstiger sein. An der Küste bekommen Sie in Spanien mehr moderne Immobilie fürs Geld, und die Provision zahlt meist der Verkäufer."
+   ],
+   [
+    "Wie hoch sind die Kaufnebenkosten in Spanien und Italien?",
+    "In beiden Ländern etwa 10 bis 15 % des Preises. Spanien erhebt Grunderwerbsteuer auf den Preis oder 10 % IVA beim Neubau; Italien 9 % Registersteuer auf den Katasterwert eines Zweitwohnsitzes, und der Käufer zahlt meist einen Teil der Provision."
+   ],
+   [
+    "Wo ist das Wetter im Winter besser?",
+    "Costa Blanca und Costa del Sol haben mildere, sonnigere Winter als der größte Teil Italiens. Nur Süditalien und die Inseln sind vergleichbar."
+   ],
+   [
+    "Können Deutsche, Österreicher und Schweizer frei kaufen?",
+    "Ja, in beiden Ländern. In Spanien brauchen Sie dafür eine NIE-Nummer, in Italien eine Steuernummer (codice fiscale)."
+   ],
+   [
+    "Wo lässt sich leichter vermieten?",
+    "Beide Länder regeln die Ferienvermietung. Die spanischen Küstenorte haben fast das ganze Jahr Nachfrage, was die Vermietung oft erleichtert."
+   ]
+  ],
+  "closing": {
+   "h2": "Spanien in der engeren Wahl? Sprechen Sie mit uns",
+   "alt": "Spanische und italienische Flagge auf eine Wand gemalt",
+   "html": "<p>Wenn Spanien auf Ihrer Liste steht, zeigen wir Ihnen Immobilien an der Costa del Sol und der Costa Blanca, erklären die Kosten für Ihre Situation und organisieren Besichtigungen. <a href=\"{up}index.html#contact\">Kontaktieren Sie uns</a>.</p>"
+  }
+ },
+ "es": {
+  "slug": "espana-o-italia",
+  "title": "¿España o Italia? Dónde comprar una casa junto al mar",
+  "description": "España o Italia para una segunda residencia o para mudarse: gastos de compra, impuestos anuales, la oferta de viviendas, el clima, la vida diaria, el alquiler y qué país conviene a cada comprador.",
+  "crumb": "España o Italia",
+  "eyebrow": "Comprar · Comparativa",
+  "h1": "¿España o Italia? Dónde conviene más comprar vivienda",
+  "hero_alt": "Banderas de España e Italia juntas sobre el cielo azul",
+  "short": "Los dos países tienen el euro, buena sanidad pública y costas preciosas. España suele ganar para quien busca una vivienda moderna junto al mar, lista para entrar y con sol todo el año: en la costa hay mucha más obra nueva, la compra es ágil y la comisión de la agencia la paga normalmente el vendedor. Italia destaca por sus pueblos históricos y su campo y puede ser más barata en el interior, pero muchas casas necesitan reforma, el comprador suele pagar parte de la comisión y los inviernos son más fríos fuera del sur. Los gastos de compra son parecidos, entre el 10 y el 15 % del precio.",
+  "intro": [
+   "España e Italia son los dos grandes destinos para tener casa en el Mediterráneo. Para quien habla español, España tiene además la ventaja del idioma desde el primer día. Aquí comparamos costes, viviendas y vida diaria de forma justa."
+  ],
+  "sections": [
+   {
+    "id": "glance",
+    "h2": "Comparativa rápida",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>España (costa)</th><th>Italia</th></tr></thead><tbody><tr><td>Impuesto en segunda mano</td><td>ITP sobre el precio: 9 % Comunitat Valenciana, 7 % Andalucía</td><td>Impuesto de registro del 9 % sobre el valor catastral (segunda residencia)</td></tr><tr><td>Impuesto en obra nueva</td><td>10 % IVA + 1,2–1,4 % AJD</td><td>10 % IVA para segunda residencia</td></tr><tr><td>Comisión de la agencia</td><td>Normalmente la paga el vendedor</td><td>El comprador suele pagar 2–4 % + IVA</td></tr><tr><td>Impuesto anual</td><td>IBI, normalmente unos cientos de euros al año</td><td>IMU en segundas residencias, a menudo mayor</td></tr><tr><td>Oferta</td><td>Mucha obra nueva y villas modernas</td><td>Más casas históricas y antiguas</td></tr><tr><td>Invierno en la costa</td><td>Suave, unos 16–18 °C de día</td><td>Suave en el sur, más fresco en el norte</td></tr><tr><td>Idioma</td><td>Español</td><td>Italiano</td></tr></tbody></table></div><p>Datos de 2026. Los impuestos cambian, compruébalos antes de comprar.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Gastos de compra e impuestos",
+    "alt": "Salón luminoso con terraza y vistas al mar",
+    "html": "<p>El coste total de la compra es parecido en los dos países, entre el 10 y el 15 % sobre el precio, pero se reparte de otra forma.</p><ul><li><strong>España</strong>: en segunda mano pagas ITP sobre el precio (9 % en la Comunitat Valenciana, 11 % por encima del millón, 7 % en Andalucía). En obra nueva pagas el 10 % de IVA más el AJD. En la costa la comisión de la agencia suele estar incluida en el precio y la paga el vendedor.</li><li><strong>Italia</strong>: en una segunda residencia de segunda mano pagas un 9 % de impuesto de registro, pero sobre el valor catastral, que suele ser mucho menor que el precio. A cambio, el comprador suele pagar a la agencia del 2 al 4 % más IVA, y la notaría es más cara.</li></ul><p>Cada año se paga un impuesto local en ambos países. El IBI español suele ser menor que el IMU italiano en una segunda residencia. Consulta <a href=\"{up}es-es/impuesto-sobre-bienes-inmuebles-en-espana.html\">el IBI</a> y <a href=\"{up}es-es/como-comprar-un-piso-o-una-casa-en-espana.html\">cómo comprar en España</a>.</p>"
+   },
+   {
+    "id": "homes",
+    "h2": "La oferta de viviendas",
+    "alt": "Vista aérea de villas con piscina en una ladera junto al mar",
+    "html": "<p>Es la mayor diferencia. En la costa española se ha construido mucho en los últimos veinte años y siguen saliendo promociones nuevas. Puedes elegir un apartamento nuevo con piscina y vistas al mar o una villa moderna, lista para entrar y con garantías. Consulta <a href=\"{up}es-es/la-obra-nueva-en-espana.html\">comprar obra nueva en España</a>.</p><p>En Italia el mercado de obra nueva es menor. Mucho de lo que se vende son casas antiguas: casas de campo (casali y masserie), casas de pueblo y villas históricas con mucho carácter. Pueden ser más baratas, sobre todo en el interior y en el sur, pero a menudo necesitan una reforma costosa. En los lugares más famosos, como el lago de Como, la costa Amalfitana o la Costa Esmeralda, los precios son muy altos.</p>"
+   },
+   {
+    "id": "life",
+    "h2": "Clima y vida diaria",
+    "alt": "Antigua plaza de piedra en un pueblo de colina italiano",
+    "html": "<ul><li><strong>Clima</strong>: la Costa Blanca y la Costa del Sol tienen más de 300 días de sol al año e inviernos suaves, así que se puede vivir todo el año. En Italia solo el sur y las islas son tan templados; la Toscana y el norte son fríos y húmedos en invierno.</li><li><strong>Idioma y trámites</strong>: en España haces la compra, el notario, el banco y el médico en tu idioma. Para los ciudadanos de Iberoamérica, España ofrece además facilidades de residencia y nacionalidad.</li><li><strong>Sanidad</strong>: los dos países tienen buena sanidad pública y clínicas privadas.</li><li><strong>Coste de vida</strong>: parecido; España suele ser algo más barata en restaurantes y servicios. Consulta <a href=\"{up}es-es/cuanto-cuesta-vivir-en-espana-precios-y-coste-de-la-vida.html\">cuánto cuesta vivir en España</a>.</li></ul>"
+   },
+   {
+    "id": "renting",
+    "h2": "Alquilar la vivienda",
+    "alt": "Salón moderno en un apartamento nuevo",
+    "html": "<p>Ambos países regulan ya de cerca el alquiler vacacional. España tiene desde julio de 2025 un registro único estatal además de las licencias autonómicas, e Italia exige un código nacional (CIN) para cada vivienda turística. En España, los no residentes pagan el 19 % sobre las rentas si viven en la UE o el EEE (con gastos deducibles) y el 24 % en el resto de casos, por ejemplo desde Latinoamérica. Las zonas turísticas de la costa tienen demanda casi todo el año. Consulta <a href=\"{up}es-es/nuevas-normas-sobre-alquileres-a-corto-plazo-en-espana.html\">normas de alquiler de corta duración</a>.</p>"
+   },
+   {
+    "id": "verdict",
+    "h2": "¿Cuál te conviene?",
+    "html": "<ul><li><strong>Elige España</strong> si quieres una vivienda moderna junto al mar, sol en invierno, buenas conexiones, una compra sencilla en tu idioma y una propiedad fácil de alquilar o revender.</li><li><strong>Elige Italia</strong> si sueñas con una casa histórica, un pueblo de colina o el campo, no te importa reformar y vas a pasar allí sobre todo la primavera y el verano.</li></ul><p>Muchos de nuestros clientes compararon los dos países y eligieron España por el lado práctico. Si dudas entre las costas, consulta <a href=\"{up}es-es/costa-blanca-o-costa-del-sol.html\">Costa Blanca o Costa del Sol</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Es más barato comprar en España o en Italia?",
+    "Los precios medios no son mucho más bajos en España, y el interior de Italia puede ser más barato. En la costa, España ofrece más vivienda moderna por el mismo dinero y la comisión suele pagarla el vendedor."
+   ],
+   [
+    "¿Cuáles son los gastos de compra en España e Italia?",
+    "En ambos países, entre el 10 y el 15 % del precio. España cobra ITP sobre el precio o el 10 % de IVA en obra nueva; Italia, un 9 % de impuesto de registro sobre el valor catastral de una segunda residencia, y el comprador suele pagar parte de la comisión."
+   ],
+   [
+    "¿Qué país tiene mejor clima en invierno?",
+    "La Costa Blanca y la Costa del Sol tienen inviernos más suaves y soleados que casi toda Italia. Solo el sur de Italia y las islas son comparables."
+   ],
+   [
+    "¿Puede un extranjero comprar libremente en España?",
+    "Sí. Cualquier persona puede comprar en España con un número NIE, sea de la UE o no."
+   ],
+   [
+    "¿Dónde es más fácil alquilar la vivienda?",
+    "Los dos países regulan el alquiler vacacional. Las zonas costeras españolas tienen demanda casi todo el año, lo que suele facilitar el alquiler."
+   ]
+  ],
+  "closing": {
+   "h2": "¿Piensas en España? Hablemos",
+   "alt": "Banderas de España e Italia pintadas en una pared",
+   "html": "<p>Si España está en tu lista, te mostramos viviendas en la Costa del Sol y la Costa Blanca, te explicamos los costes según tu caso y organizamos las visitas. <a href=\"{up}index.html#contact\">Contacta con nosotros</a>.</p>"
+  }
+ }
+}
