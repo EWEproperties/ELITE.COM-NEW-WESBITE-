@@ -5,6 +5,9 @@
   --gold: #866c4a;
   --gold-dark: #755934;
   --gold-light: #c0b283;
+  /* Metallic gold, matched to eliteworldestates.pl */
+  --gold-line: rgba(201, 164, 106, .45);
+  --metal: linear-gradient(105deg, #6e4f25 0%, #9c7642 30%, #c9a46a 50%, #9c7642 70%, #6e4f25 100%);
   --cream: #f4f4f4;
   --sand: #dcd0c0;
   --text: #373737;
@@ -516,3 +519,33 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
   .grid-4 .card-body { padding: .9rem .9rem 1rem; }
   .grid-4 .price { font-size: 1.1rem; }
 }
+
+/* Gold details, as on eliteworldestates.pl: metallic buttons with a shine, thin gold frames */
+@keyframes gold-sweep { from { left: -60%; } to { left: 130%; } }
+.btn-gold { position: relative; overflow: hidden; background: var(--metal); background-size: 200% 100%; background-position: 100% 50%; border: 0; transition: background-position .6s; }
+.btn-gold:hover { background: var(--metal); background-size: 200% 100%; background-position: 0% 50%; }
+.btn-gold::after, .gold-btn::after { content: ""; position: absolute; top: 0; bottom: 0; left: -60%; width: 40%; background: linear-gradient(100deg, rgba(255, 255, 255, 0), rgba(255, 248, 225, .55) 50%, rgba(255, 255, 255, 0)); transform: skewX(-20deg); pointer-events: none; }
+.btn-gold:hover::after, .feature:hover .gold-btn::after { animation: gold-sweep .9s ease; }
+.btn-outline { border-color: #c9a46a; color: var(--gold-dark); }
+.btn-outline:hover { background: var(--metal); border-color: #c9a46a; color: var(--white); }
+.badge { background: var(--metal); }
+.link-more { border: 1px solid #c9a46a; color: var(--gold-dark); padding: .7rem 1.4rem; font-size: .72rem; letter-spacing: .16em; transition: background .3s, color .3s; }
+.link-more:hover { background: var(--metal); color: var(--white); }
+/* Slideshow: gold frame on the photo, gold line on the text panel, gold "View property" button */
+.feature-photo::after { content: ""; position: absolute; inset: 14px; border: 1px solid rgba(233, 210, 156, .7); pointer-events: none; transition: inset .4s, border-color .4s; }
+.feature:hover .feature-photo::after { inset: 10px; border-color: #e9d29c; }
+.feature-body { border-top: 2px solid #c9a46a; }
+.feature-body .card-link.gold-btn { position: relative; overflow: hidden; display: inline-block; background: var(--metal); color: var(--white); border: 0; padding: .75rem 1.4rem; font-size: .72rem; letter-spacing: .16em; }
+.slide-dots button[aria-current="true"] { background: var(--metal); }
+.coast::after { border-color: rgba(233, 210, 156, .75); }
+.coast:hover::after { border-color: #e9d29c; }
+/* Cards and towns */
+.card { border: 1px solid var(--gold-line); box-shadow: none; }
+.card:hover { border-color: #c9a46a; box-shadow: 0 10px 26px rgba(91, 70, 48, .12); }
+.town { background: var(--metal); background-size: 200% 100%; background-position: 100% 50%; transition: background-position .6s; }
+.town:hover { background: var(--metal); background-size: 200% 100%; background-position: 0% 50%; }
+.article { border-bottom: 0; border: 1px solid var(--gold-line); }
+.article:hover { border-color: #c9a46a; }
+.article h3 { padding: 1rem 1.1rem 1.3rem; }
+.about-photo { padding: 10px; border: 1px solid #c9a46a; background: var(--white); box-shadow: 0 14px 34px rgba(91, 70, 48, .14); }
+.languages .stats { background: #e6d6b8; border-color: #e6d6b8; }
