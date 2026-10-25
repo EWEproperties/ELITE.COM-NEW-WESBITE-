@@ -619,7 +619,8 @@ def photo_src(L, local):
         for size, suffix in (("big", ""), ("small", "-s")):
             path = os.path.join(folder, f"{i + 1:02d}{suffix}.jpg")
             if not os.path.exists(path):
-                with urllib.request.urlopen(ph[size], timeout=60) as r, open(path, "wb") as f:
+                req = urllib.request.Request(ph[size], headers={"User-Agent": "Mozilla/5.0"})
+                with urllib.request.urlopen(req, timeout=60) as r, open(path, "wb") as f:
                     f.write(r.read())
     return lambda i, size: f"../assets/listings/{L['id']}/{i + 1:02d}{'-s' if size == 'small' else ''}.jpg"
 
