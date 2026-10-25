@@ -354,11 +354,11 @@
       <div class="section-head">
         <div>
           <p class="eyebrow dark">For sale now</p>
-          <h2>Properties for sale in Alicante city</h2>
+          <h2>Properties for sale in Alicante</h2>
           <p class="lead">Mostly new apartments with 2 to 4 bedrooms, many with a communal pool, parking and storage. Prices are as listed today; ask us for the current availability.</p>
         </div>
       </div>
-      <div class="t-grid">
+      <div class="t-grid" data-limit="12">
         <a class="tcard" href="https://www.eliteworldestates.com/property-details/stylish-apartment-6-km-from-albufereta-beach-in-alicante/24922461" target="_blank" rel="noopener">
           <div class="tcard-photo"><img src="assets/towns/alicante/listings/24922461.jpg" alt="New flat for sale in Alicante." width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE3658</span></div>
           <div class="tcard-body">
@@ -495,6 +495,7 @@
           </div>
         </a>
       </div>
+      <div class="t-more-wrap"><button type="button" class="btn t-btn-outline t-more" hidden>Show all 15 properties</button></div>
     </div>
   </section>
 
@@ -507,7 +508,7 @@
           <p class="lead">Ten to twenty minutes from the centre: seaside homes in El Campello and Sant Joan, and villas and apartments around the Bonalba and Alicante Golf courses in Mutxamel.</p>
         </div>
       </div>
-      <div class="t-grid">
+      <div class="t-grid" data-limit="12">
         <a class="tcard" href="https://www.eliteworldestates.com/property-details/apartment-with-a-view-of-golf-course-in-el-campello/20868283" target="_blank" rel="noopener">
           <div class="tcard-photo"><img src="assets/towns/alicante/listings/20868283.jpg" alt="010_PISCINA" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE2427</span></div>
           <div class="tcard-body">
@@ -635,6 +636,7 @@
           </div>
         </a>
       </div>
+      <div class="t-more-wrap"><button type="button" class="btn t-btn-outline t-more" hidden>Show all 14 properties</button></div>
     </div>
   </section>
 
@@ -780,5 +782,15 @@
 </footer>
 
 <script src="js/main.js"></script>
+<script>
+// Show the first 12 cards; the rest stay in the HTML for search engines and open with the button
+document.querySelectorAll(".t-grid[data-limit]").forEach(function (g) {
+  var n = +g.dataset.limit, cards = g.querySelectorAll(".tcard"), btn = g.parentNode.querySelector(".t-more");
+  if (cards.length <= n) return;
+  cards.forEach(function (c, k) { if (k >= n) c.hidden = true; });
+  btn.hidden = false;
+  btn.addEventListener("click", function () { cards.forEach(function (c) { c.hidden = false; }); btn.remove(); });
+});
+</script>
 </body>
 </html>

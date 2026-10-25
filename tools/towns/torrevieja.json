@@ -1,0 +1,60 @@
+{
+ "town": "Torrevieja",
+ "page": "properties-for-sale-in-torrevieja",
+ "title": "Property for Sale in Torrevieja – Apartments, Bungalows & Villas | Elite World Estates",
+ "description": "{count} apartments, bungalows and villas for sale in Torrevieja from {from}, plus {near_count} nearby in Ciudad Quesada and Punta Prima. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Torrevieja",
+ "h1": "Property for sale in Torrevieja",
+ "lead": "Apartments a short walk from the beach, bungalows with a terrace and villas with a private pool. Here are the properties we sell in Torrevieja today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Torrevieja": "Torrevieja",
+  "Rojales": "Ciudad Quesada",
+  "Orihuela": "Punta Prima"
+ },
+ "near_towns": ["Ciudad Quesada", "Punta Prima"],
+ "facts": [
+  ["{count}", "properties for sale in Torrevieja"],
+  ["from {from}", "for a studio near the beach"],
+  ["about 45 min", "to Alicante-Elche airport"],
+  ["2 lagoons", "a natural park with flamingos"]
+ ],
+ "listings_intro": "Mostly new apartments with 2 or 3 bedrooms and a communal pool, many within a few hundred metres of the sea, plus bungalows and villas in La Mata and Los Balcones. Prices are as listed today; ask us for the current availability.",
+ "near_intro": "Just outside the town: new apartments in Ciudad Quesada, a large residential area inland with its own golf course, and a home by the sea in Punta Prima on the border with Orihuela Costa.",
+ "guide_title": "Living in Torrevieja",
+ "guide": [
+  "Torrevieja is a seaside town in the south of the Costa Blanca with more than 100,000 residents, many of them from other European countries. It grew around its salt works, and the salt is still harvested from the lagoon today. Life here goes on all year, with shops, restaurants, health centres and the Torrevieja University Hospital.",
+  "The town has around 20 km of coast, from the sandy city beaches of Playa del Cura and Los Locos to the long, quieter beach of La Mata. Behind the town lie the two lagoons of the La Mata and Torrevieja natural park. The large lagoon turns pink in summer, and flamingos feed in the shallow water.",
+  "Prices are lower than in the north of the Costa Blanca, so many buyers find a new apartment with a pool close to the beach for less than they expected. Alicante-Elche airport is about 45 minutes away by car, and Murcia airport about the same."
+ ],
+ "guide_photo": "beach.jpg",
+ "guide_photo_alt": "Beach and promenade in Torrevieja on the Costa Blanca",
+ "areas_title": "The main areas of Torrevieja",
+ "areas": [
+  {"name": "Centre and Playa del Cura", "text": "The promenade, the marina, shops and restaurants on foot. Mostly apartments, many of them new and within 200 metres of the beach."},
+  {"name": "Playa de los Locos", "text": "A popular sandy beach just north of the centre, with apartment blocks along the coast and good bus links. Easy to rent out in summer."},
+  {"name": "La Mata", "text": "A quieter beach area in the north of Torrevieja with a long sandy beach and dunes. Apartments, bungalows and villas, some with sea views from the front line."},
+  {"name": "Los Balcones", "text": "A green residential area by the pink lagoon, close to the hospital and the motorway. Detached villas and townhouses with gardens and private pools."},
+  {"name": "Punta Prima", "text": "The south end of Torrevieja, by the border with Orihuela Costa. Modern complexes with pools near small rocky coves and beaches."},
+  {"name": "Around the Pink Lake", "text": "New developments on the edge of the lagoon, a few kilometres from the sea. More space for the money, often with views over the water."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €260,000, for example, that is €26,000 VAT and €3,640 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does an apartment cost in Torrevieja?", "Our properties in Torrevieja start at {from} for a studio. Most new apartments with 2 or 3 bedrooms we sell cost between €200,000 and €350,000, depending on the distance to the beach and the views. Bungalows start at around €264,000, and villas cost from about €424,000 to €990,000."],
+  ["Which area of Torrevieja is best to buy in?", "It depends on how you will use the home. The centre, Playa del Cura and Los Locos suit buyers who want the beach and everything on foot. La Mata is quieter, with a long natural beach. Los Balcones is for villas with gardens, and Punta Prima for modern complexes near the sea."],
+  ["Is Torrevieja a good place to rent out a property?", "Torrevieja is busy in summer and has many people who live there all year, so both holiday and long-term letting are possible. Holiday letting needs a tourist licence in the Valencian register, and some buildings restrict it, so check before you buy."],
+  ["How far is Torrevieja from the airport?", "Alicante-Elche Miguel Hernández airport is about 45 minutes by car. Región de Murcia airport in Corvera is about the same distance."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Torrevieja?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "la-hoya-torrevieja-lagoons-village.html", "img": "assets/blog/thumbs/la-hoya.jpg", "tag": "Places", "title": "La Hoya, Torrevieja: a guide to Lagoons Village"},
+  {"href": "properties-near-the-sea-in-spain.html", "img": "assets/blog/thumbs/near-the-sea.jpg", "tag": "Buying in Spain", "title": "Buying a property near the sea in Spain"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}

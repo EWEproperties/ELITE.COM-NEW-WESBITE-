@@ -121,6 +121,8 @@ def main(slug):
           <h3>{e(a['name'])}</h3>
           <p>{a['text']}</p>
         </div>""" for a in c["areas"])
+    from PIL import Image
+    gw, gh = Image.open(os.path.join(ROOT, "assets", "towns", slug, c["guide_photo"])).size
     guide = "\n".join(f"        <p>{fill(p)}</p>" for p in c["guide"])
     costs = "\n".join(f"          <tr><th scope=\"row\">{r[0]}</th><td>{r[1]}</td></tr>" for r in c["costs"])
     faq = "\n".join(f"""      <details>
@@ -133,7 +135,24 @@ def main(slug):
         <h3>{e(r['title'])}</h3>
       </a>""" for r in c["reads"])
     facts_band = "\n".join(f'      <li><strong>{fill(v)}</strong><span>{fill(k)}</span></li>' for v, k in c["facts"])
-    near_names = ", ".join(c["near_towns"])
+    near_names = ", ".join(c.get("near_towns", []))
+    near_block = f"""
+  <section class="t-section t-near">
+    <div class="container">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow dark">A short drive away</p>
+          <h2>Near {e(c['town'])}: {e(near_names)}</h2>
+          <p class="lead">{fill(c.get('near_intro', ''))}</p>
+        </div>
+      </div>
+      <div class="t-grid" data-limit="12">
+{chr(10).join(card(i, pages) for i in near)}
+      </div>
+      <div class="t-more-wrap"><button type="button" class="btn t-btn-outline t-more" hidden>Show all {len(near)} properties</button></div>
+    </div>
+  </section>
+""" if near else ""
 
     out = f"""<!DOCTYPE html>
 <html lang="en">
@@ -208,31 +227,17 @@ def main(slug):
       <div class="section-head">
         <div>
           <p class="eyebrow dark">For sale now</p>
-          <h2>Properties for sale in {e(c['town'])} city</h2>
+          <h2>{e(c.get('listings_title', 'Properties for sale in ' + c['town']))}</h2>
           <p class="lead">{fill(c['listings_intro'])}</p>
         </div>
       </div>
-      <div class="t-grid">
+      <div class="t-grid" data-limit="12">
 {chr(10).join(card(i, pages) for i in city)}
       </div>
+      <div class="t-more-wrap"><button type="button" class="btn t-btn-outline t-more" hidden>Show all {len(city)} properties</button></div>
     </div>
   </section>
-
-  <section class="t-section t-near">
-    <div class="container">
-      <div class="section-head">
-        <div>
-          <p class="eyebrow dark">A short drive away</p>
-          <h2>Near {e(c['town'])}: {e(near_names)}</h2>
-          <p class="lead">{fill(c['near_intro'])}</p>
-        </div>
-      </div>
-      <div class="t-grid">
-{chr(10).join(card(i, pages) for i in near)}
-      </div>
-    </div>
-  </section>
-
+{near_block}
   <section class="t-section t-guide">
     <div class="container t-split">
       <div class="t-text">
@@ -240,7 +245,7 @@ def main(slug):
         <h2>{e(c['guide_title'])}</h2>
 {guide}
       </div>
-      <img class="t-photo" src="assets/towns/{slug}/{c['guide_photo']}" alt="{e(c['guide_photo_alt'])}" width="1200" height="832" loading="lazy" decoding="async">
+      <img class="t-photo" src="assets/towns/{slug}/{c['guide_photo']}" alt="{e(c['guide_photo_alt'])}" width="{gw}" height="{gh}" loading="lazy" decoding="async">
     </div>
   </section>
 
@@ -310,6 +315,16 @@ def main(slug):
 </footer>
 
 <script src="js/main.js"></script>
+<script>
+// Show the first 12 cards; the rest stay in the HTML for search engines and open with the button
+document.querySelectorAll(".t-grid[data-limit]").forEach(function (g) {{
+  var n = +g.dataset.limit, cards = g.querySelectorAll(".tcard"), btn = g.parentNode.querySelector(".t-more");
+  if (cards.length <= n) return;
+  cards.forEach(function (c, k) {{ if (k >= n) c.hidden = true; }});
+  btn.hidden = false;
+  btn.addEventListener("click", function () {{ cards.forEach(function (c) {{ c.hidden = false; }}); btn.remove(); }});
+}});
+</script>
 </body>
 </html>
 """
