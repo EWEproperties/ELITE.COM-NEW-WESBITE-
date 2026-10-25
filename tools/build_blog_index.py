@@ -4,8 +4,8 @@ Usage: python3 tools/build_blog_index.py
 
 Lists every article in tools/blog/*.json (newest first) with a photo,
 topic, summary, author and date. The newest article is shown large at
-the top. Topic buttons filter the list in the browser; without
-JavaScript every article is still listed, so search engines see them all.
+the top. Topic buttons filter the list and a button shows 12 more
+articles at a time; without JavaScript every article is listed, so search engines see them all.
 Card photos (960px) are made once in assets/blog/thumbs/.
 """
 import json
@@ -39,21 +39,21 @@ T = {
                lead="Practical guides from our property advisers on the Costa Blanca and the Costa del Sol. Every article is checked and updated for 2026.",
                all="All articles", latest="Latest article", read_more="Read the article", count="{n} articles",
                topics=dict(buying="Buying a home", owning="Owning and taxes", living="Living in Spain", places="Places and developments"),
-               cta_h="Looking for a home in Spain?", cta_p="Tell us what you are looking for and we will send you homes that match.", cta_b="Contact us"),
+               more="Show more articles ({n} more)", cta_h="Looking for a home in Spain?", cta_p="Tell us what you are looking for and we will send you homes that match.", cta_b="Contact us"),
     "de": dict(title="Blog: Kaufen, Besitzen und Leben in Spanien | Elite World Estates",
                desc="Praktische, geprüfte Ratgeber zum Immobilienkauf in Spanien, zu Steuern und Eigentum, zum Alltag und zu den schönsten Orten an der Costa Blanca und Costa del Sol.",
                eyebrow="Blog von Elite World Estates", h1="Kaufen, besitzen und leben in Spanien",
                lead="Praktische Ratgeber unserer Immobilienberaterinnen an der Costa Blanca und der Costa del Sol. Jeder Artikel ist geprüft und für 2026 aktualisiert.",
                all="Alle Artikel", latest="Neuester Artikel", read_more="Artikel lesen", count="{n} Artikel",
                topics=dict(buying="Immobilienkauf", owning="Eigentum und Steuern", living="Leben in Spanien", places="Orte und Projekte"),
-               cta_h="Sie suchen eine Immobilie in Spanien?", cta_p="Sagen Sie uns, was Sie suchen, und wir senden Ihnen passende Angebote.", cta_b="Kontakt"),
+               more="Weitere Artikel anzeigen ({n} weitere)", cta_h="Sie suchen eine Immobilie in Spanien?", cta_p="Sagen Sie uns, was Sie suchen, und wir senden Ihnen passende Angebote.", cta_b="Kontakt"),
     "es": dict(title="Blog: comprar, tener y vivir en España | Elite World Estates",
                desc="Guías prácticas y verificadas sobre comprar vivienda en España, impuestos y propiedad, la vida diaria y los mejores lugares de la Costa Blanca y la Costa del Sol.",
                eyebrow="Blog de Elite World Estates", h1="Comprar, tener y vivir en España",
                lead="Guías prácticas de nuestras asesoras inmobiliarias en la Costa Blanca y la Costa del Sol. Cada artículo está revisado y actualizado para 2026.",
                all="Todos los artículos", latest="Último artículo", read_more="Leer el artículo", count="{n} artículos",
                topics=dict(buying="Comprar vivienda", owning="Propiedad e impuestos", living="Vivir en España", places="Lugares y promociones"),
-               cta_h="¿Buscas casa en España?", cta_p="Cuéntanos qué buscas y te enviaremos viviendas que encajen.", cta_b="Contacta con nosotros"),
+               more="Ver más artículos ({n} más)", cta_h="¿Buscas casa en España?", cta_p="Cuéntanos qué buscas y te enviaremos viviendas que encajen.", cta_b="Contacta con nosotros"),
 }
 
 
@@ -224,6 +224,7 @@ def page(arts, lang):
     <div class="blog-grid">
 {cards}
     </div>
+    <div class="blog-more-wrap"><button type="button" class="btn blog-show-more" hidden></button></div>
 
     <section class="blog-cta">
       <h2>{tx["cta_h"]}</h2>
@@ -244,16 +245,36 @@ def page(arts, lang):
 <script src="{up}js/main.js"></script>
 <script>
 (function () {{
-  var chips = document.querySelectorAll(".blog-filter .chip"), cards = document.querySelectorAll(".blog-grid .blog-card"),
-      count = document.querySelector(".blog-count"), label = {json.dumps(tx["count"])};
+  // Show 12 cards at a time; all cards stay in the HTML for search engines
+  var STEP = 12, limit = STEP, topic = "all",
+      chips = document.querySelectorAll(".blog-filter .chip"), cards = document.querySelectorAll(".blog-grid .blog-card"),
+      count = document.querySelector(".blog-count"), more = document.querySelector(".blog-show-more"),
+      label = {json.dumps(tx["count"])}, moreLabel = {json.dumps(tx["more"])};
+  function render() {{
+    var n = 0, shown = 0;
+    cards.forEach(function (k) {{
+      var match = topic === "all" || k.dataset.topic === topic;
+      if (match) n++;
+      k.hidden = !match || n > limit;
+      if (!k.hidden) shown++;
+    }});
+    count.textContent = label.replace("{{n}}", n);
+    more.hidden = shown >= n;
+    more.textContent = moreLabel.replace("{{n}}", n - shown);
+  }}
   chips.forEach(function (c) {{
     c.addEventListener("click", function () {{
-      var t = c.dataset.topic, n = 0;
+      topic = c.dataset.topic; limit = STEP;
       chips.forEach(function (x) {{ x.classList.toggle("active", x === c); x.setAttribute("aria-pressed", x === c); }});
-      cards.forEach(function (k) {{ var show = t === "all" || k.dataset.topic === t; k.hidden = !show; if (show) n++; }});
-      count.textContent = label.replace("{{n}}", n);
+      render();
     }});
   }});
+  more.addEventListener("click", function () {{
+    var first = limit; limit += STEP; render();
+    var next = Array.prototype.filter.call(cards, function (k) {{ return !k.hidden; }})[first];
+    if (next) next.querySelector("a").focus({{ preventScroll: true }});
+  }});
+  render();
 }})();
 </script>
 </body>

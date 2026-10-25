@@ -809,6 +809,7 @@
       </a>
     </article>
     </div>
+    <div class="blog-more-wrap"><button type="button" class="btn blog-show-more" hidden></button></div>
 
     <section class="blog-cta">
       <h2>Looking for a home in Spain?</h2>
@@ -829,16 +830,36 @@
 <script src="js/main.js"></script>
 <script>
 (function () {
-  var chips = document.querySelectorAll(".blog-filter .chip"), cards = document.querySelectorAll(".blog-grid .blog-card"),
-      count = document.querySelector(".blog-count"), label = "{n} articles";
+  // Show 12 cards at a time; all cards stay in the HTML for search engines
+  var STEP = 12, limit = STEP, topic = "all",
+      chips = document.querySelectorAll(".blog-filter .chip"), cards = document.querySelectorAll(".blog-grid .blog-card"),
+      count = document.querySelector(".blog-count"), more = document.querySelector(".blog-show-more"),
+      label = "{n} articles", moreLabel = "Show more articles ({n} more)";
+  function render() {
+    var n = 0, shown = 0;
+    cards.forEach(function (k) {
+      var match = topic === "all" || k.dataset.topic === topic;
+      if (match) n++;
+      k.hidden = !match || n > limit;
+      if (!k.hidden) shown++;
+    });
+    count.textContent = label.replace("{n}", n);
+    more.hidden = shown >= n;
+    more.textContent = moreLabel.replace("{n}", n - shown);
+  }
   chips.forEach(function (c) {
     c.addEventListener("click", function () {
-      var t = c.dataset.topic, n = 0;
+      topic = c.dataset.topic; limit = STEP;
       chips.forEach(function (x) { x.classList.toggle("active", x === c); x.setAttribute("aria-pressed", x === c); });
-      cards.forEach(function (k) { var show = t === "all" || k.dataset.topic === t; k.hidden = !show; if (show) n++; });
-      count.textContent = label.replace("{n}", n);
+      render();
     });
   });
+  more.addEventListener("click", function () {
+    var first = limit; limit += STEP; render();
+    var next = Array.prototype.filter.call(cards, function (k) { return !k.hidden; })[first];
+    if (next) next.querySelector("a").focus({ preventScroll: true });
+  });
+  render();
 })();
 </script>
 </body>

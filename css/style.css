@@ -382,3 +382,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .blog-cta { text-align: center; border-top: 1px solid #ece7df; margin-top: 3.5rem; padding-top: 3.5rem; }
 .blog-cta h2 { font-size: clamp(1.7rem, 3.5vw, 2.3rem); }
 .blog-cta p { color: var(--muted); margin: 0 auto 1.6rem; max-width: 520px; }
+.blog-more-wrap { text-align: center; margin-top: 2rem; }
+.blog-show-more { background: var(--white); border-color: var(--gold); color: var(--ink); }
+.blog-show-more:hover { background: var(--gold); color: var(--white); }
+.blog-show-more[hidden] { display: none; }
