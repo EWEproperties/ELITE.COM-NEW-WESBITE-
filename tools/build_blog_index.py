@@ -6,7 +6,7 @@ Lists every article in tools/blog/*.json (newest first) with a photo,
 topic, summary, author and date. The newest article is shown large at
 the top. Topic buttons filter the list in the browser; without
 JavaScript every article is still listed, so search engines see them all.
-Small card photos are made once in assets/blog/thumbs/.
+Card photos (960px) are made once in assets/blog/thumbs/.
 """
 import json
 import os
@@ -58,10 +58,10 @@ T = {
 
 
 def thumb(src, name):
-    """Make a 720px card photo next to the article photos (once)."""
+    """Make a 960px card photo next to the article photos (once)."""
     rel = f"assets/blog/thumbs/{name}.jpg"
     out = os.path.join(ROOT, rel)
-    if not os.path.exists(out) or os.path.getmtime(out) < os.path.getmtime(os.path.join(ROOT, src)):
+    if not os.path.exists(out) or os.path.getmtime(out) < os.path.getmtime(os.path.join(ROOT, src)) or Image.open(out).width < 960:
         os.makedirs(os.path.dirname(out), exist_ok=True)
         im = Image.open(os.path.join(ROOT, src)).convert("RGB")
         w, h = im.size
@@ -69,7 +69,7 @@ def thumb(src, name):
         if ch < h:
             top = (h - ch) // 2
             im = im.crop((0, top, w, top + ch))
-        im.thumbnail((720, 405))
+        im.thumbnail((960, 540))
         im.save(out, "JPEG", quality=78, optimize=True, progressive=True)
     return rel
 
@@ -118,7 +118,7 @@ def card(a, lang, up, big=False):
     more = f'\n        <span class="blog-more">{tx["read_more"]} &rarr;</span>' if big else ""
     return f'''    <article class="blog-card{" blog-feature" if big else ""}" data-topic="{a["_topic"]}">
       <a href="{href}">
-        <img src="{up}{img}" alt="" width="{1280 if big else 720}" height="{720 if big else 405}" {load}>
+        <img src="{up}{img}" alt="" width="{1280 if big else 960}" height="{720 if big else 540}" {load}>
         <div class="blog-card-body">
           <p class="tag">{esc(tx["topics"][a["_topic"]])}</p>
           <{head}>{esc(t["h1"])}</{head}>
