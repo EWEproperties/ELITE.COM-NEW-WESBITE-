@@ -1,0 +1,63 @@
+{
+ "town": "Alicante",
+ "page": "properties-for-sale-in-alicante",
+ "title": "Property for Sale in Alicante – Apartments & Villas | Elite World Estates",
+ "description": "{count} apartments and homes for sale in Alicante city from {from}, plus {near_count} nearby in El Campello, Sant Joan and Mutxamel. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Alicante",
+ "h1": "Property for sale in Alicante",
+ "lead": "New apartments in the city, homes by the beach and golf villas just outside it. Here are the properties we sell in and around Alicante today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Alicante / Alacant": "Alicante",
+  "Sant Joan d'Alacant": "Sant Joan d'Alacant",
+  "El Campello": "El Campello",
+  "Mutxamel": "Mutxamel",
+  "Busot": "Busot",
+  "Monforte del Cid": "Monforte del Cid"
+ },
+ "near_towns": ["El Campello", "Sant Joan", "Mutxamel"],
+ "facts": [
+  ["{count}", "properties for sale in the city"],
+  ["from {from}", "for a new apartment"],
+  ["about 20 min", "to Alicante-Elche airport"],
+  ["Postiguet", "the city beach, in the centre"]
+ ],
+ "listings_intro": "Mostly new apartments with 2 to 4 bedrooms, many with a communal pool, parking and storage. Prices are as listed today; ask us for the current availability.",
+ "near_intro": "Ten to twenty minutes from the centre: seaside homes in El Campello and Sant Joan, and villas and apartments around the Bonalba and Alicante Golf courses in Mutxamel.",
+ "guide_title": "Living in Alicante",
+ "guide": [
+  "Alicante is the capital of its province and the largest city on the Costa Blanca, with around 360,000 people. It is a real city that stays alive all year: it has an international airport, a port, a university, large hospitals and the TRAM, which links the centre with the beaches and nearby towns.",
+  "Above the old town stands the Castle of Santa Bárbara on Mount Benacantil, with views over the whole bay. Below it, the palm-lined Explanada de España promenade, laid with about 6.6 million tiles in a wave pattern, runs along the marina next to Postiguet beach. To the north, the long sandy beach of San Juan is where many buyers look first.",
+  "Because people live, study and work here in every season, the rental market does not stop after the summer. That is one reason why new developments in Alicante are built for everyday life, with parking, storage, communal pools and good insulation."
+ ],
+ "guide_photo": "beach.jpg",
+ "guide_photo_alt": "Albufereta beach in Alicante with palm trees",
+ "areas_title": "The main areas of Alicante",
+ "areas": [
+  {"name": "City centre and Ensanche", "text": "Shops, restaurants, the Explanada and Postiguet beach on foot. Mostly apartments in older and renovated buildings, with some new projects."},
+  {"name": "Playa de San Juan", "text": "A long sandy beach in the north of the city, popular with families and buyers from abroad. Newer apartment blocks with pools, and the TRAM to the centre."},
+  {"name": "Cabo de las Huertas", "text": "A quiet headland with small coves between Albufereta and San Juan. Villas and terraced houses, and some of the highest prices in Alicante."},
+  {"name": "Albufereta", "text": "A small bay with a beach between the centre and Cabo de las Huertas. Apartments with sea views, close to the TRAM."},
+  {"name": "Bulevar del Pla", "text": "A modern part of the city with wide avenues, about 2 km from Postiguet beach and on the TRAM. Good for city life without a car."},
+  {"name": "San Agustín and Villafranqueza", "text": "Residential areas north of the centre, about 3.5 to 6 km from the beach. Schools and services close by, and the lowest prices for new apartments."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €272,400, for example, that is €27,240 VAT and €3,814 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does an apartment cost in Alicante?", "In the city our apartments start at {from} today. Most apartments with 2 or 3 bedrooms we sell in the city cost between €210,000 and €410,000, depending on the area, the floor and the distance to the beach. Houses cost more: our terraced house in Cabo de las Huertas is €1,225,000."],
+  ["Which area of Alicante is best to buy in?", "It depends on how you will use the home. Playa de San Juan and Albufereta suit buyers who want the beach. The centre and Bulevar del Pla suit city life without a car. San Agustín and Villafranqueza offer more space for the money, and Cabo de las Huertas is for villas."],
+  ["Is Alicante a good place to rent out a property?", "Alicante has demand all year from students, remote workers, families and people moving to the city, so long-term letting works well. Holiday letting needs a tourist licence in the Valencian register, and some buildings and areas restrict it, so check before you buy."],
+  ["How far is Alicante from the airport?", "Alicante-Elche Miguel Hernández airport is about 20 minutes by car from the city centre, with flights to most European cities all year."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Alicante?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "new-developments-in-alicante.html", "img": "assets/blog/thumbs/new-developments-alicante.jpg", "tag": "Buying in Spain", "title": "New developments in Alicante: three areas worth knowing"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"},
+  {"href": "costa-blanca-or-costa-del-sol.html", "img": "assets/blog/thumbs/costa-blanca-or-costa-del-sol.jpg", "tag": "Places", "title": "Costa Blanca or Costa del Sol?"}
+ ]
+}
