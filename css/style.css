@@ -102,9 +102,9 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .coasts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; max-width: 1100px; margin: 0 auto; }
 .coast { position: relative; display: grid; place-items: center; min-height: 300px; padding: 1rem; overflow: hidden; background-size: cover; background-position: center; text-align: center; color: #fff; }
 .coast::before { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(60, 45, 30, .25), rgba(60, 45, 30, .55)); transition: background .4s; }
-.coast::after { content: ""; position: absolute; inset: 14px; border: 1px solid rgba(255, 255, 255, .6); transition: border-color .4s, inset .4s; pointer-events: none; }
+.coast::after { content: ""; position: absolute; inset: 0; border: 2px solid transparent; transition: border-color .35s, box-shadow .35s; pointer-events: none; }
 .coast:hover::before { background: linear-gradient(180deg, rgba(60, 45, 30, .35), rgba(60, 45, 30, .65)); }
-.coast:hover::after { border-color: var(--gold-light); inset: 10px; }
+.coast:hover::after { border-color: #c9a46a; box-shadow: inset 0 0 0 1px rgba(255, 243, 209, .35), 0 0 0 1px rgba(201, 164, 106, .25); }
 .coast-inner { position: relative; display: flex; flex-direction: column; align-items: center; gap: .55rem; }
 .coast-kicker { font-size: .7rem; font-weight: 700; letter-spacing: .24em; text-transform: uppercase; color: rgba(255, 255, 255, .85); }
 .coast-name { font-family: var(--serif); font-size: clamp(2rem, 3.4vw, 2.8rem); line-height: 1.1; }
@@ -218,7 +218,8 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .agent-card { border: 1px solid #ece7df; padding: 1.75rem; display: grid; gap: .5rem; }
 .agent-card { text-align: center; padding: 2.25rem 2rem 2rem; border-color: #e8dcc6; }
 .agent-title { margin: 0 0 1.25rem; font-family: var(--serif); font-size: 1.05rem; text-transform: uppercase; letter-spacing: .12em; color: var(--ink); }
-.agent-photo { width: 170px; height: 170px; border-radius: 50%; object-fit: cover; margin: 0 auto; padding: 3px; border: 1px solid var(--gold-light); }
+.agent-photo { width: 170px; height: 170px; border-radius: 50%; object-fit: cover; margin: 0 auto; transition: box-shadow .35s; }
+.agent-photo:hover { box-shadow: 0 0 0 2px #c9a46a, 0 0 0 5px rgba(201, 164, 106, .25); }
 .agent-card .agent-name { font-size: 1.5rem; margin: 1.1rem 0 .2rem; font-variant: small-caps; letter-spacing: .04em; }
 .agent-role { margin: 0 0 1.4rem; font-size: .88rem; color: var(--muted); }
 .agent-actions { display: grid; gap: .6rem; }
@@ -538,8 +539,6 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .feature:hover .feature-photo img { transform: scale(1.035); }
 .feature-body .card-link.gold-btn { position: relative; overflow: hidden; display: inline-block; background: var(--metal); color: var(--white); border: 0; padding: .75rem 1.4rem; font-size: .72rem; letter-spacing: .16em; }
 .slide-dots button[aria-current="true"] { background: var(--metal); }
-.coast::after { border-color: rgba(233, 210, 156, .75); }
-.coast:hover::after { border-color: #e9d29c; }
 /* Cards and towns */
 .card { border: 1px solid var(--gold-line); box-shadow: none; }
 .card:hover { border-color: #c9a46a; box-shadow: 0 10px 26px rgba(91, 70, 48, .12); }
@@ -548,7 +547,8 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .article { border-bottom: 0; border: 1px solid var(--gold-line); }
 .article:hover { border-color: #c9a46a; }
 .article h3 { padding: 1rem 1.1rem 1.3rem; }
-.about-photo { padding: 10px; border: 1px solid #c9a46a; background: var(--white); box-shadow: 0 14px 34px rgba(91, 70, 48, .14); }
+.about-photo { box-shadow: 0 14px 34px rgba(91, 70, 48, .14); outline: 2px solid transparent; outline-offset: -2px; transition: outline-color .35s, box-shadow .35s; }
+.about-photo:hover { outline-color: #c9a46a; box-shadow: 0 0 0 1px rgba(201, 164, 106, .25), 0 14px 34px rgba(91, 70, 48, .14); }
 .languages .stats { background: #e6d6b8; border-color: #e6d6b8; }
 
 /* Home: featured properties slideshow (same style as the sections below) */
@@ -560,3 +560,13 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .prop-text li { margin: .2rem 0; }
 .feature-list { columns: 2; column-gap: 2rem; }
 @media (max-width: 600px) { .feature-list { columns: 1; } }
+
+/* Home: blog, 3 per row with a "More articles" button */
+.articles .article-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.75rem; }
+.articles .article img { aspect-ratio: 16 / 10; transition: transform .6s; }
+.articles .article { overflow: hidden; }
+.articles .article:hover img { transform: scale(1.035); }
+.articles .article h3 { font-size: 1.35rem; }
+.articles-more { text-align: center; margin-top: 2.75rem; }
+@media (max-width: 960px) { .articles .article-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .articles .article-grid { grid-template-columns: 1fr; } }
