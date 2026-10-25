@@ -1,0 +1,168 @@
+{
+ "author": "lucyna",
+ "published": "2025-12-12",
+ "modified": "2026-10-25",
+ "hero": "assets/blog/costa-blanca-or-costa-del-sol/calpe-and-penon-de-ifach.jpg",
+ "images": {
+  "sol": "assets/blog/costa-blanca-or-costa-del-sol/malaga-port-and-bullring.jpg",
+  "blanca": "assets/blog/costa-blanca-or-costa-del-sol/benidorm-skyline-and-beach.jpg",
+  "money": "assets/blog/costa-blanca-or-costa-del-sol/malaga-cathedral-at-sunset.jpg",
+  "closing": "assets/blog/costa-blanca-or-costa-del-sol/alicante-marina-aerial.jpg"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/costa-blanca-czy-costa-del-sol",
+ "cards": ["26232807", "26614054", "20927700"],
+ "sources": [
+  ["AEMET – climate values for Alicante and Málaga", "https://www.aemet.es/en/serviciosclimaticos/datosclimatologicos/valoresclimatologicos"],
+  ["idealista – monthly house price reports", "https://www.idealista.com/sala-de-prensa/informes-precio-vivienda/"]
+ ],
+ "en": {
+  "slug": "costa-blanca-or-costa-del-sol",
+  "title": "Costa Blanca or Costa del Sol? Comparing the Two Coasts",
+  "description": "Costa Blanca or Costa del Sol: lifestyle, climate, airports, property prices, purchase and inheritance taxes, and rental rules compared, with who each coast suits best.",
+  "crumb": "Costa Blanca or Costa del Sol",
+  "eyebrow": "Buying in Spain · Where to buy",
+  "h1": "Costa Blanca or Costa del Sol? How the Two Coasts Compare",
+  "hero_alt": "Calpe and the Peñón de Ifach rock on the Costa Blanca",
+  "short": "Both coasts have a mild climate, a big international airport and a good choice of homes; the difference is mostly character and price. The Costa del Sol (Málaga province, Andalusia) is more international and lively, with Marbella's luxury market, golf and marinas, and prices are higher. The Costa Blanca (Alicante province, Valencian Community) is more relaxed and varied, from the coves and villas of Jávea and Moraira in the north to the affordable sandy south around Torrevieja, and the same budget usually buys more. Purchase tax on resale homes is lower in Andalusia (7%) than in the Valencian Community (9%).",
+  "intro": [
+   "This is the first question many of our buyers ask, and the honest answer is that there is no wrong choice. Both coasts offer a high quality of life, they just offer it differently. Here is a clear comparison to help you decide."
+  ],
+  "sections": [
+   {
+    "id": "sol",
+    "h2": "Costa del Sol: international, lively, prestigious",
+    "alt": "Málaga port, the bullring and the city from above",
+    "html": "<p>The Costa del Sol runs along the coast of Málaga province, from Nerja in the east to Manilva in the west. Its best-known names are Marbella with the Golden Mile, Puerto Banús with its yachts and boutiques, Estepona with its old town, Benahavís in the hills and Málaga city itself, now a lively cultural capital.</p><p>Life here is more international and busier all year: more restaurants, beach clubs, international schools, private clinics and about 70 golf courses along the coast. The property market is led by villas in gated communities, frontline apartments and penthouses, and prices at the top end are among the highest in Spain. See <a href=\"{up}la-zagaleta-the-most-exclusive-place-in-europe.html\">La Zagaleta</a> for the very top of the market.</p><p><strong>Suits</strong>: buyers who want energy, prestige, golf and a social life, and families who need international schools.</p>"
+   },
+   {
+    "id": "blanca",
+    "h2": "Costa Blanca: relaxed, varied, better value",
+    "alt": "Benidorm skyline and its long sandy beach",
+    "html": "<p>The Costa Blanca covers the coast of Alicante province, over 200 km from Dénia to Pilar de la Horadada. It is really several coasts in one:</p><ul><li><strong>The north</strong> (Dénia, Jávea, Moraira, Benissa, Calpe, Altea): cliffs, coves, green hills, low-rise villas and some of the best sea views in Spain.</li><li><strong>The centre</strong> (Benidorm, Villajoyosa, Alicante city, El Campello): city life, long beaches and high-rise apartments with views.</li><li><strong>The south</strong> (Torrevieja, Orihuela Costa, Guardamar): long sandy beaches, salt lagoons and the most affordable seaside homes on either coast.</li></ul><p><strong>Suits</strong>: buyers who want peace, nature and space for their money, retirees, families and anyone who prefers a more Spanish rhythm.</p>"
+   },
+   {
+    "id": "compare",
+    "h2": "Side by side",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Costa Blanca</th><th>Costa del Sol</th></tr></thead><tbody><tr><td>Region</td><td>Valencian Community (Alicante province)</td><td>Andalusia (Málaga province)</td></tr><tr><td>Airport</td><td>Alicante-Elche; Valencia and Murcia also within reach</td><td>Málaga; Gibraltar and Seville within reach</td></tr><tr><td>Climate</td><td>Very dry and sunny; slightly cooler winters in the north</td><td>Sunny, a little wetter in winter, very mild</td></tr><tr><td>Character</td><td>Relaxed, varied, more Spanish</td><td>International, lively, glamorous</td></tr><tr><td>Prices</td><td>Lower on average, wide range</td><td>Higher, especially Marbella and Benahavís</td></tr><tr><td>Golf</td><td>Many courses, especially in the south and around Alicante</td><td>Around 70 courses, Spain's \"Costa del Golf\"</td></tr><tr><td>International schools</td><td>Several, mainly around Alicante and the north</td><td>Many, especially Marbella to Málaga</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "money",
+    "h2": "Taxes and rules that differ",
+    "alt": "Málaga cathedral and the Alcazaba at sunset",
+    "html": "<p>Purchase and inheritance taxes are set by the regions, so the coast you choose affects your costs:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Valencian Community</th><th>Andalusia</th></tr></thead><tbody><tr><td>Transfer tax (ITP), resale homes</td><td>9% (11% above €1 million)</td><td>7%</td></tr><tr><td>Stamp duty (AJD), new builds</td><td>1.4% plus 10% VAT</td><td>1.2% plus 10% VAT</td></tr><tr><td>Inheritance, spouses and children</td><td>99% relief after a €100,000 allowance</td><td>€1 million allowance and 99% relief</td></tr></tbody></table></div><p>Both regions are tightening holiday-letting rules, and Málaga city has stopped new tourist-flat registrations. Read our guides to <a href=\"{up}new-regulations-on-short-term-rentals-in-spain.html\">short-term rental rules</a> and <a href=\"{up}inheriting-property-in-spain.html\">inheriting property</a>.</p>"
+   }
+  ],
+  "faq": [
+   ["Which is cheaper, the Costa Blanca or the Costa del Sol?", "On average the Costa Blanca. The southern Costa Blanca around Torrevieja has the most affordable seaside homes, while Marbella and Benahavís on the Costa del Sol are among the most expensive areas in Spain."],
+   ["Which coast has better weather?", "Both are mild and sunny. The Costa Blanca is drier; the Costa del Sol has slightly warmer winters but a little more rain."],
+   ["Which coast is better for golf?", "The Costa del Sol has around 70 courses and is known as the Costa del Golf, but the Costa Blanca also has many good courses, especially in the south."],
+   ["Are purchase taxes different on each coast?", "Yes. Transfer tax on resale homes is 7% in Andalusia and 9% in the Valencian Community (11% above €1 million)."],
+   ["Which coast is better for families?", "Both work well. The Costa del Sol has more international schools; the Costa Blanca offers more space for the money and a calmer pace."]
+  ],
+  "closing": {
+   "h2": "We work on both coasts",
+   "alt": "Aerial view of Alicante marina and the city beach",
+   "html": "<p>Tell us how you want to live and your budget, and we will show you the best matches on both the Costa Blanca and the Costa del Sol. <a href=\"{up}index.html#contact\">Contact us</a>, or read about <a href=\"{up}properties-near-the-sea-in-spain.html\">buying near the sea</a>.</p>"
+  }
+ },
+ "de": {
+  "slug": "costa-blanca-oder-costa-del-sol",
+  "title": "Costa Blanca oder Costa del Sol? Die beiden Küsten im Vergleich",
+  "description": "Costa Blanca oder Costa del Sol: Lebensstil, Klima, Flughäfen, Immobilienpreise, Kauf- und Erbschaftsteuern und Vermietungsregeln im Vergleich und für wen sich welche Küste eignet.",
+  "crumb": "Costa Blanca oder Costa del Sol",
+  "eyebrow": "Kaufen in Spanien · Wo kaufen",
+  "h1": "Costa Blanca oder Costa del Sol? Die beiden Küsten im Vergleich",
+  "hero_alt": "Calpe und der Felsen Peñón de Ifach an der Costa Blanca",
+  "short": "Beide Küsten haben ein mildes Klima, einen großen internationalen Flughafen und eine gute Auswahl an Immobilien; der Unterschied liegt vor allem im Charakter und im Preis. Die Costa del Sol (Provinz Málaga, Andalusien) ist internationaler und lebhafter, mit dem Luxusmarkt von Marbella, Golf und Jachthäfen, und die Preise sind höher. Die Costa Blanca (Provinz Alicante, Region Valencia) ist entspannter und vielfältiger, von den Buchten und Villen in Jávea und Moraira im Norden bis zum günstigen sandigen Süden um Torrevieja, und für dasselbe Budget bekommt man meist mehr. Die Grunderwerbsteuer für Bestandsimmobilien ist in Andalusien niedriger (7 %) als in der Region Valencia (9 %).",
+  "intro": [
+   "Das ist die erste Frage vieler unserer Käufer, und ehrlich gesagt gibt es keine falsche Wahl. Beide Küsten bieten hohe Lebensqualität, nur auf unterschiedliche Weise. Hier ist ein klarer Vergleich als Entscheidungshilfe."
+  ],
+  "sections": [
+   {
+    "id": "sol",
+    "h2": "Costa del Sol: international, lebhaft, prestigeträchtig",
+    "alt": "Hafen von Málaga, Stierkampfarena und Stadt von oben",
+    "html": "<p>Die Costa del Sol erstreckt sich entlang der Küste der Provinz Málaga, von Nerja im Osten bis Manilva im Westen. Die bekanntesten Namen sind Marbella mit der Goldenen Meile, Puerto Banús mit Jachten und Boutiquen, Estepona mit seiner Altstadt, Benahavís in den Hügeln und Málaga selbst, heute eine lebendige Kulturstadt.</p><p>Das Leben ist internationaler und das ganze Jahr über belebter: mehr Restaurants, Beachclubs, internationale Schulen, Privatkliniken und rund 70 Golfplätze entlang der Küste. Der Immobilienmarkt wird von Villen in bewachten Anlagen, Wohnungen in erster Linie und Penthäusern geprägt, und die Spitzenpreise gehören zu den höchsten in Spanien. Die absolute Spitze zeigt <a href=\"{up}de-de/la-zagaleta-der-exklusivste-ort-europas.html\">La Zagaleta</a>.</p><p><strong>Passt zu</strong>: Käufern, die Energie, Prestige, Golf und gesellschaftliches Leben suchen, und Familien, die internationale Schulen brauchen.</p>"
+   },
+   {
+    "id": "blanca",
+    "h2": "Costa Blanca: entspannt, vielfältig, preiswerter",
+    "alt": "Skyline von Benidorm und sein langer Sandstrand",
+    "html": "<p>Die Costa Blanca umfasst die Küste der Provinz Alicante, über 200 km von Dénia bis Pilar de la Horadada. Eigentlich sind es mehrere Küsten in einer:</p><ul><li><strong>Der Norden</strong> (Dénia, Jávea, Moraira, Benissa, Calpe, Altea): Steilküsten, Buchten, grüne Hügel, niedrige Villenbebauung und einige der schönsten Meerblicke Spaniens.</li><li><strong>Die Mitte</strong> (Benidorm, Villajoyosa, Alicante-Stadt, El Campello): Stadtleben, lange Strände und Hochhauswohnungen mit Aussicht.</li><li><strong>Der Süden</strong> (Torrevieja, Orihuela Costa, Guardamar): lange Sandstrände, Salzlagunen und die günstigsten Immobilien am Meer an beiden Küsten.</li></ul><p><strong>Passt zu</strong>: Käufern, die Ruhe, Natur und viel Raum fürs Geld suchen, Ruheständlern, Familien und allen, die einen spanischeren Rhythmus mögen.</p>"
+   },
+   {
+    "id": "compare",
+    "h2": "Im direkten Vergleich",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Costa Blanca</th><th>Costa del Sol</th></tr></thead><tbody><tr><td>Region</td><td>Region Valencia (Provinz Alicante)</td><td>Andalusien (Provinz Málaga)</td></tr><tr><td>Flughafen</td><td>Alicante-Elche; Valencia und Murcia ebenfalls erreichbar</td><td>Málaga; Gibraltar und Sevilla erreichbar</td></tr><tr><td>Klima</td><td>Sehr trocken und sonnig; im Norden etwas kühlere Winter</td><td>Sonnig, im Winter etwas feuchter, sehr mild</td></tr><tr><td>Charakter</td><td>Entspannt, vielfältig, spanischer</td><td>International, lebhaft, glamourös</td></tr><tr><td>Preise</td><td>Im Schnitt niedriger, große Spanne</td><td>Höher, vor allem Marbella und Benahavís</td></tr><tr><td>Golf</td><td>Viele Plätze, vor allem im Süden und um Alicante</td><td>Rund 70 Plätze, die „Costa del Golf“</td></tr><tr><td>Internationale Schulen</td><td>Mehrere, vor allem um Alicante und im Norden</td><td>Viele, besonders zwischen Marbella und Málaga</td></tr></tbody></table></div><p>Beide Flughäfen haben das ganze Jahr Direktflüge nach Deutschland, Österreich und in die Schweiz.</p>"
+   },
+   {
+    "id": "money",
+    "h2": "Steuern und Regeln, die sich unterscheiden",
+    "alt": "Kathedrale und Alcazaba von Málaga bei Sonnenuntergang",
+    "html": "<p>Kauf- und Erbschaftsteuern legen die Regionen fest, die Wahl der Küste wirkt sich also auf Ihre Kosten aus:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Region Valencia</th><th>Andalusien</th></tr></thead><tbody><tr><td>Grunderwerbsteuer (ITP), Bestand</td><td>9 % (11 % über 1 Mio. €)</td><td>7 %</td></tr><tr><td>Stempelsteuer (AJD), Neubau</td><td>1,4 % plus 10 % MwSt.</td><td>1,2 % plus 10 % MwSt.</td></tr><tr><td>Erbschaft, Ehepartner und Kinder</td><td>99 % Ermäßigung nach 100.000 € Freibetrag</td><td>1 Mio. € Freibetrag und 99 % Ermäßigung</td></tr></tbody></table></div><p>Beide Regionen verschärfen die Regeln für Ferienvermietung, und Málaga-Stadt nimmt keine neuen Ferienwohnungen mehr auf. Mehr in unseren Beiträgen zu den <a href=\"{up}de-de/neue-vorschriften-fur-kurzzeitvermietungen-in-spanien.html\">Vorschriften für Kurzzeitvermietung</a> und zum <a href=\"{up}de-de/immobilie-in-spanien-erben.html\">Erben einer Immobilie</a>.</p>"
+   }
+  ],
+  "faq": [
+   ["Was ist günstiger, Costa Blanca oder Costa del Sol?", "Im Schnitt die Costa Blanca. Die südliche Costa Blanca um Torrevieja hat die günstigsten Immobilien am Meer, während Marbella und Benahavís an der Costa del Sol zu den teuersten Gegenden Spaniens gehören."],
+   ["Welche Küste hat das bessere Wetter?", "Beide sind mild und sonnig. Die Costa Blanca ist trockener, die Costa del Sol hat etwas wärmere Winter, aber etwas mehr Regen."],
+   ["Welche Küste ist besser für Golfer?", "Die Costa del Sol hat rund 70 Plätze und heißt auch Costa del Golf, aber auch die Costa Blanca hat viele gute Plätze, vor allem im Süden."],
+   ["Sind die Kaufsteuern an beiden Küsten unterschiedlich?", "Ja. Die Grunderwerbsteuer auf Bestandsimmobilien beträgt in Andalusien 7 % und in der Region Valencia 9 % (11 % über 1 Mio. €)."],
+   ["Welche Küste ist besser für Familien?", "Beide eignen sich. Die Costa del Sol hat mehr internationale Schulen, die Costa Blanca bietet mehr Platz fürs Geld und ein ruhigeres Tempo."]
+  ],
+  "closing": {
+   "h2": "Wir sind an beiden Küsten zu Hause",
+   "alt": "Luftbild von Jachthafen und Stadtstrand in Alicante",
+   "html": "<p>Erzählen Sie uns, wie Sie leben möchten und welches Budget Sie haben, und wir zeigen Ihnen die besten Angebote an der Costa Blanca und der Costa del Sol. <a href=\"{up}index.html#contact\">Kontaktieren Sie uns</a> oder lesen Sie mehr zum <a href=\"{up}de-de/immobilien-in-meeresnahe-in-spanien.html\">Kauf am Meer</a>.</p>"
+  }
+ },
+ "es": {
+  "slug": "costa-blanca-o-costa-del-sol",
+  "title": "¿Costa Blanca o Costa del Sol? Comparativa de las dos costas",
+  "description": "Costa Blanca o Costa del Sol: estilo de vida, clima, aeropuertos, precios de la vivienda, impuestos de compra y sucesiones y normas de alquiler comparados, y para quién es cada costa.",
+  "crumb": "Costa Blanca o Costa del Sol",
+  "eyebrow": "Comprar en España · Dónde comprar",
+  "h1": "¿Costa Blanca o Costa del Sol? Así se comparan las dos costas",
+  "hero_alt": "Calpe y el Peñón de Ifach en la Costa Blanca",
+  "short": "Las dos costas tienen un clima suave, un gran aeropuerto internacional y mucha oferta; la diferencia está sobre todo en el carácter y el precio. La Costa del Sol (provincia de Málaga, Andalucía) es más internacional y animada, con el mercado de lujo de Marbella, golf y puertos deportivos, y los precios son más altos. La Costa Blanca (provincia de Alicante, Comunitat Valenciana) es más tranquila y variada, desde las calas y chalets de Jávea y Moraira en el norte hasta el sur arenoso y asequible de Torrevieja, y con el mismo presupuesto suele comprarse más. El ITP de la segunda mano es más bajo en Andalucía (7%) que en la Comunitat Valenciana (9%).",
+  "intro": [
+   "Es la primera pregunta de muchos de nuestros compradores y, sinceramente, no hay una elección equivocada. Las dos costas ofrecen gran calidad de vida, cada una a su manera. Esta comparativa le ayudará a decidir."
+  ],
+  "sections": [
+   {
+    "id": "sol",
+    "h2": "Costa del Sol: internacional, animada y con prestigio",
+    "alt": "El puerto de Málaga, la plaza de toros y la ciudad desde lo alto",
+    "html": "<p>La Costa del Sol recorre el litoral de la provincia de Málaga, desde Nerja al este hasta Manilva al oeste. Sus nombres más conocidos son Marbella y la Milla de Oro, Puerto Banús con sus yates y tiendas, Estepona y su casco antiguo, Benahavís en las colinas y la propia Málaga, hoy una capital cultural muy viva.</p><p>La vida es más internacional y con más movimiento todo el año: más restaurantes, beach clubs, colegios internacionales, clínicas privadas y unos 70 campos de golf a lo largo de la costa. El mercado lo dominan los chalets en urbanizaciones cerradas, los pisos en primera línea y los áticos, y los precios más altos están entre los mayores de España. La cumbre del mercado es <a href=\"{up}es-es/la-zagaleta-el-lugar-mas-exclusivo-de-europa.html\">La Zagaleta</a>.</p><p><strong>Ideal para</strong>: quien busca dinamismo, prestigio, golf y vida social, y familias que necesitan colegios internacionales.</p>"
+   },
+   {
+    "id": "blanca",
+    "h2": "Costa Blanca: tranquila, variada y con mejor precio",
+    "alt": "Rascacielos de Benidorm y su larga playa de arena",
+    "html": "<p>La Costa Blanca abarca el litoral de la provincia de Alicante, más de 200 km desde Dénia hasta Pilar de la Horadada. En realidad son varias costas en una:</p><ul><li><strong>El norte</strong> (Dénia, Jávea, Moraira, Benissa, Calpe, Altea): acantilados, calas, colinas verdes, chalets de baja altura y algunas de las mejores vistas al mar de España.</li><li><strong>El centro</strong> (Benidorm, Villajoyosa, Alicante ciudad, El Campello): vida urbana, playas largas y pisos en altura con vistas.</li><li><strong>El sur</strong> (Torrevieja, Orihuela Costa, Guardamar): largas playas de arena, lagunas saladas y las viviendas junto al mar más asequibles de ambas costas.</li></ul><p><strong>Ideal para</strong>: quien busca tranquilidad, naturaleza y más metros por su dinero, jubilados, familias y quien prefiere un ritmo más local.</p>"
+   },
+   {
+    "id": "compare",
+    "h2": "Comparativa",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Costa Blanca</th><th>Costa del Sol</th></tr></thead><tbody><tr><td>Comunidad</td><td>Comunitat Valenciana (provincia de Alicante)</td><td>Andalucía (provincia de Málaga)</td></tr><tr><td>Aeropuerto</td><td>Alicante-Elche; también Valencia y Murcia cerca</td><td>Málaga; también Gibraltar y Sevilla</td></tr><tr><td>Clima</td><td>Muy seco y soleado; inviernos algo más frescos en el norte</td><td>Soleado, algo más lluvioso en invierno, muy suave</td></tr><tr><td>Carácter</td><td>Tranquila, variada, más local</td><td>Internacional, animada, glamurosa</td></tr><tr><td>Precios</td><td>Más bajos de media, gran variedad</td><td>Más altos, sobre todo Marbella y Benahavís</td></tr><tr><td>Golf</td><td>Muchos campos, sobre todo en el sur y alrededor de Alicante</td><td>Unos 70 campos, la «Costa del Golf»</td></tr><tr><td>Colegios internacionales</td><td>Varios, sobre todo en Alicante y el norte</td><td>Muchos, especialmente entre Marbella y Málaga</td></tr></tbody></table></div>"
+   },
+   {
+    "id": "money",
+    "h2": "Impuestos y normas que cambian",
+    "alt": "Catedral de Málaga y la Alcazaba al atardecer",
+    "html": "<p>Los impuestos de compra y de sucesiones los fijan las comunidades autónomas, así que la costa elegida influye en sus costes:</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th></th><th>Comunitat Valenciana</th><th>Andalucía</th></tr></thead><tbody><tr><td>ITP, segunda mano</td><td>9% (11% por encima de 1 millón)</td><td>7%</td></tr><tr><td>AJD, obra nueva</td><td>1,4% más 10% de IVA</td><td>1,2% más 10% de IVA</td></tr><tr><td>Sucesiones, cónyuge e hijos</td><td>Bonificación del 99% tras una reducción de 100.000 €</td><td>Reducción de 1 millón y bonificación del 99%</td></tr></tbody></table></div><p>Ambas comunidades están endureciendo el alquiler turístico, y Málaga capital ya no admite nuevas viviendas turísticas. Más en nuestras guías sobre <a href=\"{up}es-es/nuevas-normas-sobre-alquileres-a-corto-plazo-en-espana.html\">alquileres de corta duración</a> y <a href=\"{up}es-es/herencia-de-una-propiedad-en-espana.html\">herencias</a>.</p>"
+   }
+  ],
+  "faq": [
+   ["¿Qué es más barato, la Costa Blanca o la Costa del Sol?", "De media, la Costa Blanca. El sur de la Costa Blanca, en torno a Torrevieja, tiene las viviendas junto al mar más asequibles, mientras que Marbella y Benahavís están entre las zonas más caras de España."],
+   ["¿Qué costa tiene mejor clima?", "Las dos son suaves y soleadas. La Costa Blanca es más seca; la Costa del Sol tiene inviernos algo más templados pero algo más de lluvia."],
+   ["¿Qué costa es mejor para el golf?", "La Costa del Sol tiene unos 70 campos y se la conoce como la Costa del Golf, pero la Costa Blanca también tiene muchos buenos campos, sobre todo en el sur."],
+   ["¿Son distintos los impuestos de compra en cada costa?", "Sí. El ITP de la vivienda usada es del 7% en Andalucía y del 9% en la Comunitat Valenciana (11% por encima de 1 millón)."],
+   ["¿Qué costa es mejor para familias?", "Las dos funcionan bien. La Costa del Sol tiene más colegios internacionales; la Costa Blanca ofrece más espacio por el mismo dinero y un ritmo más tranquilo."]
+  ],
+  "closing": {
+   "h2": "Trabajamos en las dos costas",
+   "alt": "Vista aérea del puerto deportivo de Alicante y la playa",
+   "html": "<p>Cuéntenos cómo quiere vivir y su presupuesto, y le mostraremos las mejores opciones en la Costa Blanca y la Costa del Sol. <a href=\"{up}index.html#contact\">Contacte con nosotros</a> o lea más sobre <a href=\"{up}es-es/propiedades-cerca-del-mar-en-espana.html\">comprar cerca del mar</a>.</p>"
+  }
+ }
+}
