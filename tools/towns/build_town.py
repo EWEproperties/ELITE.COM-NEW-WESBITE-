@@ -70,7 +70,7 @@ def card(i, pages):
             <p class="tcard-town">{e(town)}</p>
             <h3>{e(clean_title(i['title']))}</h3>
             <p class="tcard-price">{fmt_price(i['price'])}</p>
-            <p class="tcard-facts">{facts(i['det'])}</p>
+            <p class="tcard-facts"><span>{facts(i['det'])}</span><span class="tcard-refno">Ref. {i['ref']}</span></p>
           </div>
         </a>"""
 
@@ -79,6 +79,9 @@ def main(slug):
     c = json.load(open(os.path.join(HERE, slug + ".json"), encoding="utf-8"))
     listings = json.load(open(os.path.join(HERE, "data", slug + "-listings.json"), encoding="utf-8"))
     pages = local_pages()
+    missing = [i["id"] for i in listings if not re.fullmatch(r"EWE\d+", i.get("ref", ""))]
+    if missing:  # every card must show its reference number
+        sys.exit(f"Listings without an EWE reference: {missing}")
     town_names = c["town_names"]  # eGO municipality -> display name
     for i in listings:
         i["town"] = town_names.get(i["loc"][-1], i["loc"][-1])
