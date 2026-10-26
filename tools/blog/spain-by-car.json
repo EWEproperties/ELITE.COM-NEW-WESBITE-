@@ -1,0 +1,253 @@
+{
+ "author": "anita",
+ "published": "2025-04-14",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/spain-by-car/motorway-through-andalusian-hills.jpg",
+ "images": {
+  "roads": "assets/blog/spain-by-car/motorway-signs-to-jerez-and-sevilla.jpg",
+  "rules": "assets/blog/spain-by-car/car-and-cyclist-on-a-country-road.jpg",
+  "closing": "assets/blog/spain-by-car/woman-sitting-on-car-looking-at-white-village.jpg"
+ },
+ "cards": [
+  "26239846",
+  "26157630",
+  "26614054"
+ ],
+ "sources": [
+  [
+   "DGT – Spanish traffic authority",
+   "https://www.dgt.es/"
+  ],
+  [
+   "Ministerio de Transportes – roads and motorways",
+   "https://www.transportes.gob.es/"
+  ],
+  [
+   "Brittany Ferries – UK to Spain routes",
+   "https://www.brittany-ferries.co.uk/ferry-routes/ferries-to-spain"
+  ]
+ ],
+ "en": {
+  "title": "Driving to Spain from the UK – Routes, Ferries, Tolls and Spanish Road Rules",
+  "description": "How to drive from the UK to the Costa Blanca or Costa del Sol: ferry and Channel routes, distances, which Spanish motorways still have tolls in 2026, speed limits and what to carry in the car.",
+  "crumb": "Driving to Spain",
+  "eyebrow": "Living in Spain · Travel",
+  "h1": "Spain by Car – Motorways, Roads and Driving from the UK",
+  "hero_alt": "Motorway with a lorry and blue exit signs winding through green Andalusian hills",
+  "short": "From the UK you can take a ferry to Santander or Bilbao and drive about 8–10 hours to the Costa Blanca or Costa del Sol, or cross the Channel and drive around 1,900–2,200 km through France. Most Spanish motorways are free now, but some sections, including the AP-7 Alicante–Cartagena, Cartagena–Vera and the Costa del Sol toll road, still charge. Limits are 120 km/h on motorways, 90 on other roads and 50 or 30 in towns.",
+  "intro": [
+   "Driving to Spain lets you bring your own car, a full boot and the dog. It is a long trip, but well-planned it is also a pleasant one. This guide covers the best routes from the UK, Spain's road network and tolls, and the rules that differ from home."
+  ],
+  "sections": [
+   {
+    "id": "routes",
+    "h2": "Routes from the UK",
+    "alt": "",
+    "html": "<ul><li><strong>Ferry to northern Spain:</strong> Brittany Ferries sails from Portsmouth and Plymouth to Santander and from Portsmouth to Bilbao, with crossings of about 24–32 hours. From Santander it is about 820 km (8–9 hours) to Alicante and about 950 km (9–10 hours) to Málaga, mostly on free motorways via Madrid.</li><li><strong>Channel crossing and France:</strong> from Calais or the Eurotunnel it is about 1,900 km to Alicante and 2,200 km to Marbella. Most people stop for one or two nights, for example near Bordeaux or Lyon. French motorways have tolls, often more than €100 one way.</li></ul><p>Since 2021 UK cars need a \"UK\" sticker (or the UK symbol on the number plate) and no longer need a green card for insurance. Check that your policy covers Europe and breakdown abroad.</p>"
+   },
+   {
+    "id": "roads",
+    "h2": "Spain's main roads",
+    "alt": "Blue motorway signs to Jerez and Sevilla above a dual carriageway",
+    "html": "<p>Spain has one of the largest motorway networks in Europe. <em>Autovías</em> (A-) are free dual carriageways; <em>autopistas</em> (AP-) were built as toll roads, but many concessions have ended. The key routes for the coasts are:</p><ul><li><strong>A-7 / AP-7 Mediterranean corridor:</strong> from the French border along the coast through Valencia, Alicante, Murcia and Málaga.</li><li><strong>A-31 and A-3:</strong> from Madrid to Alicante and Valencia.</li><li><strong>A-4, A-44 and A-45:</strong> from Madrid to Málaga via Córdoba or Granada.</li><li><strong>N-332 and N-340:</strong> the old coastal roads, slower but scenic, through towns on the Costa Blanca and Costa del Sol.</li></ul>"
+   },
+   {
+    "id": "tolls",
+    "h2": "Which motorways still have tolls?",
+    "alt": "",
+    "html": "<p>Since 2018–2021, the AP-7 from the French border to Alicante, the AP-1, AP-2 and AP-4 Sevilla–Cádiz have become free. In 2026 the main tolls near our areas are:</p><ul><li><strong>AP-7 Alicante–Cartagena</strong> (a free alternative is the A-7 inland).</li><li><strong>AP-7 Cartagena–Vera</strong>, free at night from midnight to 6:00.</li><li><strong>AP-7 Málaga–Guadiaro</strong> on the Costa del Sol (the free A-7 runs alongside, with more traffic).</li></ul><p>You pay at toll booths by card or cash, or with an electronic tag (Via-T), which some UK and French tags also support. Toll prices rose by up to about 4.7% in January 2026.</p>"
+   },
+   {
+    "id": "rules",
+    "h2": "Spanish road rules to know",
+    "alt": "Car and a cyclist on a sunny country road with a bend sign",
+    "html": "<ul><li><strong>Speed limits:</strong> 120 km/h on motorways, 90 km/h on other roads, 50 km/h in towns and 30 km/h on single-lane urban streets.</li><li><strong>Alcohol:</strong> limit 0.5 g/l (0.25 mg/l in breath), 0.3 g/l for new drivers. Tests are frequent.</li><li><strong>Equipment:</strong> a reflective vest within reach, and you must wear it if you get out on the road. Spanish cars must carry a connected V-16 warning light from 2026; foreign-registered cars may still use two warning triangles.</li><li><strong>Phones:</strong> holding a phone while driving is not allowed, even when stopped at lights.</li><li><strong>Cyclists:</strong> leave at least 1.5 m when overtaking; you may cross a solid line to do so if it is safe.</li><li><strong>Fines:</strong> foreign drivers can be asked to pay on the spot. Our guide to <a href=\"{up}traffic-fines-spain.html\">traffic fines in Spain</a> lists the amounts.</li></ul>"
+   },
+   {
+    "id": "zones",
+    "h2": "Low-emission zones",
+    "alt": "",
+    "html": "<p>Larger Spanish cities, including Madrid, Barcelona, Valencia and Málaga, have low-emission zones (<em>ZBE</em>) that limit older cars. Rules and the need to register a foreign car differ by city, so check the city's website before driving into the centre. Coastal towns are mostly not affected yet.</p>"
+   },
+   {
+    "id": "living",
+    "h2": "If you move to Spain with your car",
+    "alt": "",
+    "html": "<p>As a resident you can drive a UK-registered car in Spain only for a limited time; after that it must be registered in Spain (<em>matriculación</em>), which involves a technical inspection and registration tax. UK licence holders who become resident must exchange their licence for a Spanish one within six months. See our guide to <a href=\"{up}moving-to-spain-step-by-step-how-to-prepare.html\">moving to Spain step by step</a> for the details.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "How long does it take to drive from the UK to Spain?",
+    "With a ferry to Santander or Bilbao, about 8–10 hours of driving to the Costa Blanca or Costa del Sol. Via the Channel and France, around 20–24 hours of driving, usually over two or three days."
+   ],
+   [
+    "Are Spanish motorways toll roads?",
+    "Most are free now. Some sections still charge, including the AP-7 Alicante–Cartagena, Cartagena–Vera and Málaga–Guadiaro on the Costa del Sol."
+   ],
+   [
+    "What is the speed limit on Spanish motorways?",
+    "120 km/h, unless signs show a lower limit. Other roads are 90 km/h and towns 50 or 30 km/h."
+   ],
+   [
+    "Do I need a green card to drive a UK car in Spain?",
+    "No, not since 2021. You need a UK sticker or UK on the plate, your licence, registration document and valid insurance."
+   ]
+  ],
+  "closing": {
+   "h2": "Enjoy the journey",
+   "alt": "Woman sitting on the roof of a car looking at a white village in the hills",
+   "html": "<p>Driving to Spain is a great way to start a new chapter, with time to see the country on the way. When you arrive, we are happy to show you homes on the Costa Blanca and Costa del Sol, many of them with private parking or a garage. <a href=\"{up}index.html#contact\">Contact us</a> to plan your viewings.</p>"
+  },
+  "slug": "spain-by-car-motorways-roads-and-directions-from-the-uk"
+ },
+ "de": {
+  "slug": "spanien-mit-dem-auto-autobahnen-strassen-und-anreise",
+  "title": "Mit dem Auto nach Spanien – Route, Maut, Autobahnen und Verkehrsregeln",
+  "description": "So fahren Sie aus Deutschland, Österreich oder der Schweiz an die Costa Blanca oder Costa del Sol: Routen, Entfernungen, welche spanischen Autobahnen 2026 noch Maut kosten, Tempolimits und Pflichtausrüstung.",
+  "crumb": "Mit dem Auto nach Spanien",
+  "eyebrow": "Leben in Spanien · Reisen",
+  "h1": "Spanien mit dem Auto – Autobahnen, Straßen und Anreise",
+  "hero_alt": "Autobahn mit Lkw und blauen Ausfahrtsschildern zwischen grünen Hügeln Andalusiens",
+  "short": "Von Süddeutschland sind es rund 1.900 km an die Costa Blanca und gut 2.300 km an die Costa del Sol, meist über Lyon, Perpignan und Barcelona. Die meisten spanischen Autobahnen sind heute mautfrei, einige Abschnitte kosten aber weiter, etwa die AP-7 Alicante–Cartagena, Cartagena–Vera und die Mautstraße an der Costa del Sol. Tempolimits: 120 km/h auf Autobahnen, 90 auf Landstraßen, 50 oder 30 im Ort.",
+  "intro": [
+   "Mit dem eigenen Auto nach Spanien zu fahren heißt: voller Kofferraum, der Hund darf mit, und vor Ort ist man mobil. Die Strecke ist lang, mit guter Planung aber angenehm. Dieser Ratgeber erklärt die Routen aus dem deutschsprachigen Raum, das spanische Straßennetz und die Maut sowie die Regeln, die anders sind als zu Hause."
+  ],
+  "sections": [
+   {
+    "id": "routes",
+    "h2": "Routen aus Deutschland, Österreich und der Schweiz",
+    "alt": "",
+    "html": "<div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Start</th><th>Alicante (ca.)</th><th>Málaga / Marbella (ca.)</th></tr></thead><tbody><tr><td>Zürich</td><td>1.600 km</td><td>2.050 km</td></tr><tr><td>München</td><td>1.900 km</td><td>2.350 km</td></tr><tr><td>Frankfurt</td><td>1.850 km</td><td>2.300 km</td></tr><tr><td>Köln</td><td>1.900 km</td><td>2.350 km</td></tr><tr><td>Wien</td><td>2.300 km</td><td>2.750 km</td></tr><tr><td>Hamburg</td><td>2.350 km</td><td>2.800 km</td></tr></tbody></table></div><p>Die übliche Route führt über die Schweiz oder das Elsass nach Lyon, dann durch das Rhônetal nach Perpignan und über die Grenze bei La Jonquera auf die AP-7 Richtung Barcelona und Valencia. Die meisten fahren in zwei Tagen mit einer Übernachtung in Südfrankreich. In Frankreich sind die Autobahnen mautpflichtig, ab der deutschen Grenze meist rund 100 € pro Strecke. In der Schweiz und in Österreich braucht man eine Vignette.</p>"
+   },
+   {
+    "id": "roads",
+    "h2": "Die wichtigsten Straßen in Spanien",
+    "alt": "Blaue Autobahnschilder nach Jerez und Sevilla über einer Schnellstraße",
+    "html": "<p>Spanien hat eines der größten Autobahnnetze Europas. <em>Autovías</em> (A-) sind kostenlose Schnellstraßen, <em>autopistas</em> (AP-) wurden als Mautstraßen gebaut, viele Konzessionen sind aber ausgelaufen. Für die Küsten wichtig:</p><ul><li><strong>A-7 / AP-7 Mittelmeerkorridor:</strong> von der französischen Grenze entlang der Küste über Valencia, Alicante, Murcia und Málaga.</li><li><strong>A-31 und A-3:</strong> von Madrid nach Alicante und Valencia.</li><li><strong>A-4, A-44 und A-45:</strong> von Madrid nach Málaga über Córdoba oder Granada.</li><li><strong>N-332 und N-340:</strong> die alten Küstenstraßen, langsamer, aber landschaftlich schön.</li></ul>"
+   },
+   {
+    "id": "tolls",
+    "h2": "Wo gibt es noch Maut?",
+    "alt": "",
+    "html": "<p>Seit 2018–2021 sind die AP-7 von der französischen Grenze bis Alicante sowie AP-1, AP-2 und AP-4 Sevilla–Cádiz mautfrei. 2026 kosten in unseren Regionen vor allem:</p><ul><li><strong>AP-7 Alicante–Cartagena</strong> (kostenlose Alternative: A-7 im Landesinneren).</li><li><strong>AP-7 Cartagena–Vera</strong>, nachts von 0 bis 6 Uhr kostenlos.</li><li><strong>AP-7 Málaga–Guadiaro</strong> an der Costa del Sol (parallel verläuft die kostenlose, vollere A-7).</li></ul><p>Bezahlt wird an der Mautstelle bar oder mit Karte oder mit einer elektronischen Box (Via-T); einige europäische Boxen funktionieren auch in Spanien. Im Januar 2026 stiegen die Mautpreise um bis zu etwa 4,7 %.</p>"
+   },
+   {
+    "id": "rules",
+    "h2": "Verkehrsregeln in Spanien",
+    "alt": "Auto und Radfahrer auf einer sonnigen Landstraße mit Kurvenschild",
+    "html": "<ul><li><strong>Tempolimits:</strong> 120 km/h auf Autobahnen (es gibt keine Richtgeschwindigkeit wie in Deutschland), 90 km/h auf Landstraßen, 50 km/h im Ort und 30 km/h auf einspurigen Stadtstraßen.</li><li><strong>Alkohol:</strong> 0,5 Promille (0,25 mg/l Atemluft), für Fahranfänger 0,3. Kontrollen sind häufig.</li><li><strong>Ausrüstung:</strong> eine Warnweste griffbereit, die beim Aussteigen auf der Fahrbahn getragen werden muss. Spanische Autos brauchen seit 2026 ein vernetztes V-16-Warnlicht, ausländische dürfen weiter zwei Warndreiecke nutzen.</li><li><strong>Handy:</strong> in der Hand verboten, auch an der Ampel.</li><li><strong>Radfahrer:</strong> beim Überholen mindestens 1,5 m Abstand; dafür darf man eine durchgezogene Linie überfahren, wenn es sicher ist.</li><li><strong>Bußgelder:</strong> Ausländische Fahrer müssen oft sofort zahlen. Die Beträge stehen in unserem Ratgeber <a href=\"{up}de-de/bussgelder-spanien.html\">Bußgelder in Spanien</a>.</li></ul>"
+   },
+   {
+    "id": "zones",
+    "h2": "Umweltzonen",
+    "alt": "",
+    "html": "<p>Größere Städte wie Madrid, Barcelona, Valencia und Málaga haben Umweltzonen (<em>ZBE</em>), die ältere Autos einschränken. Regeln und eine mögliche Registrierung ausländischer Autos unterscheiden sich je nach Stadt. Prüfen Sie vor der Fahrt ins Zentrum die Website der Stadt. Auf der Strecke durch Frankreich brauchen Sie für einige Städte wie Lyon die Crit'Air-Plakette. Die Küstenorte sind meist noch nicht betroffen.</p>"
+   },
+   {
+    "id": "living",
+    "h2": "Wenn Sie mit Ihrem Auto nach Spanien ziehen",
+    "alt": "",
+    "html": "<p>Als Resident dürfen Sie ein Auto mit ausländischem Kennzeichen nur begrenzte Zeit fahren, danach muss es in Spanien zugelassen werden (<em>matriculación</em>), mit technischer Prüfung und Zulassungssteuer. Ein EU-Führerschein bleibt gültig, mehr dazu im Ratgeber <a href=\"{up}de-de/schritt-fur-schritt-nach-spanien-wie-bereite-ich-mich-vor.html\">Schritt für Schritt nach Spanien</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Wie lange fährt man von Deutschland nach Spanien?",
+    "An die Costa Blanca etwa 18–20 Stunden reine Fahrzeit, an die Costa del Sol etwa 22–24 Stunden. Die meisten teilen die Strecke auf zwei oder drei Tage auf."
+   ],
+   [
+    "Sind die Autobahnen in Spanien mautpflichtig?",
+    "Die meisten sind heute kostenlos. Einige Abschnitte kosten weiter, etwa die AP-7 Alicante–Cartagena, Cartagena–Vera und Málaga–Guadiaro an der Costa del Sol."
+   ],
+   [
+    "Wie schnell darf man auf spanischen Autobahnen fahren?",
+    "120 km/h, sofern keine niedrigere Grenze ausgeschildert ist. Landstraßen 90 km/h, im Ort 50 oder 30 km/h."
+   ],
+   [
+    "Brauche ich in Spanien eine Vignette?",
+    "Nein. Gezahlt wird an Mautstellen. Vignetten brauchen Sie nur unterwegs, etwa in der Schweiz oder in Österreich."
+   ]
+  ],
+  "closing": {
+   "h2": "Genießen Sie die Reise",
+   "alt": "Frau sitzt auf dem Autodach und blickt auf ein weißes Dorf in den Hügeln",
+   "html": "<p>Mit dem Auto nach Spanien zu fahren ist ein schöner Start in einen neuen Lebensabschnitt, mit Zeit, unterwegs das Land zu sehen. Wenn Sie ankommen, zeigen wir Ihnen gern Immobilien an der Costa Blanca und der Costa del Sol, viele davon mit Stellplatz oder Garage. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>, um Besichtigungen zu planen.</p>"
+  }
+ },
+ "es": {
+  "slug": "espana-en-coche-autopistas-carreteras-y-consejos",
+  "title": "España en coche – Autopistas, peajes 2026, normas de tráfico y rutas a la costa",
+  "description": "Guía para conducir por España: rutas a la Costa Blanca y la Costa del Sol, qué autopistas siguen siendo de peaje en 2026, límites de velocidad, equipamiento obligatorio y zonas de bajas emisiones.",
+  "crumb": "España en coche",
+  "eyebrow": "Vivir en España · Viajes",
+  "h1": "España en coche – Autopistas, carreteras y consejos",
+  "hero_alt": "Autovía con un camión y carteles azules entre colinas verdes de Andalucía",
+  "short": "La mayoría de las autopistas españolas ya son gratuitas, pero algunos tramos siguen siendo de pago, como la AP-7 Alicante–Cartagena, la Cartagena–Vera (gratis de 0 a 6 h) y la de la Costa del Sol. Desde Madrid hay unas 4 horas hasta Alicante y unas 5 hasta Málaga. Los límites son 120 km/h en autopista, 90 en carretera y 50 o 30 en ciudad, y desde 2026 los coches españoles deben llevar la baliza V-16 conectada.",
+  "intro": [
+   "Ir a la costa en coche da libertad: maletero lleno, mascota incluida y movilidad al llegar. Esta guía repasa las principales rutas hacia la Costa Blanca y la Costa del Sol, los peajes que quedan en 2026 y las normas que conviene tener presentes, también si viene de otro país con su propio coche."
+  ],
+  "sections": [
+   {
+    "id": "routes",
+    "h2": "Rutas hacia la costa",
+    "alt": "",
+    "html": "<ul><li><strong>Madrid–Alicante:</strong> unos 420 km por la A-3 y la A-31, alrededor de 4 horas.</li><li><strong>Madrid–Málaga:</strong> unos 530 km por la A-4 y la A-44 o A-45, unas 5 horas.</li><li><strong>Barcelona–Alicante:</strong> unos 520 km por la AP-7, ya gratuita, unas 5 horas.</li><li><strong>Alicante–Málaga:</strong> unos 480 km por la A-7 y la A-92, unas 4 horas y media.</li></ul><p>Si viene de fuera de España con su coche, la entrada habitual es por La Jonquera (Francia) o en ferri a Santander o Bilbao desde el Reino Unido o Irlanda.</p>"
+   },
+   {
+    "id": "roads",
+    "h2": "Las principales carreteras",
+    "alt": "Carteles azules de autovía hacia Jerez y Sevilla",
+    "html": "<p>España tiene una de las mayores redes de autovías de Europa. Las <em>autovías</em> (A-) son gratuitas; las <em>autopistas</em> (AP-) nacieron como vías de peaje, pero muchas concesiones han terminado. Para la costa importan:</p><ul><li><strong>A-7 / AP-7, corredor mediterráneo:</strong> de la frontera francesa por Valencia, Alicante, Murcia y Málaga.</li><li><strong>A-31 y A-3:</strong> de Madrid a Alicante y Valencia.</li><li><strong>A-4, A-44 y A-45:</strong> de Madrid a Málaga por Córdoba o Granada.</li><li><strong>N-332 y N-340:</strong> las antiguas carreteras de la costa, más lentas pero con buenas vistas.</li></ul>"
+   },
+   {
+    "id": "tolls",
+    "h2": "¿Qué autopistas siguen siendo de peaje?",
+    "alt": "",
+    "html": "<p>Entre 2018 y 2021 se liberaron la AP-7 de la frontera francesa a Alicante, la AP-1, la AP-2 y la AP-4 Sevilla–Cádiz. En 2026 los peajes principales en nuestras zonas son:</p><ul><li><strong>AP-7 Alicante–Cartagena</strong> (alternativa gratuita: la A-7 por el interior).</li><li><strong>AP-7 Cartagena–Vera</strong>, gratis de 0:00 a 6:00.</li><li><strong>AP-7 Málaga–Guadiaro</strong> en la Costa del Sol (en paralelo va la A-7, gratuita y con más tráfico).</li></ul><p>Se paga en cabina con tarjeta o en efectivo, o con telepeaje (Via-T). En enero de 2026 las tarifas subieron hasta un 4,7 % aproximadamente.</p>"
+   },
+   {
+    "id": "rules",
+    "h2": "Normas de tráfico que conviene recordar",
+    "alt": "Coche y ciclista en una carretera comarcal soleada",
+    "html": "<ul><li><strong>Velocidad:</strong> 120 km/h en autopistas y autovías, 90 km/h en carreteras convencionales, 50 km/h en ciudad y 30 km/h en calles de un carril por sentido.</li><li><strong>Alcohol:</strong> 0,5 g/l en sangre (0,25 mg/l en aire), 0,3 para noveles y profesionales.</li><li><strong>Equipamiento:</strong> chaleco reflectante a mano y, desde el 1 de enero de 2026, la baliza V-16 conectada en los coches matriculados en España, que sustituye a los triángulos. Los vehículos extranjeros pueden seguir usando triángulos.</li><li><strong>Móvil:</strong> prohibido sujetarlo al volante, también parado en un semáforo.</li><li><strong>Ciclistas:</strong> al adelantar, al menos 1,5 m de distancia; se puede pisar la línea continua si es seguro.</li><li><strong>Multas:</strong> las cuantías están en nuestra guía de <a href=\"{up}es-es/multas-espana.html\">multas de tráfico</a>.</li></ul>"
+   },
+   {
+    "id": "zones",
+    "h2": "Zonas de bajas emisiones",
+    "alt": "",
+    "html": "<p>Las ciudades de más de 50.000 habitantes deben tener zona de bajas emisiones (ZBE). Madrid, Barcelona, Valencia o Málaga ya restringen la entrada de coches antiguos sin etiqueta de la DGT, y las normas para vehículos extranjeros cambian de una ciudad a otra. Consulte la web del ayuntamiento antes de entrar en el centro.</p>"
+   },
+   {
+    "id": "living",
+    "h2": "Si se instala con un coche extranjero",
+    "alt": "",
+    "html": "<p>Un residente solo puede circular un tiempo limitado con matrícula extranjera; después debe matricular el coche en España, con ITV y el impuesto de matriculación. Los permisos de la UE siguen siendo válidos, y los de otros países pueden canjearse o no según los convenios. Lo explicamos en <a href=\"{up}es-es/mudarse-a-espana-paso-a-paso-como-prepararse.html\">mudarse a España paso a paso</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Son de pago las autopistas en España?",
+    "La mayoría ya son gratuitas. Siguen siendo de peaje tramos como la AP-7 Alicante–Cartagena, la Cartagena–Vera y la Málaga–Guadiaro en la Costa del Sol."
+   ],
+   [
+    "¿Cuánto se tarda de Madrid a la costa?",
+    "Unas 4 horas a Alicante y unas 5 a Málaga."
+   ],
+   [
+    "¿Cuál es el límite de velocidad en autopista?",
+    "120 km/h, salvo que la señalización indique menos. En carreteras convencionales 90 km/h y en ciudad 50 o 30 km/h."
+   ],
+   [
+    "¿Es obligatoria la baliza V-16?",
+    "Sí, desde el 1 de enero de 2026 para los vehículos matriculados en España. Debe ser una baliza conectada y homologada."
+   ]
+  ],
+  "closing": {
+   "h2": "Disfrute del viaje",
+   "alt": "Mujer sentada en el techo de un coche mirando un pueblo blanco en la sierra",
+   "html": "<p>Llegar en coche es una buena forma de empezar una nueva etapa en la costa. Cuando esté aquí, le enseñaremos viviendas en la Costa Blanca y la Costa del Sol, muchas con plaza de garaje. <a href=\"{up}index.html#contact\">Contacte con nosotros</a> para organizar las visitas.</p>"
+  }
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/hiszpania-samochodem-autostrady-drogi-i-dojazd-z-polski"
+}

@@ -1,0 +1,308 @@
+{
+ "author": "aleksandra",
+ "published": "2026-02-20",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/education-in-spain/children-running-into-school.jpg",
+ "images": {
+  "infantil": "assets/blog/education-in-spain/toddlers-playing-with-blocks.jpg",
+  "primaria": "assets/blog/education-in-spain/pupils-raising-hands-in-class.jpg",
+  "eso": "assets/blog/education-in-spain/teenagers-writing-in-class.jpg",
+  "bachillerato": "assets/blog/education-in-spain/students-taking-an-exam.jpg",
+  "university": "assets/blog/education-in-spain/university-students-smiling.jpg",
+  "enrol": "assets/blog/education-in-spain/teacher-with-spanish-flag-and-pupils.jpg",
+  "language": "assets/blog/education-in-spain/hablas-espanol-on-a-blackboard.jpg",
+  "closing": "assets/blog/education-in-spain/student-with-spanish-flag.jpg"
+ },
+ "cards": [
+  "26157630",
+  "21034180",
+  "24623926"
+ ],
+ "sources": [
+  [
+   "BOE – Organic Law 3/2020 (LOMLOE)",
+   "https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264"
+  ],
+  [
+   "Ministerio de Educación – recognition of foreign qualifications",
+   "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/catalogo/gestion-titulos/estudios-no-universitarios/titulos-extranjeros.html"
+  ]
+ ],
+ "en": {
+  "title": "The Education System in Spain – Schools, Ages and How to Enrol Your Child",
+  "description": "How schools work in Spain: each stage from nursery to university, public, concertado, private and international schools, what is free and how to enrol a child after moving.",
+  "crumb": "Education system in Spain",
+  "eyebrow": "Living in Spain · Families",
+  "h1": "How Does the Education System Work in Spain?",
+  "hero_alt": "Children with school bags running down a school corridor",
+  "short": "School is compulsory in Spain from 6 to 16. Most children start at 3 in free public infant classes. After 6 years of primary school and 4 years of secondary (ESO), students choose a 2-year Bachillerato or vocational training (FP). Public schools are free, concertado schools charge small fees and private and international schools charge full fees. To enrol you need your padrón certificate, birth certificate, passports or NIE and school reports, and you can join during the year.",
+  "intro": [
+   "For families moving to Spain, the first question is often about school. When does it start? What is free? Will my child cope with the language? This guide walks through every stage from nursery to university, the types of school you can choose and how to enrol a child after you arrive."
+  ],
+  "sections": [
+   {
+    "id": "overview",
+    "h2": "The stages at a glance",
+    "alt": "",
+    "html": "<p>Spain's school system is set nationally by the education law (currently the LOMLOE of 2020), and each region runs its own schools and adds its own content.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Stage</th><th>Ages</th><th>Compulsory?</th></tr></thead><tbody><tr><td>Educación Infantil, 1st cycle (nursery)</td><td>0–3</td><td>No</td></tr><tr><td>Educación Infantil, 2nd cycle</td><td>3–6</td><td>No, but free and almost universal</td></tr><tr><td>Educación Primaria</td><td>6–12</td><td>Yes</td></tr><tr><td>ESO (lower secondary)</td><td>12–16</td><td>Yes</td></tr><tr><td>Bachillerato or vocational FP</td><td>16–18</td><td>No</td></tr><tr><td>University or higher FP</td><td>18+</td><td>No</td></tr></tbody></table></div><p>Children are placed by the calendar year they were born, not by their birthday, so all children born in the same year are in the same class.</p>"
+   },
+   {
+    "id": "infantil",
+    "h2": "Nursery and infant school (0–6)",
+    "alt": "Two laughing toddlers lying among colourful toy blocks",
+    "html": "<p>The first cycle (0–3) is the <em>guardería</em> or <em>escuela infantil</em>. Public places are limited and the cost often depends on family income; private nurseries are easier to find and offer flexible hours. In the Valencian Community, the 2–3-year-old class is now free in public and many publicly funded centres.</p><p>The second cycle (3–6) is free in public schools and usually takes place in the same building as the primary school. It is not compulsory, but nearly every child attends. Starting here is the easiest way for a young child to pick up Spanish.</p>"
+   },
+   {
+    "id": "primaria",
+    "h2": "Primary school (6–12)",
+    "alt": "Three girls raising their hands in front of a blackboard",
+    "html": "<p>Six years of compulsory primary education covering Spanish, maths, natural and social sciences, English, art, music and physical education. Regions with a second official language teach it too: Valencian in the Valencian Community, but not in Andalusia or Murcia.</p><p>Children of this age usually learn the language fastest, so moving during primary school is often the smoothest time.</p>"
+   },
+   {
+    "id": "eso",
+    "h2": "Secondary school, ESO (12–16)",
+    "alt": "Teenage boy smiling while writing at his desk in class",
+    "html": "<p>The <em>Educación Secundaria Obligatoria</em> lasts four years and ends with the ESO certificate (<em>Graduado en ESO</em>), needed for any further study. Teenagers who arrive without Spanish often get extra language support, but the step is harder, so many families with children of this age consider an international school.</p>"
+   },
+   {
+    "id": "bachillerato",
+    "h2": "After 16: Bachillerato or vocational training",
+    "alt": "Row of students writing an exam at their desks",
+    "html": "<p><strong>Bachillerato</strong> is a two-year academic course with a chosen branch: sciences, humanities and social sciences, arts, or a general option. At the end, students sit the university entrance exam, now called the <em>PAU</em> (it was known as EBAU or EvAU until 2024).</p><p><strong>Formación Profesional (FP)</strong> is the practical route. There is a basic level from 15, <em>Grado Medio</em> after ESO and <em>Grado Superior</em> after Bachillerato or Grado Medio. Courses usually last two years and include work placements in fields such as hospitality, IT, health care, administration and mechanics. A Grado Superior also gives access to university.</p>"
+   },
+   {
+    "id": "university",
+    "h2": "University",
+    "alt": "Group of smiling young university students",
+    "html": "<p>Degrees follow the European model: a <em>Grado</em> (usually four years), a <em>Máster</em> (one or two years) and a <em>Doctorado</em>. Public universities charge fees set by each region, usually a few hundred to around two thousand euros a year for EU students, far less than in the UK or the US. In Andalusia, credits passed at the first attempt are almost free for the following year. The Costa Blanca has the University of Alicante and Miguel Hernández University in Elche; the Costa del Sol has the University of Málaga. Most courses are in Spanish, with a growing number in English.</p>"
+   },
+   {
+    "id": "types",
+    "h2": "Public, concertado, private or international?",
+    "alt": "",
+    "html": "<ul><li><strong>Public (público):</strong> free, run by the region. Places go by catchment area, so your address matters. Families pay for books, materials, lunches and trips.</li><li><strong>Concertado:</strong> privately run, often religious, but state funded. Tuition is free in principle, though most ask for a voluntary monthly contribution.</li><li><strong>Private (privado):</strong> full fees, Spanish curriculum, often with more English.</li><li><strong>International:</strong> British, American, German, Scandinavian or IB curriculum, mainly in English. Fees typically range from about €6,000 to over €15,000 a year depending on age and school. Both coasts have many, especially around Alicante, Jávea and Marbella.</li></ul><p>The school year runs from early-to-mid September to around 20 June. Many public schools in the Valencian Community teach a continuous day, roughly 9:00 to 14:00, with optional afternoon activities.</p>"
+   },
+   {
+    "id": "enrol",
+    "h2": "How to enrol your child",
+    "alt": "Teacher holding the Spanish flag in front of a group of pupils",
+    "html": "<p>For a public or concertado school you usually need:</p><ul><li><strong>Padrón certificate</strong> (<em>certificado de empadronamiento</em>) showing your address. Register at the town hall first.</li><li><strong>Birth certificate</strong> of the child, translated into Spanish if needed (an EU multilingual form avoids translation).</li><li><strong>Passports or NIE</strong> of the child and parents.</li><li><strong>Health card</strong> or proof of health cover, and the vaccination record.</li><li><strong>School reports</strong> from previous years. For Bachillerato, a foreign secondary diploma must be officially recognised (<em>homologación</em>).</li></ul><p>The main admission round is in spring (usually May for infant and primary, June for secondary) and is mostly done online. If you arrive during the year, you can still apply at any time: the local schooling office (<em>comisión de escolarización</em>) or the town hall will assign a place at a school with free spaces.</p>"
+   },
+   {
+    "id": "language",
+    "h2": "Language and settling in",
+    "alt": "Blackboard with the words ¿Hablas español? next to books and a Spanish flag",
+    "html": "<p>Children under ten usually understand Spanish within a few months and speak it within a year. Older children need more time, and extra classes or a tutor help. In the Valencian Community families can choose Spanish or Valencian as the main language of teaching, and in many towns of southern Alicante Spanish is the norm. Visiting schools before you buy is a good idea, because the catchment area of a home decides which public school your child can join.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "At what age do children start school in Spain?",
+    "School is compulsory from 6, but almost all children start at 3 in free infant classes in public schools."
+   ],
+   [
+    "Is school free in Spain for foreign children?",
+    "Yes. Public schools are free for every child living in Spain, whatever their nationality. Parents pay for books, materials, meals and trips."
+   ],
+   [
+    "Can I enrol my child in the middle of the school year?",
+    "Yes. Outside the spring admission round, the local schooling office or town hall assigns a place at a school with free spaces."
+   ],
+   [
+    "Do schools in Spain teach in English?",
+    "Public schools teach in Spanish (and Valencian in the Valencian Community), with English as a subject. International schools teach mainly in English."
+   ]
+  ],
+  "closing": {
+   "h2": "Choose the school, then the home",
+   "alt": "Smiling girl with a backpack holding a small Spanish flag",
+   "html": "<p>For families, the school often decides the area, and the area decides the home. If you are moving with children, <a href=\"{up}index.html#contact\">tell us</a> their ages and the type of school you want. We will suggest areas and homes within easy reach. Our guide to <a href=\"{up}moving-to-spain-step-by-step-how-to-prepare.html\">moving to Spain step by step</a> covers the rest of the paperwork.</p>"
+  },
+  "slug": "how-does-the-education-system-work-in-spain"
+ },
+ "de": {
+  "title": "Das Schulsystem in Spanien – Schulformen, Altersstufen und Anmeldung",
+  "description": "So funktionieren Schulen in Spanien: jede Stufe von der Krippe bis zur Universität, staatliche, Concertado-, Privat- und internationale Schulen, was kostenlos ist und wie man ein Kind anmeldet.",
+  "crumb": "Schulsystem in Spanien",
+  "eyebrow": "Leben in Spanien · Familie",
+  "h1": "Wie funktioniert das Schulsystem in Spanien?",
+  "hero_alt": "Kinder mit Schulranzen laufen durch einen Schulflur",
+  "short": "In Spanien besteht Schulpflicht von 6 bis 16 Jahren. Die meisten Kinder beginnen mit 3 in der kostenlosen staatlichen Vorschule. Nach 6 Jahren Grundschule und 4 Jahren Sekundarstufe (ESO) folgt das zweijährige Bachillerato oder eine Berufsausbildung (FP). Staatliche Schulen sind kostenlos, Concertado-Schulen günstig, Privat- und internationale Schulen kosten Schulgeld. Zur Anmeldung braucht man Meldebescheinigung, Geburtsurkunde, Pässe oder NIE und Zeugnisse, auch während des Schuljahres.",
+  "intro": [
+   "Für Familien, die nach Spanien ziehen, geht es meist zuerst um die Schule. Ab wann? Was ist kostenlos? Kommt mein Kind mit der Sprache zurecht? Dieser Ratgeber erklärt jede Stufe von der Krippe bis zur Universität, die verschiedenen Schulformen und die Anmeldung nach der Ankunft. Er ist auch für Familien aus Deutschland, Österreich und der Schweiz gedacht, die die Unterschiede zum eigenen System kennen möchten."
+  ],
+  "sections": [
+   {
+    "id": "overview",
+    "h2": "Die Stufen im Überblick",
+    "alt": "",
+    "html": "<p>Der Rahmen wird landesweit durch das Bildungsgesetz festgelegt (derzeit das LOMLOE von 2020), die Regionen führen die Schulen und ergänzen eigene Inhalte. Anders als in Deutschland gibt es keine Aufteilung nach der vierten Klasse: Alle Kinder besuchen bis 16 dieselbe Schulform.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Stufe</th><th>Alter</th><th>Pflicht?</th></tr></thead><tbody><tr><td>Educación Infantil, 1. Zyklus (Krippe)</td><td>0–3</td><td>Nein</td></tr><tr><td>Educación Infantil, 2. Zyklus</td><td>3–6</td><td>Nein, aber kostenlos und fast alle gehen hin</td></tr><tr><td>Educación Primaria</td><td>6–12</td><td>Ja</td></tr><tr><td>ESO (Sekundarstufe I)</td><td>12–16</td><td>Ja</td></tr><tr><td>Bachillerato oder Berufsausbildung FP</td><td>16–18</td><td>Nein</td></tr><tr><td>Universität oder höhere FP</td><td>ab 18</td><td>Nein</td></tr></tbody></table></div><p>Eingeteilt wird nach Geburtsjahr, nicht nach Stichtag: Alle Kinder eines Jahrgangs gehen in dieselbe Klasse.</p>"
+   },
+   {
+    "id": "infantil",
+    "h2": "Krippe und Vorschule (0–6)",
+    "alt": "Zwei lachende Kleinkinder zwischen bunten Bausteinen",
+    "html": "<p>Der erste Zyklus (0–3) ist die <em>guardería</em> oder <em>escuela infantil</em>. Staatliche Plätze sind knapp, die Kosten hängen oft vom Einkommen ab; private Krippen sind leichter zu finden und zeitlich flexibler. In der Region Valencia ist die Gruppe der 2- bis 3-Jährigen in staatlichen und vielen öffentlich geförderten Einrichtungen inzwischen kostenlos.</p><p>Der zweite Zyklus (3–6) ist an staatlichen Schulen kostenlos und findet meist im selben Gebäude wie die Grundschule statt. Er ist keine Pflicht, aber fast jedes Kind geht hin, und kleine Kinder lernen hier am leichtesten Spanisch.</p>"
+   },
+   {
+    "id": "primaria",
+    "h2": "Grundschule (6–12)",
+    "alt": "Drei Mädchen melden sich vor einer Tafel",
+    "html": "<p>Sechs Pflichtjahre mit Spanisch, Mathematik, Natur- und Sozialkunde, Englisch, Kunst, Musik und Sport. Regionen mit einer zweiten Amtssprache unterrichten sie ebenfalls: Valencianisch in der Region Valencia, nicht aber in Andalusien oder Murcia.</p><p>In diesem Alter lernen Kinder die Sprache am schnellsten. Ein Umzug während der Grundschulzeit ist deshalb oft am einfachsten.</p>"
+   },
+   {
+    "id": "eso",
+    "h2": "Sekundarstufe ESO (12–16)",
+    "alt": "Jugendlicher lächelt beim Schreiben an seinem Schultisch",
+    "html": "<p>Die <em>Educación Secundaria Obligatoria</em> dauert vier Jahre und endet mit dem Abschluss <em>Graduado en ESO</em>, der für jede weitere Ausbildung nötig ist. Jugendliche ohne Spanischkenntnisse bekommen oft Sprachförderung, der Einstieg ist aber schwerer. Viele Familien mit Kindern in diesem Alter wählen daher eine internationale Schule.</p>"
+   },
+   {
+    "id": "bachillerato",
+    "h2": "Ab 16: Bachillerato oder Berufsausbildung",
+    "alt": "Schüler schreiben in einer Reihe eine Prüfung",
+    "html": "<p>Das <strong>Bachillerato</strong> ist ein zweijähriger Kurs mit Schwerpunkt: Naturwissenschaften, Geistes- und Sozialwissenschaften, Kunst oder ein allgemeiner Zweig. Am Ende steht die Hochschulzugangsprüfung, heute <em>PAU</em> genannt (bis 2024 EBAU oder EvAU).</p><p>Die <strong>Formación Profesional (FP)</strong> ist der praktische Weg, allerdings schulisch und nicht dual wie in Deutschland: eine Grundstufe ab 15, <em>Grado Medio</em> nach der ESO und <em>Grado Superior</em> nach dem Bachillerato oder dem Grado Medio. Die Kurse dauern meist zwei Jahre mit Praktika, etwa in Gastronomie, IT, Gesundheit, Verwaltung oder Technik. Ein Grado Superior öffnet auch den Weg an die Universität.</p>"
+   },
+   {
+    "id": "university",
+    "h2": "Universität",
+    "alt": "Gruppe lächelnder junger Studierender",
+    "html": "<p>Das Studium folgt dem europäischen Modell: <em>Grado</em> (meist vier Jahre), <em>Máster</em> (ein bis zwei Jahre) und <em>Doctorado</em>. Staatliche Universitäten verlangen Gebühren, die jede Region festlegt, meist einige hundert bis rund zweitausend Euro im Jahr für EU-Bürger. In Andalusien sind im ersten Versuch bestandene Credits im Folgejahr fast kostenlos. An der Costa Blanca gibt es die Universität Alicante und die Universität Miguel Hernández in Elche, an der Costa del Sol die Universität Málaga. Die meisten Studiengänge sind auf Spanisch, immer mehr auf Englisch.</p>"
+   },
+   {
+    "id": "types",
+    "h2": "Staatlich, Concertado, privat oder international?",
+    "alt": "",
+    "html": "<ul><li><strong>Staatlich (público):</strong> kostenlos, von der Region geführt. Die Plätze richten sich nach dem Wohnort. Bücher, Material, Mittagessen und Ausflüge zahlen die Eltern.</li><li><strong>Concertado:</strong> privat geführt, oft kirchlich, aber staatlich finanziert. Unterricht grundsätzlich kostenlos, meist mit freiwilligem Monatsbeitrag.</li><li><strong>Privat (privado):</strong> volles Schulgeld, spanischer Lehrplan, oft mit mehr Englisch.</li><li><strong>International:</strong> britischer, amerikanischer, deutscher, skandinavischer oder IB-Lehrplan. Das Schulgeld liegt je nach Alter und Schule etwa zwischen 6.000 und über 15.000 € im Jahr. An beiden Küsten gibt es viele, vor allem um Alicante, Jávea und Marbella, an der Costa del Sol auch die Deutsche Schule Málaga bei Marbella.</li></ul><p>Das Schuljahr dauert von Anfang oder Mitte September bis etwa 20. Juni. Viele staatliche Schulen in der Region Valencia unterrichten durchgehend, etwa von 9 bis 14 Uhr, mit freiwilligen Nachmittagsangeboten.</p>"
+   },
+   {
+    "id": "enrol",
+    "h2": "So melden Sie Ihr Kind an",
+    "alt": "Lehrerin hält die spanische Flagge vor einer Gruppe Schüler",
+    "html": "<p>Für eine staatliche oder Concertado-Schule brauchen Sie in der Regel:</p><ul><li><strong>Meldebescheinigung</strong> (<em>certificado de empadronamiento</em>). Melden Sie sich zuerst im Rathaus an.</li><li><strong>Geburtsurkunde</strong> des Kindes, bei Bedarf übersetzt (das mehrsprachige EU-Formular erspart die Übersetzung).</li><li><strong>Pässe oder NIE</strong> von Kind und Eltern.</li><li><strong>Gesundheitskarte</strong> oder Nachweis der Krankenversicherung und den Impfpass.</li><li><strong>Zeugnisse</strong> der letzten Jahre. Für das Bachillerato muss ein ausländischer Abschluss offiziell anerkannt werden (<em>homologación</em>).</li></ul><p>Die Hauptanmeldung läuft im Frühjahr (meist Mai für Vorschule und Grundschule, Juni für die Sekundarstufe), überwiegend online. Wer während des Jahres ankommt, kann sich jederzeit anmelden: Das örtliche Schulamt (<em>comisión de escolarización</em>) oder das Rathaus weist einen Platz an einer Schule mit freien Plätzen zu.</p>"
+   },
+   {
+    "id": "language",
+    "h2": "Sprache und Eingewöhnung",
+    "alt": "Tafel mit der Aufschrift ¿Hablas español? neben Büchern und einer spanischen Flagge",
+    "html": "<p>Kinder unter zehn verstehen Spanisch meist nach wenigen Monaten und sprechen es nach einem Jahr. Ältere Kinder brauchen länger, Zusatzunterricht oder Nachhilfe helfen. In der Region Valencia können Familien Spanisch oder Valencianisch als Hauptunterrichtssprache wählen, und in vielen Orten im Süden der Provinz Alicante ist Spanisch üblich. Besuchen Sie Schulen am besten vor dem Kauf, denn der Wohnort entscheidet, an welche staatliche Schule Ihr Kind kommt.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Ab welchem Alter gehen Kinder in Spanien zur Schule?",
+    "Schulpflicht besteht ab 6 Jahren, doch fast alle Kinder beginnen mit 3 in der kostenlosen Vorschule staatlicher Schulen."
+   ],
+   [
+    "Ist die Schule für ausländische Kinder kostenlos?",
+    "Ja. Staatliche Schulen sind für jedes in Spanien lebende Kind kostenlos, unabhängig von der Staatsangehörigkeit. Bücher, Material, Essen und Ausflüge zahlen die Eltern."
+   ],
+   [
+    "Kann ich mein Kind mitten im Schuljahr anmelden?",
+    "Ja. Außerhalb der Frühjahrsanmeldung weist das örtliche Schulamt oder das Rathaus einen Platz an einer Schule mit freien Plätzen zu."
+   ],
+   [
+    "Gibt es deutsche Schulen an der spanischen Küste?",
+    "Ja, zum Beispiel die Deutsche Schule Málaga bei Marbella. Dazu kommen an beiden Küsten viele internationale Schulen mit Unterricht auf Englisch. Alle kosten Schulgeld."
+   ]
+  ],
+  "closing": {
+   "h2": "Erst die Schule, dann das Zuhause",
+   "alt": "Lächelnde Schülerin mit Rucksack und kleiner spanischer Flagge",
+   "html": "<p>Für Familien entscheidet oft die Schule über die Gegend, und die Gegend über das Zuhause. Wenn Sie mit Kindern umziehen, <a href=\"{up}index.html#contact\">nennen Sie uns</a> ihr Alter und die gewünschte Schulform. Wir schlagen Ihnen passende Orte und Immobilien in der Nähe vor. Den restlichen Papierkram erklärt unser Ratgeber <a href=\"{up}de-de/schritt-fur-schritt-nach-spanien-wie-bereite-ich-mich-vor.html\">Schritt für Schritt nach Spanien</a>.</p>"
+  },
+  "slug": "wie-funktioniert-das-bildungssystem-in-spanien"
+ },
+ "es": {
+  "title": "El sistema educativo en España – Etapas, edades y cómo matricular a tu hijo",
+  "description": "Cómo funcionan los colegios en España: cada etapa de la guardería a la universidad, centros públicos, concertados, privados e internacionales, qué es gratis y cómo matricular a un niño al llegar.",
+  "crumb": "Sistema educativo en España",
+  "eyebrow": "Vivir en España · Familias",
+  "h1": "¿Cómo funciona el sistema educativo en España?",
+  "hero_alt": "Niños con mochila corriendo por el pasillo de un colegio",
+  "short": "La escolarización es obligatoria en España de los 6 a los 16 años. Casi todos los niños empiezan a los 3 en el segundo ciclo de Infantil, gratuito en la pública. Tras 6 años de Primaria y 4 de ESO, se elige Bachillerato (2 años) o Formación Profesional. Los centros públicos son gratuitos, los concertados casi, y los privados e internacionales cobran cuotas. Para matricular hace falta el empadronamiento, el certificado de nacimiento, pasaportes o NIE y las notas, y se puede hacer durante el curso.",
+  "intro": [
+   "Para las familias que se mudan a España, la primera pregunta suele ser el colegio. ¿A qué edad se empieza? ¿Qué es gratis? ¿Se adaptará mi hijo al idioma? Esta guía repasa cada etapa, de la guardería a la universidad, los tipos de centro y cómo matricular a un niño tras la llegada, pensando sobre todo en familias que vienen de otros países."
+  ],
+  "sections": [
+   {
+    "id": "overview",
+    "h2": "Las etapas de un vistazo",
+    "alt": "",
+    "html": "<p>El marco lo fija la ley de educación estatal (hoy la LOMLOE de 2020) y cada comunidad autónoma gestiona sus centros y añade contenidos propios.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Etapa</th><th>Edad</th><th>¿Obligatoria?</th></tr></thead><tbody><tr><td>Educación Infantil, 1.er ciclo (guardería)</td><td>0–3</td><td>No</td></tr><tr><td>Educación Infantil, 2.º ciclo</td><td>3–6</td><td>No, pero gratuita y casi universal</td></tr><tr><td>Educación Primaria</td><td>6–12</td><td>Sí</td></tr><tr><td>ESO</td><td>12–16</td><td>Sí</td></tr><tr><td>Bachillerato o FP</td><td>16–18</td><td>No</td></tr><tr><td>Universidad o FP de Grado Superior</td><td>18+</td><td>No</td></tr></tbody></table></div><p>Los alumnos se agrupan por año natural de nacimiento: todos los nacidos el mismo año van a la misma clase.</p>"
+   },
+   {
+    "id": "infantil",
+    "h2": "Guardería e Infantil (0–6)",
+    "alt": "Dos niños pequeños riendo entre piezas de construcción de colores",
+    "html": "<p>El primer ciclo (0–3) es la <em>guardería</em> o <em>escuela infantil</em>. Las plazas públicas son limitadas y el precio suele depender de la renta; las privadas son más fáciles de conseguir y tienen horarios flexibles. En la Comunitat Valenciana el aula de 2 a 3 años ya es gratuita en los centros públicos y en muchos sostenidos con fondos públicos.</p><p>El segundo ciclo (3–6) es gratuito en la pública y suele estar en el mismo edificio que Primaria. No es obligatorio, pero casi todos los niños lo cursan, y es la forma más fácil de que un niño pequeño aprenda español.</p>"
+   },
+   {
+    "id": "primaria",
+    "h2": "Educación Primaria (6–12)",
+    "alt": "Tres niñas levantando la mano delante de una pizarra",
+    "html": "<p>Seis cursos obligatorios con lengua castellana, matemáticas, ciencias de la naturaleza y sociales, inglés, plástica, música y educación física. Las comunidades con lengua cooficial también la enseñan: el valenciano en la Comunitat Valenciana, pero no en Andalucía ni en Murcia.</p><p>A esta edad los niños aprenden el idioma muy rápido, por eso mudarse durante Primaria suele ser lo más sencillo.</p>"
+   },
+   {
+    "id": "eso",
+    "h2": "Educación Secundaria Obligatoria (12–16)",
+    "alt": "Adolescente sonriendo mientras escribe en su pupitre",
+    "html": "<p>La ESO dura cuatro cursos y termina con el título de <em>Graduado en ESO</em>, necesario para seguir estudiando. Los adolescentes que llegan sin español suelen recibir apoyo lingüístico, pero el salto es mayor, y muchas familias con hijos de esta edad optan por un colegio internacional.</p>"
+   },
+   {
+    "id": "bachillerato",
+    "h2": "Después de los 16: Bachillerato o Formación Profesional",
+    "alt": "Fila de estudiantes haciendo un examen",
+    "html": "<p>El <strong>Bachillerato</strong> dura dos cursos con una modalidad: Ciencias y Tecnología, Humanidades y Ciencias Sociales, Artes o General. Al final se hace la prueba de acceso a la universidad, hoy llamada <em>PAU</em> (hasta 2024, EBAU o EvAU).</p><p>La <strong>Formación Profesional (FP)</strong> es la vía práctica: Grado Básico desde los 15, <em>Grado Medio</em> tras la ESO y <em>Grado Superior</em> tras el Bachillerato o el Grado Medio. Los ciclos suelen durar dos años con prácticas en empresas, en hostelería, informática, sanidad, administración o mecánica, entre otras. El Grado Superior también da acceso a la universidad.</p>"
+   },
+   {
+    "id": "university",
+    "h2": "La universidad",
+    "alt": "Grupo de jóvenes universitarios sonrientes",
+    "html": "<p>Los estudios siguen el modelo europeo: <em>Grado</em> (normalmente cuatro años), <em>Máster</em> (uno o dos) y <em>Doctorado</em>. Las universidades públicas cobran tasas fijadas por cada comunidad, en general entre unos cientos y unos dos mil euros al año. En Andalucía, los créditos aprobados en primera matrícula salen casi gratis el curso siguiente. En la Costa Blanca están la Universidad de Alicante y la Universidad Miguel Hernández de Elche; en la Costa del Sol, la Universidad de Málaga.</p>"
+   },
+   {
+    "id": "types",
+    "h2": "¿Público, concertado, privado o internacional?",
+    "alt": "",
+    "html": "<ul><li><strong>Público:</strong> gratuito y gestionado por la comunidad. La plaza depende de la zona de residencia. Las familias pagan libros, material, comedor y excursiones.</li><li><strong>Concertado:</strong> de gestión privada, a menudo religioso, pero financiado con fondos públicos. La enseñanza es gratuita en principio, aunque casi todos piden una aportación voluntaria.</li><li><strong>Privado:</strong> cuota completa, currículo español y a menudo más inglés.</li><li><strong>Internacional:</strong> currículo británico, estadounidense, alemán, escandinavo o IB. Las cuotas suelen ir de unos 6.000 € a más de 15.000 € al año según la edad y el centro. Hay muchos en ambas costas, sobre todo en Alicante, Jávea y Marbella.</li></ul><p>El curso va de principios o mediados de septiembre a alrededor del 20 de junio. Muchos colegios públicos valencianos tienen jornada continua, aproximadamente de 9:00 a 14:00, con actividades por la tarde.</p>"
+   },
+   {
+    "id": "enrol",
+    "h2": "Cómo matricular a su hijo",
+    "alt": "Profesora con la bandera de España delante de un grupo de alumnos",
+    "html": "<p>Para un centro público o concertado se suele pedir:</p><ul><li><strong>Certificado de empadronamiento</strong>. Primero hay que empadronarse en el ayuntamiento.</li><li><strong>Certificado de nacimiento</strong> del niño, traducido si hace falta (el formulario multilingüe de la UE evita la traducción).</li><li><strong>Pasaportes o NIE</strong> del niño y de los padres.</li><li><strong>Tarjeta sanitaria</strong> o justificante de seguro y la cartilla de vacunación.</li><li><strong>Boletines de notas</strong> de cursos anteriores. Para Bachillerato, un título extranjero debe estar homologado.</li></ul><p>El proceso principal de admisión es en primavera (normalmente mayo para Infantil y Primaria y junio para Secundaria) y casi todo se hace en línea. Si llega durante el curso, puede solicitar plaza en cualquier momento: la comisión de escolarización o el ayuntamiento le asignará un centro con vacantes.</p>"
+   },
+   {
+    "id": "language",
+    "h2": "Idioma y adaptación",
+    "alt": "Pizarra con la frase ¿Hablas español? junto a libros y una bandera de España",
+    "html": "<p>Los niños menores de diez años suelen entender el español en pocos meses y hablarlo en un año. Los mayores necesitan más tiempo, y las clases de refuerzo o un profesor particular ayudan. En la Comunitat Valenciana las familias pueden elegir el castellano o el valenciano como lengua base, y en muchos municipios del sur de Alicante predomina el castellano. Conviene visitar colegios antes de comprar, porque la zona de la vivienda decide a qué centro público irá su hijo.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿A qué edad empiezan los niños el colegio en España?",
+    "Es obligatorio desde los 6 años, pero casi todos empiezan a los 3 en el segundo ciclo de Infantil, gratuito en la pública."
+   ],
+   [
+    "¿Es gratis el colegio para niños extranjeros?",
+    "Sí. Los centros públicos son gratuitos para cualquier niño que viva en España, sea cual sea su nacionalidad. Las familias pagan libros, material, comedor y excursiones."
+   ],
+   [
+    "¿Se puede matricular a un niño a mitad de curso?",
+    "Sí. Fuera del plazo de primavera, la comisión de escolarización o el ayuntamiento asigna plaza en un centro con vacantes."
+   ],
+   [
+    "¿Hay colegios en inglés?",
+    "Los públicos enseñan en castellano (y valenciano en la Comunitat Valenciana), con inglés como asignatura. Los internacionales enseñan sobre todo en inglés."
+   ]
+  ],
+  "closing": {
+   "h2": "Primero el colegio, después la casa",
+   "alt": "Chica sonriente con mochila y una pequeña bandera de España",
+   "html": "<p>En las familias, el colegio suele decidir la zona, y la zona decide la casa. Si se muda con niños, <a href=\"{up}index.html#contact\">díganos</a> sus edades y el tipo de colegio que busca, y le propondremos zonas y viviendas cercanas. El resto del papeleo está en nuestra guía <a href=\"{up}es-es/mudarse-a-espana-paso-a-paso-como-prepararse.html\">mudarse a España paso a paso</a>.</p>"
+  },
+  "slug": "como-funciona-el-sistema-educativo-en-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/jak-dziaa-system-edukacji-w-hiszpanii"
+}

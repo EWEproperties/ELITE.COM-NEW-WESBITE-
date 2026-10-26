@@ -27,7 +27,9 @@ TOPICS = {
     "owning": ["banks", "comunidad", "home-care", "home-insurance", "ibi-property-tax", "inheriting-property",
                "long-term-rental", "short-term-rentals", "resident-vs-non-resident", "property-taxes-spain", "non-eu-tax"],
     "living": ["best-paid-jobs-in-spain", "cost-of-living", "moving-to-spain", "retirement-in-spain",
-               "staying-over-90-days", "tipping-in-spain", "traffic-fines-spain"],
+               "staying-over-90-days", "tipping-in-spain", "traffic-fines-spain", "weather-in-alicante",
+               "education-in-spain", "off-season", "best-places-for-seniors", "healthcare-in-spain",
+               "is-spain-safe", "facts-about-spain", "spain-by-car"],
     "places": ["altea", "cumbre-del-sol", "la-hoya", "la-zagaleta", "new-developments-alicante", "santa-rosalia"],
 }
 TOPIC_OF = {n: t for t, names in TOPICS.items() for n in names}

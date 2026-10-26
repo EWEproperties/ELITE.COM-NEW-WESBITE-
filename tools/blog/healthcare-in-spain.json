@@ -1,0 +1,253 @@
+{
+ "author": "aleksandra",
+ "published": "2025-07-04",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/healthcare-in-spain/stethoscope-on-spanish-flag.jpg",
+ "images": {
+  "public": "assets/blog/healthcare-in-spain/doctor-with-senior-patient.jpg",
+  "private": "assets/blog/healthcare-in-spain/nurse-talking-to-patient-in-clinic.jpg",
+  "closing": "assets/blog/healthcare-in-spain/doctor-holding-stethoscope-with-spanish-flag.jpg"
+ },
+ "cards": [
+  "26239846",
+  "24758318",
+  "26157630"
+ ],
+ "sources": [
+  [
+   "Ministerio de Sanidad – National Health System",
+   "https://www.sanidad.gob.es/en/home.htm"
+  ],
+  [
+   "Seguridad Social – health care entitlement",
+   "https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10938"
+  ],
+  [
+   "European Commission – European Health Insurance Card",
+   "https://employment-social-affairs.ec.europa.eu/policies-and-activities/moving-working-europe/eu-social-security-coordination/european-health-insurance-card_en"
+  ]
+ ],
+ "en": {
+  "title": "Healthcare in Spain for Foreigners – Public System, Private Insurance and How to Register",
+  "description": "How healthcare works in Spain for expats and buyers: who can use the public system, how to get a health card, the pay-in scheme, prescription costs and private insurance prices.",
+  "crumb": "Healthcare in Spain",
+  "eyebrow": "Living in Spain · Health",
+  "h1": "The Healthcare System in Spain",
+  "hero_alt": "Stethoscope lying on the red and yellow Spanish flag",
+  "short": "Spain's public health system is free at the point of use for residents who work, receive a pension (including EU and UK pensioners with an S1 form) or are family members of someone covered. Others can join the public pay-in scheme after a year of residence, or take private insurance. Emergency care is available to everyone. Private policies start at around €40–60 a month for young adults and cost more with age.",
+  "intro": [
+   "For anyone moving to Spain or spending long periods here, health care is one of the first things to arrange. The good news is that Spain has one of the best health systems in Europe, with modern hospitals along the whole coast. Here is who can use it, how to register and when private insurance makes sense."
+  ],
+  "sections": [
+   {
+    "id": "system",
+    "h2": "How the system is organised",
+    "alt": "",
+    "html": "<p>The public system (<em>Sistema Nacional de Salud</em>) is funded by taxes and run by each region. In the Valencian Community it is the Conselleria de Sanitat, in Andalusia the Servicio Andaluz de Salud (SAS), in Murcia the Servicio Murciano de Salud. Your first contact is the local health centre (<em>centro de salud</em>), where you are assigned a family doctor (<em>médico de cabecera</em>). Specialists and hospital care are by referral from that doctor, except in an emergency.</p>"
+   },
+   {
+    "id": "public",
+    "h2": "Who can use public health care?",
+    "alt": "Smiling doctor going through notes with an older patient",
+    "html": "<ul><li><strong>Workers and the self-employed</strong> paying Spanish social security, and their registered family members.</li><li><strong>Pensioners</strong> with a Spanish pension, or with a state pension from another EU country, the EEA, Switzerland or the UK, who register their <strong>S1 form</strong>.</li><li><strong>Residents without any other cover</strong> who have been registered on the padrón for at least a year can join the <em>convenio especial</em>, a public pay-in scheme. In 2026 it costs about €60 a month under 65 and about €157 a month from 65.</li><li><strong>Visitors</strong> from the EU use their European Health Insurance Card (EHIC); UK visitors use the GHIC. These cover necessary care during a temporary stay, not a move.</li></ul><p>Emergency care in a public hospital is always provided, whatever your status. Call <strong>112</strong> for an ambulance.</p>"
+   },
+   {
+    "id": "register",
+    "h2": "How to register and get your health card",
+    "alt": "",
+    "html": "<ol><li>Get your <a href=\"{up}nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE</a> and, if you move here, your residence certificate or TIE.</li><li>Register on the <em>padrón</em> at your town hall.</li><li>Get a social security number, or register your S1 form with the social security (INSS).</li><li>Take these documents to your local health centre and ask to be registered.</li></ol><p>You then receive a health card: the <em>tarjeta SIP</em> in the Valencian Community or the <em>tarjeta sanitaria</em> in Andalusia and Murcia. Show it at every appointment and at the pharmacy.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "What you pay in the public system",
+    "alt": "",
+    "html": "<p>Doctor visits, tests, hospital stays and operations are free. Prescription medicines have a co-payment that depends on income: most working people pay 40–60% of the price, pensioners usually 10% with a low monthly cap, and people on the lowest incomes nothing. Adult dental care, glasses and most physiotherapy are not covered, so most people pay for them privately.</p>"
+   },
+   {
+    "id": "private",
+    "h2": "Private health insurance",
+    "alt": "Nurse in blue talking to a patient resting in a clinic chair",
+    "html": "<p>Many foreign residents use both systems: public care for emergencies and serious treatment, private care for faster appointments with specialists and doctors who speak English. The main insurers include Sanitas, Adeslas, DKV, Asisa, Mapfre, Caser and AXA.</p><ul><li><strong>Young adults:</strong> from about €40–60 a month for a basic policy.</li><li><strong>Ages 50–65:</strong> often €80–150 a month.</li><li><strong>Over 65:</strong> €150–300 or more, and some insurers do not accept new customers above a certain age.</li></ul><p>For a non-lucrative or digital nomad visa you need a policy with full cover in Spain and no co-payments or waiting periods. Check exclusions for existing conditions before you sign.</p>"
+   },
+   {
+    "id": "practical",
+    "h2": "Practical tips for foreigners",
+    "alt": "",
+    "html": "<ul><li><strong>Language:</strong> in tourist areas many doctors speak English, and some public hospitals on the coast have interpreters, but outside big towns Spanish helps a lot.</li><li><strong>Pharmacies</strong> (<em>farmacia</em>, green cross) give good advice for minor problems, and one in each area is always open at night (<em>farmacia de guardia</em>).</li><li><strong>Location:</strong> when choosing a home, check the distance to the nearest public hospital and private clinics. Our guide to the <a href=\"{up}the-best-places-to-live-in-spain-for-senior-citizens.html\">best places for retirees</a> lists the hospitals near each town.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "Is healthcare free in Spain for foreigners?",
+    "It is free at the point of use for residents who are covered: workers, pensioners with an S1 form or a Spanish pension, and their families. Others can join the public pay-in scheme or take private insurance. Emergency care is always provided."
+   ],
+   [
+    "How much is private health insurance in Spain?",
+    "From about €40–60 a month for young adults, €80–150 for people aged 50–65 and €150–300 or more over 65, depending on the insurer and cover."
+   ],
+   [
+    "Can UK pensioners use Spanish public health care?",
+    "Yes. UK state pensioners living in Spain can register an S1 form, issued by the UK, and get public care on the same terms as Spanish pensioners."
+   ],
+   [
+    "What is the convenio especial?",
+    "A public pay-in scheme for residents with no other cover, available after a year on the padrón. In 2026 it costs about €60 a month under 65 and €157 from 65."
+   ]
+  ],
+  "closing": {
+   "h2": "Plan your health cover before you move",
+   "alt": "Doctor in green scrubs holding a stethoscope with a small Spanish flag",
+   "html": "<p>Sorting out health cover early makes the move far less stressful. Check which route applies to you, register as soon as you have your padrón, and choose a home within easy reach of good care. If you would like help finding a home close to hospitals and services, <a href=\"{up}index.html#contact\">contact us</a>.</p>"
+  },
+  "slug": "the-healthcare-system-in-spain"
+ },
+ "de": {
+  "title": "Gesundheitssystem in Spanien für Ausländer – staatlich, privat und Anmeldung",
+  "description": "So funktioniert das Gesundheitssystem in Spanien für Auswanderer und Käufer: Wer die staatliche Versorgung nutzen kann, Gesundheitskarte, Convenio especial, Zuzahlungen und Preise privater Versicherungen.",
+  "crumb": "Gesundheitssystem in Spanien",
+  "eyebrow": "Leben in Spanien · Gesundheit",
+  "h1": "Das Gesundheitssystem in Spanien",
+  "hero_alt": "Stethoskop auf der rot-gelben spanischen Flagge",
+  "short": "Das staatliche Gesundheitssystem ist für Residenten kostenlos, die arbeiten, eine Rente beziehen (auch Rentner aus der EU, dem EWR und der Schweiz mit Formular S1) oder mitversichert sind. Andere können nach einem Jahr Wohnsitz dem staatlichen Convenio especial beitreten oder sich privat versichern. Notfälle werden immer behandelt. Private Policen beginnen für junge Erwachsene bei etwa 40–60 € im Monat und werden mit dem Alter teurer.",
+  "intro": [
+   "Wer nach Spanien zieht oder lange hier lebt, sollte sich früh um die Krankenversicherung kümmern. Die gute Nachricht: Spanien hat eines der besten Gesundheitssysteme Europas und moderne Krankenhäuser an der ganzen Küste. Hier lesen Sie, wer es nutzen kann, wie die Anmeldung funktioniert und wann eine private Versicherung sinnvoll ist."
+  ],
+  "sections": [
+   {
+    "id": "system",
+    "h2": "Wie das System aufgebaut ist",
+    "alt": "",
+    "html": "<p>Das staatliche System (<em>Sistema Nacional de Salud</em>) wird aus Steuern finanziert und von den Regionen geführt: in der Region Valencia von der Conselleria de Sanitat, in Andalusien vom Servicio Andaluz de Salud (SAS), in Murcia vom Servicio Murciano de Salud. Erste Anlaufstelle ist das örtliche Gesundheitszentrum (<em>centro de salud</em>) mit einem festen Hausarzt (<em>médico de cabecera</em>). Fachärzte und Krankenhaus gibt es auf Überweisung, außer im Notfall.</p>"
+   },
+   {
+    "id": "public",
+    "h2": "Wer die staatliche Versorgung nutzen kann",
+    "alt": "Lächelnde Ärztin bespricht Unterlagen mit einer älteren Patientin",
+    "html": "<ul><li><strong>Angestellte und Selbstständige</strong>, die in die spanische Sozialversicherung einzahlen, sowie ihre mitversicherten Angehörigen.</li><li><strong>Rentner</strong> mit spanischer Rente oder mit gesetzlicher Rente aus einem anderen EU-Land, dem EWR, der Schweiz oder Großbritannien, die ihr <strong>Formular S1</strong> registrieren. Deutsche Rentner erhalten das S1 von ihrer Krankenkasse.</li><li><strong>Residenten ohne andere Absicherung</strong>, die mindestens ein Jahr im padrón eingetragen sind, können dem <em>convenio especial</em> beitreten, einer staatlichen Versicherung gegen Beitrag. 2026 kostet sie etwa 60 € im Monat unter 65 und etwa 157 € ab 65.</li><li><strong>Besucher</strong> aus der EU nutzen ihre Europäische Krankenversicherungskarte (EHIC) auf der Rückseite der Gesundheitskarte. Sie deckt notwendige Behandlungen bei vorübergehendem Aufenthalt, nicht bei einem Umzug.</li></ul><p>Notfälle werden in staatlichen Krankenhäusern immer behandelt. Den Rettungsdienst erreichen Sie unter <strong>112</strong>.</p>"
+   },
+   {
+    "id": "register",
+    "h2": "Anmeldung und Gesundheitskarte",
+    "alt": "",
+    "html": "<ol><li>Beantragen Sie Ihre <a href=\"{up}de-de/nie-nummer-in-spanien-was-ist-das-und-wie-bekommt-man-sie.html\">NIE</a> und bei einem Umzug die Aufenthaltsbescheinigung.</li><li>Melden Sie sich im Rathaus im <em>padrón</em> an.</li><li>Holen Sie sich eine Sozialversicherungsnummer oder registrieren Sie Ihr S1 bei der Sozialversicherung (INSS).</li><li>Gehen Sie mit diesen Unterlagen zum örtlichen Gesundheitszentrum und lassen Sie sich eintragen.</li></ol><p>Danach erhalten Sie eine Gesundheitskarte: die <em>tarjeta SIP</em> in der Region Valencia, die <em>tarjeta sanitaria</em> in Andalusien und Murcia. Sie wird bei jedem Termin und in der Apotheke vorgelegt.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Was man im staatlichen System zahlt",
+    "alt": "",
+    "html": "<p>Arztbesuche, Untersuchungen, Krankenhausaufenthalte und Operationen sind kostenlos. Bei Medikamenten gibt es eine einkommensabhängige Zuzahlung: Erwerbstätige zahlen meist 40–60 % des Preises, Rentner in der Regel 10 % mit niedriger Monatsobergrenze, Menschen mit sehr geringem Einkommen nichts. Zahnbehandlungen für Erwachsene, Brillen und die meiste Physiotherapie sind nicht abgedeckt und werden privat bezahlt.</p>"
+   },
+   {
+    "id": "private",
+    "h2": "Private Krankenversicherung",
+    "alt": "Pflegerin in Blau spricht mit einer Patientin in einer Klinik",
+    "html": "<p>Viele ausländische Residenten nutzen beide Systeme: staatlich für Notfälle und schwere Behandlungen, privat für schnellere Facharzttermine und Ärzte, die Deutsch oder Englisch sprechen. Große Anbieter sind Sanitas, Adeslas, DKV, Asisa, Mapfre, Caser und AXA.</p><ul><li><strong>Junge Erwachsene:</strong> ab etwa 40–60 € im Monat für eine Grundpolice.</li><li><strong>50 bis 65 Jahre:</strong> oft 80–150 € im Monat.</li><li><strong>Über 65:</strong> 150–300 € oder mehr, und manche Versicherer nehmen ab einem bestimmten Alter niemanden mehr auf.</li></ul><p>Für ein Visum ohne Erwerbstätigkeit brauchen Nicht-EU-Bürger eine Police mit voller Deckung in Spanien, ohne Zuzahlung und Wartezeit. Prüfen Sie vor Abschluss die Ausschlüsse für Vorerkrankungen.</p>"
+   },
+   {
+    "id": "practical",
+    "h2": "Praktische Tipps",
+    "alt": "",
+    "html": "<ul><li><strong>Sprache:</strong> In Urlaubsorten sprechen viele Ärzte Englisch, an der Costa Blanca und der Costa del Sol gibt es auch deutschsprachige Praxen. Außerhalb größerer Orte hilft Spanisch sehr.</li><li><strong>Apotheken</strong> (<em>farmacia</em>, grünes Kreuz) beraten gut bei kleinen Beschwerden, und in jeder Gegend hat eine nachts geöffnet (<em>farmacia de guardia</em>).</li><li><strong>Lage:</strong> Prüfen Sie bei der Wahl der Immobilie die Entfernung zum nächsten staatlichen Krankenhaus. Unser Ratgeber zu den <a href=\"{up}de-de/die-besten-orte-zum-leben-in-spanien-fur-senioren.html\">besten Orten für den Ruhestand</a> nennt die Krankenhäuser in der Nähe jedes Ortes.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "Ist die Gesundheitsversorgung in Spanien für Ausländer kostenlos?",
+    "Für versicherte Residenten ja: Angestellte, Rentner mit S1 oder spanischer Rente und ihre Familien. Andere können dem Convenio especial beitreten oder sich privat versichern. Notfälle werden immer behandelt."
+   ],
+   [
+    "Was kostet eine private Krankenversicherung in Spanien?",
+    "Ab etwa 40–60 € im Monat für junge Erwachsene, 80–150 € zwischen 50 und 65 und 150–300 € oder mehr über 65, je nach Versicherer und Leistung."
+   ],
+   [
+    "Können deutsche Rentner das spanische System nutzen?",
+    "Ja. Wer in Spanien lebt und eine deutsche gesetzliche Rente bezieht, erhält von seiner Krankenkasse das Formular S1 und ist dann in Spanien wie ein spanischer Rentner versichert."
+   ],
+   [
+    "Was ist der Convenio especial?",
+    "Eine staatliche Versicherung gegen Beitrag für Residenten ohne andere Absicherung, nach einem Jahr im padrón. 2026 kostet sie etwa 60 € im Monat unter 65 und 157 € ab 65."
+   ]
+  ],
+  "closing": {
+   "h2": "Die Krankenversicherung vor dem Umzug klären",
+   "alt": "Ärztin hält ein Stethoskop mit kleiner spanischer Flagge",
+   "html": "<p>Wer die Krankenversicherung früh klärt, zieht entspannter um. Prüfen Sie, welcher Weg für Sie gilt, melden Sie sich an, sobald Sie im padrón eingetragen sind, und wählen Sie ein Zuhause in der Nähe guter Versorgung. Wenn Sie eine Immobilie nahe Krankenhäusern und Geschäften suchen, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>.</p>"
+  },
+  "slug": "das-gesundheitssystem-in-spanien"
+ },
+ "es": {
+  "title": "La sanidad en España para extranjeros – Pública, seguro privado y cómo darse de alta",
+  "description": "Cómo funciona la sanidad en España para extranjeros y compradores: quién puede usar la pública, cómo conseguir la tarjeta sanitaria, el convenio especial, el copago y los precios del seguro privado.",
+  "crumb": "Sanidad en España",
+  "eyebrow": "Vivir en España · Salud",
+  "h1": "El sistema sanitario en España",
+  "hero_alt": "Estetoscopio sobre la bandera roja y amarilla de España",
+  "short": "La sanidad pública es gratuita para los residentes que trabajan, cobran una pensión (también los pensionistas de la UE, del EEE, de Suiza y del Reino Unido con el formulario S1) o son beneficiarios de alguien con cobertura. Quien no la tenga puede suscribir el convenio especial tras un año empadronado o contratar un seguro privado. Las urgencias se atienden siempre. Las pólizas privadas empiezan en unos 40–60 € al mes para adultos jóvenes y suben con la edad.",
+  "intro": [
+   "Para quien se instala en España o pasa largas temporadas aquí, la sanidad es una de las primeras cosas que hay que resolver. La buena noticia es que el sistema español es de los mejores de Europa, con hospitales modernos en toda la costa. Explicamos quién puede usarlo, cómo darse de alta y cuándo compensa un seguro privado, pensando sobre todo en quienes llegan del extranjero."
+  ],
+  "sections": [
+   {
+    "id": "system",
+    "h2": "Cómo está organizado",
+    "alt": "",
+    "html": "<p>El Sistema Nacional de Salud se financia con impuestos y lo gestiona cada comunidad: en la Comunitat Valenciana, la Conselleria de Sanitat; en Andalucía, el SAS; en Murcia, el Servicio Murciano de Salud. La puerta de entrada es el centro de salud, donde se asigna un médico de cabecera. Al especialista y al hospital se llega con su derivación, salvo urgencias.</p>"
+   },
+   {
+    "id": "public",
+    "h2": "¿Quién puede usar la sanidad pública?",
+    "alt": "Médica sonriente revisando notas con una paciente mayor",
+    "html": "<ul><li><strong>Trabajadores por cuenta ajena y autónomos</strong> que cotizan a la Seguridad Social, y sus beneficiarios.</li><li><strong>Pensionistas</strong> con pensión española, o con pensión pública de otro país de la UE, del EEE, de Suiza o del Reino Unido que registran el <strong>formulario S1</strong>.</li><li><strong>Residentes sin otra cobertura</strong> empadronados al menos un año, que pueden suscribir el <em>convenio especial</em> de prestación sanitaria. En 2026 cuesta unos 60 € al mes a menores de 65 y unos 157 € a partir de 65.</li><li><strong>Visitantes</strong> de la UE con la Tarjeta Sanitaria Europea, que cubre la atención necesaria en una estancia temporal, no un traslado.</li></ul><p>La atención de urgencias en un hospital público se presta siempre. Para una ambulancia, llame al <strong>112</strong>.</p>"
+   },
+   {
+    "id": "register",
+    "h2": "Cómo darse de alta y obtener la tarjeta sanitaria",
+    "alt": "",
+    "html": "<ol><li>Obtenga el <a href=\"{up}es-es/numero-nie-en-espana-que-es-y-como-obtenerlo.html\">NIE</a> y, si se instala aquí, el certificado de registro o la TIE.</li><li>Empadrónese en el ayuntamiento.</li><li>Consiga un número de la Seguridad Social o registre el formulario S1 en el INSS.</li><li>Lleve estos documentos a su centro de salud y pida el alta.</li></ol><p>Recibirá la tarjeta sanitaria: la <em>tarjeta SIP</em> en la Comunitat Valenciana o la tarjeta sanitaria del SAS o del SMS en Andalucía y Murcia. Se presenta en cada cita y en la farmacia.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Qué se paga en la pública",
+    "alt": "",
+    "html": "<p>Las consultas, pruebas, ingresos y operaciones son gratuitos. Los medicamentos con receta tienen copago según la renta: la mayoría de los trabajadores paga el 40–60 % del precio, los pensionistas en general el 10 % con un tope mensual bajo y las rentas más bajas nada. El dentista para adultos, las gafas y la mayor parte de la fisioterapia no están cubiertos.</p>"
+   },
+   {
+    "id": "private",
+    "h2": "El seguro médico privado",
+    "alt": "Enfermera de azul hablando con una paciente en una clínica",
+    "html": "<p>Muchos residentes extranjeros usan los dos sistemas: la pública para urgencias y tratamientos importantes y la privada para ver antes al especialista o a médicos que hablen su idioma. Las principales aseguradoras son Sanitas, Adeslas, DKV, Asisa, Mapfre, Caser y AXA.</p><ul><li><strong>Adultos jóvenes:</strong> desde unos 40–60 € al mes por una póliza básica.</li><li><strong>De 50 a 65 años:</strong> a menudo 80–150 € al mes.</li><li><strong>Más de 65:</strong> 150–300 € o más, y algunas aseguradoras no admiten nuevos clientes a partir de cierta edad.</li></ul><p>Para el visado no lucrativo o de nómada digital se pide una póliza con cobertura completa en España, sin copagos ni carencias. Revise las exclusiones por enfermedades previas antes de firmar.</p>"
+   },
+   {
+    "id": "practical",
+    "h2": "Consejos prácticos",
+    "alt": "",
+    "html": "<ul><li><strong>Idioma:</strong> en las zonas turísticas muchos médicos hablan inglés y algunos hospitales de la costa tienen intérpretes, pero fuera de las ciudades el español es casi imprescindible.</li><li><strong>Farmacias:</strong> aconsejan bien en problemas leves y siempre hay una de guardia abierta por la noche.</li><li><strong>Ubicación:</strong> al elegir vivienda, compruebe la distancia al hospital público más cercano. En nuestra guía de los <a href=\"{up}es-es/los-mejores-lugares-para-vivir-en-espana-para-personas-mayores.html\">mejores lugares para jubilarse</a> indicamos los hospitales de cada zona.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Es gratis la sanidad en España para extranjeros?",
+    "Es gratuita para los residentes con derecho: trabajadores, pensionistas con S1 o pensión española y sus beneficiarios. El resto puede suscribir el convenio especial o un seguro privado. Las urgencias se atienden siempre."
+   ],
+   [
+    "¿Cuánto cuesta un seguro médico privado?",
+    "Desde unos 40–60 € al mes para adultos jóvenes, 80–150 € entre 50 y 65 años y 150–300 € o más a partir de 65, según la aseguradora y la cobertura."
+   ],
+   [
+    "¿Pueden los pensionistas británicos usar la sanidad pública?",
+    "Sí. Los pensionistas británicos que viven en España pueden registrar el formulario S1 emitido por el Reino Unido y tener la misma cobertura que un pensionista español."
+   ],
+   [
+    "¿Qué es el convenio especial?",
+    "Una modalidad pública de pago para residentes sin otra cobertura, tras un año empadronado. En 2026 cuesta unos 60 € al mes a menores de 65 y 157 € a partir de 65."
+   ]
+  ],
+  "closing": {
+   "h2": "Resuelva la sanidad antes de mudarse",
+   "alt": "Médica sujetando un estetoscopio con una pequeña bandera de España",
+   "html": "<p>Dejar resuelta la cobertura sanitaria hace el traslado mucho más tranquilo. Compruebe qué vía le corresponde, dese de alta en cuanto esté empadronado y elija una vivienda cerca de buenos servicios. Si quiere ayuda para encontrar casa cerca de hospitales y servicios, <a href=\"{up}index.html#contact\">contacte con nosotros</a>.</p>"
+  },
+  "slug": "el-sistema-sanitario-en-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/system-opieki-zdrowotnej-w-hiszpanii"
+}

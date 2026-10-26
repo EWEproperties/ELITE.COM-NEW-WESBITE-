@@ -1,0 +1,287 @@
+{
+ "author": "lucyna",
+ "published": "2026-03-10",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/weather-in-alicante/postiguet-beach-and-santa-barbara-castle.jpg",
+ "images": {
+  "spring": "assets/blog/weather-in-alicante/almond-blossom-near-montgo.jpg",
+  "summer": "assets/blog/weather-in-alicante/calpe-bay-in-summer.jpg",
+  "autumn": "assets/blog/weather-in-alicante/wooden-pier-at-sunset.jpg",
+  "winter": "assets/blog/weather-in-alicante/palm-garden-in-elche.jpg",
+  "closing": "assets/blog/weather-in-alicante/cycling-path-above-denia.jpg"
+ },
+ "cards": [
+  "26157630",
+  "24758318",
+  "23935651"
+ ],
+ "sources": [
+  [
+   "AEMET – climate normals for Alicante (1991–2020)",
+   "https://www.aemet.es/es/serviciosclimaticos/datosclimatologicos/valoresclimatologicos?l=8025&k=val"
+  ],
+  [
+   "Puertos del Estado – sea temperature data",
+   "https://www.puertos.es/es-es/oceanografia/Paginas/portus.aspx"
+  ]
+ ],
+ "en": {
+  "title": "Weather in Alicante – Month by Month, Sea Temperature and Best Time to Visit",
+  "description": "What is the weather like in Alicante? Average day and night temperatures for every month, sea temperature, rain and the best time to visit, holiday or house-hunt.",
+  "crumb": "Weather in Alicante",
+  "eyebrow": "Living in Spain · Climate",
+  "h1": "Weather in Alicante – Month by Month",
+  "hero_alt": "Postiguet beach in Alicante with Santa Bárbara castle on the hill",
+  "short": "Alicante is one of the sunniest and driest cities in Europe, with about 2,850 hours of sunshine and only around 300 mm of rain a year. Winter days are usually 17–18 °C, summer days 30–31 °C with warm nights. The sea is warmest in August (about 27 °C). For beaches go June to September; for sightseeing and viewing homes, spring and autumn are ideal.",
+  "intro": [
+   "Alicante is often described as having 300 days of sunshine a year. The official numbers are almost as good: the Spanish weather agency AEMET records about 2,850 hours of sun and very little rain. But each season feels different, and the best month depends on whether you come for the beach, for walking or to look at homes. Here is what to expect, month by month."
+  ],
+  "sections": [
+   {
+    "id": "overview",
+    "h2": "Alicante's climate in brief",
+    "alt": "",
+    "html": "<p>Alicante has a dry Mediterranean climate. The mountains inland shelter the coast, and the sea keeps winters mild and summers less extreme than in inland Spain.</p><ul><li><strong>Sunshine:</strong> about 2,850 hours a year, among the highest in Europe.</li><li><strong>Average temperature:</strong> about 18 °C over the year.</li><li><strong>Rain:</strong> around 300 mm a year, falling on roughly 37 days, mostly in autumn.</li><li><strong>Frost and snow:</strong> almost never on the coast.</li></ul>"
+   },
+   {
+    "id": "table",
+    "h2": "Temperatures month by month",
+    "alt": "",
+    "html": "<p>Rounded averages for Alicante city (AEMET, 1991–2020) and typical sea temperatures off the coast.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Month</th><th>Day (avg. high)</th><th>Night (avg. low)</th><th>Sea</th></tr></thead><tbody><tr><td>January</td><td>17 °C</td><td>6 °C</td><td>14 °C</td></tr><tr><td>February</td><td>18 °C</td><td>7 °C</td><td>14 °C</td></tr><tr><td>March</td><td>20 °C</td><td>9 °C</td><td>14 °C</td></tr><tr><td>April</td><td>21 °C</td><td>11 °C</td><td>15 °C</td></tr><tr><td>May</td><td>24 °C</td><td>14 °C</td><td>18 °C</td></tr><tr><td>June</td><td>28 °C</td><td>18 °C</td><td>22 °C</td></tr><tr><td>July</td><td>30 °C</td><td>21 °C</td><td>25 °C</td></tr><tr><td>August</td><td>31 °C</td><td>21 °C</td><td>27 °C</td></tr><tr><td>September</td><td>29 °C</td><td>19 °C</td><td>25 °C</td></tr><tr><td>October</td><td>25 °C</td><td>15 °C</td><td>22 °C</td></tr><tr><td>November</td><td>21 °C</td><td>10 °C</td><td>19 °C</td></tr><tr><td>December</td><td>18 °C</td><td>7 °C</td><td>16 °C</td></tr></tbody></table></div><p>Inland towns such as Elche or Orihuela are a few degrees hotter in summer and cooler on winter nights. Further north, around Jávea and Dénia, the climate is a little greener and wetter.</p>"
+   },
+   {
+    "id": "spring",
+    "h2": "Spring (March to May)",
+    "alt": "Almond trees in blossom below the Montgó mountain on the Costa Blanca",
+    "html": "<p>Days of 20–25 °C, fresh evenings and the countryside at its greenest. Almond trees flower inland from late January. The sea is still cool (14–18 °C), so swimming is for the brave, but it is a perfect time for walking, golf, cycling and city breaks.</p>"
+   },
+   {
+    "id": "summer",
+    "h2": "Summer (June to September)",
+    "alt": "Calpe bay with the marina and high-rise apartments in summer sun",
+    "html": "<p>Hot, sunny and almost dry. Days reach 30–31 °C on the coast, but humidity can make them feel warmer, and nights in July and August often stay above 21 °C. The sea warms to about 25–27 °C. The beaches and promenades are busiest in July and August; June and September are calmer and just as warm.</p>"
+   },
+   {
+    "id": "autumn",
+    "h2": "Autumn (October and November)",
+    "alt": "Wooden pier leading to the sea under a golden sunset sky",
+    "html": "<p>Many residents' favourite season. October days are still around 25 °C and the sea stays warm enough to swim. This is also when most of the year's rain falls, often in short, heavy storms known as a <em>DANA</em> or <em>gota fría</em>. They usually pass within a day or two, but they are one reason to check flood maps before buying a home in a low-lying area.</p>"
+   },
+   {
+    "id": "winter",
+    "h2": "Winter (December to February)",
+    "alt": "Pond surrounded by tall palm trees in the Palm Grove of Elche",
+    "html": "<p>Mild and bright. Daytime temperatures of 17–18 °C mean lunch on a sunny terrace is normal in January, though nights drop to 6–7 °C. Homes on the coast are built for heat, not cold, so good insulation and a heat pump (air conditioning that also heats) make a big difference to comfort. Winter is quiet, with no crowds and lower prices for flights and rentals.</p>"
+   },
+   {
+    "id": "best",
+    "h2": "When is the best time to visit Alicante?",
+    "alt": "",
+    "html": "<ul><li><strong>Beach holiday:</strong> June to September, with June and September less crowded.</li><li><strong>Sightseeing, walking and golf:</strong> March to May and October to November.</li><li><strong>Escaping a northern winter:</strong> December to February.</li><li><strong>Viewing properties:</strong> spring and autumn. You can see a home in pleasant weather and also test how warm it feels inside on a cooler day.</li></ul>"
+   },
+   {
+    "id": "homes",
+    "h2": "What the climate means for buying a home",
+    "alt": "",
+    "html": "<p>The mild climate is a big reason why many people live on the Costa Blanca all year, not just in summer. When you look at a property, check its orientation (south-facing terraces get winter sun, but can be very hot in August), insulation, air conditioning with heating, and whether it lies in a flood zone. Our guide to <a href=\"{up}properties-near-the-sea-in-spain.html\">properties near the sea</a> explains how to check flood maps, and you can browse our <a href=\"{up}properties-for-sale-in-alicante.html\">properties for sale in Alicante</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Is Alicante warm in winter?",
+    "Mild rather than warm. Days are usually 17–18 °C and sunny, nights around 6–7 °C. You can often sit outside at lunchtime, but you need a jacket in the evening."
+   ],
+   [
+    "When is the sea warm enough to swim in Alicante?",
+    "From about mid-June to October, when the sea is 22–27 °C. It is warmest in August."
+   ],
+   [
+    "Which is the rainiest month in Alicante?",
+    "Usually September, followed by October. Rain often comes in short, heavy storms rather than long wet spells."
+   ],
+   [
+    "Does it snow in Alicante?",
+    "Almost never on the coast. Snow can fall on the inland mountains in some winters."
+   ]
+  ],
+  "closing": {
+   "h2": "Every season has its charm",
+   "alt": "Bicycle parked under a pine tree on a path above Dénia and the sea",
+   "html": "<p>There is no single perfect month in Alicante, but there are very few bad ones. Choose the season that fits what you want to do, and if you are thinking of staying longer, <a href=\"{up}index.html#contact\">tell us</a> what you are looking for. We will show you homes that are comfortable all year round.</p>"
+  },
+  "slug": "weather-in-alicante"
+ },
+ "de": {
+  "title": "Wetter in Alicante – Monat für Monat, Wassertemperatur und beste Reisezeit",
+  "description": "Wie ist das Wetter in Alicante? Durchschnittstemperaturen für Tag und Nacht in jedem Monat, Wassertemperatur, Regen und die beste Zeit für Urlaub oder Immobiliensuche.",
+  "crumb": "Wetter in Alicante",
+  "eyebrow": "Leben in Spanien · Klima",
+  "h1": "Wetter in Alicante – Monat für Monat",
+  "hero_alt": "Strand Postiguet in Alicante mit der Burg Santa Bárbara auf dem Hügel",
+  "short": "Alicante gehört zu den sonnigsten und trockensten Städten Europas: rund 2.850 Sonnenstunden und nur etwa 300 mm Regen im Jahr. Im Winter werden es tagsüber meist 17–18 °C, im Sommer 30–31 °C mit warmen Nächten. Das Meer ist im August am wärmsten (etwa 27 °C). Für den Strand Juni bis September, für Ausflüge und Besichtigungen Frühling und Herbst.",
+  "intro": [
+   "Oft heißt es, Alicante habe 300 Sonnentage im Jahr. Die offiziellen Zahlen sind fast genauso gut: Der spanische Wetterdienst AEMET misst rund 2.850 Sonnenstunden und sehr wenig Regen. Jede Jahreszeit fühlt sich aber anders an, und der beste Monat hängt davon ab, ob Sie zum Baden, zum Wandern oder zur Immobiliensuche kommen. Das erwartet Sie Monat für Monat."
+  ],
+  "sections": [
+   {
+    "id": "overview",
+    "h2": "Das Klima von Alicante auf einen Blick",
+    "alt": "",
+    "html": "<p>Alicante hat ein trockenes Mittelmeerklima. Die Berge im Hinterland schützen die Küste, und das Meer sorgt für milde Winter und Sommer, die weniger extrem sind als im Landesinneren.</p><ul><li><strong>Sonne:</strong> etwa 2.850 Stunden im Jahr, mit die meisten in Europa.</li><li><strong>Jahresmittel:</strong> rund 18 °C.</li><li><strong>Regen:</strong> etwa 300 mm im Jahr an rund 37 Tagen, vor allem im Herbst.</li><li><strong>Frost und Schnee:</strong> an der Küste so gut wie nie.</li></ul>"
+   },
+   {
+    "id": "table",
+    "h2": "Temperaturen Monat für Monat",
+    "alt": "",
+    "html": "<p>Gerundete Mittelwerte für die Stadt Alicante (AEMET, 1991–2020) und typische Wassertemperaturen vor der Küste.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Monat</th><th>Tag (Ø Höchstwert)</th><th>Nacht (Ø Tiefstwert)</th><th>Meer</th></tr></thead><tbody><tr><td>Januar</td><td>17 °C</td><td>6 °C</td><td>14 °C</td></tr><tr><td>Februar</td><td>18 °C</td><td>7 °C</td><td>14 °C</td></tr><tr><td>März</td><td>20 °C</td><td>9 °C</td><td>14 °C</td></tr><tr><td>April</td><td>21 °C</td><td>11 °C</td><td>15 °C</td></tr><tr><td>Mai</td><td>24 °C</td><td>14 °C</td><td>18 °C</td></tr><tr><td>Juni</td><td>28 °C</td><td>18 °C</td><td>22 °C</td></tr><tr><td>Juli</td><td>30 °C</td><td>21 °C</td><td>25 °C</td></tr><tr><td>August</td><td>31 °C</td><td>21 °C</td><td>27 °C</td></tr><tr><td>September</td><td>29 °C</td><td>19 °C</td><td>25 °C</td></tr><tr><td>Oktober</td><td>25 °C</td><td>15 °C</td><td>22 °C</td></tr><tr><td>November</td><td>21 °C</td><td>10 °C</td><td>19 °C</td></tr><tr><td>Dezember</td><td>18 °C</td><td>7 °C</td><td>16 °C</td></tr></tbody></table></div><p>Orte im Landesinneren wie Elche oder Orihuela sind im Sommer ein paar Grad heißer und in Winternächten kühler. Weiter nördlich, um Jávea und Dénia, ist es etwas grüner und feuchter.</p>"
+   },
+   {
+    "id": "spring",
+    "h2": "Frühling (März bis Mai)",
+    "alt": "Blühende Mandelbäume unterhalb des Montgó an der Costa Blanca",
+    "html": "<p>Tage mit 20–25 °C, frische Abende und die Landschaft so grün wie sonst nie. Die Mandelbäume im Hinterland blühen schon ab Ende Januar. Das Meer ist noch kühl (14–18 °C), dafür ist es die ideale Zeit zum Wandern, Golfen, Radfahren und für Städtereisen.</p>"
+   },
+   {
+    "id": "summer",
+    "h2": "Sommer (Juni bis September)",
+    "alt": "Bucht von Calpe mit Jachthafen und Hochhäusern in der Sommersonne",
+    "html": "<p>Heiß, sonnig und fast ohne Regen. An der Küste werden es 30–31 °C, durch die Luftfeuchtigkeit fühlt es sich oft wärmer an, und im Juli und August bleiben die Nächte häufig über 21 °C. Das Meer erreicht 25–27 °C. Im Juli und August sind Strände und Promenaden am vollsten, Juni und September sind ruhiger und genauso warm.</p>"
+   },
+   {
+    "id": "autumn",
+    "h2": "Herbst (Oktober und November)",
+    "alt": "Holzsteg, der unter goldenem Abendhimmel ins Meer führt",
+    "html": "<p>Für viele Einheimische die schönste Jahreszeit. Im Oktober sind es tagsüber noch um 25 °C, und das Meer ist warm genug zum Baden. In diesen Wochen fällt aber auch der meiste Regen, oft als kurzes, heftiges Unwetter, das <em>DANA</em> oder <em>gota fría</em> genannt wird. Meist ist es nach ein, zwei Tagen vorbei, doch es ist ein Grund, vor dem Kauf einer Immobilie in tiefer Lage die Hochwasserkarten zu prüfen.</p>"
+   },
+   {
+    "id": "winter",
+    "h2": "Winter (Dezember bis Februar)",
+    "alt": "Teich zwischen hohen Palmen im Palmenhain von Elche",
+    "html": "<p>Mild und hell. Mit 17–18 °C am Tag ist das Mittagessen auf der Sonnenterrasse auch im Januar normal, nachts sind es aber nur 6–7 °C. Häuser an der Küste sind für Hitze gebaut, nicht für Kälte. Gute Dämmung und eine Wärmepumpe (Klimaanlage, die auch heizt) machen deshalb viel aus. Im Winter ist es ruhig, ohne Gedränge, und Flüge und Mieten sind günstiger.</p>"
+   },
+   {
+    "id": "best",
+    "h2": "Wann ist die beste Reisezeit für Alicante?",
+    "alt": "",
+    "html": "<ul><li><strong>Badeurlaub:</strong> Juni bis September, im Juni und September weniger voll.</li><li><strong>Ausflüge, Wandern und Golf:</strong> März bis Mai und Oktober bis November.</li><li><strong>Dem Winter im Norden entfliehen:</strong> Dezember bis Februar.</li><li><strong>Immobilien besichtigen:</strong> Frühling und Herbst. Sie sehen das Haus bei angenehmem Wetter und merken an einem kühleren Tag, wie warm es innen ist.</li></ul>"
+   },
+   {
+    "id": "homes",
+    "h2": "Was das Klima für den Immobilienkauf bedeutet",
+    "alt": "",
+    "html": "<p>Das milde Klima ist ein Hauptgrund, warum viele Menschen das ganze Jahr an der Costa Blanca leben. Achten Sie bei einer Besichtigung auf die Ausrichtung (Südterrassen haben Wintersonne, können im August aber sehr heiß sein), die Dämmung, eine Klimaanlage mit Heizfunktion und darauf, ob das Haus in einem Hochwassergebiet liegt. Wie man Hochwasserkarten prüft, steht in unserem Ratgeber <a href=\"{up}de-de/immobilien-in-meeresnahe-in-spanien.html\">Immobilien in Meeresnähe</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Ist es in Alicante im Winter warm?",
+    "Eher mild als warm. Tagsüber meist 17–18 °C und sonnig, nachts um 6–7 °C. Mittags kann man oft draußen sitzen, abends braucht man eine Jacke."
+   ],
+   [
+    "Ab wann kann man in Alicante im Meer baden?",
+    "Etwa von Mitte Juni bis Oktober, wenn das Wasser 22–27 °C hat. Am wärmsten ist es im August."
+   ],
+   [
+    "Welcher Monat ist in Alicante am regenreichsten?",
+    "Meist der September, danach der Oktober. Der Regen kommt oft als kurzes, heftiges Unwetter statt als lange Regenperiode."
+   ],
+   [
+    "Schneit es in Alicante?",
+    "An der Küste so gut wie nie. In den Bergen im Hinterland kann es in manchen Wintern schneien."
+   ]
+  ],
+  "closing": {
+   "h2": "Jede Jahreszeit hat ihren Reiz",
+   "alt": "Fahrrad unter einer Pinie auf einem Weg oberhalb von Dénia und dem Meer",
+   "html": "<p>In Alicante gibt es nicht den einen perfekten Monat, aber kaum schlechte. Wählen Sie die Jahreszeit, die zu Ihren Plänen passt. Und wenn Sie länger bleiben möchten, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>, was Sie suchen. Wir zeigen Ihnen Immobilien, in denen man sich das ganze Jahr wohlfühlt.</p>"
+  },
+  "slug": "wetter-in-alicante"
+ },
+ "es": {
+  "title": "El clima en Alicante – Mes a mes, temperatura del mar y mejor época para ir",
+  "description": "¿Qué tiempo hace en Alicante? Temperaturas medias de día y de noche de cada mes, temperatura del mar, lluvia y la mejor época para ir de vacaciones o buscar casa.",
+  "crumb": "El clima en Alicante",
+  "eyebrow": "Vivir en España · Clima",
+  "h1": "El clima en Alicante – Mes a mes",
+  "hero_alt": "Playa del Postiguet en Alicante con el castillo de Santa Bárbara en el monte",
+  "short": "Alicante es una de las ciudades más soleadas y secas de Europa, con unas 2.850 horas de sol y solo unos 300 mm de lluvia al año. En invierno los días suelen rondar los 17–18 °C y en verano los 30–31 °C, con noches cálidas. El mar está más caliente en agosto (unos 27 °C). Para la playa, de junio a septiembre; para pasear y ver casas, primavera y otoño.",
+  "intro": [
+   "Se suele decir que Alicante tiene 300 días de sol al año. Las cifras oficiales son casi igual de buenas: la AEMET registra unas 2.850 horas de sol y muy poca lluvia. Pero cada estación es distinta, y el mejor mes depende de si viene a la playa, a hacer rutas o a buscar casa. Esto es lo que puede esperar mes a mes."
+  ],
+  "sections": [
+   {
+    "id": "overview",
+    "h2": "El clima de Alicante en pocas palabras",
+    "alt": "",
+    "html": "<p>Alicante tiene un clima mediterráneo seco. Las montañas del interior protegen la costa y el mar suaviza los inviernos y hace los veranos menos extremos que en el interior peninsular.</p><ul><li><strong>Sol:</strong> unas 2.850 horas al año, de las más altas de Europa.</li><li><strong>Temperatura media:</strong> unos 18 °C anuales.</li><li><strong>Lluvia:</strong> unos 300 mm al año en unos 37 días, sobre todo en otoño.</li><li><strong>Heladas y nieve:</strong> casi nunca en la costa.</li></ul>"
+   },
+   {
+    "id": "table",
+    "h2": "Temperaturas mes a mes",
+    "alt": "",
+    "html": "<p>Medias redondeadas de la ciudad de Alicante (AEMET, 1991–2020) y temperaturas habituales del mar en la costa.</p><div class=\"tablewrap\"><table class=\"compare-table\"><thead><tr><th>Mes</th><th>Día (máx. media)</th><th>Noche (mín. media)</th><th>Mar</th></tr></thead><tbody><tr><td>Enero</td><td>17 °C</td><td>6 °C</td><td>14 °C</td></tr><tr><td>Febrero</td><td>18 °C</td><td>7 °C</td><td>14 °C</td></tr><tr><td>Marzo</td><td>20 °C</td><td>9 °C</td><td>14 °C</td></tr><tr><td>Abril</td><td>21 °C</td><td>11 °C</td><td>15 °C</td></tr><tr><td>Mayo</td><td>24 °C</td><td>14 °C</td><td>18 °C</td></tr><tr><td>Junio</td><td>28 °C</td><td>18 °C</td><td>22 °C</td></tr><tr><td>Julio</td><td>30 °C</td><td>21 °C</td><td>25 °C</td></tr><tr><td>Agosto</td><td>31 °C</td><td>21 °C</td><td>27 °C</td></tr><tr><td>Septiembre</td><td>29 °C</td><td>19 °C</td><td>25 °C</td></tr><tr><td>Octubre</td><td>25 °C</td><td>15 °C</td><td>22 °C</td></tr><tr><td>Noviembre</td><td>21 °C</td><td>10 °C</td><td>19 °C</td></tr><tr><td>Diciembre</td><td>18 °C</td><td>7 °C</td><td>16 °C</td></tr></tbody></table></div><p>Las localidades del interior, como Elche u Orihuela, son algo más calurosas en verano y más frescas en las noches de invierno. Más al norte, en Jávea y Dénia, el clima es algo más verde y húmedo.</p>"
+   },
+   {
+    "id": "spring",
+    "h2": "Primavera (marzo a mayo)",
+    "alt": "Almendros en flor a los pies del Montgó en la Costa Blanca",
+    "html": "<p>Días de 20–25 °C, tardes frescas y el campo más verde del año. Los almendros del interior florecen ya a finales de enero. El mar todavía está fresco (14–18 °C), pero es la época perfecta para senderismo, golf, bici y escapadas urbanas.</p>"
+   },
+   {
+    "id": "summer",
+    "h2": "Verano (junio a septiembre)",
+    "alt": "Bahía de Calpe con el puerto deportivo y edificios altos bajo el sol de verano",
+    "html": "<p>Calor, sol y casi nada de lluvia. En la costa se alcanzan 30–31 °C, la humedad hace que la sensación sea mayor y en julio y agosto las noches suelen superar los 21 °C. El mar llega a 25–27 °C. Julio y agosto son los meses con más gente en playas y paseos; junio y septiembre son más tranquilos e igual de cálidos.</p>"
+   },
+   {
+    "id": "autumn",
+    "h2": "Otoño (octubre y noviembre)",
+    "alt": "Pasarela de madera hacia el mar bajo un cielo dorado al atardecer",
+    "html": "<p>La estación favorita de muchos residentes. En octubre los días siguen rondando los 25 °C y el mar aún permite bañarse. Es también cuando cae la mayor parte de la lluvia del año, a menudo en tormentas cortas e intensas, la <em>DANA</em> o <em>gota fría</em>. Suelen pasar en uno o dos días, pero son un motivo para consultar los mapas de inundabilidad antes de comprar en una zona baja.</p>"
+   },
+   {
+    "id": "winter",
+    "h2": "Invierno (diciembre a febrero)",
+    "alt": "Estanque rodeado de altas palmeras en el Palmeral de Elche",
+    "html": "<p>Suave y luminoso. Con 17–18 °C de día, comer en una terraza al sol en enero es lo normal, aunque por la noche se baja a 6–7 °C. Las casas de la costa están pensadas para el calor, no para el frío, así que un buen aislamiento y una bomba de calor (aire acondicionado que también calienta) marcan la diferencia. El invierno es tranquilo, sin aglomeraciones y con vuelos y alquileres más baratos.</p>"
+   },
+   {
+    "id": "best",
+    "h2": "¿Cuál es la mejor época para ir a Alicante?",
+    "alt": "",
+    "html": "<ul><li><strong>Vacaciones de playa:</strong> de junio a septiembre; junio y septiembre, con menos gente.</li><li><strong>Turismo, senderismo y golf:</strong> de marzo a mayo y de octubre a noviembre.</li><li><strong>Huir del frío:</strong> de diciembre a febrero.</li><li><strong>Ver viviendas:</strong> primavera y otoño. Verá la casa con buen tiempo y podrá comprobar en un día más fresco cómo se nota por dentro.</li></ul>"
+   },
+   {
+    "id": "homes",
+    "h2": "Qué supone el clima al comprar una vivienda",
+    "alt": "",
+    "html": "<p>El clima suave es una de las grandes razones por las que mucha gente vive en la Costa Blanca todo el año. Al ver una vivienda, fíjese en la orientación (las terrazas al sur tienen sol en invierno, pero pueden ser muy calurosas en agosto), el aislamiento, el aire acondicionado con bomba de calor y si está en zona inundable. En nuestra guía de <a href=\"{up}es-es/propiedades-cerca-del-mar-en-espana.html\">propiedades cerca del mar</a> explicamos cómo consultar los mapas de inundabilidad.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Hace calor en Alicante en invierno?",
+    "Más bien templado. De día suele haber 17–18 °C y sol, y de noche unos 6–7 °C. A mediodía se puede estar fuera, pero por la noche hace falta chaqueta."
+   ],
+   [
+    "¿Cuándo se puede uno bañar en el mar en Alicante?",
+    "Desde mediados de junio hasta octubre, con el agua a 22–27 °C. Agosto es el mes más cálido."
+   ],
+   [
+    "¿Cuál es el mes más lluvioso en Alicante?",
+    "Normalmente septiembre, seguido de octubre. La lluvia suele llegar en tormentas cortas e intensas, no en largas temporadas."
+   ],
+   [
+    "¿Nieva en Alicante?",
+    "En la costa, casi nunca. Algunos inviernos nieva en las montañas del interior."
+   ]
+  ],
+  "closing": {
+   "h2": "Cada estación tiene su encanto",
+   "alt": "Bicicleta bajo un pino en un camino sobre Dénia y el mar",
+   "html": "<p>En Alicante no hay un único mes perfecto, pero hay muy pocos malos. Elija la estación que encaje con lo que quiere hacer y, si piensa quedarse más tiempo, <a href=\"{up}index.html#contact\">cuéntenos</a> qué busca. Le enseñaremos viviendas cómodas todo el año.</p>"
+  },
+  "slug": "el-clima-en-alicante"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/pogoda-w-alicante"
+}
