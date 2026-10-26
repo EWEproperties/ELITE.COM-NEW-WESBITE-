@@ -1,0 +1,62 @@
+{
+ "town": "Benidorm",
+ "page": "properties-for-sale-in-benidorm",
+ "title": "Property for Sale in Benidorm – Sea View Apartments | Elite World Estates",
+ "description": "{count} sea view apartments for sale in Benidorm from {from}, plus {near_count} villas and apartments nearby in Finestrat, La Cala, Albir and La Nucia. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Benidorm",
+ "h1": "Property for sale in Benidorm",
+ "lead": "Apartments with sea views by Levante and Poniente beach, and villas in the hills of Finestrat just behind the town. Here are the properties we sell in and around Benidorm today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Benidorm": "Benidorm",
+  "Finestrat": "Finestrat",
+  "Villajoyosa / La Vila Joiosa": "La Cala",
+  "L'Alfàs del Pi": "Albir",
+  "La Nucia": "La Nucia"
+ },
+ "near_towns": ["Finestrat", "La Cala", "Albir", "La Nucia"],
+ "facts": [
+  ["{count}", "apartments for sale in Benidorm"],
+  ["from {from}", "for a new apartment"],
+  ["about 45 min", "to Alicante-Elche airport"],
+  ["2 beaches", "Levante and Poniente"]
+ ],
+ "listings_intro": "New and modern apartments with 1 to 3 bedrooms, most of them with sea views, a communal pool and parking, close to Levante or Poniente beach. Prices are as listed today; ask us for the current availability.",
+ "near_intro": "Finestrat starts right behind Benidorm, with new apartments and villas with sea views in Sierra Cortina and Balcón de Finestrat. A little further are La Cala, Albir and the hills of La Nucia.",
+ "guide_title": "Living in Benidorm",
+ "guide": [
+  "Benidorm is a seaside town in the north of the Costa Blanca with around 75,000 residents and visitors from all over Europe in every month of the year. Its skyline of tall towers is famous, and it is the reason why so many homes here have a view of the sea.",
+  "The town has two long sandy beaches. Levante is the lively one, with the promenade, cafés and Rincón de Loix at its end. Poniente is calmer and longer, with a modern promenade and newer apartment towers. Between them, the old town stands on a small headland with the Balcón del Mediterráneo viewpoint.",
+  "Benidorm is busy all year, not only in summer, so shops, restaurants and services stay open and demand from tenants does not stop. Alicante-Elche airport is about 45 minutes away by car, and the TRAM connects the town with Alicante and the villages along the coast."
+ ],
+ "guide_photo": "beach.jpg",
+ "guide_photo_alt": "Poniente beach in Benidorm with palm trees",
+ "areas_title": "The main areas of Benidorm",
+ "areas": [
+  {"name": "Levante", "text": "The best known beach, with the promenade, cafés and nightlife. Apartments in towers close to the sand, many with views along the bay."},
+  {"name": "Poniente", "text": "A longer and calmer beach with a modern promenade, popular with families and people who live here all year. Newer towers with sea views."},
+  {"name": "Old town", "text": "Narrow streets, tapas bars and the Balcón del Mediterráneo viewpoint on the headland between the two beaches. Smaller, older buildings."},
+  {"name": "Rincón de Loix", "text": "The far end of Levante beach, at the foot of the Sierra Helada natural park. Apartments with sea views and a lively holiday atmosphere."},
+  {"name": "Centre", "text": "The streets behind the beaches, with shops and services on foot. Modern apartment buildings, a few minutes' walk from the sea."},
+  {"name": "Finestrat and Sierra Cortina", "text": "The hills just behind Benidorm, next to the theme parks and a golf course. New apartments and villas with pools and views over the town and the sea."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €507,000, for example, that is €50,700 VAT and €7,098 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does an apartment cost in Benidorm?", "Our apartments in Benidorm start at {from} today. Most apartments with 2 bedrooms and sea views we sell cost between €500,000 and €870,000, depending on the floor, the view and the distance to the beach. A penthouse high up in a tower costs more than €1.2 million. In Finestrat, just behind Benidorm, new apartments start at about €289,000."],
+  ["Levante or Poniente: which is better?", "Levante is livelier, with more cafés, bars and holiday visitors. Poniente is calmer, with a longer beach and newer buildings, and suits people who want to live here for longer periods. Both have homes with sea views."],
+  ["Is Benidorm a good place to rent out a property?", "Benidorm is one of the busiest holiday towns in Spain and has visitors all year, so demand is high in every season. Holiday letting needs a tourist licence in the Valencian register, and many buildings and areas restrict it, so check before you buy. See our guide to the <a href=\"new-regulations-on-short-term-rentals-in-spain.html\">short-term rental rules</a>."],
+  ["How far is Benidorm from the airport?", "Alicante-Elche Miguel Hernández airport is about 45 minutes by car. You can also reach Alicante by TRAM from Benidorm."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Benidorm?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "new-regulations-on-short-term-rentals-in-spain.html", "img": "assets/blog/thumbs/short-term-rentals.jpg", "tag": "Renting", "title": "Short-term rental rules in Spain in 2026"},
+  {"href": "properties-with-investment-potential.html", "img": "assets/blog/thumbs/investment.jpg", "tag": "Buying in Spain", "title": "Buying property in Spain as an investment or to rent out"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}
