@@ -1,0 +1,61 @@
+{
+ "town": "Altea",
+ "page": "properties-for-sale-in-altea",
+ "title": "Property for Sale in Altea – Luxury Villas with Sea Views | Elite World Estates",
+ "description": "{count} luxury villas for sale in Altea from {from}, plus {near_count} homes nearby in Albir, Polop and La Nucia. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Altea",
+ "h1": "Property for sale in Altea",
+ "lead": "Villas with sea views in Altea Hills and Altea la Vella, and homes in the villages just behind the coast. Here are the properties we sell in and around Altea today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Altea": "Altea",
+  "L'Alfàs del Pi": "Albir",
+  "Polop": "Polop",
+  "La Nucia": "La Nucia"
+ },
+ "near_towns": ["Albir", "Polop", "La Nucia"],
+ "facts": [
+  ["{count}", "villas for sale in Altea"],
+  ["from {from}", "for a villa"],
+  ["about 1 hour", "to Alicante-Elche airport"],
+  ["11 km", "to Benidorm"]
+ ],
+ "listings_intro": "Villas with 3 to 5 bedrooms, a private pool and views over the sea or the mountains, in Altea Hills, Altea la Vella and the hills around the town. Prices are as listed today; ask us for the current availability.",
+ "near_intro": "Ten to fifteen minutes from Altea: apartments and villas by the beach in Albir, and villas and townhouses with mountain views in Polop and La Nucia, often for less money.",
+ "guide_title": "Living in Altea",
+ "guide": [
+  "Altea is a town of about 22,000 people on the northern Costa Blanca, between Benidorm and Calpe. Its white old town stands on a hill above the sea, crowned by the church of Nuestra Señora del Consuelo with its blue and white tiled domes, which you can see from far along the coast.",
+  "Most of Altea's beaches are made of smooth pebbles, which keeps the water very clear. Playa de la Roda below the old town has a promenade and cafés, and quieter coves lie to the north. The town has a relaxed, artistic feel, with galleries, small restaurants and a fine arts faculty.",
+  "Homes here are mostly villas: in Altea Hills, a gated estate on the slopes above the marina, and around Altea la Vella and its golf course inland. Alicante-Elche airport is about an hour away by car, Benidorm about 11 km and Calpe about 20 km."
+ ],
+ "guide_photo": "old-town.jpg",
+ "guide_photo_alt": "White street in the old town of Altea with the blue domes of the church",
+ "areas_title": "The main areas of Altea",
+ "areas": [
+  {"name": "Old town", "text": "White houses and narrow streets on the hill around the church, with views over the bay. Small houses, few for sale, and high demand."},
+  {"name": "Seafront and Playa de la Roda", "text": "The promenade and the main beach below the old town, with cafés and restaurants. Apartments close to the sea."},
+  {"name": "Altea Hills", "text": "A gated estate on the hills above the marina, with security and wide sea views. Luxury villas, many with an infinity pool."},
+  {"name": "Altea la Vella", "text": "The old village inland, near the golf course and the mountains. Villas with large gardens, quiet and a few minutes from the coast."},
+  {"name": "Albir", "text": "The neighbouring beach town in L'Alfàs del Pi, between Altea and Benidorm. Apartments and villas near a long promenade."},
+  {"name": "Polop and La Nucia", "text": "Villages at the foot of the mountains, 10 to 15 minutes from the beach. Villas and townhouses with views, often for less money."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new villa at €2,090,000, for example, that is €209,000 VAT and €29,260 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does a villa cost in Altea?", "Our villas in Altea start at {from} today, for a renovated villa by the golf course in Altea la Vella. Most villas with sea views we sell in Altea and Altea Hills cost between €2 million and €2.4 million. In Polop and La Nucia, villas start at about €470,000."],
+  ["Which area of Altea is best to buy in?", "It depends on what you want. Altea Hills is for sea views, security and luxury villas. Altea la Vella is quieter, near the golf course and the mountains. The seafront suits buyers who want an apartment near the beach, and Albir, Polop and La Nucia offer more space for the money."],
+  ["Are the beaches in Altea sandy?", "Most beaches in Altea are made of pebbles, which keeps the water very clear. If you prefer sand, Albir and Benidorm are 10 to 20 minutes away."],
+  ["How far is Altea from the airport?", "Alicante-Elche Miguel Hernández airport is about 60 km away, around an hour by car."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Altea?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "altea-in-spain-what-is-there-to-see-on-the-costa-blanca.html", "img": "assets/blog/thumbs/altea.jpg", "tag": "Places", "title": "Altea in Spain: what is there to see on the Costa Blanca?"},
+  {"href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html", "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg", "tag": "Buying in Spain", "title": "Buying a luxury house or villa in Spain"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "town": "Cumbre del Sol",
+ "page": "properties-for-sale-in-cumbre-del-sol",
+ "title": "Property for Sale in Cumbre del Sol – Sea View Villas | Elite World Estates",
+ "description": "{count} sea view villas and apartments for sale in Cumbre del Sol, Benitachell, from {from}, plus {near_count} luxury villas nearby in Moraira. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Benitachell",
+ "h1": "Property for sale in Cumbre del Sol",
+ "lead": "Modern villas on the cliffs between Jávea and Moraira, with views over the sea and the coves below. Here are the properties we sell in Cumbre del Sol and nearby today, with a short guide to the area and what buying really costs.",
+ "town_names": {
+  "Benitachell / El Poble Nou de Benitatxell": "Cumbre del Sol",
+  "Moraira": "Moraira"
+ },
+ "near_towns": ["Moraira"],
+ "facts": [
+  ["{count}", "properties for sale in Cumbre del Sol"],
+  ["from {from}", "for an apartment"],
+  ["about 1 hour", "to Alicante-Elche airport"],
+  ["Cala del Moraig", "the cove below the cliffs"]
+ ],
+ "listings_intro": "Mostly new villas with 3 or 4 bedrooms, a private pool and open sea views, many in a modern style with large terraces. Prices are as listed today; ask us for the current availability.",
+ "near_intro": "Moraira is about 10 minutes away: a small harbour town with sandy coves, restaurants and luxury villas with sea views.",
+ "guide_title": "Living in Cumbre del Sol",
+ "guide": [
+  "Cumbre del Sol is a residential area on the cliffs of Benitachell, on the northern Costa Blanca between Jávea and Moraira. It is known for sea views, quiet streets and modern villas built on the slopes above the Mediterranean.",
+  "Below the cliffs lie small coves with very clear water. The best known is Cala del Moraig, with a pebble beach, a sea cave and deep blue water. Paths along the coast lead to viewpoints and other quiet coves.",
+  "The area has its own restaurants, shops and an international school. For larger shops, hospitals and weekly markets, Jávea, Moraira and Teulada are 10 to 15 minutes away by car. Alicante airport is about 75 km away, around an hour by car, and Valencia airport about 100 km."
+ ],
+ "guide_photo": "beach.jpg",
+ "guide_photo_alt": "Cove below the cliffs near Cumbre del Sol in Benitachell",
+ "areas_title": "The area around Cumbre del Sol",
+ "areas": [
+  {"name": "Cumbre del Sol", "text": "The main residential area on the top and slopes of the cliffs, with modern villas, sea views and the shops and restaurants of the area close by."},
+  {"name": "Around Cala del Moraig", "text": "The lower part of the area, close to the best-known cove. Villas with views straight down to the sea."},
+  {"name": "Benitachell village", "text": "The small village inland, a few minutes by car from the coast, with local shops, bars and a weekly market. Village houses and townhouses."},
+  {"name": "Moraira", "text": "A harbour town about 10 minutes away, with sandy coves, a marina and restaurants. Luxury villas with sea views."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new villa at €2,050,000, for example, that is €205,000 VAT and €28,700 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does a villa cost in Cumbre del Sol?", "Most villas with sea views we sell in Cumbre del Sol cost between €1.3 million and €3.1 million, depending on the size, the plot and the view. Our most exclusive villa is €6,057,000. Apartments start at {from}."],
+  ["Where is Cumbre del Sol?", "Cumbre del Sol is in Benitachell (El Poble Nou de Benitatxell), on the northern Costa Blanca between Jávea and Moraira. Calpe is about 12 km away and Benidorm about 30 km."],
+  ["Is Cumbre del Sol good for living all year?", "Yes. Many owners live here all year or for long periods. The area has restaurants, shops and an international school, and Jávea, Moraira and Teulada have hospitals, larger shops and markets 10 to 15 minutes away."],
+  ["How far is Cumbre del Sol from the airport?", "Alicante-Elche airport is about 75 km away, around an hour by car. Valencia airport is about 100 km away."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Cumbre del Sol?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "discover-cumbre-del-sol.html", "img": "assets/blog/thumbs/cumbre-del-sol.jpg", "tag": "Places", "title": "Discover Cumbre del Sol: an area guide for buyers"},
+  {"href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html", "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg", "tag": "Buying in Spain", "title": "Buying a luxury house or villa in Spain"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}

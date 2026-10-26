@@ -1,0 +1,59 @@
+{
+ "town": "Calpe",
+ "page": "properties-for-sale-in-calpe",
+ "title": "Property for Sale in Calpe – Sea View Apartments & Villas | Elite World Estates",
+ "description": "{count} apartments, penthouses and villas for sale in Calpe from {from}, plus {near_count} luxury villas nearby in Benissa. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Calpe",
+ "h1": "Property for sale in Calpe",
+ "lead": "Apartments by the beach with a view of the Peñón de Ifach, penthouses high above the bay and villas on the hills around the town. Here are the properties we sell in and around Calpe today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Calpe / Calp": "Calpe",
+  "Benissa": "Benissa"
+ },
+ "near_towns": ["Benissa"],
+ "facts": [
+  ["{count}", "properties for sale in Calpe"],
+  ["from {from}", "for a new apartment"],
+  ["about 1 hour", "to Alicante-Elche airport"],
+  ["332 m", "the Peñón de Ifach rock"]
+ ],
+ "listings_intro": "New apartments with 2 or 3 bedrooms near the beach, many with sea views, plus penthouses and villas with a private pool. Prices are as listed today; ask us for the current availability.",
+ "near_intro": "Benissa starts just north of Calpe. Its coast is quiet, with small coves and large villas with sea views on generous plots.",
+ "guide_title": "Living in Calpe",
+ "guide": [
+  "Calpe is a seaside town on the northern Costa Blanca with around 25,000 residents, many of them from other European countries. It is best known for the Peñón de Ifach, a 332 metre rock rising straight from the sea, which is a natural park you can walk up.",
+  "The town has two main sandy beaches on either side of the rock: Arenal-Bol by the centre and La Fossa, also called Levante, to the north. Between the beaches and the town lies the Salinas, an old salt lake where flamingos feed for much of the year. The fishing port, with its daily fish auction, and the old town add a real village feel.",
+  "Calpe stays lively all year, with shops, restaurants, health centres and a large international community. Alicante-Elche airport is about an hour away by car, Valencia airport about an hour and a half, and Altea and Benidorm are 15 to 25 minutes away."
+ ],
+ "guide_photo": "lake.jpg",
+ "guide_photo_alt": "Flamingos on the Salinas salt lake in Calpe with the Peñón de Ifach behind",
+ "areas_title": "The main areas of Calpe",
+ "areas": [
+  {"name": "Centre and Arenal-Bol", "text": "The main beach, the promenade, shops and restaurants on foot. Mostly apartments, many of them new and a few hundred metres from the sea."},
+  {"name": "La Fossa (Levante)", "text": "A long sandy beach north of the Peñón de Ifach, with tall apartment buildings along the front and wide views over the bay."},
+  {"name": "Old town", "text": "Narrow streets, small squares and local bars on the hill above the centre. Older houses and apartments, a short walk from the beach."},
+  {"name": "Around the Salinas", "text": "The streets around the salt lake, between the two beaches. Apartments with views over the lake, the rock or the sea."},
+  {"name": "Maryvilla", "text": "A green hillside area south of the centre with villas and large plots. Many homes have open views over the sea and the Peñón de Ifach."},
+  {"name": "Benissa coast", "text": "The quiet coast just north of Calpe, with small coves and luxury villas with sea views on large plots."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €450,000, for example, that is €45,000 VAT and €6,300 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does an apartment cost in Calpe?", "Our apartments in Calpe start at {from} today. Most new apartments with 2 or 3 bedrooms we sell cost between €400,000 and €710,000, depending on the distance to the beach and the views. Penthouses cost from about €539,000 to €1.65 million, and villas from about €1.19 million."],
+  ["Which area of Calpe is best to buy in?", "It depends on how you will use the home. The centre and Arenal-Bol suit buyers who want the beach and everything on foot. La Fossa has the longest beach and high floors with sea views. Maryvilla is for villas with space and views, and the Benissa coast for quiet luxury."],
+  ["Is Calpe a good place to rent out a property?", "Calpe has visitors for most of the year and a large community of people who live there for months at a time, so both holiday and long-term letting are possible. Holiday letting needs a tourist licence in the Valencian register, and some buildings restrict it, so check before you buy."],
+  ["How far is Calpe from the airport?", "Alicante-Elche Miguel Hernández airport is about an hour by car. Valencia airport is about an hour and a half."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Calpe?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "properties-near-the-sea-in-spain.html", "img": "assets/blog/thumbs/near-the-sea.jpg", "tag": "Buying in Spain", "title": "Buying a property near the sea in Spain"},
+  {"href": "comparison-of-properties-from-developers-and-the-secondary-market.html", "img": "assets/blog/thumbs/new-build-vs-resale.jpg", "tag": "Buying in Spain", "title": "New build or resale property in Spain: how to choose"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}
