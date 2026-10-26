@@ -1,0 +1,132 @@
+{
+ "town": "Los Alcázares",
+ "page": "properties-for-sale-in-los-alcazares",
+ "coast": "",
+ "province": "Region of Murcia",
+ "title": "Property for Sale in Los Alcázares – Mar Menor Homes & Golf Villas | Elite World Estates",
+ "description": "{count} apartments and villas for sale in Los Alcázares on the Mar Menor from {from}, near the beach and La Serena Golf. Areas, prices and buying costs in Murcia explained.",
+ "kicker": "Costa Cálida · Mar Menor",
+ "h1": "Property for sale in Los Alcázares",
+ "lead": "New apartments near the calm, warm water of the Mar Menor and villas with a private pool by La Serena Golf. Here are the properties we sell in Los Alcázares today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Los Alcázares": "Los Alcázares"
+ },
+ "near_towns": [],
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Los Alcázares"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 30 min",
+   "to Región de Murcia airport"
+  ],
+  [
+   "Mar Menor",
+   "a calm saltwater lagoon"
+  ]
+ ],
+ "listings_intro": "New apartments with 2 or 3 bedrooms, many within a kilometre of the beach, and villas with 3 bedrooms and a private pool, several of them next to La Serena Golf. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Los Alcázares",
+ "guide": [
+  "Los Alcázares is a seaside town of about 17,000 people in the Region of Murcia, on the shore of the Mar Menor. The Mar Menor is a large saltwater lagoon separated from the Mediterranean by a narrow strip of land, La Manga. Its water is shallow, calm and warm for much of the year, which makes it popular with families and for sailing and other water sports.",
+  "The town has a long seafront promenade with beaches, small piers and cafés, and a relaxed pace. La Serena Golf lies on the edge of the town, and more golf courses, such as those around Roda, are a few minutes away.",
+  "Prices are lower than on most of the Costa Blanca and the Costa del Sol, so buyers get a new home with a pool for less. Región de Murcia airport is about 30 minutes away by car, Alicante airport about an hour, and Cartagena and Murcia city 25 to 35 minutes."
+ ],
+ "guide_photo": "marina.jpg",
+ "guide_photo_alt": "Sailing boats in the marina of Los Alcázares on the Mar Menor",
+ "photo_credits": [
+  "Photos: <a href=\"https://commons.wikimedia.org/wiki/File:Los_Alcazares_and_the_Mar_Menor_at_dusk_(4679604635).jpg\" rel=\"nofollow noopener\" target=\"_blank\">Becks</a> and <a href=\"https://commons.wikimedia.org/wiki/File:Yates_en_Los_Alc%C3%A1zares,_Espa%C3%B1a.jpg\" rel=\"nofollow noopener\" target=\"_blank\">Enrique Freire</a>, <a href=\"https://creativecommons.org/licenses/by/2.0\" rel=\"nofollow noopener\" target=\"_blank\">CC BY 2.0</a>, via Wikimedia Commons"
+ ],
+ "areas_title": "The main areas of Los Alcázares",
+ "areas": [
+  {
+   "name": "Seafront and centre",
+   "text": "The promenade, the beaches and the piers on the Mar Menor, with shops and restaurants on foot. Apartments close to the water."
+  },
+  {
+   "name": "La Serena Golf",
+   "text": "A golf resort on the edge of the town, about 1 km from the beach. New villas with a private pool and apartments by the course."
+  },
+  {
+   "name": "Residential areas inland",
+   "text": "Quieter streets 1 to 2 km from the sea, with new apartment complexes and villas, often with more space for the money."
+  },
+  {
+   "name": "Around the Mar Menor",
+   "text": "Nearby San Javier, Santiago de la Ribera and La Manga, with more beaches, sailing clubs and golf courses."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €279,000, for example, that is €27,900 VAT and €4,185 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.5% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "7.75% transfer tax (ITP)"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does a property cost in Los Alcázares?",
+   "Our new apartments in Los Alcázares start at {from} today, and most with 2 or 3 bedrooms cost between €265,000 and €400,000. Villas with a private pool cost from about €420,000 to €720,000, many of them near La Serena Golf."
+  ],
+  [
+   "What is the Mar Menor like?",
+   "The Mar Menor is a large saltwater lagoon next to the Mediterranean. Its water is shallow, calm and usually warmer than the open sea, so it suits children, swimming all year and water sports such as sailing and paddle boarding."
+  ],
+  [
+   "Is there a flood risk in Los Alcázares?",
+   "Parts of the town were flooded during heavy autumn storms in recent years. Before you buy, check the official flood maps for the exact plot, and ask about drainage and insurance. We help you with these checks."
+  ],
+  [
+   "How far is Los Alcázares from the airport?",
+   "Región de Murcia airport in Corvera is about 30 minutes by car, and Alicante-Elche airport about an hour."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In the Region of Murcia you pay 10% VAT and 1.5% stamp duty on a new build, and 7.75% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Los Alcázares?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "properties-near-the-sea-in-spain.html",
+   "img": "assets/blog/thumbs/near-the-sea.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a property near the sea in Spain"
+  },
+  {
+   "href": "retirement-life-in-spain.html",
+   "img": "assets/blog/thumbs/retirement-in-spain.jpg",
+   "tag": "Living in Spain",
+   "title": "Retiring in Spain: a practical guide"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "title_fixes": {
+  "EWE3697": "Exclusive apartments 300 m from the sea in Los Alcázares"
+ }
+}

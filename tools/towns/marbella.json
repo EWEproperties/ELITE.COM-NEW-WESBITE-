@@ -1,0 +1,60 @@
+{
+ "town": "Marbella",
+ "page": "properties-for-sale-in-marbella",
+ "coast": "Costa del Sol",
+ "coast_slug": "costa-del-sol",
+ "province": "Province of Málaga",
+ "title": "Property for Sale in Marbella – Luxury Apartments & Villas | Elite World Estates",
+ "description": "{count} luxury apartments, penthouses and villas for sale in Marbella from {from}, on the Golden Mile, in Nueva Andalucía, San Pedro and Guadalmina. Areas, prices and buying costs explained.",
+ "kicker": "Costa del Sol · Marbella",
+ "h1": "Property for sale in Marbella",
+ "lead": "Apartments with sea views near the beach and the golf courses, penthouses with private pools and large villas on the Golden Mile. Here are the properties we sell in Marbella today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Marbella": "Marbella"
+ },
+ "near_towns": [],
+ "facts": [
+  ["{count}", "properties for sale in Marbella"],
+  ["from {from}", "for an apartment"],
+  ["about 45 min", "to Málaga airport"],
+  ["Golden Mile", "between Marbella and Puerto Banús"]
+ ],
+ "listings_intro": "Apartments and penthouses with 2 or 3 bedrooms, many with sea or golf views, and luxury villas with 4 to 7 bedrooms on the Golden Mile and in the hills. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Marbella",
+ "guide": [
+  "Marbella is the best known town on the Costa del Sol, with about 160,000 residents, between Málaga and Gibraltar. Behind it rises the La Concha mountain, which shelters the coast and gives it a mild climate all year.",
+  "The old town has white streets and the Plaza de los Naranjos, with its orange trees and cafés. To the west, the Golden Mile runs past large villas and hotels to Puerto Banús, the marina with yachts, shops and restaurants. Further on are Nueva Andalucía, the golf valley, and the quieter town of San Pedro de Alcántara.",
+  "Marbella has international schools, private hospitals, golf courses and beach clubs, and many people live here all year. Málaga airport is about 45 minutes away by car, and Estepona about 25 minutes."
+ ],
+ "guide_photo": "old-town.jpg",
+ "guide_photo_alt": "White street with flower pots and shops in the old town of Marbella",
+ "areas_title": "The main areas of Marbella",
+ "areas": [
+  {"name": "Old town and centre", "text": "White streets, the Plaza de los Naranjos and the seafront promenade. Apartments and penthouses close to the beach and the shops."},
+  {"name": "Golden Mile", "text": "The most famous address on the coast, between the centre and Puerto Banús. Luxury villas and apartments in gated complexes near the sea."},
+  {"name": "Puerto Banús and Nueva Andalucía", "text": "The marina and the golf valley above it, with restaurants, shops and several golf courses. Apartments, penthouses and villas."},
+  {"name": "San Pedro de Alcántara", "text": "A town within Marbella, with its own centre and a beachfront boulevard. Family homes, apartments and villas near the beach."},
+  {"name": "Guadalmina", "text": "A green, quiet area around the Guadalmina golf course, west of San Pedro. Apartments and villas next to the course and close to the sea."},
+  {"name": "East Marbella", "text": "Los Monteros, Río Real, Elviria and Cabopino, with beaches, dunes and golf courses. Apartments and villas in a calmer setting."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €850,000, for example, that is €85,000 VAT and €10,200 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.2% stamp duty (AJD)"],
+  ["Resale home", "7% transfer tax (ITP)"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does an apartment cost in Marbella?", "Our apartments in Marbella start at {from} today. Most apartments and penthouses with 2 or 3 bedrooms we sell cost between €645,000 and €1.5 million, depending on the area, the views and the distance to the beach. On the Golden Mile, the most exclusive apartments cost more than €5 million."],
+  ["How much does a villa cost in Marbella?", "The villas we sell in Marbella cost from about €3.4 million to €7.9 million, with 4 to 7 bedrooms, large plots and sea views, mostly on the Golden Mile and in the hills."],
+  ["Which area of Marbella is best to buy in?", "It depends on how you will use the home. The Golden Mile and the old town are for buyers who want everything close by. Nueva Andalucía and Guadalmina are for golfers, San Pedro suits families, and East Marbella is calmer, with beaches and dunes."],
+  ["How far is Marbella from the airport?", "Málaga airport is about 45 minutes by car along the coast motorway. Gibraltar airport is about an hour away."],
+  ["What costs are there on top of the price?", "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Marbella?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "wellness-retreats-in-marbella.html", "img": "assets/blog/thumbs/wellness-retreats-in-marbella.jpg", "tag": "Places", "title": "Wellness retreats in Marbella"},
+  {"href": "la-zagaleta-the-most-exclusive-place-in-europe.html", "img": "assets/blog/thumbs/la-zagaleta.jpg", "tag": "Places", "title": "La Zagaleta: the most exclusive place in Europe"},
+  {"href": "investing-in-a-luxury-villa-vs-a-luxury-flat-on-the-costa-del-sol.html", "img": "assets/blog/thumbs/villa-or-apartment.jpg", "tag": "Buying in Spain", "title": "Luxury villa or luxury apartment on the Costa del Sol?"}
+ ]
+}

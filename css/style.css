@@ -590,7 +590,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 
 /* Town pages: "Property for sale in <town>" */
 .t-hero { position: relative; display: flex; align-items: flex-end; min-height: min(78vh, 640px); padding: 7rem 0 4rem; background-size: cover; background-position: center; color: var(--white); }
-.t-hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(60, 45, 30, .15) 0%, rgba(60, 45, 30, .35) 45%, rgba(45, 34, 22, .72) 100%); }
+.t-hero::before { content: ""; position: absolute; inset: 0; background: linear-gradient(90deg, rgba(45, 34, 22, .5) 0%, rgba(45, 34, 22, .2) 55%, rgba(45, 34, 22, 0) 80%), linear-gradient(180deg, rgba(60, 45, 30, .15) 0%, rgba(60, 45, 30, .35) 45%, rgba(45, 34, 22, .72) 100%); }
 .t-hero .container { position: relative; }
 .t-crumbs { font-size: .78rem; letter-spacing: .06em; margin-bottom: 1.6rem; color: rgba(255, 255, 255, .85); }
 .t-crumbs a { color: inherit; border-bottom: 1px solid rgba(255, 255, 255, .4); }
@@ -673,3 +673,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .tcard[hidden]{display:none}
 .t-more-wrap{text-align:center;margin-top:2.2rem}
 .t-more[hidden]{display:none}
+.t-figure{margin:0}
+.t-figure .t-photo{width:100%}
+.t-credit{font-size:.72rem;color:#8a8178;margin-top:.5rem;line-height:1.4}
+.t-credit a{color:inherit}

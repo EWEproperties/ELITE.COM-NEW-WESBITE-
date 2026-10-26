@@ -85,6 +85,8 @@ def main(slug):
     town_names = c["town_names"]  # eGO municipality -> display name
     for i in listings:
         i["town"] = town_names.get(i["loc"][-1], i["loc"][-1])
+        # eGO titles that were written in another language, until they are fixed in eGO
+        i["title"] = c.get("title_fixes", {}).get(i["ref"], i["title"])
         for word, name in c.get("title_towns", {}).items():  # e.g. inland golf resorts inside a coastal municipality
             if word in i["title"]:
                 i["town"] = name
@@ -95,6 +97,11 @@ def main(slug):
     prices = [price_value(i["price"]) for i in city if price_value(i["price"])]
     low = min(prices)
     url = f"{SITE}/{c['page']}"
+    coast = c.get("coast", "Costa Blanca")  # breadcrumb level 2
+    coast_url = SITE + "/" + c.get("coast_slug", "costa-blanca")
+    # "coast": "" leaves out the middle breadcrumb (no hub page yet, e.g. Costa Cálida)
+    crumbs = [("Home", SITE + "/")] + ([(coast, coast_url)] if coast else []) + [(c["town"], url)]
+    coast_crumb = f'<a href="{coast_url}">{e(coast)}</a> <span>/</span> ' if coast else ""
     page_file = c["page"] + ".html"
 
     def fill(s):
@@ -107,12 +114,11 @@ def main(slug):
                   "name": clean_title(i["title"])} for n, i in enumerate(city + near)]
     schema = [
         {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
-            {"@type": "ListItem", "position": 1, "name": "Home", "item": SITE + "/"},
-            {"@type": "ListItem", "position": 2, "name": "Costa Blanca", "item": SITE + "/costa-blanca"},
-            {"@type": "ListItem", "position": 3, "name": c["town"], "item": url}]},
+            {"@type": "ListItem", "position": n + 1, "name": name, "item": link}
+            for n, (name, link) in enumerate(crumbs)]},
         {"@context": "https://schema.org", "@type": "CollectionPage", "name": fill(c["h1"]), "url": url,
          "description": fill(c["description"]), "inLanguage": "en",
-         "about": {"@type": "City", "name": c["town"], "containedInPlace": {"@type": "AdministrativeArea", "name": "Province of Alicante"}},
+         "about": {"@type": "City", "name": c["town"], "containedInPlace": {"@type": "AdministrativeArea", "name": c.get("province", "Province of Alicante")}},
          "publisher": {"@type": "RealEstateAgent", "name": "Elite World Estates", "url": SITE},
          "mainEntity": {"@type": "ItemList", "numberOfItems": len(item_list), "itemListElement": item_list}},
         {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
@@ -124,6 +130,8 @@ def main(slug):
           <h3>{e(a['name'])}</h3>
           <p>{a['text']}</p>
         </div>""" for a in c["areas"])
+    # photos under a Creative Commons licence must name the author and the licence
+    credit = "".join(f'\n        <figcaption class="t-credit">{cr}</figcaption>' for cr in c.get("photo_credits", []))
     from PIL import Image
     gw, gh = Image.open(os.path.join(ROOT, "assets", "towns", slug, c["guide_photo"])).size
     guide = "\n".join(f"        <p>{fill(p)}</p>" for p in c["guide"])
@@ -210,7 +218,7 @@ def main(slug):
 <main class="town-page">
   <section class="t-hero" style="background-image:url(assets/towns/{slug}/hero.jpg)">
     <div class="container">
-      <nav class="t-crumbs" aria-label="Breadcrumb"><a href="index.html">Home</a> <span>/</span> <a href="https://www.eliteworldestates.com/costa-blanca">Costa Blanca</a> <span>/</span> {e(c['town'])}</nav>
+      <nav class="t-crumbs" aria-label="Breadcrumb"><a href="index.html">Home</a> <span>/</span> {coast_crumb}{e(c['town'])}</nav>
       <p class="t-kicker">{e(c['kicker'])}</p>
       <h1>{e(fill(c['h1']))}</h1>
       <p class="t-lead">{fill(c['lead'])}</p>
@@ -248,7 +256,9 @@ def main(slug):
         <h2>{e(c['guide_title'])}</h2>
 {guide}
       </div>
-      <img class="t-photo" src="assets/towns/{slug}/{c['guide_photo']}" alt="{e(c['guide_photo_alt'])}" width="{gw}" height="{gh}" loading="lazy" decoding="async">
+      <figure class="t-figure">
+        <img class="t-photo" src="assets/towns/{slug}/{c['guide_photo']}" alt="{e(c['guide_photo_alt'])}" width="{gw}" height="{gh}" loading="lazy" decoding="async">{credit}
+      </figure>
     </div>
   </section>
 
