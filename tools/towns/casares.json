@@ -1,0 +1,123 @@
+{
+ "coast": "Costa del Sol",
+ "coast_slug": "costa-del-sol",
+ "province": "Province of Málaga",
+ "town": "Casares",
+ "page": "properties-for-sale-in-casares",
+ "title": "Property for Sale in Casares – Sea View Apartments & Villas | Elite World Estates",
+ "description": "{count} apartments, penthouses and villas for sale in Casares from {from}, in Casares Costa and Finca Cortesín. Areas, prices and buying costs explained.",
+ "kicker": "Costa del Sol · Casares",
+ "h1": "Property for sale in Casares",
+ "lead": "Apartments with sea and golf views in Casares Costa, homes in the Finca Cortesín resort and villas with views of the coast. Here are the properties we sell in Casares today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Casares": "Casares"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Casares"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 35 min",
+   "to Gibraltar airport"
+  ],
+  [
+   "Finca Cortesín",
+   "a luxury golf resort"
+  ]
+ ],
+ "listings_intro": "Mostly new apartments with 2 or 3 bedrooms and sea or golf views in Casares Costa, plus penthouses and luxury homes in Finca Cortesín. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Casares",
+ "guide": [
+  "Casares is a municipality on the western Costa del Sol, between Estepona and Manilva. Its village is one of the most beautiful in Andalusia: white houses on a steep hill, crowned by the ruins of a castle, about 15 minutes inland from the sea.",
+  "Most homes for sale are in Casares Costa, the coastal part, with beaches, golf courses and modern residential complexes with views over the sea to Gibraltar and Africa. Here you also find Finca Cortesín, a luxury resort with a golf course, a hotel and a beach club.",
+  "Life here is quieter and prices are lower than in Marbella, while Estepona's shops and services are about 15 minutes away. Gibraltar airport is about 35 minutes away by car and Málaga airport about an hour and a quarter."
+ ],
+ "guide_photo": "tower.jpg",
+ "guide_photo_alt": "Old watchtower on the beach in Casares Costa",
+ "areas_title": "The main areas of Casares",
+ "areas": [
+  {
+   "name": "Casares Costa",
+   "text": "The coastal strip with beaches and modern complexes. Apartments and penthouses with sea views, many close to the beach."
+  },
+  {
+   "name": "Casares Golf",
+   "text": "The area around the golf courses a few minutes inland. Apartments with golf and sea views, often with large terraces."
+  },
+  {
+   "name": "Finca Cortesín",
+   "text": "A luxury resort with a golf course, a hotel and a beach club. Exclusive apartments and villas."
+  },
+  {
+   "name": "Casares village",
+   "text": "The white village on the hill, with a castle, small squares and views. Village houses and a few apartments."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €450,900, for example, that is €45,090 VAT and €5,411 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.2% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "7% transfer tax (ITP)"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Casares?",
+   "Our new apartments in Casares start at {from} today. Most apartments with 2 or 3 bedrooms we sell in Casares Costa cost between €300,000 and €620,000. In Finca Cortesín, apartments cost from about €580,000 to more than €2 million, and our villa with coastal views is €2.9 million."
+  ],
+  [
+   "Casares or Estepona: which is better?",
+   "Estepona is a larger town with shops, a hospital and an old town on the seafront. Casares Costa is quieter, with golf and newer homes, and prices are often lower. Estepona is about 15 minutes away by car."
+  ],
+  [
+   "How far is Casares from the airport?",
+   "Gibraltar airport is about 35 minutes by car, and Málaga airport about 110 km away, around an hour and a quarter."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Casares?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "costa-blanca-or-costa-del-sol.html",
+   "img": "assets/blog/thumbs/costa-blanca-or-costa-del-sol.jpg",
+   "tag": "Places",
+   "title": "Costa Blanca or Costa del Sol? How the two coasts compare"
+  },
+  {
+   "href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html",
+   "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a luxury house or villa in Spain"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": []
+}

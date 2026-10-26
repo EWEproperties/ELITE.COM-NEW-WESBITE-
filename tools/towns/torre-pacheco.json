@@ -1,0 +1,122 @@
+{
+ "coast": "",
+ "province": "Region of Murcia",
+ "town": "Torre-Pacheco",
+ "page": "properties-for-sale-in-torre-pacheco",
+ "title": "Property for Sale in Torre-Pacheco – Santa Rosalía, Roldán & El Alba | Elite World Estates",
+ "description": "{count} apartments, bungalows and villas for sale in Torre-Pacheco from {from}, in Santa Rosalía Lake & Life Resort, Roldán and El Alba, near the Mar Menor. Areas, prices and buying costs explained.",
+ "kicker": "Costa Cálida · Murcia",
+ "h1": "Property for sale in Torre-Pacheco",
+ "lead": "Homes around the swimming lagoon of Santa Rosalía Lake & Life Resort, and villas with a private pool in Roldán and El Alba, a few minutes from the Mar Menor. Here are the properties we sell in Torre-Pacheco today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Torre-Pacheco": "Torre-Pacheco"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Torre-Pacheco"
+  ],
+  [
+   "from {from}",
+   "for a bungalow"
+  ],
+  [
+   "about 25 min",
+   "to Región de Murcia airport"
+  ],
+  [
+   "about 5 km",
+   "from Santa Rosalía to the Mar Menor"
+  ]
+ ],
+ "listings_intro": "Apartments, penthouses, bungalows and villas in gated resorts, many with a private pool or a view of the lagoon. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Torre-Pacheco",
+ "guide": [
+  "Torre-Pacheco is a municipality of about 40,000 people in the Campo de Cartagena, in the Region of Murcia, a short drive inland from the Mar Menor. Most of our homes here are in modern gated resorts built for people who want space, sun and a pool, close to the beaches of Los Alcázares.",
+  "The best known is Santa Rosalía Lake & Life Resort, about 5 km from the Mar Menor. Its centrepiece is a turquoise swimming lagoon of about 1.6 hectares with white sand beaches and two islands, set in a park of about 12 hectares. Nearby, Roldán and the El Alba residential area offer villas and bungalows with a private pool for less money.",
+  "Golf courses, supermarkets and the beaches of Los Alcázares are a few minutes away. Región de Murcia airport is about 25 minutes away by car, and Alicante airport a little over an hour."
+ ],
+ "guide_photo": "lagoon.jpg",
+ "guide_photo_alt": "Sandy beach with palm trees by the swimming lagoon of Santa Rosalía Lake & Life Resort",
+ "areas_title": "The main areas of Torre-Pacheco",
+ "areas": [
+  {
+   "name": "Santa Rosalía Lake & Life Resort",
+   "text": "A gated resort around a large swimming lagoon with beaches, about 5 km from the Mar Menor. Apartments, penthouses, bungalows and villas."
+  },
+  {
+   "name": "Roldán",
+   "text": "A small town in the municipality, with local shops and new villas and bungalows with a private pool."
+  },
+  {
+   "name": "El Alba Mediterranean Resort",
+   "text": "A residential area with modern villas and bungalows, many with a private pool, close to Roldán."
+  },
+  {
+   "name": "Torre-Pacheco town",
+   "text": "The main town, with shops, markets, schools and health centres, for everyday life all year."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €315,900, for example, that is €31,590 VAT and €4,738 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.5% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "7.75% transfer tax (ITP)"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does a property cost in Torre-Pacheco?",
+   "Our homes in Torre-Pacheco start at {from} today. Apartments in Santa Rosalía cost from about €290,000, penthouses from about €525,000, and villas with a private pool from about €275,000 in Roldán up to €675,000 in El Alba."
+  ],
+  [
+   "What is Santa Rosalía Lake & Life Resort?",
+   "It is a gated residential resort in Torre-Pacheco built around a large swimming lagoon with white sand beaches. The lagoon and facilities are for residents and their guests and are paid for through the community fees. Read our <a href=\"santa-rosalia-lake-and-life-resort.html\">guide to Santa Rosalía</a>."
+  ],
+  [
+   "How far is Torre-Pacheco from the beach and the airport?",
+   "The beaches of Los Alcázares on the Mar Menor are about 5 to 10 minutes away by car. Región de Murcia airport is about 25 minutes away."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In the Region of Murcia you pay 10% VAT and 1.5% stamp duty on a new build, and 7.75% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Torre-Pacheco?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "santa-rosalia-lake-and-life-resort.html",
+   "img": "assets/blog/thumbs/santa-rosalia.jpg",
+   "tag": "Places",
+   "title": "Santa Rosalía Lake and Life Resort: a buyer's guide"
+  },
+  {
+   "href": "retirement-life-in-spain.html",
+   "img": "assets/blog/thumbs/retirement-in-spain.jpg",
+   "tag": "Living in Spain",
+   "title": "Retiring in Spain: a practical guide"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": []
+}

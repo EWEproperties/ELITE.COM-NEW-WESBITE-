@@ -17,6 +17,23 @@
   }
  },
  {
+  "id": "23008655",
+  "slug": "furnished-new-apartment-for-sale-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26960668/Tphoto/ID1c639b01-0000-0500-0000-000015943b81.jpg.webp",
+  "alt": "New flat for sale in San Miguel de Salinas.",
+  "ref": "EWE3478",
+  "title": "Furnished, new apartment for sale in San Miguel de Salinas",
+  "price": "219 000 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "70"
+  }
+ },
+ {
   "id": "25965654",
   "slug": "modern-villa-with-private-pool-at-vistabella-golf",
   "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30301662/Tphoto/IDde5dce01-0000-0500-0000-000019942d94.jpg.webp",
@@ -31,6 +48,22 @@
    "ROOMS": "3",
    "BATHS": "2",
    "AREA": "90"
+  }
+ },
+ {
+  "id": "26784476",
+  "slug": "new-apartments-with-private-garden-or-solarium-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31215698/Tphoto/ID5250dc01-0000-0500-0000-00001a9c4dec.JPG.webp",
+  "alt": "Apartment 2 Bedrooms San Miguel de Salinas San Miguel de Salinas",
+  "ref": "EWE3906",
+  "title": "New Apartments with Private Garden or Solarium in San Miguel de Salinas",
+  "price": "251 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2"
   }
  },
  {
@@ -80,6 +113,56 @@
   "det": {
    "ROOMS": "5",
    "BATHS": "6"
+  }
+ },
+ {
+  "id": "21047589",
+  "slug": "modern-villa-with-pool-and-garage-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P23318243/Tphoto/IDe3ce6301-0000-0500-0000-00001a8e294b.jpg.webp",
+  "alt": "Villa 3 Bedrooms San Miguel de Salinas San Miguel de Salinas",
+  "ref": "EWE2121",
+  "title": "Modern villa with pool and garage in San Miguel de Salinas",
+  "price": "630 000 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2"
+  }
+ },
+ {
+  "id": "18574212",
+  "slug": "superb-villa-with-a-large-plot-and-private-pool-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P21210121/Tphoto/ID09a44301-0000-0500-0000-00001a8dff3d.jpg.webp",
+  "alt": "Chalet 3 Bedrooms San Miguel de Salinas San Miguel de Salinas",
+  "ref": "EWE1613",
+  "title": "Superb villa with a large plot and private pool in San Miguel de Salinas",
+  "price": "1 250 000 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "4",
+   "AREA": "194"
+  }
+ },
+ {
+  "id": "8949596",
+  "slug": "modern-villa-with-private-pool-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P9573200/Tphoto/ID50139200-0000-0500-0000-00001a8df0b7.jpg.webp",
+  "alt": "Chalet 4 Bedrooms San Miguel de Salinas San Miguel de Salinas",
+  "ref": "EWE2151",
+  "title": "Modern villa with private pool in San Miguel de Salinas",
+  "price": "1 250 000 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "4",
+   "BATHS": "3",
+   "AREA": "197"
   }
  },
  {
@@ -280,6 +363,125 @@
   }
  },
  {
+  "id": "23474808",
+  "slug": "the-new-apartment-project-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27480076/Tphoto/ID0c50a301-0000-0500-0000-00001a7f95d4.jpg.webp",
+  "alt": "Apartment 2 Bedrooms San Miguel de Salinas San Miguel de Salinas",
+  "ref": "EWE3551",
+  "title": "The new apartment project in San Miguel de Salinas",
+  "price": "224 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "68"
+  }
+ },
+ {
+  "id": "23474839",
+  "slug": "new-spacious-apartment-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27480080/Tphoto/ID1050a301-0000-0500-0000-00001a7f95e1.jpg.webp",
+  "alt": "Apartment 3 Bedrooms San Miguel de Salinas San Miguel de Salinas",
+  "ref": "EWE3552",
+  "title": "New, spacious apartment in San Miguel de Salinas",
+  "price": "259 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "85"
+  }
+ },
+ {
+  "id": "20122715",
+  "slug": "brand-new-residential-complex-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P23454524/Tphoto/ID3ce36501-0000-0500-0000-000010d4a062.jpg.webp",
+  "alt": "Property for sale near the sea in San Miguel de Salinas",
+  "ref": "EWE2169",
+  "title": "Brand new residential complex in San Miguel de Salinas",
+  "price": "399 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "83"
+  }
+ },
+ {
+  "id": "21735167",
+  "slug": "modern-appartments-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25629753/Tphoto/ID39148701-0000-0500-0000-000014496f40.jpg.webp",
+  "alt": "New flat for sale in San Miguel de Salinas.",
+  "ref": "EWE3426",
+  "title": "Modern appartments in San Miguel de Salinas",
+  "price": "299 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "68"
+  }
+ },
+ {
+  "id": "21735143",
+  "slug": "new-villa-project-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25629721/Tphoto/ID19148701-0000-0500-0000-000014496a56.jpg.webp",
+  "alt": "Villa for sale in San Miguel de Salinas.",
+  "ref": "EWE3425",
+  "title": "New villa project in San Miguel de Salinas",
+  "price": "429 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "107"
+  }
+ },
+ {
+  "id": "26692598",
+  "slug": "spacious-apartment-with-a-large-garden-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31115085/Tphoto/ID4dc7da01-0000-0500-0000-00001a7f6ee0.jpg.webp",
+  "alt": "New apartments for sale with large terraces in San Miguel de Salinas",
+  "ref": "EWE3877",
+  "title": "Spacious apartment with a large garden in San Miguel de Salinas",
+  "price": "259 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "81"
+  }
+ },
+ {
+  "id": "26692551",
+  "slug": "new-apartments-with-large-terraces-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31115067/Tphoto/ID3bc7da01-0000-0500-0000-00001a7f6bc0.jpg.webp",
+  "alt": "New apartments for sale with large terraces in San Miguel de Salinas",
+  "ref": "EWE3876",
+  "title": "New apartments with large terraces in San Miguel de Salinas",
+  "price": "194 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "66"
+  }
+ },
+ {
   "id": "20530543",
   "slug": "a-house-close-to-the-beach-in-an-intimate-estate-in-punta-prima",
   "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24009517/Tphoto/ID2d5b6e01-0000-0500-0000-00001197ffad.jpg.webp",
@@ -325,6 +527,23 @@
   "det": {
    "ROOMS": "3",
    "BATHS": "2"
+  }
+ },
+ {
+  "id": "21282118",
+  "slug": "modern-bungalow-with-shared-pools-in-san-miguel-de-salinas",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25032430/Tphoto/IDeef67d01-0000-0500-0000-0000133d2a12.jpg.webp",
+  "alt": "A new bungalow for sale in San Miguel de Salinas.",
+  "ref": "EWE3319",
+  "title": "Modern bungalow with shared pools in San Miguel de Salinas",
+  "price": "244 900 €",
+  "loc": [
+   "San Miguel de Salinas"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "65.93"
   }
  },
  {

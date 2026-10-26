@@ -1,0 +1,123 @@
+{
+ "coast": "Costa del Sol",
+ "coast_slug": "costa-del-sol",
+ "province": "Province of Málaga",
+ "town": "Fuengirola",
+ "page": "properties-for-sale-in-fuengirola",
+ "title": "Property for Sale in Fuengirola – Sea View Apartments & Townhouses | Elite World Estates",
+ "description": "{count} apartments, townhouses and villas for sale in Fuengirola from {from}, near the beach and in El Higuerón. Areas, prices and buying costs explained.",
+ "kicker": "Costa del Sol · Fuengirola",
+ "h1": "Property for sale in Fuengirola",
+ "lead": "Apartments with sea views close to the beach and modern townhouses and villas in the hills of El Higuerón. Here are the properties we sell in Fuengirola today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Fuengirola": "Fuengirola"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Fuengirola"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 25 min",
+   "to Málaga airport by train"
+  ],
+  [
+   "about 7 km",
+   "of sandy beaches"
+  ]
+ ],
+ "listings_intro": "Apartments and penthouses with 2 or 3 bedrooms near the beach, and new townhouses and villas with a private pool and sea views in El Higuerón. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Fuengirola",
+ "guide": [
+  "Fuengirola is a lively seaside town of about 85,000 people on the Costa del Sol, between Málaga and Marbella. It has about 7 km of sandy beaches along a long seafront promenade, and Sohail Castle stands on a hill by the river at the western end of the town.",
+  "It is a practical place to live all year, with everything on foot: shops, markets, restaurants, schools and health centres. The local train runs along the coast to Málaga airport and the city of Málaga, so many people live here without a car.",
+  "Above the town, El Higuerón is a newer residential area on the hills, with modern homes and wide views over the sea. Málaga airport is about 25 minutes away by train or car, and Marbella about 30 minutes."
+ ],
+ "guide_photo": "castle.jpg",
+ "guide_photo_alt": "Sohail Castle on a green hill in Fuengirola",
+ "areas_title": "The main areas of Fuengirola",
+ "areas": [
+  {
+   "name": "Centre and seafront",
+   "text": "The promenade, the beaches and the town centre with shops and restaurants. Apartments and penthouses close to the sea."
+  },
+  {
+   "name": "Los Boliches",
+   "text": "The eastern part of the town, with its own beach, train station and local shops. Apartments for living all year."
+  },
+  {
+   "name": "Torreblanca",
+   "text": "A hillside area on the edge of the town, close to the beach and the train. New apartments with sea views."
+  },
+  {
+   "name": "El Higuerón",
+   "text": "A newer area on the hills above Fuengirola, with modern townhouses and villas with private pools and wide sea views."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €545,000, for example, that is €54,500 VAT and €6,540 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.2% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "7% transfer tax (ITP)"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Fuengirola?",
+   "Our apartments in Fuengirola start at {from} today, and most with 2 or 3 bedrooms cost between €450,000 and €800,000, depending on the views and the distance to the beach. Townhouses in El Higuerón cost from about €800,000, and a large villa with panoramic sea views €3.2 million."
+  ],
+  [
+   "Is Fuengirola good for living without a car?",
+   "Yes. Fuengirola is compact and flat near the sea, with shops and services on foot, and the local train runs to Málaga airport and Málaga city."
+  ],
+  [
+   "How far is Fuengirola from the airport?",
+   "Málaga airport is about 25 minutes away by car or by the local train."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Fuengirola?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "costa-blanca-or-costa-del-sol.html",
+   "img": "assets/blog/thumbs/costa-blanca-or-costa-del-sol.jpg",
+   "tag": "Places",
+   "title": "Costa Blanca or Costa del Sol? How the two coasts compare"
+  },
+  {
+   "href": "properties-with-investment-potential.html",
+   "img": "assets/blog/thumbs/investment.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying property in Spain as an investment or to rent out"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": []
+}

@@ -1,0 +1,127 @@
+{
+ "coast": "Costa Blanca",
+ "coast_slug": "costa-blanca",
+ "province": "Province of Alicante",
+ "town": "Dénia",
+ "page": "properties-for-sale-in-denia",
+ "title": "Property for Sale in Dénia – Apartments by the Sea | Elite World Estates",
+ "description": "{count} apartments, townhouses and villas for sale in Dénia from {from}, many close to the beach. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Dénia",
+ "h1": "Property for sale in Dénia",
+ "lead": "New apartments a short walk from the beach, frontline homes with sea views and townhouses near the sea, below the castle and the Montgó. Here are the properties we sell in Dénia today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Dénia": "Dénia"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Dénia"
+  ],
+  [
+   "from {from}",
+   "for an apartment"
+  ],
+  [
+   "about 1 hour 15 min",
+   "to Valencia or Alicante airport"
+  ],
+  [
+   "ferries",
+   "to Ibiza and Mallorca"
+  ]
+ ],
+ "listings_intro": "Apartments with 1 to 3 bedrooms close to the beach, some on the frontline with sea views, plus townhouses and a villa. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Dénia",
+ "guide": [
+  "Dénia is a town of about 45,000 people on the northern tip of the Costa Blanca, halfway between Valencia and Alicante. Its castle stands on a hill above the old town and the port, and the Montgó mountain rises behind it.",
+  "North of the port, Les Marines has kilometres of sandy beaches, while to the south Les Rotes has rocky coves with clear water. The port has a marina and ferries to Ibiza and Mallorca, and Dénia is known for its food, from its famous red prawns to the tapas bars of the old town.",
+  "The town is lively all year, with shops, markets, schools and a hospital. Valencia and Alicante airports are both about an hour and a quarter away by car, and Jávea about 15 minutes."
+ ],
+ "guide_photo": "beach.jpg",
+ "guide_photo_alt": "Sandy beach with palm trees at Les Deveses in Dénia",
+ "areas_title": "The main areas of Dénia",
+ "areas": [
+  {
+   "name": "Old town and port",
+   "text": "Below the castle, with the marina, restaurants and shops. Apartments for living all year."
+  },
+  {
+   "name": "Les Marines",
+   "text": "The long sandy beaches north of the port. Apartments and houses close to the sea, many on the frontline."
+  },
+  {
+   "name": "Les Rotes",
+   "text": "The rocky coast south of the port, with coves and clear water. Villas and apartments by the sea."
+  },
+  {
+   "name": "Montgó",
+   "text": "The slopes of the mountain behind the town, green and quiet. Villas with views over the sea."
+  },
+  {
+   "name": "Els Poblets",
+   "text": "The small neighbouring town to the north, near the sandy beaches. Townhouses and apartments, often for less money."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €395,000, for example, that is €39,500 VAT and €5,530 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.4% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "9% transfer tax (ITP), 11% above €1 million"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Dénia?",
+   "Our apartments in Dénia start at {from} today, and most with 2 or 3 bedrooms cost between €330,000 and €500,000. Frontline apartments with sea views cost up to about €625,000 for a penthouse."
+  ],
+  [
+   "Les Marines or Les Rotes: which is better?",
+   "Les Marines has long sandy beaches, which suit families. Les Rotes has rocky coves with very clear water, good for swimming and snorkelling, and is quieter."
+  ],
+  [
+   "How far is Dénia from the airport?",
+   "Valencia airport is about 100 km away and Alicante-Elche airport about 95 km, each around an hour and a quarter by car."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In the Valencian Community you pay 10% VAT and 1.4% stamp duty on a new build, and 9% transfer tax (11% above €1 million) on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Dénia?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "properties-near-the-sea-in-spain.html",
+   "img": "assets/blog/thumbs/near-the-sea.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a property near the sea in Spain"
+  },
+  {
+   "href": "comparison-of-properties-from-developers-and-the-secondary-market.html",
+   "img": "assets/blog/thumbs/new-build-vs-resale.jpg",
+   "tag": "Buying in Spain",
+   "title": "New build or resale property in Spain: how to choose"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": []
+}

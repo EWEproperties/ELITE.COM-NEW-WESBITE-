@@ -1,0 +1,123 @@
+{
+ "coast": "Costa Blanca",
+ "coast_slug": "costa-blanca",
+ "province": "Province of Alicante",
+ "town": "Guardamar del Segura",
+ "page": "properties-for-sale-in-guardamar-del-segura",
+ "title": "Property for Sale in Guardamar del Segura – Apartments by the Beach | Elite World Estates",
+ "description": "{count} apartments, penthouses and houses for sale in Guardamar del Segura from {from}, close to the beach, the dunes and the port. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Guardamar",
+ "h1": "Property for sale in Guardamar del Segura",
+ "lead": "New apartments and penthouses close to the long sandy beaches, the pine forest and the marina. Here are the properties we sell in Guardamar del Segura today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Guardamar del Segura": "Guardamar del Segura"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Guardamar"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 30 min",
+   "to Alicante-Elche airport"
+  ],
+  [
+   "about 11 km",
+   "of sandy beaches"
+  ]
+ ],
+ "listings_intro": "New apartments and penthouses with 2 or 3 bedrooms, many close to the beach or the port, and a semi-detached house in El Raso. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Guardamar del Segura",
+ "guide": [
+  "Guardamar del Segura is a seaside town of about 17,000 people in the south of the Costa Blanca, where the Segura river meets the sea, between Santa Pola and Torrevieja. It is known for its long sandy beaches, around 11 km of them, backed by dunes and a large pine forest that was planted to hold the sand.",
+  "The town has a relaxed, Spanish feel, with a centre of shops and cafés, a marina by the river mouth, and parks in the pine forest for walking and cycling. South of the town, La Mata natural park and its lagoon are close by.",
+  "Prices are reasonable and the town stays alive all year. Alicante-Elche airport is about 30 minutes away by car, and Torrevieja about 15 minutes."
+ ],
+ "guide_photo": "marina.jpg",
+ "guide_photo_alt": "Sailing boats at sunset in the marina of Guardamar del Segura",
+ "areas_title": "The main areas of Guardamar del Segura",
+ "areas": [
+  {
+   "name": "Centre",
+   "text": "Shops, cafés and services on foot, a few minutes from the beach. Apartments for living all year."
+  },
+  {
+   "name": "Seafront and pine forest",
+   "text": "The beaches, the dunes and the pine forest parks. Apartments close to the sand."
+  },
+  {
+   "name": "Near the port",
+   "text": "The marina at the mouth of the Segura river, with restaurants. New apartments and penthouses."
+  },
+  {
+   "name": "El Raso",
+   "text": "A quieter residential area south of the town, near La Mata natural park. Apartments and houses."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €315,000, for example, that is €31,500 VAT and €4,410 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.4% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "9% transfer tax (ITP), 11% above €1 million"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Guardamar del Segura?",
+   "Our apartments in Guardamar start at {from} today, and most with 2 or 3 bedrooms cost between €250,000 and €345,000. Penthouses near the port cost up to about €550,000."
+  ],
+  [
+   "Are the beaches in Guardamar sandy?",
+   "Yes. Guardamar has around 11 km of fine sandy beaches with dunes and a pine forest behind them, among the most natural beaches on the Costa Blanca."
+  ],
+  [
+   "How far is Guardamar from the airport?",
+   "Alicante-Elche airport is about 30 minutes by car, and Región de Murcia airport about 50 minutes."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In the Valencian Community you pay 10% VAT and 1.4% stamp duty on a new build, and 9% transfer tax (11% above €1 million) on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Guardamar del Segura?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "properties-near-the-sea-in-spain.html",
+   "img": "assets/blog/thumbs/near-the-sea.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a property near the sea in Spain"
+  },
+  {
+   "href": "properties-with-investment-potential.html",
+   "img": "assets/blog/thumbs/investment.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying property in Spain as an investment or to rent out"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": []
+}

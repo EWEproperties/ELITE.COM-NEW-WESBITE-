@@ -1,0 +1,204 @@
+[
+ {
+  "id": "23195033",
+  "slug": "new-apartments-200-m-from-the-beach-in-the-picturesque-town-of-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27161631/Tphoto/ID1f749e01-0000-0500-0000-00001a15a245.jpg.webp",
+  "alt": "Apartment for sale near the beach in the town of Denia",
+  "ref": "EWE3484",
+  "title": "New apartments 200 m from the beach in the picturesque town of Denia",
+  "price": "395 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "81"
+  }
+ },
+ {
+  "id": "21123982",
+  "slug": "excellent-townhouses-just-400m-from-the-sea-in-the-picturesque-town-of-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24825370/Tphoto/ID1ace7a01-0000-0500-0000-0000135f0c2f.jpg.webp",
+  "alt": "Townhouses for sale near the beach in Denia",
+  "ref": "EWE3285",
+  "title": "Excellent townhouses just 400m from the sea in the picturesque town of Denia",
+  "price": "370 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "75"
+  }
+ },
+ {
+  "id": "20849062",
+  "slug": "modern-apartment-just-400-m-from-the-sea-in-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24455852/Tphoto/IDac2a7501-0000-0500-0000-000012bcd5f6.jpg.webp",
+  "alt": "Apartment for sale near the beach in Denia",
+  "ref": "EWE2414",
+  "title": "Modern apartment just 400 m from the sea in Dénia",
+  "price": "470 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "82"
+  }
+ },
+ {
+  "id": "26686938",
+  "slug": "exceptional-apartment-in-a-new-development-close-to-the-beach-in-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31109106/Tphoto/IDf2afda01-0000-0500-0000-00001a7d114e.jpg.webp",
+  "alt": "Talasa Apartment for sale near the beach in Denia",
+  "ref": "EWE3875",
+  "title": "Exceptional apartment in a new development close to the beach in Denia",
+  "price": "327 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "56"
+  }
+ },
+ {
+  "id": "20849065",
+  "slug": "a-wonderful-apartment-in-a-luxurious-housing-estate-close-to-the-beach-in-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24455967/Tphoto/ID1f2b7501-0000-0500-0000-000012bcd421.jpg.webp",
+  "alt": "Talasa Apartment for sale near the beach in Denia",
+  "ref": "EWE2415",
+  "title": "A wonderful apartment in a luxurious housing estate close to the beach in Denia",
+  "price": "254 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "1",
+   "BATHS": "1",
+   "AREA": "43"
+  }
+ },
+ {
+  "id": "21134779",
+  "slug": "apartment-close-to-the-beach-in-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24840916/Tphoto/IDd40a7b01-0000-0500-0000-000012ed4436.jpg.webp",
+  "alt": "For sale apartment in Dénia",
+  "ref": "EWE3289",
+  "title": "Apartment close to the beach in Denia",
+  "price": "499 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "73"
+  }
+ },
+ {
+  "id": "19217660",
+  "slug": "stunning-penthouse-on-the-first-line-of-denia-costa-blanca",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P22089851/Tphoto/ID7b105101-0000-0500-0000-000011de7caf.jpg.webp",
+  "alt": "For sale 3 bedroom penthouse on the seafront in Dénia.",
+  "ref": "EWE1743",
+  "title": "Stunning penthouse on the first line of Dénia, Costa Blanca",
+  "price": "625 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "98"
+  }
+ },
+ {
+  "id": "19171463",
+  "slug": "excellent-sea-view-apartment-on-the-first-line-of-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P22006376/Tphoto/ID68ca4f01-0000-0500-0000-00000f1852e0.jpg.webp",
+  "alt": "For sale 2 bedroom apartment by the beach in Dénia",
+  "ref": "EWE1722",
+  "title": "Excellent sea view apartment on the first line of Dénia",
+  "price": "499 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "73.23"
+  }
+ },
+ {
+  "id": "20625007",
+  "slug": "a-stunning-apartment-on-the-first-coastline-in-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24135726/Tphoto/ID2e487001-0000-0500-0000-0000188a702d.jpg.webp",
+  "alt": "Apartament for sale in Denia",
+  "ref": "EWE1723",
+  "title": "A stunning apartment on the first coastline in Dénia",
+  "price": "379 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "62"
+  }
+ },
+ {
+  "id": "20915384",
+  "slug": "magnificent-terraced-house-with-large-solarium-in-els-poblets",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24549655/Tphoto/ID17997601-0000-0500-0000-00001a754b0a.jpg.webp",
+  "alt": "New villa with private pool for sale in Els Poblets",
+  "ref": "EWE3173",
+  "title": "Magnificent terraced house with large solarium in Els Poblets",
+  "price": "475 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2"
+  }
+ },
+ {
+  "id": "19824381",
+  "slug": "independent-villa-in-the-beautiful-port-city-of-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P22954960/Tphoto/IDd0435e01-0000-0500-0000-0000102e9ac9.jpg.webp",
+  "alt": "Detached 3 bedroom villa for sale in Denia.",
+  "ref": "EWE1982",
+  "title": "Independent villa in the beautiful port city of Denia",
+  "price": "675 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3"
+  }
+ },
+ {
+  "id": "23195032",
+  "slug": "new-apartments-200-m-from-the-beach-in-the-picturesque-town-of-denia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27161627/Tphoto/ID1b749e01-0000-0500-0000-000015cd512f.jpg.webp",
+  "alt": "Apartment for sale near the beach in the town of Denia",
+  "ref": "EWE3483",
+  "title": "New apartments 200 m from the beach in the picturesque town of Denia",
+  "price": "333 000 €",
+  "loc": [
+   "Dénia"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "68"
+  }
+ }
+]

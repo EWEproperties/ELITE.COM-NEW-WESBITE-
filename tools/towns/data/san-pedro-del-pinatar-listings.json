@@ -1,0 +1,321 @@
+[
+ {
+  "id": "26786486",
+  "slug": "new-bungalow-less-than-2-km-from-the-sea-in-san-pedro",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31218175/Tphoto/IDff59dc01-0000-0500-0000-00001a9cede4.jpg.webp",
+  "alt": "New bungalow less than 2 km from the sea in San Pedro",
+  "ref": "EWE3909",
+  "title": "New bungalow less than 2 km from the sea in San Pedro",
+  "price": "279 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "BATHS": "2",
+   "AREA": "70"
+  }
+ },
+ {
+  "id": "25750933",
+  "slug": "excellent-villa-with-pool-1-km-from-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30021650/Tphoto/ID1218ca01-0000-0500-0000-0000194df71b.jpg.webp",
+  "alt": "Modern villa with pool for sale in San Pedro del Pinatar.",
+  "ref": "EWE3707",
+  "title": "Excellent villa with pool 1 km from the beach in San Pedro del Pinatar",
+  "price": "539 950 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3"
+  }
+ },
+ {
+  "id": "25751727",
+  "slug": "mediterranean-villa-400-m-from-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30022436/Tphoto/ID241bca01-0000-0500-0000-0000194e2442.jpg.webp",
+  "alt": "Villa with pool for sale in San Pedro del Pinatar",
+  "ref": "EWE3708",
+  "title": "Mediterranean villa 400 m from the beach in San Pedro del Pinatar",
+  "price": "809 950 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3",
+   "AREA": "117"
+  }
+ },
+ {
+  "id": "23871494",
+  "slug": "intimate-bungalow-800-metres-from-the-beach-in-lo-pagan",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27925026/Tphoto/ID221aaa01-0000-0500-0000-000016e049de.jpg.webp",
+  "alt": "Apartment for sale in San Pedro del Pinatar",
+  "ref": "EWE3575",
+  "title": "Intimate bungalow 800 metres from the beach in Lo Pagan",
+  "price": "324 900 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "67"
+  }
+ },
+ {
+  "id": "21399367",
+  "slug": "modern-first-line-flat-in-lo-pagan",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25181163/Tphoto/IDeb3b8001-0000-0500-0000-00001383ca4a.jpg.webp",
+  "alt": "Beachfront flat for sale in Lo Pagan",
+  "ref": "EWE3341",
+  "title": "Modern first line flat in Lo Pagan",
+  "price": "270 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "1",
+   "BATHS": "1",
+   "AREA": "43"
+  }
+ },
+ {
+  "id": "22944852",
+  "slug": "beachfront-flat-with-sea-views-in-lo-pagan",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25181169/Tphoto/IDf13b8001-0000-0500-0000-00001383ca91.jpg.webp",
+  "alt": "Beachfront flat for sale in Lo Pagan",
+  "ref": "EWE3342",
+  "title": "Beachfront flat with sea views in Lo Pagan",
+  "price": "425 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "1",
+   "AREA": "78"
+  }
+ },
+ {
+  "id": "25877793",
+  "slug": "fully-equipped-apartments-700-m-from-the-beach-in-lo-pagan-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30161704/Tphoto/ID283bcc01-0000-0500-0000-00001978b1c1.jpg.webp",
+  "alt": "Apartment for sale 700 meters from the beach in Lo Pagán, San Pedro del Pinatar.",
+  "ref": "EWE3724",
+  "title": "Fully equipped apartments 700 m from the beach in Lo Pagán, San Pedro del Pinatar.",
+  "price": "168 900 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "1",
+   "BATHS": "1",
+   "AREA": "45"
+  }
+ },
+ {
+  "id": "26391565",
+  "slug": "new-apartments-600-m-from-the-beach-in-lo-pagan",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30792632/Tphoto/IDb8dbd501-0000-0500-0000-00001a1946d5.jpg.webp",
+  "alt": "Modern apartments near the beach in Lo Pagán",
+  "ref": "EWE3831",
+  "title": "New Apartments 600 m from the Beach in Lo Pagán",
+  "price": "151 900 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "1",
+   "BATHS": "1",
+   "AREA": "37"
+  }
+ },
+ {
+  "id": "26069280",
+  "slug": "modern-apartment-2-km-from-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30423069/Tphoto/ID1d38d001-0000-0500-0000-000019b0d543.jpg.webp",
+  "alt": "FOR SALE: Modern Apartments in San Pedro del Pinatar",
+  "ref": "EWE3759",
+  "title": "Modern Apartment 2 km from the Beach in San Pedro del Pinatar",
+  "price": "277 900 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "80"
+  }
+ },
+ {
+  "id": "25844267",
+  "slug": "elegant-apartment-200-m-from-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30123171/Tphoto/IDa3a4cb01-0000-0500-0000-0000196bfd51.jpg.webp",
+  "alt": "Apartment for sale 200 meters from the beach in San Pedro del Pinatar.",
+  "ref": "EWE3719",
+  "title": "Elegant apartment 200 m from the beach in San Pedro del Pinatar",
+  "price": "267 400 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2"
+  }
+ },
+ {
+  "id": "21711148",
+  "slug": "bungalow-just-500-m-from-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25600575/Tphoto/ID3fa28601-0000-0500-0000-0000143e356f.jpg.webp",
+  "alt": "Bungalow for sale in San Pedro del Pinatar.",
+  "ref": "EWE3413",
+  "title": "Bungalow just 500 m from the beach in San Pedro del Pinatar",
+  "price": "299 950 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2"
+  }
+ },
+ {
+  "id": "22144802",
+  "slug": "excellent-villa-with-pool-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26049921/Tphoto/ID817d8d01-0000-0500-0000-00001492a015.jpg.webp",
+  "alt": "Villa with pool for sale in San Pedro del Pinatar",
+  "ref": "EWE3437",
+  "title": "Excellent villa with pool in San Pedro del Pinatar",
+  "price": "397 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3",
+   "AREA": "100"
+  }
+ },
+ {
+  "id": "23885824",
+  "slug": "new-bungalow-2-km-from-the-sea-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27941075/Tphoto/IDd358aa01-0000-0500-0000-000016e483ac.jpg.webp",
+  "alt": "Bungalow for sale in San Pedro del Pinatar",
+  "ref": "EWE3589",
+  "title": "New bungalow 2 km from the sea in San Pedro del Pinatar",
+  "price": "269 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "72"
+  }
+ },
+ {
+  "id": "22786450",
+  "slug": "cosy-apartment-close-to-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26713161/Tphoto/ID499c9701-0000-0500-0000-0000154567a0.jpg.webp",
+  "alt": "Apartment for sale in San Pedro del Pinatar.",
+  "ref": "EWE3468",
+  "title": "Cosy apartment close to the beach in San Pedro del Pinatar",
+  "price": "258 900 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "73"
+  }
+ },
+ {
+  "id": "21583140",
+  "slug": "new-apartament-with-private-pool-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25428790/Tphoto/ID36038401-0000-0500-0000-000013fbc58c.jpg.webp",
+  "alt": "Apartment with private pool for sale in San Pedro del Pinatar",
+  "ref": "EWE3377",
+  "title": "New apartament with private pool in San Pedro del Pinatar",
+  "price": "399 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "87.11"
+  }
+ },
+ {
+  "id": "23887020",
+  "slug": "villa-with-swimming-pool-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27942261/Tphoto/ID755daa01-0000-0500-0000-000016e4cebe.jpg.webp",
+  "alt": "Villa for sale in San Pedro del Pinatar",
+  "ref": "EWE3592",
+  "title": "Villa with swimming pool in San Pedro del Pinatar",
+  "price": "479 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3",
+   "AREA": "112"
+  }
+ },
+ {
+  "id": "21577879",
+  "slug": "new-flat-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25420659/Tphoto/ID73e38301-0000-0500-0000-000013f858c3.jpg.webp",
+  "alt": "New flat for sale in San Pedro del Pinatar",
+  "ref": "EWE3369",
+  "title": "New flat in San Pedro del Pinatar",
+  "price": "259 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "89.13"
+  }
+ },
+ {
+  "id": "22735071",
+  "slug": "excellent-terraced-house-5-km-from-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26658857/Tphoto/ID29c89601-0000-0500-0000-00001a0c4efa.jpg.webp",
+  "alt": "Villa 3 Bedrooms San Pedro del Pinatar San Pedro del Pinatar ciudad",
+  "ref": "EWE3462",
+  "title": "Excellent terraced house 5 km from the beach in San Pedro del Pinatar",
+  "price": "380 000 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "104"
+  }
+ },
+ {
+  "id": "26391637",
+  "slug": "modern-apartment-600-m-from-the-beach-in-san-pedro-del-pinatar",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30792726/Tphoto/ID16dcd501-0000-0500-0000-00001a194d7a.jpg.webp",
+  "alt": "Modern apartments near the beach in Lo Pagán",
+  "ref": "EWE3832",
+  "title": "Modern Apartment 600 m from the Beach in San Pedro del Pinatar",
+  "price": "231 900 €",
+  "loc": [
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "73"
+  }
+ }
+]

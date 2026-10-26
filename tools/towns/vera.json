@@ -1,0 +1,125 @@
+{
+ "coast": "",
+ "province": "Province of Almería",
+ "town": "Vera",
+ "page": "properties-for-sale-in-vera",
+ "title": "Property for Sale in Vera & Vera Playa – Apartments & Villas | Elite World Estates",
+ "description": "{count} apartments, bungalows and villas for sale in Vera and Vera Playa, Almería, from {from}, many close to the beach. Areas, prices and buying costs explained.",
+ "kicker": "Costa de Almería · Vera",
+ "h1": "Property for sale in Vera",
+ "lead": "New apartments on the beachfront in Vera Playa, bungalows and villas with a private pool close to the sea. Here are the properties we sell in Vera today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Vera": "Vera"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Vera"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 1 hour",
+   "to Almería airport"
+  ],
+  [
+   "Vera Playa",
+   "long sandy beaches"
+  ]
+ ],
+ "listings_intro": "New apartments with 1 to 3 bedrooms, many on or near the beachfront and some with a tourist licence, plus bungalows and villas with a private pool. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Vera",
+ "guide": [
+  "Vera is a town in the province of Almería, in Andalusia, a few kilometres inland from the sea. Its coast, Vera Playa, has long sandy beaches, a promenade and modern residential complexes, and is a popular place for buyers from all over Europe.",
+  "The area is dry and sunny for most of the year, with a mild winter. The old town of Vera has a church, squares and local shops, and the nearby villages of Mojácar and Garrucha add white houses, a fishing port and good restaurants.",
+  "Prices are lower than on the better known coasts, so many buyers find a new home near the beach on a modest budget. Almería airport is about an hour away by car, and Región de Murcia airport about an hour and a half."
+ ],
+ "guide_photo": "lagoon.jpg",
+ "guide_photo_alt": "Lagoon and sandy beach at Vera Playa",
+ "photo_credits": [
+  "Photos: <a href=\"https://commons.wikimedia.org/wiki/File:El_Playazo,_Vera_Playa.JPG\" rel=\"nofollow noopener\" target=\"_blank\">Seryam</a> (<a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow noopener\" target=\"_blank\">CC BY-SA 4.0</a>) and <a href=\"https://commons.wikimedia.org/wiki/File:%C2%AE_S.D._VERA_PLAYAS_DE_VERA_PLAYA_LAGUNA_-_VISTAS_-_panoramio.jpg\" rel=\"nofollow noopener\" target=\"_blank\">Concepcion Amat Orta</a> (<a href=\"https://creativecommons.org/licenses/by/3.0\" rel=\"nofollow noopener\" target=\"_blank\">CC BY 3.0</a>), via Wikimedia Commons"
+ ],
+ "areas_title": "The main areas of Vera",
+ "areas": [
+  {
+   "name": "Vera Playa",
+   "text": "The beachfront of Vera, with sandy beaches and a promenade. New apartments and villas close to the sea."
+  },
+  {
+   "name": "Vera town",
+   "text": "The old town a few kilometres inland, with shops and services. New apartments and bungalows, about 2 km from the beach."
+  },
+  {
+   "name": "Towards Garrucha",
+   "text": "The coast north of Vera Playa, near the fishing port of Garrucha and its restaurants."
+  },
+  {
+   "name": "Towards Mojácar",
+   "text": "The coast south of Vera, near the white village of Mojácar on its hill."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €280,000, for example, that is €28,000 VAT and €3,360 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.2% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "7% transfer tax (ITP)"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Vera?",
+   "Our apartments in Vera start at {from} today, and most cost between €180,000 and €300,000. Bungalows cost from about €270,000, and villas with a private pool near the beach from about €430,000 to €475,000."
+  ],
+  [
+   "Can I rent out an apartment in Vera Playa?",
+   "Yes. Some of our apartments in Vera Playa already come with a tourist licence. Holiday letting in Andalusia needs registration in the regional tourist register, so check the licence before you buy."
+  ],
+  [
+   "How far is Vera from the airport?",
+   "Almería airport is about an hour by car, and Región de Murcia airport about an hour and a half."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Vera?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "properties-near-the-sea-in-spain.html",
+   "img": "assets/blog/thumbs/near-the-sea.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a property near the sea in Spain"
+  },
+  {
+   "href": "new-regulations-on-short-term-rentals-in-spain.html",
+   "img": "assets/blog/thumbs/short-term-rentals.jpg",
+   "tag": "Renting",
+   "title": "Short-term rental rules in Spain in 2026"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": []
+}

@@ -1,0 +1,138 @@
+{
+ "coast": "Costa Blanca",
+ "coast_slug": "costa-blanca",
+ "province": "Province of Alicante",
+ "town": "Ciudad Quesada",
+ "page": "properties-for-sale-in-ciudad-quesada",
+ "title": "Property for Sale in Ciudad Quesada & Algorfa – Golf Villas | Elite World Estates",
+ "description": "{count} villas, bungalows and apartments for sale in Ciudad Quesada (Rojales) from {from}, plus {near_count} at La Finca Golf in Algorfa. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Rojales",
+ "h1": "Property for sale in Ciudad Quesada",
+ "lead": "Villas with a private pool near La Marquesa Golf, new apartments and bungalows, and homes at La Finca Golf in nearby Algorfa. Here are the properties we sell in and around Ciudad Quesada today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Rojales": "Ciudad Quesada",
+  "Algorfa": "Algorfa"
+ },
+ "near_towns": [
+  "Algorfa"
+ ],
+ "near_intro": "Algorfa is about 10 minutes from Ciudad Quesada. Most of our homes there are at La Finca Golf Resort: villas, semi-detached houses and bungalows, many with a private pool and golf views.",
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Ciudad Quesada"
+  ],
+  [
+   "from {from}",
+   "for a bungalow"
+  ],
+  [
+   "about 35 min",
+   "to Alicante-Elche airport"
+  ],
+  [
+   "about 15 min",
+   "to the beaches of Guardamar"
+  ]
+ ],
+ "listings_intro": "Mostly villas with 3 or 4 bedrooms and a private pool, plus new apartments and bungalows, many close to La Marquesa Golf. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Ciudad Quesada",
+ "guide": [
+  "Ciudad Quesada is a large residential area in the municipality of Rojales, in the south of the Costa Blanca, about 10 km inland from the sea. It was one of the first places on the coast built for international buyers, and today it has a big community of people who live here all year.",
+  "The area has its own shops, restaurants and the La Marquesa golf course, and the old town of Rojales with its bridge and caves is a few minutes away. The sandy beaches of Guardamar and La Mata are about 15 minutes away by car.",
+  "Prices are lower than on the coast, so buyers get a villa with a pool and a garden for the price of an apartment by the sea. Alicante-Elche airport is about 35 minutes away by car, and Torrevieja about 15 minutes."
+ ],
+ "guide_photo": "entrance.jpg",
+ "guide_photo_alt": "The entrance arch of Ciudad Quesada with palm trees",
+ "photo_credits": [
+  "Photos: <a href=\"https://commons.wikimedia.org/wiki/File:Ciudad_Quesada_01.jpg\" rel=\"nofollow noopener\" target=\"_blank\">H.Helmlechner</a> (<a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow noopener\" target=\"_blank\">CC BY-SA 4.0</a>) and <a href=\"https://commons.wikimedia.org/wiki/File:Ciudad_Quesada_02.jpg\" rel=\"nofollow noopener\" target=\"_blank\">H.Helmlechner</a> (<a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow noopener\" target=\"_blank\">CC BY-SA 4.0</a>), via Wikimedia Commons"
+ ],
+ "areas_title": "The main areas around Ciudad Quesada",
+ "areas": [
+  {
+   "name": "Ciudad Quesada",
+   "text": "The main residential area, with shops, restaurants and services. Villas, bungalows and apartments on quiet streets."
+  },
+  {
+   "name": "La Marquesa Golf",
+   "text": "The golf course in the middle of Ciudad Quesada. Villas with golf views and a private pool."
+  },
+  {
+   "name": "Doña Pepa",
+   "text": "The newer part of Ciudad Quesada, with modern villas and apartments and a shopping area close by."
+  },
+  {
+   "name": "Rojales town",
+   "text": "The old town by the Segura river, with a historic bridge, caves and local life. Bungalows and villas nearby."
+  },
+  {
+   "name": "La Finca Golf, Algorfa",
+   "text": "A golf resort about 10 minutes away, with a hotel and a course. Villas, semi-detached houses and bungalows."
+  },
+  {
+   "name": "Algorfa village",
+   "text": "A small Spanish village near La Finca, with local shops and bars and villas on the edge of the village."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €549,000, for example, that is €54,900 VAT and €7,686 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.4% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "9% transfer tax (ITP), 11% above €1 million"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does a villa cost in Ciudad Quesada?",
+   "Our villas in Ciudad Quesada cost from about €394,000 to €1.2 million today, most of them with 3 or 4 bedrooms and a private pool. Apartments and bungalows start at {from}. At La Finca Golf in Algorfa, villas cost from about €450,000 to €1.8 million."
+  ],
+  [
+   "Is Ciudad Quesada good for living all year?",
+   "Yes. Ciudad Quesada has a large international community who live here all year, with shops, restaurants, health centres and golf close by, and the coast about 15 minutes away."
+  ],
+  [
+   "How far is Ciudad Quesada from the airport?",
+   "Alicante-Elche airport is about 35 minutes by car, and Región de Murcia airport about 45 minutes."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In the Valencian Community you pay 10% VAT and 1.4% stamp duty on a new build, and 9% transfer tax (11% above €1 million) on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Ciudad Quesada?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html",
+   "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a luxury house or villa in Spain"
+  },
+  {
+   "href": "retirement-life-in-spain.html",
+   "img": "assets/blog/thumbs/retirement-in-spain.jpg",
+   "tag": "Living in Spain",
+   "title": "Retiring in Spain: a practical guide"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ]
+}

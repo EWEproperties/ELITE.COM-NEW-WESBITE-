@@ -2,25 +2,41 @@
  "town": "Orihuela Costa",
  "page": "properties-for-sale-in-orihuela-costa",
  "title": "Property for Sale in Orihuela Costa – Apartments & Golf Villas | Elite World Estates",
- "description": "{count} apartments and villas for sale in Orihuela Costa from {from}, in Las Colinas Golf, Campoamor, Cabo Roig, Punta Prima and Villamartín, plus {near_count} at Vistabella Golf. Areas, prices and buying costs explained.",
+ "description": "{count} apartments and villas for sale in Orihuela Costa from {from}, in Las Colinas Golf, Campoamor, Cabo Roig, Punta Prima and Villamartín, plus {near_count} nearby at Vistabella Golf and in San Miguel de Salinas. Areas, prices and buying costs explained.",
  "kicker": "Costa Blanca · Orihuela Costa",
  "h1": "Property for sale in Orihuela Costa",
  "lead": "Apartments near the beach, homes on some of the best golf courses in Spain and luxury villas in Campoamor. Here are the properties we sell in Orihuela Costa today, with a short guide to the areas and what buying really costs.",
  "town_names": {
-  "Orihuela": "Orihuela Costa"
+  "Orihuela": "Orihuela Costa",
+  "San Miguel de Salinas": "San Miguel de Salinas"
  },
  "title_towns": {
   "Vistabella": "Vistabella Golf"
  },
- "near_towns": ["Vistabella Golf"],
+ "near_towns": [
+  "Vistabella Golf",
+  "San Miguel de Salinas"
+ ],
  "facts": [
-  ["{count}", "properties for sale in Orihuela Costa"],
-  ["from {from}", "for a new apartment"],
-  ["about 45 min", "to Alicante-Elche airport"],
-  ["4 golf courses", "within a few minutes of the coast"]
+  [
+   "{count}",
+   "properties for sale in Orihuela Costa"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 45 min",
+   "to Alicante-Elche airport"
+  ],
+  [
+   "4 golf courses",
+   "within a few minutes of the coast"
+  ]
  ],
  "listings_intro": "New apartments with 2 or 3 bedrooms and a communal pool, many on golf resorts or a short walk from the beach, plus villas with a private pool in Campoamor, Cabo Roig and Las Colinas. Prices are as listed today; ask us for the current availability.",
- "near_intro": "Vistabella Golf is a newer golf resort about 15 minutes inland from the coast, with villas and townhouses with a private pool, often for less money than by the sea.",
+ "near_intro": "A few minutes inland: Vistabella Golf, a newer golf resort with villas and townhouses with a private pool, and San Miguel de Salinas, a Spanish town near the golf courses with new apartments and villas, often for less money than by the sea.",
  "guide_title": "Living in Orihuela Costa",
  "guide": [
   "Orihuela Costa is the coastal part of the municipality of Orihuela, in the south of the Costa Blanca between Torrevieja and Pilar de la Horadada. It is a string of residential areas along the sea, each with its own beach or cove, such as Punta Prima, Playa Flamenca, La Zenia, Cabo Roig and Campoamor.",
@@ -31,31 +47,94 @@
  "guide_photo_alt": "Golf course with a lake and palm trees at Las Colinas, Orihuela Costa",
  "areas_title": "The main areas of Orihuela Costa",
  "areas": [
-  {"name": "Las Colinas Golf", "text": "A large gated golf and country club in a green valley a few minutes inland, with security and its own beach club. Apartments, penthouses and villas."},
-  {"name": "Dehesa de Campoamor", "text": "The most exclusive part of the coast, with a marina, quiet beaches and pine trees. Large villas with gardens and pools."},
-  {"name": "Cabo Roig", "text": "A small marina and a strip of restaurants above the sea, with coves on both sides. Villas and apartments close to the water."},
-  {"name": "Punta Prima", "text": "The northern end of Orihuela Costa, next to Torrevieja. Modern apartment complexes with pools near the sea."},
-  {"name": "Playa Flamenca and La Zenia", "text": "Sandy coves, the seafront path and the La Zenia Boulevard shopping centre. Apartments and townhouses for everyday life."},
-  {"name": "Villamartín", "text": "A golf resort a few minutes inland, with its own plaza of bars and restaurants. Apartments, duplexes and villas near the course."}
+  {
+   "name": "Las Colinas Golf",
+   "text": "A large gated golf and country club in a green valley a few minutes inland, with security and its own beach club. Apartments, penthouses and villas."
+  },
+  {
+   "name": "Dehesa de Campoamor",
+   "text": "The most exclusive part of the coast, with a marina, quiet beaches and pine trees. Large villas with gardens and pools."
+  },
+  {
+   "name": "Cabo Roig",
+   "text": "A small marina and a strip of restaurants above the sea, with coves on both sides. Villas and apartments close to the water."
+  },
+  {
+   "name": "Punta Prima",
+   "text": "The northern end of Orihuela Costa, next to Torrevieja. Modern apartment complexes with pools near the sea."
+  },
+  {
+   "name": "Playa Flamenca and La Zenia",
+   "text": "Sandy coves, the seafront path and the La Zenia Boulevard shopping centre. Apartments and townhouses for everyday life."
+  },
+  {
+   "name": "Villamartín",
+   "text": "A golf resort a few minutes inland, with its own plaza of bars and restaurants. Apartments, duplexes and villas near the course."
+  }
  ],
  "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €625,000, for example, that is €62,500 VAT and €8,750 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
  "costs": [
-  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
-  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
-  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
-  ["Every year", "IBI property tax and community fees, which depend on the home"]
+  [
+   "New build",
+   "10% VAT (IVA) + 1.4% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "9% transfer tax (ITP), 11% above €1 million"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
  ],
  "faq": [
-  ["How much does a property cost in Orihuela Costa?", "Our apartments in Orihuela Costa start at {from} today. Most apartments we sell cost between €255,000 and €640,000, depending on the area and whether they are on a golf resort or near the beach. Villas start at about €500,000 in Villamartín and reach €3.6 million in Campoamor."],
-  ["Which area of Orihuela Costa is best to buy in?", "It depends on how you will use the home. Las Colinas and Villamartín are for golfers. Campoamor and Cabo Roig suit buyers who want a villa near the sea, and Punta Prima, Playa Flamenca and La Zenia suit buyers who want an apartment close to the beach and the shops."],
-  ["Is Orihuela Costa good for living all year?", "Yes. Many people live here all year, with shops, restaurants, health centres and international schools that stay open outside the summer, and a large international community."],
-  ["How far is Orihuela Costa from the airport?", "Alicante-Elche airport is about 45 minutes away by car, and Región de Murcia airport about 40 minutes."],
-  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
-  ["Can foreigners buy property in Orihuela Costa?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+  [
+   "How much does a property cost in Orihuela Costa?",
+   "Our apartments in Orihuela Costa start at {from} today. Most apartments we sell cost between €255,000 and €640,000, depending on the area and whether they are on a golf resort or near the beach. Villas start at about €500,000 in Villamartín and reach €3.6 million in Campoamor."
+  ],
+  [
+   "Which area of Orihuela Costa is best to buy in?",
+   "It depends on how you will use the home. Las Colinas and Villamartín are for golfers. Campoamor and Cabo Roig suit buyers who want a villa near the sea, and Punta Prima, Playa Flamenca and La Zenia suit buyers who want an apartment close to the beach and the shops."
+  ],
+  [
+   "Is Orihuela Costa good for living all year?",
+   "Yes. Many people live here all year, with shops, restaurants, health centres and international schools that stay open outside the summer, and a large international community."
+  ],
+  [
+   "How far is Orihuela Costa from the airport?",
+   "Alicante-Elche airport is about 45 minutes away by car, and Región de Murcia airport about 40 minutes."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Orihuela Costa?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
  ],
  "reads": [
-  {"href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html", "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg", "tag": "Buying in Spain", "title": "Buying a luxury house or villa in Spain"},
-  {"href": "properties-near-the-sea-in-spain.html", "img": "assets/blog/thumbs/near-the-sea.jpg", "tag": "Buying in Spain", "title": "Buying a property near the sea in Spain"},
-  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+  {
+   "href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html",
+   "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a luxury house or villa in Spain"
+  },
+  {
+   "href": "properties-near-the-sea-in-spain.html",
+   "img": "assets/blog/thumbs/near-the-sea.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a property near the sea in Spain"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
  ]
 }

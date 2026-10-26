@@ -1,0 +1,131 @@
+{
+ "coast": "Costa del Sol",
+ "coast_slug": "costa-del-sol",
+ "province": "Province of Málaga",
+ "town": "Mijas",
+ "page": "properties-for-sale-in-mijas",
+ "title": "Property for Sale in Mijas – Sea & Golf View Apartments | Elite World Estates",
+ "description": "{count} apartments, townhouses and villas for sale in Mijas from {from}, in La Cala de Mijas, Calanova Golf and El Chaparral. Areas, prices and buying costs explained.",
+ "kicker": "Costa del Sol · Mijas",
+ "h1": "Property for sale in Mijas",
+ "lead": "Apartments with sea views near the beach in La Cala, homes on the golf courses and villas in the hills. Here are the properties we sell in Mijas today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Mijas": "Mijas"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Mijas"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 25 min",
+   "to Málaga airport"
+  ],
+  [
+   "golf valley",
+   "many courses close together"
+  ]
+ ],
+ "listings_intro": "Mostly new apartments with 1 to 3 bedrooms, many with sea or golf views and large terraces, plus townhouses and villas in the golf areas. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Mijas",
+ "guide": [
+  "Mijas is a large municipality on the Costa del Sol with about 90,000 residents, between Fuengirola and Marbella. It has two very different sides: Mijas Pueblo, a white village on the mountain with views over the coast, and Mijas Costa, a long stretch of beaches and residential areas by the sea.",
+  "La Cala de Mijas is the heart of the coast, with a sandy beach, a promenade and a small town centre with shops and restaurants. Inland lies one of the best golf areas in Spain, with courses such as La Cala, Calanova and El Chaparral close together, and new homes built around them.",
+  "Mijas has a large international community, schools and health centres, and life goes on all year. Málaga airport is about 25 minutes away by car, and Fuengirola and Marbella are 10 to 20 minutes away."
+ ],
+ "guide_photo": "village.jpg",
+ "guide_photo_alt": "Fountain and white houses in the village of Mijas Pueblo",
+ "areas_title": "The main areas of Mijas",
+ "areas": [
+  {
+   "name": "La Cala de Mijas",
+   "text": "The beach town of Mijas Costa, with a promenade, shops and restaurants. Apartments close to the sea, many with sea views."
+  },
+  {
+   "name": "Calanova and La Cala Golf",
+   "text": "The golf valley a few minutes inland, with several courses. Apartments, townhouses and villas with golf and sea views."
+  },
+  {
+   "name": "El Chaparral",
+   "text": "A golf course on the border with Marbella, close to the beach. Semi-detached houses and villas next to the course."
+  },
+  {
+   "name": "Calahonda and Riviera del Sol",
+   "text": "Green residential areas on the coast between La Cala and Marbella, with apartments and villas near the beach."
+  },
+  {
+   "name": "Mijas Pueblo",
+   "text": "The white village on the mountain, with narrow streets and views over the coast. Apartments and village houses."
+  },
+  {
+   "name": "Near Fuengirola",
+   "text": "The areas of Mijas next to Fuengirola, with shops and services on foot. Modern apartments for living all year."
+  }
+ ],
+ "near_towns": [],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €482,400, for example, that is €48,240 VAT and €5,789 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.2% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "7% transfer tax (ITP)"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Mijas?",
+   "Our new apartments in Mijas start at {from} today. Most apartments with 2 or 3 bedrooms we sell cost between €380,000 and €800,000, depending on the views and the distance to the beach. Townhouses cost from about €650,000 and villas up to €1.86 million in Calanova Golf."
+  ],
+  [
+   "Which area of Mijas is best to buy in?",
+   "It depends on how you will use the home. La Cala de Mijas suits buyers who want the beach and a small town centre. Calanova, La Cala Golf and El Chaparral are for golfers, and Mijas Pueblo for village life with views."
+  ],
+  [
+   "How far is Mijas from the airport?",
+   "Málaga airport is about 25 minutes by car from La Cala de Mijas, and the train from nearby Fuengirola goes straight to the airport."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Mijas?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "costa-blanca-or-costa-del-sol.html",
+   "img": "assets/blog/thumbs/costa-blanca-or-costa-del-sol.jpg",
+   "tag": "Places",
+   "title": "Costa Blanca or Costa del Sol? How the two coasts compare"
+  },
+  {
+   "href": "investing-in-a-luxury-villa-vs-a-luxury-flat-on-the-costa-del-sol.html",
+   "img": "assets/blog/thumbs/villa-or-apartment.jpg",
+   "tag": "Buying in Spain",
+   "title": "Luxury villa or luxury apartment on the Costa del Sol?"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ]
+}

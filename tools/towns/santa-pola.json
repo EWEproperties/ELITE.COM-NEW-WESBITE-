@@ -1,0 +1,123 @@
+{
+ "coast": "Costa Blanca",
+ "coast_slug": "costa-blanca",
+ "province": "Province of Alicante",
+ "town": "Santa Pola",
+ "page": "properties-for-sale-in-santa-pola",
+ "title": "Property for Sale in Santa Pola & Gran Alacant | Elite World Estates",
+ "description": "{count} apartments, penthouses and houses for sale in Santa Pola and Gran Alacant from {from}, near the beach and the port. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Santa Pola",
+ "h1": "Property for sale in Santa Pola",
+ "lead": "New apartments a short walk from the beach and the port, and houses with views in Gran Alacant, 15 minutes from Alicante airport. Here are the properties we sell in Santa Pola today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Santa Pola": "Santa Pola"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Santa Pola"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 15 min",
+   "to Alicante-Elche airport"
+  ],
+  [
+   "Tabarca",
+   "an island a short boat trip away"
+  ]
+ ],
+ "listings_intro": "New apartments and penthouses with 1 to 3 bedrooms, most of them within a kilometre of the beach, and terraced houses, bungalows and villas in Gran Alacant. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Santa Pola",
+ "guide": [
+  "Santa Pola is a seaside town of about 38,000 people just south of Alicante. It has one of the largest fishing fleets on the coast, a busy port with fish restaurants, and long sandy beaches along the bay.",
+  "Behind the town lies the Salinas de Santa Pola natural park, a wide area of salt pans where flamingos live for much of the year. Boats leave from the port for the small island of Tabarca, a marine reserve with clear water. On the cape above the town, Gran Alacant is a large residential area with views over the sea.",
+  "Life goes on all year here, with shops, markets and services in the centre. Alicante-Elche airport is only about 15 minutes away by car, and Alicante city about 25 minutes."
+ ],
+ "guide_photo": "flamingos.jpg",
+ "guide_photo_alt": "Flamingos in the salt pans of Santa Pola",
+ "areas_title": "The main areas of Santa Pola",
+ "areas": [
+  {
+   "name": "Centre and port",
+   "text": "The port, the fish market and the old centre, with shops and restaurants on foot. Apartments close to the beach."
+  },
+  {
+   "name": "Playa de Levante",
+   "text": "The long sandy beach east of the port, with a promenade. Apartments and penthouses near the sea."
+  },
+  {
+   "name": "Gran Alacant",
+   "text": "A large residential area on the cape above Santa Pola, with views over the sea. Terraced houses, bungalows and villas."
+  },
+  {
+   "name": "Santa Pola del Este",
+   "text": "A quieter area on the cape, with coves and houses close to the sea."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €292,015, for example, that is €29,202 VAT and €4,088 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.4% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "9% transfer tax (ITP), 11% above €1 million"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Santa Pola?",
+   "Our new apartments in Santa Pola start at {from} today, and most with 2 or 3 bedrooms cost between €235,000 and €380,000. Houses in Gran Alacant cost from about €289,000 for a terraced house to €792,000 for a modern villa."
+  ],
+  [
+   "Is Santa Pola close to the airport?",
+   "Yes, it is one of the closest beach towns to Alicante-Elche airport, about 15 minutes by car. That makes it practical for short trips and for renting out."
+  ],
+  [
+   "What is Gran Alacant?",
+   "Gran Alacant is a residential area on the cape above Santa Pola, with houses and apartments, shops and restaurants, and views over the sea and the salt pans. It is about 10 minutes from Santa Pola and the airport."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In the Valencian Community you pay 10% VAT and 1.4% stamp duty on a new build, and 9% transfer tax (11% above €1 million) on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Santa Pola?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "properties-near-the-sea-in-spain.html",
+   "img": "assets/blog/thumbs/near-the-sea.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a property near the sea in Spain"
+  },
+  {
+   "href": "properties-with-investment-potential.html",
+   "img": "assets/blog/thumbs/investment.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying property in Spain as an investment or to rent out"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": []
+}

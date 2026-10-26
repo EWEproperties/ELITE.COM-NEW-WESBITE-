@@ -1,0 +1,128 @@
+{
+ "coast": "",
+ "province": "Province of Almería",
+ "town": "Pulpí",
+ "page": "properties-for-sale-in-pulpi",
+ "title": "Property for Sale in Pulpí – Apartments by the Sea and Golf | Elite World Estates",
+ "description": "{count} apartments, bungalows and villas for sale in Pulpí, Almería, from {from}, near the beaches of San Juan de los Terreros and the golf course. Areas, prices and buying costs explained.",
+ "kicker": "Costa de Almería · Pulpí",
+ "h1": "Property for sale in Pulpí",
+ "lead": "Affordable new apartments near the sea and the golf course, frontline apartments and villas close to the beaches of San Juan de los Terreros. Here are the properties we sell in Pulpí today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Pulpí": "Pulpí"
+ },
+ "facts": [
+  [
+   "{count}",
+   "properties for sale in Pulpí"
+  ],
+  [
+   "from {from}",
+   "for a new apartment"
+  ],
+  [
+   "about 1 hour",
+   "to Región de Murcia airport"
+  ],
+  [
+   "Geoda",
+   "one of the largest geodes in the world"
+  ]
+ ],
+ "listings_intro": "New apartments with 1 to 3 bedrooms, many with pools and close to the sea or the golf course, plus bungalows and villas near the beach. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Pulpí",
+ "guide": [
+  "Pulpí is a municipality in the north of the province of Almería, in Andalusia, on the border with the Region of Murcia. Its coast, around San Juan de los Terreros, has quiet beaches, small coves and clear water, and is one of the least crowded parts of the Spanish Mediterranean.",
+  "The area is known for the Geoda de Pulpí, one of the largest crystal geodes in the world, found in an old mine and open for visits. Along the coast stand the castle of San Juan de los Terreros and the volcanic rock of Isla Negra.",
+  "Life is calm, the climate is dry and sunny, and prices are among the lowest on the coast. Región de Murcia airport is about an hour away by car and Almería airport about an hour and a half, and Águilas, with more shops and services, about 15 minutes."
+ ],
+ "guide_photo": "castle.jpg",
+ "guide_photo_alt": "The castle of San Juan de los Terreros above the sea in Pulpí",
+ "photo_credits": [
+  "Photos: <a href=\"https://commons.wikimedia.org/wiki/File:Isla_Negra_(Pulp%C3%AD)_02.jpg\" rel=\"nofollow noopener\" target=\"_blank\">Ismael Olea</a> (<a href=\"https://creativecommons.org/licenses/by/4.0\" rel=\"nofollow noopener\" target=\"_blank\">CC BY 4.0</a>) and <a href=\"https://commons.wikimedia.org/wiki/File:Castillo_de_San_Juan_de_los_Terreros,_en_Pulp%C3%AD_(Almer%C3%ADa,_Espa%C3%B1a_).jpg\" rel=\"nofollow noopener\" target=\"_blank\">ANESTRELLA</a> (<a href=\"https://creativecommons.org/licenses/by-sa/4.0\" rel=\"nofollow noopener\" target=\"_blank\">CC BY-SA 4.0</a>), via Wikimedia Commons"
+ ],
+ "areas_title": "The main areas of Pulpí",
+ "areas": [
+  {
+   "name": "San Juan de los Terreros",
+   "text": "The seaside village of Pulpí, with beaches, coves and the castle. Apartments and bungalows close to the sea."
+  },
+  {
+   "name": "Frontline",
+   "text": "Apartments right by the sea, with views over the water and the beach below."
+  },
+  {
+   "name": "Golf area",
+   "text": "New developments next to the golf course, a few minutes from the beach. Apartments with pools and gardens."
+  },
+  {
+   "name": "Pulpí town",
+   "text": "The inland town, with local shops and services and the Geoda visitor centre."
+  }
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new home at €229,900, for example, that is €22,990 VAT and €2,759 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.2% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "7% transfer tax (ITP)"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax and community fees, which depend on the home"
+  ]
+ ],
+ "faq": [
+  [
+   "How much does an apartment cost in Pulpí?",
+   "Our apartments in Pulpí start at {from} today, and most with 1 to 3 bedrooms cost between €180,000 and €330,000. Bungalows and semi-detached villas near the beach cost from about €360,000, and villas about €480,000."
+  ],
+  [
+   "What is the Geoda de Pulpí?",
+   "It is a huge cave lined with clear gypsum crystals, found in an old mine near Pulpí and one of the largest geodes known. It can be visited with a guide."
+  ],
+  [
+   "How far is Pulpí from the airport?",
+   "Región de Murcia airport is about an hour away by car, and Almería airport about an hour and a half. Alicante-Elche airport is about an hour and 50 minutes away."
+  ],
+  [
+   "What costs are there on top of the price?",
+   "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."
+  ],
+  [
+   "Can foreigners buy property in Pulpí?",
+   "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."
+  ]
+ ],
+ "reads": [
+  {
+   "href": "properties-near-the-sea-in-spain.html",
+   "img": "assets/blog/thumbs/near-the-sea.jpg",
+   "tag": "Buying in Spain",
+   "title": "Buying a property near the sea in Spain"
+  },
+  {
+   "href": "retirement-life-in-spain.html",
+   "img": "assets/blog/thumbs/retirement-in-spain.jpg",
+   "tag": "Living in Spain",
+   "title": "Retiring in Spain: a practical guide"
+  },
+  {
+   "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+   "img": "assets/blog/thumbs/how-to-buy.jpg",
+   "tag": "Buying in Spain",
+   "title": "How to buy an apartment or house in Spain"
+  }
+ ],
+ "near_towns": [],
+ "title_fixes": {
+  "EWE3608": "Modern apartment next to the golf course in Pulpí"
+ }
+}
