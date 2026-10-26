@@ -85,6 +85,9 @@ def main(slug):
     town_names = c["town_names"]  # eGO municipality -> display name
     for i in listings:
         i["town"] = town_names.get(i["loc"][-1], i["loc"][-1])
+        for word, name in c.get("title_towns", {}).items():  # e.g. inland golf resorts inside a coastal municipality
+            if word in i["title"]:
+                i["town"] = name
         i["photo"] = f"assets/towns/{slug}/listings/{i['id']}.jpg"
     key = lambda i: (price_value(i["price"]) is None, price_value(i["price"]) or 0)
     city = sorted([i for i in listings if i["town"] == c["town"]], key=key)

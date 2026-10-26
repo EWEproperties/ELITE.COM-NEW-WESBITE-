@@ -1,0 +1,61 @@
+{
+ "town": "Villajoyosa",
+ "page": "properties-for-sale-in-villajoyosa",
+ "title": "Property for Sale in Villajoyosa – Apartments by the Sea | Elite World Estates",
+ "description": "{count} apartments and penthouses for sale in Villajoyosa from {from}, many close to the beach and with sea views, plus {near_count} in La Cala next to Benidorm. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Villajoyosa",
+ "h1": "Property for sale in Villajoyosa",
+ "lead": "New apartments and penthouses close to the beach, many with sea views, in a real Spanish town with its own character. Here are the properties we sell in Villajoyosa today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Villajoyosa / La Vila Joiosa": "Villajoyosa"
+ },
+ "title_towns": {
+  "Cala de Finestrat": "La Cala"
+ },
+ "near_towns": ["La Cala"],
+ "facts": [
+  ["{count}", "properties for sale in Villajoyosa"],
+  ["from {from}", "for a new apartment"],
+  ["about 35 min", "to Alicante-Elche airport"],
+  ["10 min", "to Benidorm"]
+ ],
+ "listings_intro": "New apartments with 1 to 3 bedrooms, penthouses and duplexes with large terraces, most of them a few hundred metres from the beach. Some come with a tourist licence. Prices are as listed today; ask us for the current availability.",
+ "near_intro": "La Cala is the beach area on the border with Benidorm and Finestrat, a few minutes north of Villajoyosa, with apartments close to the sea.",
+ "guide_title": "Living in Villajoyosa",
+ "guide": [
+  "Villajoyosa, or La Vila Joiosa in Valencian, is a seaside town of about 37,000 people between Alicante and Benidorm. It is best known for the brightly painted houses of its old town, which rise above the river mouth and the beach, and for its long tradition of making chocolate.",
+  "The town has several beaches along its coast: the main beach in front of the colourful houses, the long Playa del Paraíso, and smaller coves in between. The fishing port is still active, and the old town has narrow streets, small squares and local restaurants.",
+  "Villajoyosa is lively all year, as most people live and work here, and prices are often lower than in Benidorm, just 10 minutes away. The TRAM links the town with Benidorm and Alicante, and Alicante-Elche airport is about 35 minutes away by car."
+ ],
+ "guide_photo": "old-town.jpg",
+ "guide_photo_alt": "Colourful houses in a narrow street in the old town of Villajoyosa",
+ "areas_title": "The main areas of Villajoyosa",
+ "areas": [
+  {"name": "Old town and seafront", "text": "The colourful houses, the promenade and the main beach. Apartments in renovated and new buildings, a short walk from the sea."},
+  {"name": "Centre", "text": "Shops, markets and services on foot, a few minutes from the beach. Modern apartment buildings for living all year."},
+  {"name": "Near the port", "text": "The fishing port and the marina, with restaurants and a quieter beach close by. New apartments with sea views."},
+  {"name": "Playa del Paraíso", "text": "A long beach a few minutes from the centre, with residential complexes and pools. Apartments and penthouses close to the sand."},
+  {"name": "Coastal hills", "text": "The slopes behind the coast between Villajoyosa and La Cala. Newer developments with large terraces and sea views."},
+  {"name": "La Cala", "text": "The beach area on the border with Benidorm and Finestrat, with apartments, shops and restaurants close to the sea."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €425,000, for example, that is €42,500 VAT and €5,950 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does an apartment cost in Villajoyosa?", "Our apartments in Villajoyosa start at {from} today. Most apartments with 2 or 3 bedrooms we sell cost between €350,000 and €580,000, depending on the distance to the beach and the views. Penthouses with sea views cost from about €535,000, and a frontline penthouse €1,540,000."],
+  ["Villajoyosa or Benidorm: which is better?", "Benidorm is a holiday town with tall towers and nightlife. Villajoyosa is a real Spanish town with a quieter pace and its own old town, and prices are often lower. Benidorm is only 10 minutes away by car or TRAM."],
+  ["Can I rent out an apartment in Villajoyosa?", "Yes, and some of our apartments already have a tourist licence. Holiday letting needs a tourist licence in the Valencian register, and some buildings restrict it, so check before you buy. See our guide to the <a href=\"new-regulations-on-short-term-rentals-in-spain.html\">short-term rental rules</a>."],
+  ["How far is Villajoyosa from the airport?", "Alicante-Elche Miguel Hernández airport is about 35 minutes by car. You can also take the TRAM to Alicante."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Villajoyosa?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "new-regulations-on-short-term-rentals-in-spain.html", "img": "assets/blog/thumbs/short-term-rentals.jpg", "tag": "Renting", "title": "Short-term rental rules in Spain in 2026"},
+  {"href": "properties-with-investment-potential.html", "img": "assets/blog/thumbs/investment.jpg", "tag": "Buying in Spain", "title": "Buying property in Spain as an investment or to rent out"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}
