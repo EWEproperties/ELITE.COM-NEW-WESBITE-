@@ -1,0 +1,57 @@
+{
+ "town": "Jávea",
+ "page": "properties-for-sale-in-javea",
+ "title": "Property for Sale in Jávea (Xàbia) – Villas with Sea Views | Elite World Estates",
+ "description": "{count} villas and apartments for sale in Jávea (Xàbia) from {from}, many with sea and Montgó views. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Jávea",
+ "h1": "Property for sale in Jávea",
+ "lead": "Modern villas with a private pool and views of the sea or the Montgó, and new apartments close to the beach. Here are the properties we sell in Jávea today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Jávea / Xàbia": "Jávea"
+ },
+ "near_towns": [],
+ "facts": [
+  ["{count}", "properties for sale in Jávea"],
+  ["from {from}", "for a new apartment"],
+  ["about 75 min", "to Alicante or Valencia airport"],
+  ["753 m", "the Montgó mountain"]
+ ],
+ "listings_intro": "Mostly new villas with 3 or 4 bedrooms, a private pool and plots of around 1,000 m², many with views of the sea and the Montgó, plus new apartments close to the beach. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Jávea",
+ "guide": [
+  "Jávea, or Xàbia in Valencian, is a town of about 29,000 people on the northern tip of the Costa Blanca, between Dénia and Moraira. It lies in a wide bay below the Montgó, a 753 metre mountain and natural park, with the capes of San Antonio and La Nao on either side.",
+  "The town has three parts: the old town inland, with its stone church and covered market; the port, with fishing boats and restaurants; and the Arenal, a sandy beach with a promenade. Along the rest of the coast are clear-water coves such as Granadella, Ambolo and Portitxol.",
+  "Jávea is green, with strict building rules, so most homes are villas on large plots rather than tall apartment blocks. It is lively all year, with a big international community, schools and health centres. Alicante and Valencia airports are both about an hour and a quarter away by car."
+ ],
+ "guide_photo": "beach.jpg",
+ "guide_photo_alt": "Pebble beach with clear turquoise water at Ambolo in Jávea",
+ "areas_title": "The main areas of Jávea",
+ "areas": [
+  {"name": "Arenal", "text": "The sandy beach with a promenade, restaurants and bars. Apartments and townhouses close to the sea, popular for holidays."},
+  {"name": "Port", "text": "The harbour with fishing boats, a seafront walk and restaurants. Apartments and some villas on the slopes behind it."},
+  {"name": "Old town", "text": "Stone streets, the fortified church and the covered market, a few kilometres inland. Town houses and apartments for living all year."},
+  {"name": "Montgó", "text": "The slopes at the foot of the mountain, green and quiet. Villas with large plots and views over the valley and the sea."},
+  {"name": "Monte Olimpo and Tosalet", "text": "Hillside areas between the port and the coves, with modern villas, private pools and wide sea views."},
+  {"name": "Portitxol and Granadella", "text": "The rocky coast to the south, near the coves. Some of the most exclusive villas in Jávea, many with direct sea views."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new villa at €1,425,000, for example, that is €142,500 VAT and €19,950 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does a villa cost in Jávea?", "Most new villas with a pool and views we sell in Jávea cost between €1.285 million and €1.7 million, usually with 3 or 4 bedrooms on a plot of about 1,000 m². Villas in the most exclusive spots cost from about €1.9 million up to €4.5 million. New apartments close to the beach start at {from}."],
+  ["Which area of Jávea is best to buy in?", "It depends on how you will use the home. The Arenal and the port suit buyers who want the beach and restaurants on foot. Montgó, Monte Olimpo and Tosalet are for villas with views, and the coast near Portitxol and Granadella for exclusive homes by the coves. The old town suits life all year."],
+  ["Is Jávea good for living all year?", "Yes. Jávea has a large community of people who live there all year, with international schools, health centres, shops and restaurants that stay open outside the summer."],
+  ["How far is Jávea from the airport?", "Alicante-Elche airport is about 90 km away and Valencia airport about 110 km, each around an hour and a quarter by car."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Jávea?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html", "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg", "tag": "Buying in Spain", "title": "Buying a luxury house or villa in Spain"},
+  {"href": "discover-cumbre-del-sol.html", "img": "assets/blog/thumbs/cumbre-del-sol.jpg", "tag": "Places", "title": "Discover Cumbre del Sol, next to Jávea"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}

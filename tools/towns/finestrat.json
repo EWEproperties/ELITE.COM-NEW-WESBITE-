@@ -1,0 +1,57 @@
+{
+ "town": "Finestrat",
+ "page": "properties-for-sale-in-finestrat",
+ "title": "Property for Sale in Finestrat – Sea View Villas & Apartments | Elite World Estates",
+ "description": "{count} new apartments, townhouses and villas for sale in Finestrat from {from}, in Sierra Cortina, Balcón de Finestrat and next to Benidorm. Areas, prices and buying costs explained.",
+ "kicker": "Costa Blanca · Finestrat",
+ "h1": "Property for sale in Finestrat",
+ "lead": "New apartments and villas with views over Benidorm Bay, on the hills just behind the coast. Here are the properties we sell in Finestrat today, with a short guide to the areas and what buying really costs.",
+ "town_names": {
+  "Finestrat": "Finestrat"
+ },
+ "near_towns": [],
+ "facts": [
+  ["{count}", "properties for sale in Finestrat"],
+  ["from {from}", "for a new apartment"],
+  ["about 10 min", "to Benidorm's beaches"],
+  ["about 45 min", "to Alicante-Elche airport"]
+ ],
+ "listings_intro": "New apartments with 1 to 3 bedrooms and a communal pool, townhouses, and villas with a private pool and sea views. Most are in modern gated developments. Prices are as listed today; ask us for the current availability.",
+ "guide_title": "Living in Finestrat",
+ "guide": [
+  "Finestrat is a municipality on the hills just behind Benidorm, stretching from the Puig Campana mountain down to a small stretch of coast at La Cala. The old village sits on a rocky hill with white houses, a church and a viewpoint over the whole bay.",
+  "Most new homes are built between the old village and Benidorm, in residential areas such as Sierra Cortina and Balcón de Finestrat. From here you can see the sea and the towers of Benidorm, and the beaches of Benidorm and La Cala are about 10 minutes away by car.",
+  "Daily life is easy: large shopping centres, supermarkets, theme parks and golf courses are all close by, and the AP-7 motorway runs past. Alicante-Elche airport is about 45 minutes away by car. For many buyers, Finestrat gives more space and a quieter setting than Benidorm, with the same views."
+ ],
+ "guide_photo": "beach.jpg",
+ "guide_photo_alt": "La Cala beach in Finestrat with apartment buildings behind the sand",
+ "areas_title": "The main areas of Finestrat",
+ "areas": [
+  {"name": "Sierra Cortina", "text": "A gated residential resort on the hills above Benidorm, with gardens, pools and security. New apartments and modern villas with sea views."},
+  {"name": "Balcón de Finestrat", "text": "A hillside area with wide views over the bay and the Benidorm skyline. Villas and apartments, many in new developments."},
+  {"name": "Old village", "text": "White houses on a rocky hill below the Puig Campana, with a church, small squares and a viewpoint. Village houses, few for sale."},
+  {"name": "La Cala de Finestrat", "text": "The small beach area on the coast, next to Benidorm's Poniente beach. Apartments close to the sea, with shops and restaurants."},
+  {"name": "Near Benidorm", "text": "The newer areas closest to Benidorm, near the shopping centres and the theme parks. Modern apartment developments with pools."},
+  {"name": "Puig Campana foothills", "text": "The green slopes below the mountain, inland from the old village. Villas with large plots and views of the mountain and the sea."}
+ ],
+ "costs_intro": "On top of the price you pay tax and fees. For a new apartment at €409,000, for example, that is €40,900 VAT and €5,726 stamp duty, plus notary, land registry and legal fees. Taxes on resale homes are different, so always ask us for the exact figure for the home you like.",
+ "costs": [
+  ["New build", "10% VAT (IVA) + 1.4% stamp duty (AJD)"],
+  ["Resale home", "9% transfer tax (ITP), 11% above €1 million"],
+  ["Notary, registry, lawyer", "about 1.5–2.5% of the price"],
+  ["Every year", "IBI property tax and community fees, which depend on the home"]
+ ],
+ "faq": [
+  ["How much does a property cost in Finestrat?", "Our new apartments in Finestrat start at {from} today, and most with 2 or 3 bedrooms cost between €310,000 and €550,000. Townhouses cost from about €425,000, and villas with a private pool from about €555,000, up to €2.45 million for a large villa in Sierra Cortina."],
+  ["Is Finestrat close to the beach?", "Finestrat has a small coast of its own at La Cala, and Benidorm's beaches are about 10 minutes away by car from most areas. Many homes have sea views from the hills."],
+  ["Finestrat or Benidorm: which is better?", "Benidorm suits buyers who want to live by the beach, in a tower with everything on foot. Finestrat suits buyers who want more space, a garden or a private pool and a quieter setting, with the same views and Benidorm close by."],
+  ["How far is Finestrat from the airport?", "Alicante-Elche Miguel Hernández airport is about 45 minutes by car, along the AP-7 motorway."],
+  ["What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."],
+  ["Can foreigners buy property in Finestrat?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE number</a>."]
+ ],
+ "reads": [
+  {"href": "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know.html", "img": "assets/blog/thumbs/luxury-villa-in-spain.jpg", "tag": "Buying in Spain", "title": "Buying a luxury house or villa in Spain"},
+  {"href": "properties-with-investment-potential.html", "img": "assets/blog/thumbs/investment.jpg", "tag": "Buying in Spain", "title": "Buying property in Spain as an investment or to rent out"},
+  {"href": "how-to-buy-an-apartment-or-house-in-spain.html", "img": "assets/blog/thumbs/how-to-buy.jpg", "tag": "Buying in Spain", "title": "How to buy an apartment or house in Spain"}
+ ]
+}
