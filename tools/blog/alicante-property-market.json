@@ -1,0 +1,251 @@
+{
+ "author": "lucyna",
+ "published": "2026-01-30",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/alicante-property-market/alicante-coast-and-postiguet-beach-from-above.jpg",
+ "images": {
+  "life": "assets/blog/alicante-property-market/santa-barbara-castle-above-alicante-old-town.jpg",
+  "prices": "assets/blog/alicante-property-market/new-apartment-building-with-garden.jpg",
+  "buyers": "assets/blog/alicante-property-market/couple-receiving-keys-from-agent.jpg",
+  "areas": "assets/blog/alicante-property-market/aerial-view-of-alicante-residential-district.jpg",
+  "closing": "assets/blog/alicante-property-market/family-playing-in-their-new-home.jpg"
+ },
+ "cards": [
+  "26157630",
+  "21034180",
+  "23844656"
+ ],
+ "sources": [
+  [
+   "idealista – sale price report Alicante (September 2026)",
+   "https://www.idealista.com/sala-de-prensa/informes-precio-vivienda/venta/comunitat-valenciana/alicante-alacant/alicante-alacant/"
+  ],
+  [
+   "Tinsa – house prices in Alicante (Q3 2026)",
+   "https://www.tinsa.es/precio-vivienda/comunitat-valenciana/alicante/alicante/"
+  ]
+ ],
+ "en": {
+  "title": "Alicante Property Market 2026 – Prices, Districts and Who Buys in the City",
+  "description": "Living and buying in Alicante city in 2026: price per m² by district, rents, who buys, schools and hospitals, and how Alicante compares with resort towns on the Costa Blanca.",
+  "crumb": "Alicante property market",
+  "eyebrow": "Places · Costa Blanca",
+  "h1": "Alicante – Lifestyle, Property Prices and Who Buys Here",
+  "hero_alt": "Aerial view of Alicante's coast with Postiguet beach and the city",
+  "short": "Alicante is a real city of about 360,000 people with beaches, a port, universities, hospitals and an international airport 20 minutes away. In September 2026 asking prices averaged about €2,770 per m² (idealista), up 7.8% in a year, and rents about €13.9 per m² a month. Demand comes from local families as well as foreign buyers, so the market is less seasonal than in resort towns. Playa de San Juan and Cabo de las Huertas are the most sought-after areas.",
+  "intro": [
+   "Alicante is the capital of its province and very different from a typical holiday resort. It has year-round life, a job market, universities, a busy port and top hospitals, with beaches right in the city. For buyers that means a stable market and homes that are easy to rent and resell. Here is what to expect in 2026."
+  ],
+  "sections": [
+   {
+    "id": "life",
+    "h2": "City life by the sea",
+    "alt": "Santa Bárbara castle on Mount Benacantil above the rooftops of Alicante",
+    "html": "<p>Alicante has about 360,000 residents and the feel of a real Spanish city. Offices, shops, markets and cultural life run all year. The EU's intellectual property office (EUIPO) and a large university bring many international professionals and students.</p><p>The sea is part of daily life. Postiguet beach is a few steps from the old town, the palm-lined Explanada de España links the centre with the marina, and the long Playa de San Juan is reached by tram. The TRAM also runs north along the coast to El Campello, Benidorm and Dénia, and the airport is about 20 minutes from the centre.</p>"
+   },
+   {
+    "id": "prices",
+    "h2": "Property prices in 2026",
+    "alt": "Modern white apartment building with balconies and a lawn",
+    "html": "<p>Two reference figures for Alicante city:</p><ul><li><strong>Asking prices (idealista, September 2026):</strong> about €2,770 per m², up 7.8% in a year.</li><li><strong>Valuations of completed homes (Tinsa, Q3 2026):</strong> about €2,120 per m², up 14.7% in a year.</li></ul><p>Asking prices are what sellers advertise; valuations reflect what banks appraise. Both show steady growth. New-build apartments usually start at around €300,000–350,000, while sea-view homes in Playa de San Juan or Cabo de las Huertas cost much more. Rents averaged about €13.9 per m² a month in September 2026, so a 70 m² flat lets for around €950 a month.</p><p>Alicante is dearer than the resort towns of the southern Costa Blanca, but still far cheaper than Madrid, Barcelona or Málaga. Browse our current <a href=\"{up}properties-for-sale-in-alicante.html\">properties for sale in Alicante</a>.</p>"
+   },
+   {
+    "id": "buyers",
+    "h2": "Who buys in Alicante?",
+    "alt": "Smiling couple shaking hands with an estate agent in an empty flat",
+    "html": "<p>Unlike most coastal towns, a large share of buyers are Spanish and buy to live here. Alongside them:</p><ul><li>professionals and remote workers who want a city with an airport and good schools,</li><li>families planning to move permanently,</li><li>foreigners who already live on the coast and want city life,</li><li>investors focused on long-term rentals for students and workers.</li></ul><p>This mix keeps the market liquid and less sensitive to the holiday season. To compare with a resort market, see our article on <a href=\"{up}torrevieja-lifestyle-property-prices-and-who-buys-here.html\">Torrevieja</a>.</p>"
+   },
+   {
+    "id": "areas",
+    "h2": "Districts at a glance",
+    "alt": "Aerial view of a modern residential district in Alicante with the sea behind",
+    "html": "<ul><li><strong>Centro and Ensanche Diputación:</strong> central, walkable, close to shops, the market and transport.</li><li><strong>Benalúa:</strong> traditional and popular with locals and tenants.</li><li><strong>Vistahermosa:</strong> higher-standard residential developments and private schools.</li><li><strong>Cabo de las Huertas:</strong> prestigious coastal area with villas and coves.</li><li><strong>Playa de San Juan:</strong> long beach, modern apartments with pools, very popular with families.</li></ul>"
+   },
+   {
+    "id": "services",
+    "h2": "Schools, health care and parks",
+    "alt": "",
+    "html": "<p>Alicante has international schools including the European School of Alicante, King's College Alicante, the British School of Alicante and the French Lycée, plus public and concertado schools. Public health care is centred on the Hospital General Universitario Dr. Balmis and Sant Joan Hospital, with several private hospitals. Green spaces include the Palmeral park, the slopes of Mount Benacantil below the castle and the new Parque Central planned on the old railway land.</p>"
+   },
+   {
+    "id": "future",
+    "h2": "Where the city is heading",
+    "alt": "",
+    "html": "<p>Alicante is following a long-term plan: the Parque Central, upgrades to the port and the seafront, and better public transport. Rather than sudden price jumps, the city offers steady growth and low risk. For long-term buyers and those who want to live here all year, that is often the most important point.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "How much does a flat cost in Alicante in 2026?",
+    "Asking prices averaged about €2,770 per m² in September 2026. A new-build apartment typically starts at around €300,000–350,000."
+   ],
+   [
+    "What are the best areas to live in Alicante?",
+    "Playa de San Juan and Cabo de las Huertas for the beach, Centro and Ensanche Diputación for city life, and Vistahermosa for families."
+   ],
+   [
+    "Is Alicante a good place to invest in property?",
+    "For long-term rentals, yes. Demand comes from students, workers and families all year, and prices have risen steadily without the swings of resort towns."
+   ],
+   [
+    "How far is Alicante airport from the city?",
+    "About 12 km, roughly 20 minutes by car or bus."
+   ]
+  ],
+  "closing": {
+   "h2": "A city that works all year",
+   "alt": "Happy family playing together in the kitchen of their new home",
+   "html": "<p>Alicante is not a resort, and that is its strength: real city life, the sea on your doorstep and a stable property market. If you would like to compare districts or see what is available, <a href=\"{up}index.html#contact\">contact us</a> for honest advice that fits your plans.</p>"
+  },
+  "slug": "alicante-lifestyle-prices-who-buys-here"
+ },
+ "de": {
+  "title": "Immobilienmarkt Alicante 2026 – Preise, Stadtteile und Käufer",
+  "description": "Leben und kaufen in Alicante 2026: Preis pro m² nach Stadtteil, Mieten, wer kauft, Schulen und Krankenhäuser und wie Alicante im Vergleich zu den Ferienorten der Costa Blanca abschneidet.",
+  "crumb": "Immobilienmarkt Alicante",
+  "eyebrow": "Orte · Costa Blanca",
+  "h1": "Alicante – Lebensstil, Immobilienpreise und Käufer",
+  "hero_alt": "Luftaufnahme der Küste von Alicante mit dem Strand Postiguet und der Stadt",
+  "short": "Alicante ist eine echte Stadt mit rund 360.000 Einwohnern, Stränden, Hafen, Universitäten, Krankenhäusern und einem internationalen Flughafen 20 Minuten entfernt. Im September 2026 lagen die Angebotspreise laut idealista bei etwa 2.770 € pro m², 7,8 % mehr als im Vorjahr, die Mieten bei etwa 13,9 € pro m² und Monat. Die Nachfrage kommt von spanischen Familien wie von ausländischen Käufern, daher ist der Markt weniger saisonal als in Ferienorten. Am gefragtesten sind Playa de San Juan und Cabo de las Huertas.",
+  "intro": [
+   "Alicante ist Provinzhauptstadt und ganz anders als ein typischer Ferienort: Leben das ganze Jahr, ein Arbeitsmarkt, Universitäten, ein belebter Hafen und sehr gute Krankenhäuser, dazu Strände mitten in der Stadt. Für Käufer bedeutet das einen stabilen Markt und Immobilien, die sich gut vermieten und wiederverkaufen lassen. Das erwartet Sie 2026."
+  ],
+  "sections": [
+   {
+    "id": "life",
+    "h2": "Stadtleben am Meer",
+    "alt": "Burg Santa Bárbara auf dem Berg Benacantil über den Dächern von Alicante",
+    "html": "<p>Alicante hat rund 360.000 Einwohner und das Gefühl einer echten spanischen Stadt. Büros, Geschäfte, Märkte und Kultur laufen das ganze Jahr. Das EU-Amt für geistiges Eigentum (EUIPO) und eine große Universität bringen viele internationale Fachkräfte und Studierende in die Stadt.</p><p>Das Meer gehört zum Alltag. Der Strand Postiguet liegt wenige Schritte von der Altstadt, die Palmenpromenade Explanada de España verbindet das Zentrum mit dem Jachthafen, und zum langen Strand Playa de San Juan fährt die Straßenbahn. Der TRAM fährt auch an der Küste nach Norden bis El Campello, Benidorm und Dénia, und der Flughafen liegt etwa 20 Minuten vom Zentrum.</p>"
+   },
+   {
+    "id": "prices",
+    "h2": "Immobilienpreise 2026",
+    "alt": "Modernes weißes Wohnhaus mit Balkonen und Rasen",
+    "html": "<p>Zwei Richtwerte für die Stadt Alicante:</p><ul><li><strong>Angebotspreise (idealista, September 2026):</strong> etwa 2.770 € pro m², 7,8 % mehr als vor einem Jahr.</li><li><strong>Bewertungen fertiger Wohnungen (Tinsa, 3. Quartal 2026):</strong> etwa 2.120 € pro m², 14,7 % mehr als vor einem Jahr.</li></ul><p>Angebotspreise sind das, was Verkäufer verlangen, Bewertungen das, was Banken ansetzen. Beide zeigen stetiges Wachstum. Neubauwohnungen beginnen meist bei 300.000–350.000 €, Wohnungen mit Meerblick in Playa de San Juan oder Cabo de las Huertas kosten deutlich mehr. Die Mieten lagen im September 2026 bei etwa 13,9 € pro m², eine 70-m²-Wohnung bringt also rund 950 € im Monat.</p><p>Alicante ist teurer als die Ferienorte im Süden der Costa Blanca, aber weit günstiger als Madrid, Barcelona oder Málaga.</p>"
+   },
+   {
+    "id": "buyers",
+    "h2": "Wer kauft in Alicante?",
+    "alt": "Lächelndes Paar schüttelt in einer leeren Wohnung einem Makler die Hand",
+    "html": "<p>Anders als in den meisten Küstenorten sind viele Käufer Spanier, die hier wohnen wollen. Dazu kommen:</p><ul><li>Fachkräfte und Remote-Arbeiter, die eine Stadt mit Flughafen und guten Schulen suchen,</li><li>Familien, die dauerhaft umziehen,</li><li>Ausländer, die schon an der Küste leben und Stadtleben möchten,</li><li>Anleger mit Fokus auf Langzeitvermietung an Studierende und Berufstätige.</li></ul><p>Diese Mischung hält den Markt liquide und weniger abhängig von der Saison. Zum Vergleich mit einem Ferienmarkt lesen Sie unseren Artikel über <a href=\"{up}de-de/torrevieja-lebensstil-immobilienpreise-und-wer-hier-kauft.html\">Torrevieja</a>.</p>"
+   },
+   {
+    "id": "areas",
+    "h2": "Stadtteile im Überblick",
+    "alt": "Luftaufnahme eines modernen Wohnviertels in Alicante mit dem Meer dahinter",
+    "html": "<ul><li><strong>Centro und Ensanche Diputación:</strong> zentral, fußläufig, nah an Geschäften, Markthalle und Verkehr.</li><li><strong>Benalúa:</strong> traditionell und beliebt bei Einheimischen und Mietern.</li><li><strong>Vistahermosa:</strong> gehobene Wohnanlagen und Privatschulen.</li><li><strong>Cabo de las Huertas:</strong> begehrte Küstenlage mit Villen und Buchten.</li><li><strong>Playa de San Juan:</strong> langer Strand, moderne Wohnanlagen mit Pool, sehr beliebt bei Familien.</li></ul>"
+   },
+   {
+    "id": "services",
+    "h2": "Schulen, Gesundheit und Parks",
+    "alt": "",
+    "html": "<p>Alicante hat internationale Schulen wie die Europäische Schule Alicante, King's College Alicante, die British School of Alicante und das französische Lycée, dazu staatliche und Concertado-Schulen. Die staatliche Versorgung konzentriert sich auf das Hospital General Universitario Dr. Balmis und das Krankenhaus Sant Joan, außerdem gibt es mehrere Privatkliniken. Grünflächen sind der Palmeral-Park, die Hänge des Benacantil unter der Burg und der geplante Parque Central auf dem alten Bahngelände.</p>"
+   },
+   {
+    "id": "future",
+    "h2": "Wohin sich die Stadt entwickelt",
+    "alt": "",
+    "html": "<p>Alicante folgt einem langfristigen Plan: Parque Central, Modernisierung von Hafen und Uferzone und besserer Nahverkehr. Statt plötzlicher Preissprünge bietet die Stadt stetiges Wachstum und geringes Risiko. Für langfristige Käufer und alle, die hier das ganze Jahr leben wollen, ist das oft das Wichtigste.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Was kostet eine Wohnung in Alicante 2026?",
+    "Die Angebotspreise lagen im September 2026 bei etwa 2.770 € pro m². Eine Neubauwohnung beginnt meist bei 300.000–350.000 €."
+   ],
+   [
+    "Welche Stadtteile in Alicante sind am schönsten zum Wohnen?",
+    "Playa de San Juan und Cabo de las Huertas für den Strand, Centro und Ensanche Diputación für das Stadtleben, Vistahermosa für Familien."
+   ],
+   [
+    "Lohnt sich eine Immobilie in Alicante als Geldanlage?",
+    "Für Langzeitvermietung ja. Die Nachfrage von Studierenden, Berufstätigen und Familien besteht das ganze Jahr, und die Preise sind stetig gestiegen, ohne die Schwankungen der Ferienorte."
+   ],
+   [
+    "Wie weit ist der Flughafen von Alicante entfernt?",
+    "Etwa 12 km, rund 20 Minuten mit Auto oder Bus."
+   ]
+  ],
+  "closing": {
+   "h2": "Eine Stadt, die das ganze Jahr funktioniert",
+   "alt": "Glückliche Familie spielt in der Küche ihres neuen Zuhauses",
+   "html": "<p>Alicante ist kein Ferienort, und genau das ist seine Stärke: echtes Stadtleben, das Meer vor der Tür und ein stabiler Immobilienmarkt. Wenn Sie Stadtteile vergleichen oder Angebote sehen möchten, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir beraten Sie ehrlich und passend zu Ihren Plänen.</p>"
+  },
+  "slug": "lifestyle-preise-in-alicante-wer-kauft-hier"
+ },
+ "es": {
+  "title": "Mercado inmobiliario de Alicante 2026 – Precios, barrios y quién compra",
+  "description": "Vivir y comprar en Alicante ciudad en 2026: precio por m² y por barrio, alquileres, quién compra, colegios y hospitales, y cómo se compara con los municipios turísticos de la Costa Blanca.",
+  "crumb": "Mercado inmobiliario de Alicante",
+  "eyebrow": "Lugares · Costa Blanca",
+  "h1": "Alicante – Estilo de vida, precios de la vivienda y quién compra",
+  "hero_alt": "Vista aérea de la costa de Alicante con la playa del Postiguet y la ciudad",
+  "short": "Alicante es una ciudad de verdad, con unos 360.000 habitantes, playas, puerto, universidades, hospitales y aeropuerto internacional a 20 minutos. En septiembre de 2026 el precio medio de oferta era de unos 2.770 € por m² (idealista), un 7,8 % más en un año, y el alquiler de unos 13,9 € por m² al mes. La demanda es local y extranjera, así que el mercado es menos estacional que en los municipios turísticos. Playa de San Juan y Cabo de las Huertas son las zonas más buscadas.",
+  "intro": [
+   "Alicante es capital de provincia y muy distinta de un destino de vacaciones: vida todo el año, mercado laboral, universidades, un puerto activo y grandes hospitales, con playas en plena ciudad. Para quien compra, eso supone un mercado estable y viviendas fáciles de alquilar y revender. Esto es lo que puede esperar en 2026."
+  ],
+  "sections": [
+   {
+    "id": "life",
+    "h2": "Vida de ciudad junto al mar",
+    "alt": "Castillo de Santa Bárbara en el monte Benacantil sobre los tejados de Alicante",
+    "html": "<p>Alicante tiene unos 360.000 habitantes y ambiente de ciudad española de verdad. Oficinas, comercios, mercados y vida cultural funcionan todo el año. La Oficina de Propiedad Intelectual de la UE (EUIPO) y la universidad atraen a muchos profesionales y estudiantes internacionales.</p><p>El mar forma parte del día a día. El Postiguet está a unos pasos del casco antiguo, la Explanada une el centro con el puerto deportivo y a la Playa de San Juan se llega en tranvía. El TRAM sigue por la costa hasta El Campello, Benidorm y Dénia, y el aeropuerto está a unos 20 minutos del centro.</p>"
+   },
+   {
+    "id": "prices",
+    "h2": "Precios de la vivienda en 2026",
+    "alt": "Edificio moderno de viviendas blanco con balcones y jardín",
+    "html": "<p>Dos referencias para Alicante ciudad:</p><ul><li><strong>Precio de oferta (idealista, septiembre de 2026):</strong> unos 2.770 € por m², un 7,8 % más en un año.</li><li><strong>Valor de tasación de vivienda terminada (Tinsa, 3.er trimestre de 2026):</strong> unos 2.120 € por m², un 14,7 % más en un año.</li></ul><p>El precio de oferta es lo que piden los vendedores y la tasación lo que valoran los bancos; ambos muestran una subida constante. La obra nueva suele empezar en 300.000–350.000 €, y las viviendas con vistas en Playa de San Juan o el Cabo cuestan bastante más. El alquiler rondaba los 13,9 € por m² al mes en septiembre de 2026, unos 950 € al mes por un piso de 70 m².</p><p>Alicante es más cara que los municipios turísticos del sur de la Costa Blanca, pero mucho más barata que Madrid, Barcelona o Málaga.</p>"
+   },
+   {
+    "id": "buyers",
+    "h2": "¿Quién compra en Alicante?",
+    "alt": "Pareja sonriente estrechando la mano a una agente en un piso vacío",
+    "html": "<p>A diferencia de casi toda la costa, gran parte de los compradores son españoles que compran para vivir. Junto a ellos:</p><ul><li>profesionales y teletrabajadores que quieren ciudad con aeropuerto y buenos colegios,</li><li>familias que se instalan de forma permanente,</li><li>extranjeros que ya viven en la costa y buscan vida urbana,</li><li>inversores en alquiler de larga duración para estudiantes y trabajadores.</li></ul><p>Esta mezcla hace el mercado líquido y poco dependiente de la temporada. Para comparar con un mercado turístico, lea nuestro artículo sobre <a href=\"{up}es-es/torrevieja-estilo-de-vida-precios-inmobiliarios-y-quien-compra-aqui.html\">Torrevieja</a>.</p>"
+   },
+   {
+    "id": "areas",
+    "h2": "Los barrios de un vistazo",
+    "alt": "Vista aérea de un barrio residencial moderno de Alicante con el mar al fondo",
+    "html": "<ul><li><strong>Centro y Ensanche Diputación:</strong> céntricos, para ir a pie, cerca de comercios, Mercado Central y transporte.</li><li><strong>Benalúa:</strong> tradicional y muy demandado por locales e inquilinos.</li><li><strong>Vistahermosa:</strong> urbanizaciones de calidad y colegios privados.</li><li><strong>Cabo de las Huertas:</strong> zona costera de prestigio con chalés y calas.</li><li><strong>Playa de San Juan:</strong> gran playa y residenciales modernos con piscina, muy buscada por familias.</li></ul>"
+   },
+   {
+    "id": "services",
+    "h2": "Colegios, sanidad y parques",
+    "alt": "",
+    "html": "<p>Alicante cuenta con colegios internacionales como la Escuela Europea de Alicante, King's College Alicante, el British School of Alicante y el Liceo Francés, además de centros públicos y concertados. La sanidad pública se apoya en el Hospital General Universitario Dr. Balmis y el Hospital de Sant Joan, con varios hospitales privados. Entre las zonas verdes, el Palmeral, las laderas del Benacantil y el futuro Parque Central en los antiguos terrenos ferroviarios.</p>"
+   },
+   {
+    "id": "future",
+    "h2": "Hacia dónde va la ciudad",
+    "alt": "",
+    "html": "<p>Alicante sigue un plan a largo plazo: Parque Central, mejoras en el puerto y el frente litoral y mejor transporte público. Más que subidas bruscas, ofrece crecimiento estable y poco riesgo, que es lo que más importa a quien compra para muchos años o para vivir aquí todo el año.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuánto cuesta un piso en Alicante en 2026?",
+    "El precio medio de oferta era de unos 2.770 € por m² en septiembre de 2026. La obra nueva suele empezar en 300.000–350.000 €."
+   ],
+   [
+    "¿Cuáles son los mejores barrios para vivir en Alicante?",
+    "Playa de San Juan y Cabo de las Huertas para la playa, Centro y Ensanche Diputación para la vida urbana y Vistahermosa para familias."
+   ],
+   [
+    "¿Es buena inversión comprar en Alicante?",
+    "Para alquiler de larga duración, sí. La demanda de estudiantes, trabajadores y familias es constante y los precios suben de forma estable, sin los vaivenes de los destinos turísticos."
+   ],
+   [
+    "¿A qué distancia está el aeropuerto?",
+    "A unos 12 km, unos 20 minutos en coche o autobús."
+   ]
+  ],
+  "closing": {
+   "h2": "Una ciudad que funciona todo el año",
+   "alt": "Familia feliz jugando en la cocina de su nueva casa",
+   "html": "<p>Alicante no es un destino de temporada, y esa es su fuerza: vida urbana, el mar a la puerta y un mercado estable. Si quiere comparar barrios o ver qué hay disponible, <a href=\"{up}index.html#contact\">contacte con nosotros</a> y le aconsejaremos con sinceridad según sus planes.</p>"
+  },
+  "slug": "alicante-estilo-de-vida-precios-inmobiliarios-y-quien-compra-aqui"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/alicante-styl-zycia-ceny-nieruchomosci-i-kto-tu-kupuje"
+}
