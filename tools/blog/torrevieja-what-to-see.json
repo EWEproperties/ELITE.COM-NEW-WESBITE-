@@ -1,0 +1,275 @@
+{
+ "author": "lucyna",
+ "published": "2025-03-05",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/torrevieja-what-to-see/pink-salt-lake-of-torrevieja-from-above.jpg",
+ "images": {
+  "basics": "assets/blog/torrevieja-what-to-see/torrevieja-and-its-salt-lakes-at-sunrise.jpg",
+  "centre": "assets/blog/torrevieja-what-to-see/church-of-the-immaculate-conception-torrevieja.jpg",
+  "seafront": "assets/blog/torrevieja-what-to-see/rocky-seafront-promenade-in-torrevieja.jpg",
+  "beaches": "assets/blog/torrevieja-what-to-see/playa-del-cura-beach-in-torrevieja.jpg"
+ },
+ "cards": [
+  "26239846",
+  "26157630",
+  "23844656"
+ ],
+ "sources": [
+  [
+   "Torrevieja Tourist Office",
+   "https://turismodetorrevieja.com/"
+  ],
+  [
+   "Generalitat Valenciana – Parque Natural de las Lagunas de La Mata y Torrevieja",
+   "https://parquesnaturales.gva.es/es/web/pn-lagunes-de-la-mata-i-torrevieja"
+  ],
+  [
+   "AEMET – Spanish weather agency",
+   "https://www.aemet.es/"
+  ]
+ ],
+ "en": {
+  "title": "What to See in Torrevieja – Pink Lake, Beaches, Museums and Practical Tips",
+  "description": "A practical guide to Torrevieja on the Costa Blanca: the pink salt lake and La Mata natural park, the seafront, museums and the S-61 submarine, the best beaches, the climate, getting there from Alicante airport and where people live.",
+  "crumb": "What to see in Torrevieja",
+  "eyebrow": "Places · Costa Blanca",
+  "h1": "Torrevieja: What to See and the Best Attractions",
+  "hero_alt": "Aerial view of the pink salt lake of Torrevieja",
+  "short": "Torrevieja is a coastal city of about 90,000 people in the south of the Costa Blanca, around 45 km from Alicante airport. Its best-known sight is the pink salt lake, part of the La Mata and Torrevieja lagoons natural park, where flamingos feed. Also worth seeing are the seafront promenades, the Museum of the Sea and Salt, the S-61 Delfín submarine in the port, the Habaneras festival in summer, and around 20 km of coast with beaches such as El Cura, Los Locos, Los Náufragos and La Mata.",
+  "intro": [
+   "Torrevieja grew from a small fishing and salt village into one of the largest towns on the coast. It is lively all year, with a big international community, good shops and services, and some of the most affordable homes by the sea on the Costa Blanca.",
+   "Here is what to see, the best beaches and some practical tips for getting there and getting around."
+  ],
+  "sections": [
+   {
+    "id": "basics",
+    "h2": "Location, climate and a little history",
+    "alt": "Torrevieja and its two salt lakes seen from the air at sunrise",
+    "html": "<p>The city lies between the sea and two large salt lagoons, La Mata and Torrevieja. It is one of the driest and sunniest places in Spain: winter days are usually around 17 °C and summer highs about 30–31 °C. The name means \"old tower\", after a watchtower that once stood on the coast. In 1829 a strong earthquake destroyed most of the town, which was then rebuilt on a grid of straight streets. Salt has been produced here for centuries, and the salt works are still among the largest in Europe.</p>"
+   },
+   {
+    "id": "lake",
+    "h2": "The pink lake and La Mata natural park",
+    "alt": "",
+    "html": "<p>The Torrevieja lagoon turns pink because of salt-loving microalgae and tiny shrimp, and the colour is strongest on sunny, still days. Bathing is not allowed in the main lake, but there are viewpoints and paths around it. The quieter <strong>La Mata</strong> lagoon has a visitor centre, walking and cycling routes and bird hides, where you can see flamingos, avocets and other waterbirds for much of the year.</p>"
+   },
+   {
+    "id": "centre",
+    "h2": "The town centre and museums",
+    "alt": "Church of the Immaculate Conception in Torrevieja with palm trees",
+    "html": "<ul><li><strong>Iglesia de la Inmaculada Concepción</strong> – the main church, rebuilt after the earthquake, on the central square.</li><li><strong>Museum of the Sea and Salt</strong> – the history of the salt works, fishing and the town.</li><li><strong>S-61 Delfín submarine</strong> – a decommissioned Spanish Navy submarine you can go inside, moored in the port next to a historic patrol boat.</li><li><strong>Habaneras festival</strong> – every summer, choirs from around the world compete with sea songs brought back from Cuba.</li></ul>"
+   },
+   {
+    "id": "seafront",
+    "h2": "The seafront",
+    "alt": "Rocky seafront and promenade in Torrevieja",
+    "html": "<p>Torrevieja is a city for walking along the sea. The Juan Aparicio promenade runs past rocky coves and natural sea pools, the statue of La Bella Lola waits for the sailors to return, and the long Levante breakwater is a favourite place for an evening walk. The port has a marina, restaurants and a weekly market nearby.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "The best beaches",
+    "alt": "Playa del Cura with palm trees and apartment buildings",
+    "html": "<ul><li><strong>Playa del Cura</strong> – the central beach, golden sand and a lively promenade.</li><li><strong>Playa de Los Locos</strong> – a sheltered family beach with a promenade above.</li><li><strong>Playa de Los Náufragos</strong> – near the port, with beach volleyball.</li><li><strong>Playa de La Mata</strong> – over 2 km of sand next to the natural park, quieter and more natural.</li><li><strong>Cala Ferris and Punta Prima</strong> – towards Orihuela Costa, smaller and calmer.</li></ul>"
+   },
+   {
+    "id": "transport",
+    "h2": "Getting there and around",
+    "alt": "",
+    "html": "<p>Alicante airport is about 45 km north, around 40 minutes by car on the CV-91/AP-7 or N-332. There are direct buses from the airport and from Alicante (about 1 hour to 1 hour 30). Murcia's Región de Murcia airport is about 55 minutes south. In town, local buses link the centre with the outlying neighbourhoods, but most residents also use a car.</p>"
+   },
+   {
+    "id": "live",
+    "h2": "Where to live",
+    "alt": "",
+    "html": "<p>Most buyers choose between apartments in the centre near Playa del Cura and Los Locos, quieter residential areas such as La Mata and Aguas Nuevas, or villas and townhouses on the edge of town and in nearby Ciudad Quesada. Compare prices in our <a href=\"{up}torrevieja-lifestyle-property-prices-and-who-buys-here.html\">Torrevieja property market guide</a> and see our <a href=\"{up}properties-for-sale-in-torrevieja.html\">homes for sale in Torrevieja</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Why is the lake in Torrevieja pink?",
+    "Because of microalgae and tiny brine shrimp that live in very salty water. The colour is strongest on sunny, calm days."
+   ],
+   [
+    "Can you swim in the pink lake in Torrevieja?",
+    "Bathing in the main lagoon is not allowed, as it is a protected natural park and a working salt lake. You can walk around it and use the viewpoints."
+   ],
+   [
+    "How far is Torrevieja from Alicante airport?",
+    "About 45 km, around 40 minutes by car. Direct buses take about 1 hour to 1 hour 30 minutes."
+   ],
+   [
+    "What is the best beach in Torrevieja?",
+    "Playa del Cura is the most central and popular. La Mata is the longest and quietest."
+   ]
+  ],
+  "closing": {
+   "h2": "Living by the salt lakes",
+   "alt": "",
+   "html": "<p>Sunshine, sea, salt lakes and affordable prices make Torrevieja one of the most popular places to buy on the coast. <a href=\"{up}index.html#contact\">Get in touch</a> and we will help you find the right street and the right home.</p>"
+  },
+  "slug": "torrevieja--what-to-see-and-the-best-attractions"
+ },
+ "de": {
+  "title": "Torrevieja – Rosa See, Strände, Museen und praktische Tipps",
+  "description": "Praktischer Ratgeber für Torrevieja an der Costa Blanca: der rosa Salzsee und der Naturpark La Mata, die Promenade, Museen und das U-Boot S-61, die besten Strände, Klima, Anreise vom Flughafen Alicante und Wohnlagen.",
+  "crumb": "Torrevieja Sehenswürdigkeiten",
+  "eyebrow": "Orte · Costa Blanca",
+  "h1": "Torrevieja: Sehenswürdigkeiten und praktische Informationen",
+  "hero_alt": "Luftaufnahme des rosa Salzsees von Torrevieja",
+  "short": "Torrevieja ist eine Küstenstadt mit rund 90.000 Einwohnern im Süden der Costa Blanca, etwa 45 km vom Flughafen Alicante. Bekanntestes Motiv ist der rosa Salzsee im Naturpark der Lagunen von La Mata und Torrevieja, wo Flamingos fressen. Sehenswert sind außerdem die Promenaden, das Museum des Meeres und des Salzes, das U-Boot S-61 Delfín im Hafen, das Habaneras-Festival im Sommer und rund 20 km Küste mit Stränden wie El Cura, Los Locos, Los Náufragos und La Mata.",
+  "intro": [
+   "Torrevieja wuchs von einem kleinen Fischer- und Salzdorf zu einer der größten Städte der Küste. Sie ist das ganze Jahr belebt, mit großer internationaler Gemeinschaft, guten Geschäften und Dienstleistungen und einigen der günstigsten Immobilien am Meer an der Costa Blanca.",
+   "Hier erfahren Sie, was sehenswert ist, welche Strände die besten sind und wie Sie hinkommen."
+  ],
+  "sections": [
+   {
+    "id": "basics",
+    "h2": "Lage, Klima und etwas Geschichte",
+    "alt": "Torrevieja und seine beiden Salzseen aus der Luft bei Sonnenaufgang",
+    "html": "<p>Die Stadt liegt zwischen dem Meer und zwei großen Salzlagunen, La Mata und Torrevieja. Sie gehört zu den trockensten und sonnigsten Orten Spaniens: Wintertage haben meist um 17 °C, im Sommer 30–31 °C. Der Name bedeutet „alter Turm“, nach einem Wachturm an der Küste. 1829 zerstörte ein starkes Erdbeben den Großteil des Ortes, der danach im Schachbrettmuster wieder aufgebaut wurde. Salz wird hier seit Jahrhunderten gewonnen, die Salinen gehören noch heute zu den größten Europas.</p>"
+   },
+   {
+    "id": "lake",
+    "h2": "Der rosa See und der Naturpark La Mata",
+    "alt": "",
+    "html": "<p>Die Lagune von Torrevieja färbt sich durch salzliebende Mikroalgen und winzige Salinenkrebse rosa, am stärksten an sonnigen, windstillen Tagen. Baden ist im Hauptsee nicht erlaubt, es gibt aber Aussichtspunkte und Wege. Die ruhigere Lagune <strong>La Mata</strong> hat ein Besucherzentrum, Wander- und Radwege und Beobachtungsstände, von denen man einen Großteil des Jahres Flamingos, Säbelschnäbler und andere Wasservögel sieht.</p>"
+   },
+   {
+    "id": "centre",
+    "h2": "Zentrum und Museen",
+    "alt": "Kirche der Unbefleckten Empfängnis in Torrevieja mit Palmen",
+    "html": "<ul><li><strong>Iglesia de la Inmaculada Concepción</strong> – die Hauptkirche am zentralen Platz, nach dem Erdbeben neu erbaut.</li><li><strong>Museum des Meeres und des Salzes</strong> – Geschichte der Salinen, der Fischerei und der Stadt.</li><li><strong>U-Boot S-61 Delfín</strong> – ein ausgemustertes U-Boot der spanischen Marine zum Besichtigen, im Hafen neben einem historischen Patrouillenboot.</li><li><strong>Habaneras-Festival</strong> – jeden Sommer treten Chöre aus aller Welt mit aus Kuba mitgebrachten Seemannsliedern an.</li></ul>"
+   },
+   {
+    "id": "seafront",
+    "h2": "Die Uferpromenade",
+    "alt": "Felsige Küste und Promenade in Torrevieja",
+    "html": "<p>Torrevieja ist eine Stadt zum Spazieren am Meer. Die Promenade Juan Aparicio führt an Felsbuchten und natürlichen Meeresbecken vorbei, die Statue La Bella Lola wartet auf die Rückkehr der Seeleute, und die lange Mole Levante ist ein beliebter Abendspaziergang. Am Hafen gibt es eine Marina, Restaurants und in der Nähe einen Wochenmarkt.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Die besten Strände",
+    "alt": "Strand Playa del Cura mit Palmen und Apartmenthäusern",
+    "html": "<ul><li><strong>Playa del Cura</strong> – der zentrale Strand mit goldenem Sand und belebter Promenade.</li><li><strong>Playa de Los Locos</strong> – geschützter Familienstrand mit Promenade darüber.</li><li><strong>Playa de Los Náufragos</strong> – nahe dem Hafen, mit Beachvolleyball.</li><li><strong>Playa de La Mata</strong> – über 2 km Sand neben dem Naturpark, ruhiger und natürlicher.</li><li><strong>Cala Ferris und Punta Prima</strong> – Richtung Orihuela Costa, kleiner und ruhiger.</li></ul>"
+   },
+   {
+    "id": "transport",
+    "h2": "Anreise und Fortbewegung",
+    "alt": "",
+    "html": "<p>Der Flughafen Alicante liegt rund 45 km nördlich, etwa 40 Minuten mit dem Auto über CV-91/AP-7 oder N-332. Direkte Busse fahren vom Flughafen und aus Alicante (etwa 1 bis 1,5 Stunden). Der Flughafen Región de Murcia ist rund 55 Minuten südlich. In der Stadt verbinden Busse das Zentrum mit den Außenvierteln, die meisten Bewohner nutzen aber auch ein Auto.</p>"
+   },
+   {
+    "id": "live",
+    "h2": "Wo man wohnt",
+    "alt": "",
+    "html": "<p>Die meisten Käufer wählen zwischen Apartments im Zentrum nahe Playa del Cura und Los Locos, ruhigeren Wohngegenden wie La Mata und Aguas Nuevas oder Villen und Reihenhäusern am Stadtrand und im nahen Ciudad Quesada. Preise vergleichen Sie in unserem <a href=\"{up}de-de/torrevieja-lebensstil-immobilienpreise-und-wer-hier-kauft.html\">Ratgeber zum Immobilienmarkt in Torrevieja</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Warum ist der See in Torrevieja rosa?",
+    "Wegen Mikroalgen und winziger Salinenkrebse, die im sehr salzigen Wasser leben. Am stärksten ist die Farbe an sonnigen, ruhigen Tagen."
+   ],
+   [
+    "Darf man im rosa See von Torrevieja baden?",
+    "Im Hauptsee ist Baden nicht erlaubt, da er Naturpark und aktive Saline ist. Man kann ihn aber umrunden und die Aussichtspunkte nutzen."
+   ],
+   [
+    "Wie weit ist Torrevieja vom Flughafen Alicante entfernt?",
+    "Etwa 45 km, rund 40 Minuten mit dem Auto. Direkte Busse brauchen etwa 1 bis 1,5 Stunden."
+   ],
+   [
+    "Welcher ist der beste Strand in Torrevieja?",
+    "Die Playa del Cura ist der zentralste und beliebteste, La Mata der längste und ruhigste."
+   ]
+  ],
+  "closing": {
+   "h2": "Leben an den Salzseen",
+   "alt": "",
+   "html": "<p>Sonne, Meer, Salzseen und günstige Preise machen Torrevieja zu einem der beliebtesten Orte für einen Kauf an der Küste. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>, und wir helfen Ihnen, die richtige Straße und das passende Zuhause zu finden.</p>"
+  },
+  "slug": "torrevieja--grundlegende-informationen-lage-temperatur-und-anreise"
+ },
+ "es": {
+  "title": "Torrevieja – Laguna rosa, playas, museos y consejos prácticos",
+  "description": "Guía práctica de Torrevieja en la Costa Blanca: la laguna rosa y el parque natural de La Mata, el paseo marítimo, los museos y el submarino S-61, las mejores playas, el clima, cómo llegar desde el aeropuerto de Alicante y dónde vivir.",
+  "crumb": "Qué ver en Torrevieja",
+  "eyebrow": "Lugares · Costa Blanca",
+  "h1": "Torrevieja: qué ver e información práctica",
+  "hero_alt": "Vista aérea de la laguna rosa de Torrevieja",
+  "short": "Torrevieja es una ciudad costera de unos 90.000 habitantes en el sur de la Costa Blanca, a unos 45 km del aeropuerto de Alicante. Su imagen más conocida es la laguna rosa, dentro del parque natural de las Lagunas de La Mata y Torrevieja, donde se alimentan los flamencos. También merecen la pena los paseos marítimos, el Museo del Mar y de la Sal, el submarino S-61 Delfín, el Certamen de Habaneras en verano y unos 20 km de costa con playas como El Cura, Los Locos, Los Náufragos y La Mata.",
+  "intro": [
+   "Torrevieja pasó de pequeño pueblo de pescadores y salineros a una de las mayores ciudades de la costa. Tiene vida todo el año, una gran comunidad internacional, buenos comercios y servicios, y algunas de las viviendas junto al mar más asequibles de la Costa Blanca.",
+   "Esto es lo que hay que ver, las mejores playas y algunos consejos para llegar y moverse."
+  ],
+  "sections": [
+   {
+    "id": "basics",
+    "h2": "Ubicación, clima y un poco de historia",
+    "alt": "Torrevieja y sus dos lagunas saladas desde el aire al amanecer",
+    "html": "<p>La ciudad se sitúa entre el mar y dos grandes lagunas saladas, La Mata y Torrevieja. Es uno de los lugares más secos y soleados de España: en invierno las máximas rondan los 17 °C y en verano los 30–31 °C. El nombre viene de una antigua torre vigía de la costa. En 1829 un fuerte terremoto destruyó buena parte del pueblo, que se reconstruyó con calles rectas en cuadrícula. La sal se produce aquí desde hace siglos, y sus salinas siguen entre las mayores de Europa.</p>"
+   },
+   {
+    "id": "lake",
+    "h2": "La laguna rosa y el parque natural de La Mata",
+    "alt": "",
+    "html": "<p>La laguna de Torrevieja se vuelve rosa por unas microalgas y pequeños crustáceos que viven en el agua muy salada, y el color es más intenso en días soleados y sin viento. No está permitido bañarse en la laguna principal, pero hay miradores y caminos alrededor. La laguna de <strong>La Mata</strong>, más tranquila, tiene centro de visitantes, rutas a pie y en bici y observatorios desde los que se ven flamencos, avocetas y otras aves gran parte del año.</p>"
+   },
+   {
+    "id": "centre",
+    "h2": "El centro y los museos",
+    "alt": "Iglesia de la Inmaculada Concepción de Torrevieja con palmeras",
+    "html": "<ul><li><strong>Iglesia de la Inmaculada Concepción</strong> – la iglesia principal, reconstruida tras el terremoto, en la plaza central.</li><li><strong>Museo del Mar y de la Sal</strong> – historia de las salinas, la pesca y la ciudad.</li><li><strong>Submarino S-61 Delfín</strong> – un submarino retirado de la Armada que se puede visitar por dentro, en el puerto junto a una patrullera histórica.</li><li><strong>Certamen de Habaneras</strong> – cada verano, coros de todo el mundo compiten con canciones marineras llegadas de Cuba.</li></ul>"
+   },
+   {
+    "id": "seafront",
+    "h2": "El paseo marítimo",
+    "alt": "Costa rocosa y paseo marítimo de Torrevieja",
+    "html": "<p>Torrevieja es una ciudad para pasear junto al mar. El paseo Juan Aparicio recorre calas rocosas y piscinas naturales, la estatua de La Bella Lola espera el regreso de los marineros y el largo dique de Levante es el paseo favorito al atardecer. En el puerto hay puerto deportivo, restaurantes y, cerca, el mercadillo semanal.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Las mejores playas",
+    "alt": "Playa del Cura con palmeras y edificios de apartamentos",
+    "html": "<ul><li><strong>Playa del Cura</strong> – la playa central, arena dorada y un paseo animado.</li><li><strong>Playa de Los Locos</strong> – playa familiar y resguardada, con paseo en lo alto.</li><li><strong>Playa de Los Náufragos</strong> – junto al puerto, con vóley playa.</li><li><strong>Playa de La Mata</strong> – más de 2 km de arena junto al parque natural, más tranquila y natural.</li><li><strong>Cala Ferris y Punta Prima</strong> – hacia Orihuela Costa, más pequeñas y tranquilas.</li></ul>"
+   },
+   {
+    "id": "transport",
+    "h2": "Cómo llegar y moverse",
+    "alt": "",
+    "html": "<p>El aeropuerto de Alicante está a unos 45 km al norte, unos 40 minutos en coche por la CV-91/AP-7 o la N-332. Hay autobuses directos desde el aeropuerto y desde Alicante (entre 1 hora y 1 hora 30). El aeropuerto de la Región de Murcia está a unos 55 minutos al sur. En la ciudad, los autobuses urbanos unen el centro con las urbanizaciones, aunque la mayoría de los residentes también usa coche.</p>"
+   },
+   {
+    "id": "live",
+    "h2": "Dónde vivir",
+    "alt": "",
+    "html": "<p>La mayoría de compradores elige entre apartamentos en el centro, cerca del Cura y Los Locos, zonas residenciales más tranquilas como La Mata y Aguas Nuevas, o chalets y adosados en las afueras y en la cercana Ciudad Quesada. Compare precios en nuestra <a href=\"{up}es-es/torrevieja-estilo-de-vida-precios-inmobiliarios-y-quien-compra-aqui.html\">guía del mercado inmobiliario de Torrevieja</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Por qué es rosa la laguna de Torrevieja?",
+    "Por unas microalgas y pequeños crustáceos que viven en el agua muy salada. El color es más intenso en días soleados y tranquilos."
+   ],
+   [
+    "¿Se puede uno bañar en la laguna rosa de Torrevieja?",
+    "En la laguna principal no está permitido, porque es parque natural y salina en explotación. Sí se puede pasear alrededor y usar los miradores."
+   ],
+   [
+    "¿A qué distancia está Torrevieja del aeropuerto de Alicante?",
+    "A unos 45 km, unos 40 minutos en coche. Los autobuses directos tardan entre 1 hora y 1 hora 30."
+   ],
+   [
+    "¿Cuál es la mejor playa de Torrevieja?",
+    "La playa del Cura es la más céntrica y concurrida. La Mata es la más larga y tranquila."
+   ]
+  ],
+  "closing": {
+   "h2": "Vivir junto a las salinas",
+   "alt": "",
+   "html": "<p>Sol, mar, salinas y precios asequibles hacen de Torrevieja uno de los lugares más buscados de la costa. <a href=\"{up}index.html#contact\">Escríbanos</a> y le ayudaremos a encontrar la calle y la casa adecuadas.</p>"
+  },
+  "slug": "torrevieja-informacion-basica-ubicacion-temperatura-y-como-llegar"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/torrevieja--co-zobaczy-i-jakie-s-najlepsze-atrakcje"
+}

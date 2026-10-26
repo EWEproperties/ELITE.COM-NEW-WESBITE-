@@ -1,0 +1,275 @@
+{
+ "author": "lucyna",
+ "published": "2025-02-12",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/benidorm-what-to-see/benidorm-levante-beach-and-skyline-with-puig-campana.jpg",
+ "images": {
+  "oldtown": "assets/blog/benidorm-what-to-see/woman-at-the-balcon-del-mediterraneo-in-benidorm.jpg",
+  "balcon": "assets/blog/benidorm-what-to-see/checkered-terrace-of-the-balcon-del-mediterraneo.jpg",
+  "nature": "assets/blog/benidorm-what-to-see/cliffs-of-the-serra-gelada-near-benidorm.jpg",
+  "beaches": "assets/blog/benidorm-what-to-see/high-rise-towers-behind-poniente-beach.jpg"
+ },
+ "cards": [
+  "23935651",
+  "24623926",
+  "21034180"
+ ],
+ "sources": [
+  [
+   "Visit Benidorm – official tourism",
+   "https://www.visitbenidorm.es/"
+  ],
+  [
+   "Generalitat Valenciana – Parc Natural de la Serra Gelada",
+   "https://parquesnaturales.gva.es/es/web/pn-serra-gelada"
+  ],
+  [
+   "TRAM d'Alacant",
+   "https://www.tramalacant.es/"
+  ]
+ ],
+ "en": {
+  "title": "What to See in Benidorm – A Practical Guide to the Old Town, Beaches and Day Trips",
+  "description": "A practical guide to Benidorm: the old town and Balcón del Mediterráneo, Levante and Poniente beaches, the Serra Gelada, theme parks, golf, getting there from Alicante airport and where to buy.",
+  "crumb": "What to see in Benidorm",
+  "eyebrow": "Places · Costa Blanca",
+  "h1": "Benidorm: What's Worth Seeing – A Practical Guide",
+  "hero_alt": "Levante beach and the Benidorm skyline with the Puig Campana mountain behind",
+  "short": "Benidorm is a city of about 75,000 residents in the middle of the Costa Blanca, around 55 minutes from Alicante airport. Famous for its skyline, it also has a charming old town with the Balcón del Mediterráneo viewpoint, two long Blue Flag beaches (Levante and Poniente), the Serra Gelada natural park, boat trips to Benidorm Island, theme parks such as Terra Mítica and Aqualandia, and golf nearby. It is busy all year, with a mild winter climate.",
+  "intro": [
+   "Benidorm is often called the Manhattan of the Mediterranean, and it has one of the highest numbers of high-rise buildings per inhabitant in the world. The plan behind it was deliberate: in the 1950s the mayor, Pedro Zaragoza, chose to build upwards rather than spread along the coast, leaving more space for beaches, gardens and views.",
+   "Beyond the towers you will find an old town, nature and some of the best-kept beaches in Spain. Here is what to see and some practical tips."
+  ],
+  "sections": [
+   {
+    "id": "oldtown",
+    "h2": "The old town",
+    "alt": "Woman in a hat looking at the sea from the white balustrade of the Balcón del Mediterráneo",
+    "html": "<p>The old fishing village sits on a small headland between the two beaches. Its narrow streets are full of tapas bars, and Plaza de la Señoría and the church of San Jaime and Santa Ana, with its blue-tiled dome, are the heart of it. The church is home to the Virgen del Sufragio, whose festival in November is the city's biggest.</p>"
+   },
+   {
+    "id": "balcon",
+    "h2": "The Balcón del Mediterráneo",
+    "alt": "Checkered terrace and white columns of the Balcón del Mediterráneo",
+    "html": "<p>At the tip of the headland, on the site of the old castle, the white balustrade of the Balcón del Mediterráneo offers the classic view of both bays. Come at sunset, or early in the morning when it is quiet. Steps lead down to the small Mal Pas cove.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Levante, Poniente and the coves",
+    "alt": "High-rise towers behind the wide sand of Poniente beach",
+    "html": "<ul><li><strong>Levante</strong> – about 2 km of sand by the busy centre, with bars, restaurants and water sports.</li><li><strong>Poniente</strong> – about 3 km, wider and calmer, with an award-winning promenade and the city's residents on weekends.</li><li><strong>Mal Pas</strong> – a small, sheltered cove below the old town.</li><li><strong>Tío Ximo and L'Almadrava</strong> – small coves at the foot of the Serra Gelada.</li></ul><p>Both main beaches fly the Blue Flag, have lifeguards in season and are cleaned every day. Read more in our <a href=\"{up}costa-blanca-beaches-you-must-visit.html\">guide to Costa Blanca beaches</a>.</p>"
+   },
+   {
+    "id": "nature",
+    "h2": "Serra Gelada and Benidorm Island",
+    "alt": "Cliffs and coastal path of the Serra Gelada above the sea",
+    "html": "<p>North-east of the city, the <strong>Serra Gelada</strong> natural park has cliffs over 400 m high and a coastal trail to the Punta del Cavall watchtower and to the lighthouse towards L'Albir, with views back over the skyline. Boats leave the port for <strong>Benidorm Island</strong>, a protected marine reserve good for snorkelling. Inland, the <strong>Puig Campana</strong> (1,406 m) is a challenging day hike.</p>"
+   },
+   {
+    "id": "parks",
+    "h2": "Theme parks and golf",
+    "alt": "",
+    "html": "<p>Benidorm has more theme parks than anywhere else in Spain: <strong>Terra Mítica</strong> (rides themed on ancient Mediterranean civilisations), <strong>Aqualandia</strong> water park, <strong>Mundomar</strong> with sea animals and <strong>Terra Natura</strong> zoo. Golfers have several courses within about 20 minutes, including Villaitana in Finestrat and the Puig Campana course.</p>"
+   },
+   {
+    "id": "transport",
+    "h2": "Getting there and around",
+    "alt": "",
+    "html": "<p>Alicante airport is about 60 km away, around 55 minutes by car on the AP-7. Direct buses run from the airport, and the TRAM line 1 links Benidorm with Alicante city centre in about 1 hour 10 minutes; line 9 continues north to Altea, Calpe and Dénia. In town, buses and walking are enough for most trips.</p>"
+   },
+   {
+    "id": "live",
+    "h2": "Where to buy in and around Benidorm",
+    "alt": "",
+    "html": "<p>Buyers choose between apartments with sea views in the towers of Poniente and Levante, homes near the old town, or more space in <a href=\"{up}properties-for-sale-in-finestrat.html\">Finestrat</a> and La Nucía, 10–15 minutes away. Rental demand is strong all year. See our <a href=\"{up}properties-for-sale-in-benidorm.html\">properties for sale in Benidorm</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Is Benidorm worth visiting?",
+    "Yes. Beyond the skyline it has a pretty old town, two of Spain's best urban beaches, a natural park with coastal walks and plenty for families."
+   ],
+   [
+    "How far is Benidorm from Alicante airport?",
+    "About 60 km, around 55 minutes by car. Direct buses take about an hour."
+   ],
+   [
+    "Which beach is better in Benidorm, Levante or Poniente?",
+    "Levante is livelier and closer to the bars and old town. Poniente is wider, calmer and popular with families and residents."
+   ],
+   [
+    "Is Benidorm busy in winter?",
+    "Yes. It is one of the few Spanish resorts that stays busy all year, thanks to its mild winter and many long-stay visitors."
+   ]
+  ],
+  "closing": {
+   "h2": "More than a holiday town",
+   "alt": "",
+   "html": "<p>With services all year, good connections and a large international community, Benidorm and the towns around it are an easy place to live. <a href=\"{up}index.html#contact\">Get in touch</a> and we will help you compare the options.</p>"
+  },
+  "slug": "benidorm-whats-worth-seeing-a-practical-guide"
+ },
+ "de": {
+  "title": "Benidorm – Sehenswürdigkeiten: praktischer Ratgeber zu Altstadt, Stränden und Ausflügen",
+  "description": "Praktischer Ratgeber für Benidorm: Altstadt und Balcón del Mediterráneo, die Strände Levante und Poniente, die Serra Gelada, Freizeitparks, Golf, Anreise vom Flughafen Alicante und Kauftipps.",
+  "crumb": "Benidorm Sehenswürdigkeiten",
+  "eyebrow": "Orte · Costa Blanca",
+  "h1": "Benidorm: Was gibt es zu sehen? Ein praktischer Ratgeber",
+  "hero_alt": "Strand Levante und die Skyline von Benidorm vor dem Berg Puig Campana",
+  "short": "Benidorm ist eine Stadt mit rund 75.000 Einwohnern in der Mitte der Costa Blanca, etwa 55 Minuten vom Flughafen Alicante. Bekannt für seine Skyline, hat es auch eine charmante Altstadt mit dem Aussichtspunkt Balcón del Mediterráneo, zwei lange Strände mit Blauer Flagge (Levante und Poniente), den Naturpark Serra Gelada, Bootsausflüge zur Insel Benidorm, Freizeitparks wie Terra Mítica und Aqualandia und Golfplätze in der Nähe. Dank des milden Winters ist die Stadt das ganze Jahr belebt.",
+  "intro": [
+   "Benidorm wird oft das Manhattan des Mittelmeers genannt und hat eine der höchsten Hochhausdichten pro Einwohner weltweit. Das war Absicht: In den 1950er-Jahren entschied Bürgermeister Pedro Zaragoza, in die Höhe statt in die Breite zu bauen, damit mehr Platz für Strände, Grün und Ausblicke bleibt.",
+   "Hinter den Türmen gibt es eine Altstadt, Natur und einige der gepflegtesten Strände Spaniens. Hier die Sehenswürdigkeiten und praktische Tipps."
+  ],
+  "sections": [
+   {
+    "id": "oldtown",
+    "h2": "Die Altstadt",
+    "alt": "Frau mit Hut blickt von der weißen Balustrade des Balcón del Mediterráneo aufs Meer",
+    "html": "<p>Das alte Fischerdorf liegt auf einer kleinen Landzunge zwischen den beiden Stränden. Die engen Gassen sind voller Tapasbars, Mittelpunkt sind die Plaza de la Señoría und die Kirche San Jaime y Santa Ana mit ihrer blau gefliesten Kuppel. Hier wird die Virgen del Sufragio verehrt, deren Fest im November das größte der Stadt ist.</p>"
+   },
+   {
+    "id": "balcon",
+    "h2": "Der Balcón del Mediterráneo",
+    "alt": "Schachbrettterrasse und weiße Säulen am Balcón del Mediterráneo",
+    "html": "<p>An der Spitze der Landzunge, wo einst die Burg stand, bietet die weiße Balustrade des Balcón del Mediterráneo den klassischen Blick auf beide Buchten. Am schönsten bei Sonnenuntergang oder früh morgens, wenn es ruhig ist. Treppen führen hinunter zur kleinen Bucht Mal Pas.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Levante, Poniente und die Buchten",
+    "alt": "Hochhäuser hinter dem breiten Sandstrand Poniente",
+    "html": "<ul><li><strong>Levante</strong> – rund 2 km Sand am belebten Zentrum, mit Bars, Restaurants und Wassersport.</li><li><strong>Poniente</strong> – rund 3 km, breiter und ruhiger, mit preisgekrönter Promenade und vielen Einheimischen am Wochenende.</li><li><strong>Mal Pas</strong> – kleine, geschützte Bucht unter der Altstadt.</li><li><strong>Tío Ximo und L'Almadrava</strong> – kleine Buchten am Fuß der Serra Gelada.</li></ul><p>Beide Hauptstrände tragen die Blaue Flagge, sind in der Saison bewacht und werden täglich gereinigt.</p>"
+   },
+   {
+    "id": "nature",
+    "h2": "Serra Gelada und die Insel Benidorm",
+    "alt": "Klippen und Küstenweg der Serra Gelada über dem Meer",
+    "html": "<p>Nordöstlich der Stadt hat der Naturpark <strong>Serra Gelada</strong> über 400 m hohe Klippen und einen Küstenweg zum Wachturm Punta del Cavall und zum Leuchtturm Richtung L'Albir, mit Blick zurück auf die Skyline. Vom Hafen fahren Boote zur <strong>Insel Benidorm</strong>, einem Meeresschutzgebiet, ideal zum Schnorcheln. Im Hinterland ist der <strong>Puig Campana</strong> (1.406 m) eine anspruchsvolle Tagestour.</p>"
+   },
+   {
+    "id": "parks",
+    "h2": "Freizeitparks und Golf",
+    "alt": "",
+    "html": "<p>Benidorm hat mehr Freizeitparks als jeder andere Ort in Spanien: <strong>Terra Mítica</strong> (Fahrgeschäfte zu den antiken Kulturen des Mittelmeers), den Wasserpark <strong>Aqualandia</strong>, <strong>Mundomar</strong> mit Meerestieren und den Zoo <strong>Terra Natura</strong>. Golfer finden mehrere Plätze in etwa 20 Minuten Entfernung, darunter Villaitana in Finestrat und den Platz Puig Campana.</p>"
+   },
+   {
+    "id": "transport",
+    "h2": "Anreise und Fortbewegung",
+    "alt": "",
+    "html": "<p>Der Flughafen Alicante ist rund 60 km entfernt, etwa 55 Minuten über die AP-7. Direkte Busse fahren vom Flughafen, und die TRAM-Linie 1 verbindet Benidorm in rund 1 Stunde 10 Minuten mit dem Zentrum von Alicante; Linie 9 fährt weiter nach Altea, Calpe und Dénia. In der Stadt reichen Busse und Fußwege für fast alles.</p>"
+   },
+   {
+    "id": "live",
+    "h2": "Kaufen in und um Benidorm",
+    "alt": "",
+    "html": "<p>Käufer wählen zwischen Apartments mit Meerblick in den Türmen von Poniente und Levante, Wohnungen nahe der Altstadt oder mehr Platz in Finestrat und La Nucía, 10–15 Minuten entfernt. Die Vermietungsnachfrage ist das ganze Jahr hoch.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Lohnt sich Benidorm?",
+    "Ja. Neben der Skyline gibt es eine hübsche Altstadt, zwei der besten Stadtstrände Spaniens, einen Naturpark mit Küstenwegen und viel für Familien."
+   ],
+   [
+    "Wie weit ist Benidorm vom Flughafen Alicante entfernt?",
+    "Etwa 60 km, rund 55 Minuten mit dem Auto. Direkte Busse brauchen etwa eine Stunde."
+   ],
+   [
+    "Welcher Strand ist besser, Levante oder Poniente?",
+    "Levante ist lebhafter und näher an Bars und Altstadt. Poniente ist breiter, ruhiger und bei Familien und Einheimischen beliebt."
+   ],
+   [
+    "Ist in Benidorm im Winter viel los?",
+    "Ja. Es ist einer der wenigen spanischen Ferienorte, die das ganze Jahr belebt sind, dank mildem Winter und vielen Langzeitgästen."
+   ]
+  ],
+  "closing": {
+   "h2": "Mehr als ein Ferienort",
+   "alt": "",
+   "html": "<p>Mit ganzjährigem Service, guten Verbindungen und großer internationaler Gemeinschaft lebt es sich in Benidorm und Umgebung unkompliziert. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>, und wir helfen Ihnen, die Möglichkeiten zu vergleichen.</p>"
+  },
+  "slug": "benidorm-was-gibt-es-zu-sehen-ein-praktischer-leitfaden"
+ },
+ "es": {
+  "title": "Qué ver en Benidorm – Guía práctica del casco antiguo, playas y excursiones",
+  "description": "Guía práctica de Benidorm: el casco antiguo y el Balcón del Mediterráneo, las playas de Levante y Poniente, la Serra Gelada, los parques temáticos, el golf, cómo llegar desde el aeropuerto de Alicante y dónde comprar.",
+  "crumb": "Qué ver en Benidorm",
+  "eyebrow": "Lugares · Costa Blanca",
+  "h1": "Benidorm: qué merece la pena ver. Guía práctica",
+  "hero_alt": "Playa de Levante y el skyline de Benidorm con el Puig Campana al fondo",
+  "short": "Benidorm es una ciudad de unos 75.000 habitantes en el centro de la Costa Blanca, a unos 55 minutos del aeropuerto de Alicante. Famosa por su skyline, tiene además un casco antiguo con encanto y el mirador del Balcón del Mediterráneo, dos largas playas con Bandera Azul (Levante y Poniente), el parque natural de la Serra Gelada, excursiones en barco a la Isla de Benidorm, parques temáticos como Terra Mítica y Aqualandia, y golf cerca. Gracias a su invierno suave, tiene ambiente todo el año.",
+  "intro": [
+   "A Benidorm la llaman el Manhattan del Mediterráneo, y tiene una de las mayores densidades de rascacielos por habitante del mundo. Fue una decisión consciente: en los años cincuenta, el alcalde Pedro Zaragoza apostó por crecer en altura en lugar de extenderse por la costa, dejando más espacio para playas, jardines y vistas.",
+   "Más allá de las torres hay casco antiguo, naturaleza y algunas de las playas mejor cuidadas de España. Esto es lo que hay que ver y algunos consejos prácticos."
+  ],
+  "sections": [
+   {
+    "id": "oldtown",
+    "h2": "El casco antiguo",
+    "alt": "Mujer con sombrero mirando el mar desde la balaustrada del Balcón del Mediterráneo",
+    "html": "<p>El antiguo pueblo de pescadores ocupa un pequeño promontorio entre las dos playas. Sus calles estrechas están llenas de bares de tapas, y su centro son la Plaza de la Señoría y la iglesia de San Jaime y Santa Ana, con su cúpula de tejas azules. Allí se venera a la Virgen del Sufragio, cuyas fiestas de noviembre son las más importantes de la ciudad.</p>"
+   },
+   {
+    "id": "balcon",
+    "h2": "El Balcón del Mediterráneo",
+    "alt": "Terraza ajedrezada y columnas blancas del Balcón del Mediterráneo",
+    "html": "<p>En la punta del promontorio, donde estaba el antiguo castillo, la balaustrada blanca del Balcón del Mediterráneo ofrece la vista clásica de las dos bahías. Lo mejor es ir al atardecer o a primera hora, cuando hay calma. Unas escaleras bajan a la pequeña cala del Mal Pas.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Levante, Poniente y las calas",
+    "alt": "Torres altas detrás de la amplia arena de la playa de Poniente",
+    "html": "<ul><li><strong>Levante</strong> – unos 2 km de arena junto al centro, con bares, restaurantes y deportes náuticos.</li><li><strong>Poniente</strong> – unos 3 km, más ancha y tranquila, con un paseo premiado y muchos vecinos los fines de semana.</li><li><strong>Mal Pas</strong> – pequeña cala resguardada bajo el casco antiguo.</li><li><strong>Tío Ximo y L'Almadrava</strong> – pequeñas calas al pie de la Serra Gelada.</li></ul><p>Las dos playas principales tienen Bandera Azul, socorristas en temporada y limpieza diaria.</p>"
+   },
+   {
+    "id": "nature",
+    "h2": "La Serra Gelada y la Isla de Benidorm",
+    "alt": "Acantilados y sendero litoral de la Serra Gelada sobre el mar",
+    "html": "<p>Al noreste, el parque natural de la <strong>Serra Gelada</strong> tiene acantilados de más de 400 m y un sendero hasta la torre de la Punta del Cavall y el faro hacia L'Albir, con vistas al skyline. Desde el puerto salen barcos a la <strong>Isla de Benidorm</strong>, reserva marina ideal para el snorkel. En el interior, el <strong>Puig Campana</strong> (1.406 m) es una ruta exigente de un día.</p>"
+   },
+   {
+    "id": "parks",
+    "h2": "Parques temáticos y golf",
+    "alt": "",
+    "html": "<p>Benidorm tiene más parques temáticos que ningún otro lugar de España: <strong>Terra Mítica</strong> (atracciones sobre las culturas antiguas del Mediterráneo), el parque acuático <strong>Aqualandia</strong>, <strong>Mundomar</strong> con animales marinos y el zoo <strong>Terra Natura</strong>. Los golfistas tienen varios campos a unos 20 minutos, como Villaitana en Finestrat y el campo Puig Campana.</p>"
+   },
+   {
+    "id": "transport",
+    "h2": "Cómo llegar y moverse",
+    "alt": "",
+    "html": "<p>El aeropuerto de Alicante está a unos 60 km, unos 55 minutos por la AP-7. Hay autobuses directos desde el aeropuerto, y la línea 1 del TRAM une Benidorm con el centro de Alicante en aproximadamente 1 hora 10 minutos; la línea 9 sigue hacia Altea, Calpe y Dénia. Dentro de la ciudad bastan el autobús y los paseos a pie.</p>"
+   },
+   {
+    "id": "live",
+    "h2": "Dónde comprar en Benidorm y alrededores",
+    "alt": "",
+    "html": "<p>Los compradores eligen entre apartamentos con vistas al mar en las torres de Poniente y Levante, viviendas cerca del casco antiguo o más espacio en Finestrat y La Nucía, a 10–15 minutos. La demanda de alquiler es alta todo el año.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Merece la pena visitar Benidorm?",
+    "Sí. Además del skyline tiene un casco antiguo bonito, dos de las mejores playas urbanas de España, un parque natural con rutas litorales y mucho para familias."
+   ],
+   [
+    "¿A qué distancia está Benidorm del aeropuerto de Alicante?",
+    "A unos 60 km, unos 55 minutos en coche. Los autobuses directos tardan alrededor de una hora."
+   ],
+   [
+    "¿Qué playa es mejor en Benidorm, Levante o Poniente?",
+    "Levante es más animada y está más cerca de los bares y del casco antiguo. Poniente es más ancha, tranquila y familiar."
+   ],
+   [
+    "¿Hay ambiente en Benidorm en invierno?",
+    "Sí. Es uno de los pocos destinos de España con ambiente todo el año, gracias a su invierno suave y a los visitantes de larga estancia."
+   ]
+  ],
+  "closing": {
+   "h2": "Más que un destino de vacaciones",
+   "alt": "",
+   "html": "<p>Con servicios todo el año, buenas conexiones y una gran comunidad internacional, Benidorm y sus alrededores son un lugar cómodo para vivir. <a href=\"{up}index.html#contact\">Escríbanos</a> y le ayudaremos a comparar opciones.</p>"
+  },
+  "slug": "benidorm-que-merece-la-pena-ver-guia-practica"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/benidorm-co-warto-zobaczyc-praktyczny-przewodnik"
+}

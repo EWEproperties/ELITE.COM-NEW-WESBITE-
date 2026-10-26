@@ -1,0 +1,257 @@
+{
+ "author": "lucyna",
+ "published": "2026-02-03",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/valentines-day-spain/bench-facing-the-sea-at-sunset.jpg",
+ "images": {
+  "altea": "assets/blog/valentines-day-spain/white-street-and-blue-domed-church-in-altea.jpg",
+  "sitges": "assets/blog/valentines-day-spain/sitges-church-and-beach-at-sunrise.jpg",
+  "cadaques": "assets/blog/valentines-day-spain/white-houses-of-cadaques-by-the-bay.jpg",
+  "nerja": "assets/blog/valentines-day-spain/cliffs-and-coast-of-nerja.jpg"
+ },
+ "cards": [
+  "18595762",
+  "26614054",
+  "24623926"
+ ],
+ "sources": [
+  [
+   "Spain's official tourism portal",
+   "https://www.spain.info/"
+  ],
+  [
+   "Turisme Comunitat Valenciana – Altea",
+   "https://www.comunitatvalenciana.com/"
+  ],
+  [
+   "Nerja Tourism",
+   "https://turismo.nerja.es/"
+  ]
+ ],
+ "en": {
+  "title": "Valentine's Day in Spain – 5 Romantic Coastal Towns for February",
+  "description": "Five romantic places for Valentine's Day in Spain: Altea on the Costa Blanca, Sitges, Cadaqués, Nerja and Mojácar, with why February is a great month on the Spanish coast and how Spaniards celebrate love.",
+  "crumb": "Valentine's Day in Spain",
+  "eyebrow": "Living in Spain · Traditions",
+  "h1": "Valentine's Day in Spain: 5 Romantic Coastal Towns",
+  "hero_alt": "Bench facing the sea under an orange sunset",
+  "short": "February is a lovely month for a romantic trip to the Spanish coast: mild, sunny days, quiet streets and restaurants open for locals. Our five favourites are Altea on the Costa Blanca, with its white old town and blue-domed church; Sitges near Barcelona; Cadaqués on the Costa Brava; Nerja and its Balcón de Europa on the Costa del Sol; and the white hill village of Mojácar in Almería. Spaniards celebrate San Valentín on 14 February with dinner and flowers, and in Catalonia lovers also exchange books and roses on Sant Jordi, 23 April.",
+  "intro": [
+   "Valentine's Day (San Valentín) in Spain is simple: a good dinner, flowers or a small gift, and time together. On the coast, February adds sunshine, empty beaches and long walks at sunset.",
+   "Here are five towns where romance comes naturally."
+  ],
+  "sections": [
+   {
+    "id": "altea",
+    "h2": "Altea – romance at a slower pace",
+    "alt": "White street leading to the blue-domed church in Altea",
+    "html": "<p>Altea is often called one of the prettiest towns on the Costa Blanca. White houses, cobbled lanes and the blue-tiled dome of the church crown the old town, and the viewpoint by the church square looks out over the bay. In February the small restaurants of the old town are calm and welcoming. See our <a href=\"{up}properties-for-sale-in-altea.html\">homes for sale in Altea</a>.</p>"
+   },
+   {
+    "id": "sitges",
+    "h2": "Sitges – elegance by the sea",
+    "alt": "Sitges church on the headland above the beach at sunrise",
+    "html": "<p>About 40 minutes from Barcelona, Sitges combines a seaside promenade, an old town and lively restaurants all year. A walk along Sant Sebastià beach to the church on the headland is the perfect start to the evening.</p>"
+   },
+   {
+    "id": "cadaques",
+    "h2": "Cadaqués – quiet beauty on the Costa Brava",
+    "alt": "White houses of Cadaqués around a calm bay",
+    "html": "<p>At the far end of the Costa Brava, Cadaqués is a whitewashed fishing village surrounded by rocky coast, once home to Salvador Dalí in nearby Portlligat. In winter it is peaceful and intimate, ideal for couples who want to switch off.</p>"
+   },
+   {
+    "id": "nerja",
+    "h2": "Nerja – light and open horizons",
+    "alt": "Cliffs and turquoise coast of Nerja",
+    "html": "<p>On the eastern Costa del Sol, Nerja's Balcón de Europa is a palm-lined terrace above the sea, perfect for a quiet moment before dinner. February is bright and mild in Andalusia, and the nearby caves and the white village of Frigiliana make a lovely day out. See our <a href=\"{up}the-costa-del-sol-top-10-attractions-worth-visiting.html\">Costa del Sol top 10</a>.</p>"
+   },
+   {
+    "id": "mojacar",
+    "h2": "Mojácar – a white village above the sea",
+    "alt": "",
+    "html": "<p>In Almería, Mojácar's white houses tumble down a hill a few kilometres from the beach. Its viewpoints are some of the best places in Spain to watch the sunset together. Nearby, see our <a href=\"{up}properties-for-sale-in-vera.html\">homes in Vera</a>.</p>"
+   },
+   {
+    "id": "how",
+    "h2": "How Spaniards celebrate love",
+    "alt": "",
+    "html": "<p>San Valentín on 14 February is a normal working day, celebrated in the evening with dinner, flowers and small gifts; book restaurants in advance. In Catalonia the most romantic day is Sant Jordi on 23 April, when men traditionally give roses and women give books, and today couples exchange both.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Is Valentine's Day celebrated in Spain?",
+    "Yes, on 14 February, with dinner, flowers and small gifts. It is not a public holiday."
+   ],
+   [
+    "What is the most romantic town on the Costa Blanca?",
+    "Many couples choose Altea, with its white old town, sea views and calm restaurants."
+   ],
+   [
+    "What is the weather like in Spain in February?",
+    "On the Mediterranean coast it is usually mild and sunny, around 17–18 °C during the day, with cool evenings."
+   ],
+   [
+    "What is Sant Jordi?",
+    "Catalonia's day of love on 23 April, when couples exchange roses and books."
+   ]
+  ],
+  "closing": {
+   "h2": "Every day by the sea",
+   "alt": "",
+   "html": "<p>If a romantic weekend has made you dream of more time on the coast, <a href=\"{up}index.html#contact\">get in touch</a>. We will help you find a home where every evening can feel like this. See also <a href=\"{up}the-10-most-beautiful-cities-in-spain.html\">the 10 most beautiful cities in Spain</a>.</p>"
+  },
+  "slug": "valentines-day-in-spain"
+ },
+ "de": {
+  "title": "Valentinstag in Spanien – 5 romantische Küstenorte für den Februar",
+  "description": "Fünf romantische Orte für den Valentinstag in Spanien: Altea an der Costa Blanca, Sitges, Cadaqués, Nerja und Mojácar, warum der Februar an der Küste so schön ist und wie Spanier die Liebe feiern.",
+  "crumb": "Valentinstag in Spanien",
+  "eyebrow": "Leben in Spanien · Traditionen",
+  "h1": "Valentinstag in Spanien: 5 romantische Küstenorte",
+  "hero_alt": "Bank mit Blick aufs Meer bei orangefarbenem Sonnenuntergang",
+  "short": "Der Februar ist ideal für eine romantische Reise an Spaniens Küste: milde, sonnige Tage, ruhige Gassen und Restaurants, die für Einheimische geöffnet haben. Unsere fünf Favoriten sind Altea an der Costa Blanca mit weißer Altstadt und blauer Kirchenkuppel, Sitges bei Barcelona, Cadaqués an der Costa Brava, Nerja mit dem Balcón de Europa an der Costa del Sol und das weiße Bergdorf Mojácar in Almería. Spanier feiern San Valentín am 14. Februar mit Essen und Blumen, in Katalonien schenken sich Paare außerdem am 23. April, Sant Jordi, Bücher und Rosen.",
+  "intro": [
+   "Der Valentinstag (San Valentín) ist in Spanien schlicht: ein gutes Abendessen, Blumen oder ein kleines Geschenk und Zeit zu zweit. An der Küste kommen im Februar Sonne, leere Strände und lange Spaziergänge bei Sonnenuntergang hinzu.",
+   "Hier fünf Orte, an denen Romantik ganz von selbst entsteht."
+  ],
+  "sections": [
+   {
+    "id": "altea",
+    "h2": "Altea – Romantik im langsamen Takt",
+    "alt": "Weiße Gasse zur Kirche mit blauer Kuppel in Altea",
+    "html": "<p>Altea gilt als einer der schönsten Orte der Costa Blanca. Weiße Häuser, gepflasterte Gassen und die blau gekachelte Kirchenkuppel krönen die Altstadt, und vom Aussichtspunkt am Kirchplatz blickt man über die Bucht. Im Februar sind die kleinen Restaurants der Altstadt ruhig und gastfreundlich.</p>"
+   },
+   {
+    "id": "sitges",
+    "h2": "Sitges – Eleganz am Meer",
+    "alt": "Kirche von Sitges auf der Landzunge über dem Strand bei Sonnenaufgang",
+    "html": "<p>Rund 40 Minuten von Barcelona verbindet Sitges Strandpromenade, Altstadt und lebhafte Restaurants das ganze Jahr. Ein Spaziergang am Strand Sant Sebastià zur Kirche auf der Landzunge ist der perfekte Auftakt für den Abend.</p>"
+   },
+   {
+    "id": "cadaques",
+    "h2": "Cadaqués – stille Schönheit an der Costa Brava",
+    "alt": "Weiße Häuser von Cadaqués an einer ruhigen Bucht",
+    "html": "<p>Am äußersten Ende der Costa Brava liegt Cadaqués, ein weißes Fischerdorf an felsiger Küste, wo Salvador Dalí im nahen Portlligat lebte. Im Winter ist es friedlich und intim, ideal für Paare, die abschalten möchten.</p>"
+   },
+   {
+    "id": "nerja",
+    "h2": "Nerja – Licht und Weite",
+    "alt": "Klippen und türkisfarbene Küste von Nerja",
+    "html": "<p>An der östlichen Costa del Sol ist der Balcón de Europa in Nerja eine Terrasse mit Palmen hoch über dem Meer, perfekt für einen ruhigen Moment vor dem Abendessen. Der Februar ist in Andalusien hell und mild, und die nahen Höhlen und das weiße Dorf Frigiliana sind schöne Ausflüge.</p>"
+   },
+   {
+    "id": "mojacar",
+    "h2": "Mojácar – ein weißes Dorf über dem Meer",
+    "alt": "",
+    "html": "<p>In Almería ziehen sich die weißen Häuser von Mojácar einen Hügel hinunter, wenige Kilometer vom Strand. Seine Aussichtspunkte gehören zu den schönsten Orten Spaniens, um gemeinsam den Sonnenuntergang zu sehen.</p>"
+   },
+   {
+    "id": "how",
+    "h2": "Wie Spanier die Liebe feiern",
+    "alt": "",
+    "html": "<p>San Valentín am 14. Februar ist ein normaler Arbeitstag und wird abends mit Essen, Blumen und kleinen Geschenken gefeiert, Restaurants also vorher reservieren. In Katalonien ist der romantischste Tag Sant Jordi am 23. April: Traditionell schenken Männer Rosen und Frauen Bücher, heute tauschen Paare beides.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Wird in Spanien Valentinstag gefeiert?",
+    "Ja, am 14. Februar mit Abendessen, Blumen und kleinen Geschenken. Es ist kein Feiertag."
+   ],
+   [
+    "Welcher ist der romantischste Ort an der Costa Blanca?",
+    "Viele Paare wählen Altea mit seiner weißen Altstadt, dem Meerblick und ruhigen Restaurants."
+   ],
+   [
+    "Wie ist das Wetter in Spanien im Februar?",
+    "An der Mittelmeerküste meist mild und sonnig, tagsüber etwa 17–18 °C, abends kühl."
+   ],
+   [
+    "Was ist Sant Jordi?",
+    "Kataloniens Tag der Liebe am 23. April, an dem Paare Rosen und Bücher tauschen."
+   ]
+  ],
+  "closing": {
+   "h2": "Jeden Tag am Meer",
+   "alt": "",
+   "html": "<p>Wenn ein romantisches Wochenende Lust auf mehr Zeit an der Küste gemacht hat, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir helfen Ihnen, ein Zuhause zu finden, in dem sich jeder Abend so anfühlen kann.</p>"
+  },
+  "slug": "valentinstag-in-spanien"
+ },
+ "es": {
+  "title": "San Valentín en España – 5 pueblos costeros románticos para febrero",
+  "description": "Cinco lugares románticos para San Valentín en España: Altea en la Costa Blanca, Sitges, Cadaqués, Nerja y Mojácar, por qué febrero es un gran mes en la costa y cómo se celebra el amor en España.",
+  "crumb": "San Valentín en España",
+  "eyebrow": "Vivir en España · Tradiciones",
+  "h1": "San Valentín en España: 5 pueblos costeros románticos",
+  "hero_alt": "Banco frente al mar bajo un atardecer naranja",
+  "short": "Febrero es un mes estupendo para una escapada romántica a la costa: días suaves y soleados, calles tranquilas y restaurantes abiertos para los vecinos. Nuestros cinco favoritos son Altea, en la Costa Blanca, con su casco antiguo blanco y su iglesia de cúpula azul; Sitges, cerca de Barcelona; Cadaqués, en la Costa Brava; Nerja y su Balcón de Europa, en la Costa del Sol; y el pueblo blanco de Mojácar, en Almería. San Valentín se celebra el 14 de febrero con una cena y flores, y en Cataluña las parejas se regalan libros y rosas por Sant Jordi, el 23 de abril.",
+  "intro": [
+   "San Valentín en España es sencillo: una buena cena, flores o un detalle y tiempo juntos. En la costa, febrero añade sol, playas vacías y largos paseos al atardecer.",
+   "Estos son cinco lugares donde el romanticismo surge solo."
+  ],
+  "sections": [
+   {
+    "id": "altea",
+    "h2": "Altea – romanticismo sin prisas",
+    "alt": "Calle blanca que lleva a la iglesia de cúpula azul de Altea",
+    "html": "<p>Altea es uno de los pueblos más bonitos de la Costa Blanca. Casas blancas, calles empedradas y la cúpula de tejas azules de la iglesia coronan el casco antiguo, y desde el mirador junto a la plaza de la iglesia se domina la bahía. En febrero, los pequeños restaurantes del casco antiguo están tranquilos y acogedores.</p>"
+   },
+   {
+    "id": "sitges",
+    "h2": "Sitges – elegancia junto al mar",
+    "alt": "Iglesia de Sitges sobre el promontorio y la playa al amanecer",
+    "html": "<p>A unos 40 minutos de Barcelona, Sitges combina paseo marítimo, casco antiguo y restaurantes animados todo el año. Un paseo por la playa de Sant Sebastià hasta la iglesia del promontorio es el mejor comienzo de la noche.</p>"
+   },
+   {
+    "id": "cadaques",
+    "h2": "Cadaqués – belleza tranquila en la Costa Brava",
+    "alt": "Casas blancas de Cadaqués junto a una bahía tranquila",
+    "html": "<p>En el extremo de la Costa Brava, Cadaqués es un pueblo marinero encalado rodeado de costa rocosa, muy ligado a Salvador Dalí, que vivió en la cercana Portlligat. En invierno es tranquilo e íntimo, perfecto para desconectar en pareja.</p>"
+   },
+   {
+    "id": "nerja",
+    "h2": "Nerja – luz y horizonte",
+    "alt": "Acantilados y costa turquesa de Nerja",
+    "html": "<p>En la Costa del Sol oriental, el Balcón de Europa de Nerja es una terraza con palmeras sobre el mar, ideal para un momento tranquilo antes de cenar. En febrero Andalucía es luminosa y suave, y la cueva y el pueblo blanco de Frigiliana son excursiones preciosas.</p>"
+   },
+   {
+    "id": "mojacar",
+    "h2": "Mojácar – un pueblo blanco sobre el mar",
+    "alt": "",
+    "html": "<p>En Almería, las casas blancas de Mojácar descienden por una colina a pocos kilómetros de la playa. Sus miradores están entre los mejores lugares de España para ver juntos la puesta de sol.</p>"
+   },
+   {
+    "id": "how",
+    "h2": "Cómo se celebra el amor en España",
+    "alt": "",
+    "html": "<p>San Valentín, el 14 de febrero, es un día laborable y se celebra por la noche con una cena, flores y pequeños regalos; conviene reservar mesa. En Cataluña el día más romántico es Sant Jordi, el 23 de abril, cuando tradicionalmente los hombres regalaban rosas y las mujeres libros, y hoy las parejas se intercambian ambos.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Se celebra San Valentín en España?",
+    "Sí, el 14 de febrero, con cenas, flores y pequeños regalos. No es festivo."
+   ],
+   [
+    "¿Cuál es el pueblo más romántico de la Costa Blanca?",
+    "Muchas parejas eligen Altea por su casco antiguo blanco, sus vistas al mar y sus restaurantes tranquilos."
+   ],
+   [
+    "¿Qué tiempo hace en España en febrero?",
+    "En la costa mediterránea suele ser suave y soleado, con unos 17–18 °C de día y noches frescas."
+   ],
+   [
+    "¿Qué es Sant Jordi?",
+    "El día de los enamorados en Cataluña, el 23 de abril, cuando las parejas se regalan rosas y libros."
+   ]
+  ],
+  "closing": {
+   "h2": "Cada día junto al mar",
+   "alt": "",
+   "html": "<p>Si una escapada romántica le ha dejado con ganas de pasar más tiempo en la costa, <a href=\"{up}index.html#contact\">escríbanos</a> y le ayudaremos a encontrar una casa donde cada tarde se sienta así.</p>"
+  },
+  "slug": "san-valentin-en-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/walentynki-w-hiszpanii"
+}

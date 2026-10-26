@@ -1,0 +1,258 @@
+{
+ "author": "anita",
+ "published": "2025-12-16",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/christmas-in-spain/feliz-navidad-sign-among-palm-trees.jpg",
+ "images": {
+  "season": "assets/blog/christmas-in-spain/town-square-with-christmas-lights-at-night.jpg",
+  "belen": "assets/blog/christmas-in-spain/giant-nativity-figures-in-a-city-square.jpg",
+  "lottery": "assets/blog/christmas-in-spain/christmas-lottery-tickets.jpg",
+  "food": "assets/blog/christmas-in-spain/turron-and-christmas-sweets.jpg",
+  "coast": "assets/blog/christmas-in-spain/church-tower-and-palm-tree-with-christmas-decoration.jpg"
+ },
+ "cards": [
+  "18595762",
+  "24758318",
+  "26239846"
+ ],
+ "sources": [
+  [
+   "Loterías y Apuestas del Estado – Christmas Lottery",
+   "https://www.loteriasyapuestas.es/"
+  ],
+  [
+   "Consejo Regulador IGP Jijona y Turrón de Alicante",
+   "https://www.jijona.com/"
+  ],
+  [
+   "Spain's official tourism portal – Christmas",
+   "https://www.spain.info/"
+  ]
+ ],
+ "en": {
+  "title": "Christmas in Spain – Traditions, El Gordo Lottery, Food and the Festive Calendar",
+  "description": "How Spain celebrates Christmas: lights from late November, nativity scenes, the El Gordo lottery on 22 December, Nochebuena dinner, turrón from Jijona near Alicante, Día de los Inocentes and the season that runs to 6 January.",
+  "crumb": "Christmas in Spain",
+  "eyebrow": "Living in Spain · Traditions",
+  "h1": "Christmas in Spain: Traditions and the Festive Season",
+  "hero_alt": "Feliz Navidad sign made of plants among palm trees",
+  "short": "Christmas in Spain is a long season: lights go up in late November, the El Gordo lottery on 22 December marks the real start, Christmas Eve (Nochebuena) is a late family dinner, and the season only ends on 6 January with the Three Kings. Nativity scenes (belenes) are more traditional than trees. Turrón, the almond nougat from Jijona near Alicante, is on every table. 28 December is the Spanish April Fools' Day. On the coast, it is often sunny enough for a walk on the beach.",
+  "intro": [
+   "Christmas on the Spanish coast is sunny walks under palm trees with twinkling lights, busy terraces and long family meals. It feels different from northern Europe, but it is just as festive.",
+   "Here is the Spanish Christmas calendar and the traditions behind it."
+  ],
+  "sections": [
+   {
+    "id": "season",
+    "h2": "A season, not a day",
+    "alt": "Town square with Christmas lights and a tree at night",
+    "html": "<p>Towns switch on their Christmas lights in late November or early December, and markets and ice rinks appear in the squares. The main holidays are 8 December (Immaculate Conception), 25 December, 1 January and 6 January. School holidays usually run from about 22 December to 7 January. Málaga's Calle Larios and Vigo are famous for their light shows.</p>"
+   },
+   {
+    "id": "belen",
+    "h2": "Nativity scenes",
+    "alt": "Giant nativity figures in a city square",
+    "html": "<p>In Spanish homes the <em>belén</em> (nativity scene) has long been more important than the tree. Town halls, churches and associations set up large ones, some with hundreds of figures, and visiting them is a family outing. Alicante's city centre has displayed giant nativity figures in recent years. In Catalonia you may spot the <em>caganer</em>, a cheeky figure hidden in the scene.</p>"
+   },
+   {
+    "id": "lottery",
+    "h2": "El Gordo, 22 December",
+    "alt": "Rows of Christmas lottery tickets",
+    "html": "<p>The Christmas Lottery (<em>Lotería de Navidad</em>) is one of the oldest and biggest lotteries in the world. Families, colleagues and bars share tickets for months, and on the morning of 22 December the whole country listens as children from Madrid's San Ildefonso school sing out the winning numbers. For many Spaniards, this is when Christmas really begins.</p>"
+   },
+   {
+    "id": "food",
+    "h2": "Nochebuena and Christmas food",
+    "alt": "Pieces of turrón and other Christmas sweets",
+    "html": "<p>Christmas Eve (<em>Nochebuena</em>) is a late family dinner with seafood, fish, lamb or roast meat. Some people then go to Midnight Mass (<em>Misa del Gallo</em>). Christmas Day is a relaxed lunch. For dessert there is <em>turrón</em>, almond nougat, hard (Alicante) or soft (Jijona), both from the town of Jijona (Xixona) just inland from Alicante, plus marzipan and <em>polvorones</em>. Gifts traditionally arrive on 6 January, but Papá Noel now brings some on the 25th, and in the Basque Country and Catalonia there are local figures such as Olentzero and the Tió de Nadal.</p>"
+   },
+   {
+    "id": "inocentes",
+    "h2": "Día de los Inocentes, 28 December",
+    "alt": "",
+    "html": "<p>28 December is Spain's version of April Fools' Day. Newspapers and TV publish fake stories, and friends play small jokes on each other, such as sticking a paper figure on someone's back.</p>"
+   },
+   {
+    "id": "coast",
+    "h2": "Christmas on the coast",
+    "alt": "Church tower and a palm tree with a Christmas decoration",
+    "html": "<p>On the Costa Blanca and Costa del Sol, December days are often sunny and around 17–18 °C. Many people take a walk on the seafront after lunch, and some brave a Christmas swim. It is one reason why so many northern Europeans now spend the whole winter here. See <a href=\"{up}new-year-in-spain.html\">New Year in Spain</a> and <a href=\"{up}three-kings-day-in-spain.html\">Three Kings Day</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "When does Christmas start in Spain?",
+    "Lights go up in late November or early December, but for many Spaniards the season really starts with the El Gordo lottery on 22 December. It ends on 6 January."
+   ],
+   [
+    "What do Spaniards eat at Christmas?",
+    "Seafood, fish and roast lamb or meat, followed by turrón, marzipan and polvorones."
+   ],
+   [
+    "Who brings presents in Spain at Christmas?",
+    "Traditionally the Three Kings on 6 January. Papá Noel now often brings some presents on 25 December too."
+   ],
+   [
+    "What is Día de los Inocentes?",
+    "28 December, the Spanish equivalent of April Fools' Day, with jokes and fake news stories."
+   ]
+  ],
+  "closing": {
+   "h2": "A winter home in the sun",
+   "alt": "",
+   "html": "<p>Spending Christmas by the Mediterranean is often where the idea of a second home begins. If that sounds like you, <a href=\"{up}index.html#contact\">get in touch</a> and we will help you find a home on the coast.</p>"
+  },
+  "slug": "christmas-in-spain"
+ },
+ "de": {
+  "title": "Weihnachten in Spanien – Traditionen, Lotterie El Gordo, Essen und Festkalender",
+  "description": "Wie Spanien Weihnachten feiert: Lichter ab Ende November, Krippen, die Lotterie El Gordo am 22. Dezember, Nochebuena, Turrón aus Jijona bei Alicante, der Día de los Inocentes und die Festzeit bis zum 6. Januar.",
+  "crumb": "Weihnachten in Spanien",
+  "eyebrow": "Leben in Spanien · Traditionen",
+  "h1": "Weihnachten in Spanien: Traditionen und Festzeit",
+  "hero_alt": "Schriftzug Feliz Navidad aus Pflanzen zwischen Palmen",
+  "short": "Weihnachten ist in Spanien eine lange Zeit: Ende November gehen die Lichter an, die Lotterie El Gordo am 22. Dezember markiert den eigentlichen Beginn, Heiligabend (Nochebuena) ist ein spätes Familienessen, und die Festzeit endet erst am 6. Januar mit den Heiligen Drei Königen. Krippen (Belenes) sind traditioneller als Bäume. Turrón, der Mandelnougat aus Jijona bei Alicante, steht auf jedem Tisch. Der 28. Dezember ist der spanische 1. April. An der Küste ist es oft sonnig genug für einen Strandspaziergang.",
+  "intro": [
+   "Weihnachten an der spanischen Küste heißt sonnige Spaziergänge unter Palmen mit Lichterketten, volle Terrassen und lange Familienessen. Es fühlt sich anders an als in Deutschland, Österreich oder der Schweiz, aber genauso festlich.",
+   "Hier der spanische Weihnachtskalender und die Traditionen dahinter."
+  ],
+  "sections": [
+   {
+    "id": "season",
+    "h2": "Eine Zeit, kein Tag",
+    "alt": "Stadtplatz mit Weihnachtsbeleuchtung und Baum bei Nacht",
+    "html": "<p>Ende November oder Anfang Dezember gehen die Lichter an, auf den Plätzen entstehen Märkte und Eisbahnen. Die wichtigsten Feiertage sind der 8. Dezember (Mariä Empfängnis), der 25. Dezember, der 1. und der 6. Januar. Der 26. Dezember ist in den meisten Regionen kein Feiertag. Die Schulferien dauern meist vom 22. Dezember bis zum 7. Januar. Berühmt für ihre Lichter sind die Calle Larios in Málaga und Vigo.</p>"
+   },
+   {
+    "id": "belen",
+    "h2": "Krippen",
+    "alt": "Riesige Krippenfiguren auf einem Stadtplatz",
+    "html": "<p>In spanischen Wohnungen war die <em>Belén</em> (Krippe) lange wichtiger als der Baum. Rathäuser, Kirchen und Vereine bauen große Krippen auf, manche mit Hunderten Figuren, und ihr Besuch ist ein Familienausflug. Im Zentrum von Alicante standen in den letzten Jahren riesige Krippenfiguren. In Katalonien entdeckt man vielleicht den <em>Caganer</em>, eine freche Figur in der Krippe.</p>"
+   },
+   {
+    "id": "lottery",
+    "h2": "El Gordo, 22. Dezember",
+    "alt": "Reihen von Weihnachtslotterielosen",
+    "html": "<p>Die Weihnachtslotterie (<em>Lotería de Navidad</em>) ist eine der ältesten und größten der Welt. Familien, Kollegen und Bars teilen sich monatelang Lose, und am Morgen des 22. Dezember hört das ganze Land zu, wenn Kinder der Schule San Ildefonso in Madrid die Gewinnzahlen singen. Für viele Spanier beginnt damit Weihnachten.</p>"
+   },
+   {
+    "id": "food",
+    "h2": "Nochebuena und Weihnachtsessen",
+    "alt": "Stücke von Turrón und anderen Weihnachtssüßigkeiten",
+    "html": "<p>Heiligabend (<em>Nochebuena</em>) ist ein spätes Familienessen mit Meeresfrüchten, Fisch, Lamm oder Braten, danach gehen manche zur Mitternachtsmesse (<em>Misa del Gallo</em>). Der 25. ist ein entspanntes Mittagessen. Zum Nachtisch gibt es <em>Turrón</em>, Mandelnougat, hart (Alicante) oder weich (Jijona), beide aus dem Ort Jijona (Xixona) im Hinterland von Alicante, dazu Marzipan und <em>Polvorones</em>. Geschenke kommen traditionell am 6. Januar, inzwischen bringt aber auch Papá Noel am 25. etwas, und im Baskenland und in Katalonien gibt es eigene Figuren wie Olentzero und den Tió de Nadal.</p>"
+   },
+   {
+    "id": "inocentes",
+    "h2": "Día de los Inocentes, 28. Dezember",
+    "alt": "",
+    "html": "<p>Der 28. Dezember ist der spanische 1. April. Zeitungen und Fernsehen bringen erfundene Meldungen, und Freunde spielen sich kleine Streiche, etwa eine Papierfigur auf dem Rücken.</p>"
+   },
+   {
+    "id": "coast",
+    "h2": "Weihnachten an der Küste",
+    "alt": "Kirchturm und Palme mit Weihnachtsschmuck",
+    "html": "<p>An Costa Blanca und Costa del Sol sind Dezembertage oft sonnig und um 17–18 °C warm. Viele spazieren nach dem Essen an der Promenade, manche wagen ein Weihnachtsbad. Das ist ein Grund, warum so viele Mitteleuropäer heute den ganzen Winter hier verbringen. Siehe <a href=\"{up}de-de/neujahr-in-spanien.html\">Neujahr in Spanien</a> und <a href=\"{up}de-de/dreikonigstag-in-spanien.html\">Dreikönigstag</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Wann beginnt Weihnachten in Spanien?",
+    "Die Lichter gehen Ende November oder Anfang Dezember an, für viele beginnt die Festzeit aber mit der Lotterie El Gordo am 22. Dezember. Sie endet am 6. Januar."
+   ],
+   [
+    "Was isst man in Spanien an Weihnachten?",
+    "Meeresfrüchte, Fisch und Lamm oder Braten, danach Turrón, Marzipan und Polvorones."
+   ],
+   [
+    "Wer bringt in Spanien die Weihnachtsgeschenke?",
+    "Traditionell die Heiligen Drei Könige am 6. Januar. Papá Noel bringt heute oft auch am 25. Dezember etwas."
+   ],
+   [
+    "Ist der 26. Dezember in Spanien ein Feiertag?",
+    "In den meisten Regionen nicht, nur in einigen wie Katalonien und den Balearen."
+   ]
+  ],
+  "closing": {
+   "h2": "Ein Winterzuhause in der Sonne",
+   "alt": "",
+   "html": "<p>Weihnachten am Mittelmeer ist oft der Beginn der Idee eines Zweitwohnsitzes. Wenn das nach Ihnen klingt, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>, und wir helfen Ihnen, ein Zuhause an der Küste zu finden.</p>"
+  },
+  "slug": "weihnachten-in-spanien"
+ },
+ "es": {
+  "title": "Navidad en España – Tradiciones, Lotería de Navidad, gastronomía y calendario",
+  "description": "Cómo se vive la Navidad en España: luces desde finales de noviembre, belenes, el Gordo del 22 de diciembre, la cena de Nochebuena, el turrón de Jijona, el Día de los Inocentes y unas fiestas que duran hasta el 6 de enero.",
+  "crumb": "Navidad en España",
+  "eyebrow": "Vivir en España · Tradiciones",
+  "h1": "La Navidad en España: tradiciones y fiestas",
+  "hero_alt": "Letrero de Feliz Navidad hecho con plantas entre palmeras",
+  "short": "En España la Navidad es toda una temporada: las luces se encienden a finales de noviembre, el sorteo del Gordo del 22 de diciembre marca el verdadero comienzo, la Nochebuena es una cena familiar tardía y las fiestas no terminan hasta el 6 de enero con los Reyes Magos. El belén es más tradicional que el árbol. El turrón de Jijona, en la provincia de Alicante, no falta en ninguna mesa. El 28 de diciembre es el Día de los Inocentes. En la costa, suele hacer sol para pasear junto al mar.",
+  "intro": [
+   "La Navidad en la costa española son paseos al sol bajo palmeras iluminadas, terrazas llenas y largas comidas en familia. Distinta a la del norte de Europa, pero igual de festiva.",
+   "Este es el calendario navideño español y las tradiciones que lo acompañan."
+  ],
+  "sections": [
+   {
+    "id": "season",
+    "h2": "Una temporada, no un día",
+    "alt": "Plaza con luces de Navidad y árbol de noche",
+    "html": "<p>Los municipios encienden el alumbrado a finales de noviembre o principios de diciembre, y en las plazas aparecen mercadillos y pistas de hielo. Los festivos principales son el 8 de diciembre (Inmaculada), el 25 de diciembre y el 1 y 6 de enero. Las vacaciones escolares suelen ir del 22 de diciembre al 7 de enero. La calle Larios de Málaga y Vigo son famosas por sus luces.</p>"
+   },
+   {
+    "id": "belen",
+    "h2": "Los belenes",
+    "alt": "Figuras gigantes del belén en una plaza",
+    "html": "<p>En los hogares españoles el belén ha sido durante mucho tiempo más importante que el árbol. Ayuntamientos, iglesias y asociaciones montan belenes enormes, algunos con cientos de figuras, y visitarlos es un plan familiar. En el centro de Alicante se han instalado en los últimos años figuras gigantes del belén. En Cataluña es fácil encontrar el caganer escondido entre las figuras.</p>"
+   },
+   {
+    "id": "lottery",
+    "h2": "El Gordo, 22 de diciembre",
+    "alt": "Filas de décimos de la Lotería de Navidad",
+    "html": "<p>La Lotería de Navidad es uno de los sorteos más antiguos y grandes del mundo. Familias, compañeros de trabajo y bares comparten décimos durante meses, y la mañana del 22 de diciembre todo el país escucha a los niños del colegio de San Ildefonso cantar los números. Para muchos, ahí empieza de verdad la Navidad.</p>"
+   },
+   {
+    "id": "food",
+    "h2": "Nochebuena y la mesa navideña",
+    "alt": "Trozos de turrón y otros dulces navideños",
+    "html": "<p>La Nochebuena es una cena familiar tardía con marisco, pescado, cordero o asado, y hay quien va después a la Misa del Gallo. El día de Navidad se come con calma. De postre, <em>turrón</em> duro (de Alicante) o blando (de Jijona), ambos de Jijona (Xixona), en el interior de la provincia, además de mazapán y polvorones. Los regalos llegan tradicionalmente el 6 de enero, aunque Papá Noel trae cada vez más el 25, y en el País Vasco y Cataluña están el Olentzero y el Tió de Nadal.</p>"
+   },
+   {
+    "id": "inocentes",
+    "h2": "Día de los Inocentes, 28 de diciembre",
+    "alt": "",
+    "html": "<p>El 28 de diciembre es el día de las bromas: los medios publican noticias falsas y los amigos se gastan inocentadas, como pegar un muñeco de papel en la espalda.</p>"
+   },
+   {
+    "id": "coast",
+    "h2": "La Navidad en la costa",
+    "alt": "Torre de iglesia y palmera con adorno navideño",
+    "html": "<p>En la Costa Blanca y la Costa del Sol, los días de diciembre suelen ser soleados y de unos 17–18 °C. Mucha gente pasea por el paseo marítimo después de comer, y algunos se atreven con un baño navideño. Vea <a href=\"{up}es-es/ano-nuevo-en-espana.html\">el Año Nuevo en España</a> y <a href=\"{up}es-es/los-reyes-magos-en-espana.html\">los Reyes Magos</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuándo empieza la Navidad en España?",
+    "Las luces se encienden a finales de noviembre o principios de diciembre, pero para muchos la Navidad empieza con el Gordo del 22 de diciembre. Termina el 6 de enero."
+   ],
+   [
+    "¿Qué se come en Navidad en España?",
+    "Marisco, pescado y cordero o asados, y de postre turrón, mazapán y polvorones."
+   ],
+   [
+    "¿Quién trae los regalos en España?",
+    "Tradicionalmente los Reyes Magos el 6 de enero. Papá Noel trae cada vez más regalos el 25 de diciembre."
+   ],
+   [
+    "¿Qué es el Día de los Inocentes?",
+    "El 28 de diciembre, el día de las bromas y las noticias falsas en los medios."
+   ]
+  ],
+  "closing": {
+   "h2": "Un invierno al sol",
+   "alt": "",
+   "html": "<p>Pasar la Navidad junto al Mediterráneo es a menudo el comienzo de la idea de una segunda residencia. Si es su caso, <a href=\"{up}index.html#contact\">escríbanos</a> y le ayudaremos a encontrar una casa en la costa.</p>"
+  },
+  "slug": "navidad-en-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/boze-narodzenie-w-hiszpanii"
+}

@@ -1,0 +1,279 @@
+{
+ "author": "lucyna",
+ "published": "2024-12-08",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/alicante-what-to-see/alicante-port-and-old-town-from-santa-barbara-castle.jpg",
+ "images": {
+  "castle": "assets/blog/alicante-what-to-see/castle-turret-above-the-turquoise-sea-in-alicante.jpg",
+  "oldtown": "assets/blog/alicante-what-to-see/flower-filled-street-in-the-santa-cruz-quarter.jpg",
+  "beaches": "assets/blog/alicante-what-to-see/palm-trees-on-san-juan-beach-alicante.jpg",
+  "trips": "assets/blog/alicante-what-to-see/palm-grove-in-elche.jpg"
+ },
+ "cards": [
+  "26157630",
+  "23844656",
+  "26239846"
+ ],
+ "sources": [
+  [
+   "Alicante City Tourism",
+   "https://www.alicanteturismo.com/"
+  ],
+  [
+   "AEMET – Climate normals 1991–2020, Alicante",
+   "https://www.aemet.es/"
+  ],
+  [
+   "MARQ – Archaeological Museum of Alicante",
+   "https://www.marqalicante.com/"
+  ],
+  [
+   "Aena – Alicante-Elche Miguel Hernández Airport",
+   "https://www.aena.es/en/alicante-elche.html"
+  ]
+ ],
+ "en": {
+  "title": "What to See in Alicante – Top Sights, Beaches, Day Trips and Practical Tips",
+  "description": "A practical guide to Alicante: Santa Bárbara castle, the Santa Cruz quarter, the Explanada, MARQ and other museums, the best beaches, day trips to Tabarca and Elche, the weather by season and getting from the airport.",
+  "crumb": "What to see in Alicante",
+  "eyebrow": "Places · Costa Blanca",
+  "h1": "Alicante: What to See in Spain's Sunniest City",
+  "hero_alt": "Alicante port, marina and old town seen from Santa Bárbara castle",
+  "short": "Alicante is the capital of the Costa Blanca, about 10 km from its international airport. Its top sights are Santa Bárbara castle on Mount Benacantil, the Santa Cruz quarter, the Basilica of Santa María, the palm-lined Explanada de España, Casa Carbonell, the MARQ archaeological museum and the central market. The city beach of El Postiguet is in the centre, and San Juan beach stretches for about 7 km to the north. Easy day trips include Tabarca island, Elche's UNESCO palm grove and the Canelobre caves. The city has about 2,850 hours of sun a year.",
+  "intro": [
+   "Alicante is a port city with a relaxed Mediterranean pace: palm trees, sea views from almost every hill and a lively old town at the foot of a castle. It is also a working city, with a university, a big hospital and shops that stay open all year.",
+   "Here is what to see, the best beaches and some practical tips for your visit."
+  ],
+  "sections": [
+   {
+    "id": "weather",
+    "h2": "When to visit",
+    "alt": "",
+    "html": "<p>Alicante is one of the sunniest cities in Spain, with about 2,850 hours of sun a year. Spring and autumn are ideal for sightseeing, with highs of 21–25 °C in April, May and October. The sea is warm enough for swimming from June to October, and in August daytime highs are around 31 °C. Winter is mild, about 17–18 °C during the day from December to February. Read more in <a href=\"{up}weather-in-alicante.html\">the weather in Alicante</a>.</p>"
+   },
+   {
+    "id": "airport",
+    "h2": "Getting from the airport",
+    "alt": "",
+    "html": "<ul><li><strong>Bus C6</strong> – the cheapest option, from outside arrivals to the centre in about 30 minutes, with tickets around €4.</li><li><strong>Taxi</strong> – about 20 minutes to the centre, usually €25–30.</li><li><strong>Rental car</strong> – the best choice if you plan to explore the coast. Book ahead to save time at the desk.</li></ul>"
+   },
+   {
+    "id": "castle",
+    "h2": "Santa Bárbara castle",
+    "alt": "Stone turret of the castle above the turquoise sea",
+    "html": "<p>The castle on Mount Benacantil, 166 m above the sea, has Moorish origins and was rebuilt many times. Inside you can walk the walls and courtyards, see small exhibitions and enjoy the best view of the city, the port and the coast. A lift from the Postiguet side takes you up; walking down through the old town is a pleasant way back.</p>"
+   },
+   {
+    "id": "oldtown",
+    "h2": "The old town and the Santa Cruz quarter",
+    "alt": "Narrow street with flower pots and tiles in the Santa Cruz quarter",
+    "html": "<p>Below the castle, the white houses of <strong>Santa Cruz</strong> climb the hill with steps, flower pots and painted tiles. In the old town (El Barrio) see the Gothic <strong>Basilica of Santa María</strong>, the <strong>Co-Cathedral of San Nicolás</strong> and the 18th-century <strong>town hall</strong>. Children love the <strong>Carrer dels Bolets</strong>, a street with giant mushroom sculptures. In the evening the old town fills with tapas bars.</p>"
+   },
+   {
+    "id": "explanada",
+    "h2": "The Explanada, the port and the museums",
+    "alt": "",
+    "html": "<p>The <strong>Explanada de España</strong>, paved with millions of wave-patterned tiles and lined with palm trees, runs along the marina. At its end stands <strong>Casa Carbonell</strong> (1925), one of the city's most beautiful buildings. Museums worth your time include the <strong>MARQ</strong> archaeological museum, named European Museum of the Year in 2004, the <strong>MACA</strong> museum of contemporary art and the Gravina fine arts museum. Do not miss the <strong>Mercado Central</strong> for fresh fish, fruit and local rice.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Beaches",
+    "alt": "Palm trees and the wide sand of San Juan beach",
+    "html": "<ul><li><strong>El Postiguet</strong> – the city beach under the castle, a few minutes' walk from the old town.</li><li><strong>La Albufereta</strong> – a small, calm bay a short tram ride north.</li><li><strong>San Juan</strong> – about 7 km of fine sand towards El Campello, with a promenade and water sports.</li></ul><p>See our <a href=\"{up}costa-blanca-beaches-you-must-visit.html\">guide to Costa Blanca beaches</a>.</p>"
+   },
+   {
+    "id": "trips",
+    "h2": "Day trips",
+    "alt": "Tall palm trees in the Elche palm grove",
+    "html": "<ul><li><strong>Tabarca</strong> – Spain's smallest inhabited island, a marine reserve with a walled village, reached by boat from the port in about an hour.</li><li><strong>Elche</strong> – about 25 minutes away, with Europe's largest palm grove, a UNESCO World Heritage site.</li><li><strong>Canelobre caves</strong> – a huge cave near Busot, about 30 minutes inland.</li><li><strong>Torrevieja</strong> – the pink salt lake and La Mata natural park, about 45 minutes south.</li><li><strong>Calpe</strong> – the Peñón de Ifach, about an hour north. See <a href=\"{up}calpe-what-to-see.html\">what to see in Calpe</a>.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "How far is Alicante airport from the city centre?",
+    "About 10 km. The C6 bus takes around 30 minutes and a taxi around 20 minutes."
+   ],
+   [
+    "What is Alicante best known for?",
+    "Its castle, sunny climate, palm-lined Explanada, beaches and the Hogueras de San Juan festival in June."
+   ],
+   [
+    "What is the best beach in Alicante?",
+    "El Postiguet is the most central. San Juan is the longest and best for families and water sports."
+   ],
+   [
+    "Is Alicante worth visiting in winter?",
+    "Yes. Days are usually sunny and around 17–18 °C, ideal for walking and sightseeing without the summer crowds."
+   ]
+  ],
+  "closing": {
+   "h2": "Living in Alicante",
+   "alt": "",
+   "html": "<p>Alicante combines city life, beaches and the airport on the doorstep, which makes it one of the easiest places on the coast to live. Compare prices in our <a href=\"{up}alicante-lifestyle-prices-who-buys-here.html\">Alicante property market guide</a>, see our <a href=\"{up}properties-for-sale-in-alicante.html\">homes for sale in Alicante</a> or <a href=\"{up}index.html#contact\">get in touch</a>.</p>"
+  },
+  "slug": "alicante-what-to-see-in-spains-sunniest-city"
+ },
+ "de": {
+  "title": "Alicante – Sehenswürdigkeiten, Strände, Ausflüge und praktische Tipps",
+  "description": "Praktischer Ratgeber für Alicante: Burg Santa Bárbara, das Viertel Santa Cruz, die Explanada, das MARQ und andere Museen, die besten Strände, Ausflüge nach Tabarca und Elche, Wetter je Jahreszeit und Anreise vom Flughafen.",
+  "crumb": "Alicante Sehenswürdigkeiten",
+  "eyebrow": "Orte · Costa Blanca",
+  "h1": "Alicante: Was gibt es in Spaniens sonnigster Stadt zu sehen?",
+  "hero_alt": "Hafen, Marina und Altstadt von Alicante von der Burg Santa Bárbara aus",
+  "short": "Alicante ist die Hauptstadt der Costa Blanca, etwa 10 km vom internationalen Flughafen. Die wichtigsten Sehenswürdigkeiten sind die Burg Santa Bárbara auf dem Benacantil, das Viertel Santa Cruz, die Basilika Santa María, die Palmenpromenade Explanada de España, die Casa Carbonell, das archäologische Museum MARQ und die Markthalle. Der Stadtstrand El Postiguet liegt im Zentrum, der Strand San Juan erstreckt sich rund 7 km nach Norden. Leichte Tagesausflüge führen zur Insel Tabarca, zum UNESCO-Palmenhain von Elche und zu den Höhlen von Canelobre. Die Stadt hat rund 2.850 Sonnenstunden im Jahr.",
+  "intro": [
+   "Alicante ist eine Hafenstadt mit entspanntem Mittelmeer-Rhythmus: Palmen, Meerblick von fast jedem Hügel und eine lebendige Altstadt zu Füßen einer Burg. Zugleich ist sie eine arbeitende Stadt mit Universität, großem Krankenhaus und Geschäften, die das ganze Jahr geöffnet sind.",
+   "Hier die Sehenswürdigkeiten, die besten Strände und praktische Tipps für Ihren Besuch."
+  ],
+  "sections": [
+   {
+    "id": "weather",
+    "h2": "Beste Reisezeit",
+    "alt": "",
+    "html": "<p>Alicante gehört mit rund 2.850 Sonnenstunden im Jahr zu den sonnigsten Städten Spaniens. Frühling und Herbst sind ideal für Besichtigungen, mit 21–25 °C im April, Mai und Oktober. Baden kann man von Juni bis Oktober, im August liegen die Höchstwerte um 31 °C. Der Winter ist mild, tagsüber etwa 17–18 °C von Dezember bis Februar. Mehr im <a href=\"{up}de-de/wetter-in-alicante.html\">Wetter in Alicante</a>.</p>"
+   },
+   {
+    "id": "airport",
+    "h2": "Vom Flughafen in die Stadt",
+    "alt": "",
+    "html": "<ul><li><strong>Bus C6</strong> – die günstigste Option, ab der Ankunftshalle in etwa 30 Minuten ins Zentrum, Ticket rund 4 €.</li><li><strong>Taxi</strong> – etwa 20 Minuten ins Zentrum, meist 25–30 €.</li><li><strong>Mietwagen</strong> – ideal, wenn Sie die Küste erkunden möchten. Im Voraus buchen spart Zeit am Schalter.</li></ul>"
+   },
+   {
+    "id": "castle",
+    "h2": "Burg Santa Bárbara",
+    "alt": "Steinerner Burgturm über dem türkisfarbenen Meer",
+    "html": "<p>Die Burg auf dem Benacantil, 166 m über dem Meer, hat maurische Ursprünge und wurde mehrfach umgebaut. Man spaziert über Mauern und Höfe, sieht kleine Ausstellungen und hat den besten Blick über Stadt, Hafen und Küste. Ein Aufzug auf der Seite des Postiguet bringt Sie hinauf, der Weg hinunter durch die Altstadt ist ein schöner Rückweg.</p>"
+   },
+   {
+    "id": "oldtown",
+    "h2": "Altstadt und Viertel Santa Cruz",
+    "alt": "Enge Gasse mit Blumentöpfen und Fliesen im Viertel Santa Cruz",
+    "html": "<p>Unterhalb der Burg klettern die weißen Häuser von <strong>Santa Cruz</strong> mit Treppen, Blumentöpfen und bemalten Fliesen den Hang hinauf. In der Altstadt (El Barrio) stehen die gotische <strong>Basilika Santa María</strong>, die <strong>Konkathedrale San Nicolás</strong> und das <strong>Rathaus</strong> aus dem 18. Jahrhundert. Kinder lieben die <strong>Carrer dels Bolets</strong> mit riesigen Pilzskulpturen. Abends füllt sich die Altstadt mit Tapasbars.</p>"
+   },
+   {
+    "id": "explanada",
+    "h2": "Explanada, Hafen und Museen",
+    "alt": "",
+    "html": "<p>Die <strong>Explanada de España</strong>, mit Millionen Fliesen im Wellenmuster gepflastert und von Palmen gesäumt, verläuft am Yachthafen. An ihrem Ende steht die <strong>Casa Carbonell</strong> (1925), eines der schönsten Gebäude der Stadt. Sehenswert sind das archäologische Museum <strong>MARQ</strong>, 2004 Europäisches Museum des Jahres, das Museum für zeitgenössische Kunst <strong>MACA</strong> und das Kunstmuseum Gravina. Nicht verpassen: den <strong>Mercado Central</strong> mit frischem Fisch, Obst und Reis aus der Region.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Strände",
+    "alt": "Palmen und breiter Sand am Strand San Juan",
+    "html": "<ul><li><strong>El Postiguet</strong> – der Stadtstrand unter der Burg, wenige Gehminuten von der Altstadt.</li><li><strong>La Albufereta</strong> – eine kleine, ruhige Bucht, wenige Stationen mit der Tram nach Norden.</li><li><strong>San Juan</strong> – rund 7 km feiner Sand Richtung El Campello, mit Promenade und Wassersport.</li></ul>"
+   },
+   {
+    "id": "trips",
+    "h2": "Tagesausflüge",
+    "alt": "Hohe Palmen im Palmenhain von Elche",
+    "html": "<ul><li><strong>Tabarca</strong> – Spaniens kleinste bewohnte Insel, ein Meeresschutzgebiet mit ummauertem Dorf, per Boot ab Hafen in etwa einer Stunde.</li><li><strong>Elche</strong> – etwa 25 Minuten entfernt, mit Europas größtem Palmenhain, UNESCO-Welterbe.</li><li><strong>Höhlen von Canelobre</strong> – eine riesige Höhle bei Busot, rund 30 Minuten landeinwärts.</li><li><strong>Torrevieja</strong> – der rosa Salzsee und der Naturpark La Mata, etwa 45 Minuten südlich.</li><li><strong>Calpe</strong> – der Peñón de Ifach, rund eine Stunde nördlich. Siehe <a href=\"{up}de-de/calpe-sehenswurdigkeiten.html\">Calpe Sehenswürdigkeiten</a>.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "Wie weit ist der Flughafen Alicante vom Zentrum entfernt?",
+    "Etwa 10 km. Der Bus C6 braucht rund 30 Minuten, ein Taxi etwa 20 Minuten."
+   ],
+   [
+    "Wofür ist Alicante bekannt?",
+    "Für seine Burg, das sonnige Klima, die Palmenpromenade Explanada, die Strände und das Fest Hogueras de San Juan im Juni."
+   ],
+   [
+    "Welcher ist der beste Strand in Alicante?",
+    "El Postiguet ist der zentralste, San Juan der längste und beste für Familien und Wassersport."
+   ],
+   [
+    "Lohnt sich Alicante im Winter?",
+    "Ja. Die Tage sind meist sonnig und etwa 17–18 °C warm, ideal für Spaziergänge und Besichtigungen ohne Sommertrubel."
+   ]
+  ],
+  "closing": {
+   "h2": "Leben in Alicante",
+   "alt": "",
+   "html": "<p>Alicante verbindet Stadtleben, Strände und den Flughafen vor der Tür und ist damit einer der einfachsten Orte zum Leben an der Küste. Preise finden Sie in unserem <a href=\"{up}de-de/lifestyle-preise-in-alicante-wer-kauft-hier.html\">Ratgeber zum Immobilienmarkt in Alicante</a>, oder <a href=\"{up}index.html#contact\">schreiben Sie uns</a>.</p>"
+  },
+  "slug": "alicante-was-gibt-es-in-spaniens-sonnigster-stadt-zu-sehen"
+ },
+ "es": {
+  "title": "Qué ver en Alicante – Imprescindibles, playas, excursiones y consejos prácticos",
+  "description": "Guía práctica de Alicante: el castillo de Santa Bárbara, el barrio de Santa Cruz, la Explanada, el MARQ y otros museos, las mejores playas, excursiones a Tabarca y Elche, el tiempo por estaciones y cómo llegar desde el aeropuerto.",
+  "crumb": "Qué ver en Alicante",
+  "eyebrow": "Lugares · Costa Blanca",
+  "h1": "Alicante: qué ver en la ciudad más soleada de España",
+  "hero_alt": "Puerto, puerto deportivo y casco antiguo de Alicante desde el castillo de Santa Bárbara",
+  "short": "Alicante es la capital de la Costa Blanca, a unos 10 km de su aeropuerto internacional. Lo imprescindible es el castillo de Santa Bárbara en el monte Benacantil, el barrio de Santa Cruz, la basílica de Santa María, la Explanada de España, la Casa Carbonell, el museo arqueológico MARQ y el Mercado Central. La playa del Postiguet está en pleno centro y la de San Juan se extiende unos 7 km hacia el norte. Excursiones fáciles: la isla de Tabarca, el Palmeral de Elche y las cuevas del Canelobre. La ciudad tiene unas 2.850 horas de sol al año.",
+  "intro": [
+   "Alicante es una ciudad portuaria con ritmo mediterráneo: palmeras, vistas al mar desde casi cualquier colina y un casco antiguo animado a los pies de un castillo. También es una ciudad que trabaja, con universidad, gran hospital y comercios abiertos todo el año.",
+   "Esto es lo que hay que ver, las mejores playas y algunos consejos prácticos para su visita."
+  ],
+  "sections": [
+   {
+    "id": "weather",
+    "h2": "Cuándo ir",
+    "alt": "",
+    "html": "<p>Alicante es una de las ciudades más soleadas de España, con unas 2.850 horas de sol al año. La primavera y el otoño son ideales para hacer turismo, con máximas de 21–25 °C en abril, mayo y octubre. El agua invita al baño de junio a octubre, y en agosto las máximas rondan los 31 °C. El invierno es suave, con unos 17–18 °C de día entre diciembre y febrero. Más en <a href=\"{up}es-es/el-clima-en-alicante.html\">el clima en Alicante</a>.</p>"
+   },
+   {
+    "id": "airport",
+    "h2": "Cómo llegar desde el aeropuerto",
+    "alt": "",
+    "html": "<ul><li><strong>Autobús C6</strong> – la opción más barata, de la salida de llegadas al centro en unos 30 minutos, con billete de unos 4 €.</li><li><strong>Taxi</strong> – unos 20 minutos hasta el centro, normalmente 25–30 €.</li><li><strong>Coche de alquiler</strong> – lo mejor si quiere recorrer la costa. Reservar con antelación ahorra tiempo en el mostrador.</li></ul>"
+   },
+   {
+    "id": "castle",
+    "h2": "El castillo de Santa Bárbara",
+    "alt": "Torreón de piedra del castillo sobre el mar turquesa",
+    "html": "<p>El castillo del monte Benacantil, a 166 m sobre el mar, tiene origen andalusí y se reformó muchas veces. Se pueden recorrer murallas y patios, ver pequeñas exposiciones y disfrutar de la mejor vista de la ciudad, el puerto y la costa. Un ascensor sube desde el lado del Postiguet, y bajar a pie por el casco antiguo es una buena forma de volver.</p>"
+   },
+   {
+    "id": "oldtown",
+    "h2": "El casco antiguo y el barrio de Santa Cruz",
+    "alt": "Calle estrecha con macetas y azulejos en el barrio de Santa Cruz",
+    "html": "<p>Bajo el castillo, las casas blancas de <strong>Santa Cruz</strong> trepan por la ladera con escaleras, macetas y azulejos pintados. En el casco antiguo (El Barrio) están la gótica <strong>basílica de Santa María</strong>, la <strong>concatedral de San Nicolás</strong> y el <strong>ayuntamiento</strong> del siglo XVIII. A los niños les encanta el <strong>Carrer dels Bolets</strong>, con setas gigantes. Por la noche, el casco antiguo se llena de bares de tapas.</p>"
+   },
+   {
+    "id": "explanada",
+    "h2": "La Explanada, el puerto y los museos",
+    "alt": "",
+    "html": "<p>La <strong>Explanada de España</strong>, con millones de teselas en forma de ola y bordeada de palmeras, recorre el puerto deportivo. Al final se alza la <strong>Casa Carbonell</strong> (1925), uno de los edificios más bonitos de la ciudad. Entre los museos destacan el <strong>MARQ</strong>, Museo Europeo del Año en 2004, el <strong>MACA</strong> de arte contemporáneo y el museo de Bellas Artes Gravina. No se pierda el <strong>Mercado Central</strong>, con pescado fresco, fruta y arroz de la zona.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Playas",
+    "alt": "Palmeras y la amplia arena de la playa de San Juan",
+    "html": "<ul><li><strong>El Postiguet</strong> – la playa urbana bajo el castillo, a pocos minutos a pie del casco antiguo.</li><li><strong>La Albufereta</strong> – una pequeña bahía tranquila a pocas paradas de tranvía hacia el norte.</li><li><strong>San Juan</strong> – unos 7 km de arena fina hacia El Campello, con paseo y deportes náuticos.</li></ul>"
+   },
+   {
+    "id": "trips",
+    "h2": "Excursiones de un día",
+    "alt": "Palmeras altas en el Palmeral de Elche",
+    "html": "<ul><li><strong>Tabarca</strong> – la isla habitada más pequeña de España, reserva marina con un pueblo amurallado, a una hora en barco desde el puerto.</li><li><strong>Elche</strong> – a unos 25 minutos, con el mayor palmeral de Europa, Patrimonio Mundial.</li><li><strong>Cuevas del Canelobre</strong> – una enorme cavidad cerca de Busot, a unos 30 minutos hacia el interior.</li><li><strong>Torrevieja</strong> – la laguna rosa y el parque natural de La Mata, a unos 45 minutos al sur.</li><li><strong>Calpe</strong> – el Peñón de Ifach, a una hora al norte. Vea <a href=\"{up}es-es/que-ver-en-calpe.html\">qué ver en Calpe</a>.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "¿A qué distancia está el aeropuerto de Alicante del centro?",
+    "A unos 10 km. El autobús C6 tarda unos 30 minutos y un taxi unos 20."
+   ],
+   [
+    "¿Por qué es famosa Alicante?",
+    "Por su castillo, su clima soleado, la Explanada, sus playas y las Hogueras de San Juan en junio."
+   ],
+   [
+    "¿Cuál es la mejor playa de Alicante?",
+    "El Postiguet es la más céntrica. San Juan es la más larga y la mejor para familias y deportes náuticos."
+   ],
+   [
+    "¿Merece la pena Alicante en invierno?",
+    "Sí. Los días suelen ser soleados y de unos 17–18 °C, perfectos para pasear sin las multitudes del verano."
+   ]
+  ],
+  "closing": {
+   "h2": "Vivir en Alicante",
+   "alt": "",
+   "html": "<p>Alicante combina vida urbana, playas y el aeropuerto al lado, lo que la convierte en uno de los lugares más cómodos de la costa para vivir. Compare precios en nuestra <a href=\"{up}es-es/alicante-estilo-de-vida-precios-inmobiliarios-y-quien-compra-aqui.html\">guía del mercado inmobiliario de Alicante</a> o <a href=\"{up}index.html#contact\">escríbanos</a>.</p>"
+  },
+  "slug": "alicante-que-ver-en-la-ciudad-mas-soleada-de-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/alicante-co-zobaczy-w-najbardziej-slonecznym-miescie-hiszpanii"
+}

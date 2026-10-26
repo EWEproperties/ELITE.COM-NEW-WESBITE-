@@ -1,0 +1,314 @@
+{
+ "author": "anita",
+ "published": "2024-11-10",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/top-hotels-alicante/infinity-pool-terrace-facing-the-sea-at-sunset.jpg",
+ "images": {
+  "amerigo": "assets/blog/top-hotels-alicante/bright-hotel-lounge-with-library-and-palm.jpg",
+  "melia": "assets/blog/top-hotels-alicante/hotel-pool-between-tall-buildings-from-above.jpg",
+  "palacete": "assets/blog/top-hotels-alicante/boutique-hotel-room-with-stone-walls.jpg",
+  "alberola": "assets/blog/top-hotels-alicante/balcony-view-of-palm-trees-and-the-marina.jpg",
+  "portico": "assets/blog/top-hotels-alicante/rooftop-terrace-with-view-of-the-town-hall-tower.jpg",
+  "portamaris": "assets/blog/top-hotels-alicante/indoor-spa-pool-with-blue-lighting.jpg",
+  "nh": "assets/blog/top-hotels-alicante/modern-city-hotel-behind-trees.jpg"
+ },
+ "cards": [
+  "26157630",
+  "23844656",
+  "26239846"
+ ],
+ "sources": [
+  [
+   "Alicante City Tourism – Where to stay",
+   "https://www.alicanteturismo.com/"
+  ],
+  [
+   "Hospes Amérigo",
+   "https://www.hospes.com/amerigo-alicante/"
+  ],
+  [
+   "Meliá Hotels",
+   "https://www.melia.com/"
+  ]
+ ],
+ "en": {
+  "title": "Top Hotels in Alicante – Where to Stay in the Old Town, by the Marina and on the Beach",
+  "description": "The best hotels in Alicante, from Hospes Amérigo in a former convent and Casa Alberola by the marina to beach hotels at El Postiguet and San Juan, with tips on which area to choose.",
+  "crumb": "Top hotels in Alicante",
+  "eyebrow": "Places · Costa Blanca",
+  "h1": "Top Hotels in Alicante",
+  "hero_alt": "Hotel infinity pool terrace facing the sea at sunset",
+  "short": "For a city break in Alicante, stay in the old town or by the marina: Hospes Amérigo (5-star, in a former convent), Casa Alberola by Hilton and the adults-only Palacete S.XVII are the most stylish. For the beach, Meliá Alicante and Porta Maris sit next to El Postiguet, and Port Alicante City & Beach is at Playa de San Juan. Eurostars Pórtico and NH Alicante are practical central options. Book early for June (Hogueras), Easter and summer.",
+  "intro": [
+   "Alicante has hotels for every kind of trip, from historic boutique stays in the old town to big beach hotels with pools. Where you stay matters more than the stars: the old town and the marina are best for walking and restaurants, Playa de San Juan for a beach holiday.",
+   "Here is our shortlist, often recommended to clients who come to view homes on the Costa Blanca."
+  ],
+  "sections": [
+   {
+    "id": "amerigo",
+    "h2": "Hospes Amérigo – 5-star in a former convent",
+    "alt": "Bright hotel lounge with a library wall and a palm",
+    "html": "<p>In the heart of the old town, a converted Dominican convent with modern interiors, a rooftop pool and spa with castle views, and a well-known restaurant. Ideal for a stylish city break on foot.</p>"
+   },
+   {
+    "id": "melia",
+    "h2": "Meliá Alicante – on Postiguet beach",
+    "alt": "Hotel pool between tall buildings seen from above",
+    "html": "<p>A large hotel right between the marina and El Postiguet beach. Many rooms have sea views, and there is an outdoor pool, spa and gym. Good for families and for those who want the beach on the doorstep.</p>"
+   },
+   {
+    "id": "palacete",
+    "h2": "Hotel Boutique Alicante Palacete S.XVII – adults only",
+    "alt": "Boutique hotel room with old stone walls and a balcony",
+    "html": "<p>A small adults-only hotel in a 17th-century palace in the old town, with individually designed rooms, a cocktail bar and a wine cellar. Perfect for couples.</p>"
+   },
+   {
+    "id": "alberola",
+    "h2": "Casa Alberola, Curio Collection by Hilton",
+    "alt": "Balcony view over palm trees and the marina",
+    "html": "<p>A historic neoclassical building facing the marina and the Explanada, restored as a boutique hotel with a rooftop terrace and a seafood-focused restaurant.</p>"
+   },
+   {
+    "id": "portico",
+    "h2": "Eurostars Pórtico Alicante",
+    "alt": "Rooftop terrace with a view of the town hall tower",
+    "html": "<p>A comfortable city hotel next to the town hall, with a rooftop terrace overlooking the old town. A practical base for sightseeing.</p>"
+   },
+   {
+    "id": "portamaris",
+    "h2": "Hotel Spa Porta Maris by Meliá",
+    "alt": "Indoor spa pool with blue lighting",
+    "html": "<p>A 4-star hotel on the marina, a short walk from El Postiguet, with sea-view rooms and a spa with a heated indoor pool.</p>"
+   },
+   {
+    "id": "port",
+    "h2": "Port Alicante City & Beach",
+    "alt": "",
+    "html": "<p>A 4-star superior hotel at Playa de San Juan, close to the long beach and the tram to the centre, with a sky bar and an outdoor pool. A good choice for a beach holiday with city access.</p>"
+   },
+   {
+    "id": "nh",
+    "h2": "NH Alicante",
+    "alt": "Modern city hotel behind trees",
+    "html": "<p>A reliable business and city hotel near the centre, with easy access to the train station and the road to the airport.</p>"
+   },
+   {
+    "id": "where",
+    "h2": "Which area to choose",
+    "alt": "",
+    "html": "<ul><li><strong>Old town and Explanada</strong> – everything on foot, best for a first visit.</li><li><strong>Postiguet and the marina</strong> – beach and city together.</li><li><strong>Playa de San Juan</strong> – a long beach, calmer evenings and the tram to the centre.</li><li><strong>Near the station</strong> – practical for trains to Madrid and Valencia.</li></ul><p>See also <a href=\"{up}alicante-what-to-see-in-spains-sunniest-city.html\">what to see in Alicante</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "What is the best area to stay in Alicante?",
+    "The old town and the Explanada for sightseeing and restaurants, El Postiguet for the beach in the centre, and Playa de San Juan for a quieter beach holiday."
+   ],
+   [
+    "Are there 5-star hotels in Alicante?",
+    "Yes. Hospes Amérigo in the old town is the best known, in a converted convent with a rooftop pool and spa."
+   ],
+   [
+    "Which Alicante hotels are on the beach?",
+    "Meliá Alicante and Porta Maris are next to El Postiguet, and Port Alicante City & Beach is at Playa de San Juan."
+   ],
+   [
+    "When should I book a hotel in Alicante?",
+    "Early for Easter, the Hogueras de San Juan in June and July–August, when prices are highest."
+   ]
+  ],
+  "closing": {
+   "h2": "From hotel guest to home owner",
+   "alt": "",
+   "html": "<p>Many of our clients stay in Alicante while they view homes along the coast. If you are planning such a trip, <a href=\"{up}index.html#contact\">get in touch</a> and we will organise viewings around your stay. See our <a href=\"{up}properties-for-sale-in-alicante.html\">homes for sale in Alicante</a>.</p>"
+  },
+  "slug": "top-hotels-in-alicante"
+ },
+ "de": {
+  "title": "Die besten Hotels in Alicante – Altstadt, Yachthafen oder Strand",
+  "description": "Die besten Hotels in Alicante, vom Hospes Amérigo in einem ehemaligen Kloster und der Casa Alberola am Hafen bis zu Strandhotels am Postiguet und in San Juan, mit Tipps zur Wahl der Gegend.",
+  "crumb": "Die besten Hotels in Alicante",
+  "eyebrow": "Orte · Costa Blanca",
+  "h1": "Die besten Hotels in Alicante",
+  "hero_alt": "Infinity-Pool-Terrasse eines Hotels mit Blick aufs Meer bei Sonnenuntergang",
+  "short": "Für eine Städtereise nach Alicante wohnt man am besten in der Altstadt oder am Yachthafen: Hospes Amérigo (5 Sterne, in einem ehemaligen Kloster), Casa Alberola by Hilton und das Palacete S.XVII (nur für Erwachsene) sind die stilvollsten. Für den Strand liegen Meliá Alicante und Porta Maris am Postiguet, Port Alicante City & Beach an der Playa de San Juan. Eurostars Pórtico und NH Alicante sind praktische Optionen im Zentrum. Für Juni (Hogueras), Ostern und den Sommer früh buchen.",
+  "intro": [
+   "Alicante hat Hotels für jede Art von Reise, vom historischen Boutique-Hotel in der Altstadt bis zum großen Strandhotel mit Pool. Die Lage zählt mehr als die Sterne: Altstadt und Yachthafen sind ideal für Spaziergänge und Restaurants, die Playa de San Juan für Badeurlaub.",
+   "Hier unsere Auswahl, die wir oft Kunden empfehlen, die zu Besichtigungen an die Costa Blanca kommen."
+  ],
+  "sections": [
+   {
+    "id": "amerigo",
+    "h2": "Hospes Amérigo – 5 Sterne in einem ehemaligen Kloster",
+    "alt": "Helle Hotellounge mit Bücherwand und Palme",
+    "html": "<p>Mitten in der Altstadt, ein umgebautes Dominikanerkloster mit modernem Interieur, Dachpool und Spa mit Blick auf die Burg und einem bekannten Restaurant. Ideal für eine stilvolle Städtereise zu Fuß.</p>"
+   },
+   {
+    "id": "melia",
+    "h2": "Meliá Alicante – am Strand Postiguet",
+    "alt": "Hotelpool zwischen hohen Gebäuden von oben",
+    "html": "<p>Ein großes Hotel direkt zwischen Yachthafen und Strand El Postiguet. Viele Zimmer haben Meerblick, dazu Außenpool, Spa und Fitnessraum. Gut für Familien und alle, die den Strand vor der Tür wollen.</p>"
+   },
+   {
+    "id": "palacete",
+    "h2": "Hotel Boutique Alicante Palacete S.XVII – nur für Erwachsene",
+    "alt": "Boutique-Hotelzimmer mit alten Steinwänden und Balkon",
+    "html": "<p>Ein kleines Hotel nur für Erwachsene in einem Palast aus dem 17. Jahrhundert in der Altstadt, mit individuell gestalteten Zimmern, Cocktailbar und Weinkeller. Perfekt für Paare.</p>"
+   },
+   {
+    "id": "alberola",
+    "h2": "Casa Alberola, Curio Collection by Hilton",
+    "alt": "Blick vom Balkon auf Palmen und den Yachthafen",
+    "html": "<p>Ein historisches klassizistisches Gebäude gegenüber Hafen und Explanada, restauriert als Boutique-Hotel mit Dachterrasse und Restaurant mit Schwerpunkt Meeresfrüchte.</p>"
+   },
+   {
+    "id": "portico",
+    "h2": "Eurostars Pórtico Alicante",
+    "alt": "Dachterrasse mit Blick auf den Rathausturm",
+    "html": "<p>Ein komfortables Stadthotel neben dem Rathaus mit Dachterrasse über der Altstadt. Eine praktische Basis für Besichtigungen.</p>"
+   },
+   {
+    "id": "portamaris",
+    "h2": "Hotel Spa Porta Maris by Meliá",
+    "alt": "Spa-Innenpool mit blauer Beleuchtung",
+    "html": "<p>Ein 4-Sterne-Hotel am Yachthafen, wenige Schritte vom Postiguet, mit Zimmern mit Meerblick und Spa mit beheiztem Innenpool.</p>"
+   },
+   {
+    "id": "port",
+    "h2": "Port Alicante City & Beach",
+    "alt": "",
+    "html": "<p>Ein 4-Sterne-Superior-Hotel an der Playa de San Juan, nahe dem langen Strand und der Tram ins Zentrum, mit Sky Bar und Außenpool. Gut für Badeurlaub mit Stadtanbindung.</p>"
+   },
+   {
+    "id": "nh",
+    "h2": "NH Alicante",
+    "alt": "Modernes Stadthotel hinter Bäumen",
+    "html": "<p>Ein zuverlässiges Business- und Stadthotel nahe dem Zentrum, mit guter Anbindung an Bahnhof und Flughafenstraße.</p>"
+   },
+   {
+    "id": "where",
+    "h2": "Welche Gegend passt?",
+    "alt": "",
+    "html": "<ul><li><strong>Altstadt und Explanada</strong> – alles zu Fuß, ideal für den ersten Besuch.</li><li><strong>Postiguet und Yachthafen</strong> – Strand und Stadt zugleich.</li><li><strong>Playa de San Juan</strong> – langer Strand, ruhigere Abende und Tram ins Zentrum.</li><li><strong>Nahe dem Bahnhof</strong> – praktisch für Züge nach Madrid und Valencia.</li></ul><p>Siehe auch <a href=\"{up}de-de/alicante-was-gibt-es-in-spaniens-sonnigster-stadt-zu-sehen.html\">Sehenswürdigkeiten in Alicante</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Wo übernachtet man in Alicante am besten?",
+    "In Altstadt und an der Explanada für Besichtigungen und Restaurants, am Postiguet für den Strand im Zentrum und an der Playa de San Juan für ruhigeren Badeurlaub."
+   ],
+   [
+    "Gibt es 5-Sterne-Hotels in Alicante?",
+    "Ja. Am bekanntesten ist das Hospes Amérigo in der Altstadt, ein umgebautes Kloster mit Dachpool und Spa."
+   ],
+   [
+    "Welche Hotels in Alicante liegen am Strand?",
+    "Meliá Alicante und Porta Maris am Postiguet, Port Alicante City & Beach an der Playa de San Juan."
+   ],
+   [
+    "Wann sollte man ein Hotel in Alicante buchen?",
+    "Früh für Ostern, die Hogueras de San Juan im Juni und Juli–August, wenn die Preise am höchsten sind."
+   ]
+  ],
+  "closing": {
+   "h2": "Vom Hotelgast zum Eigentümer",
+   "alt": "",
+   "html": "<p>Viele unserer Kunden wohnen in Alicante, während sie Immobilien an der Küste besichtigen. Wenn Sie eine solche Reise planen, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>, und wir organisieren Besichtigungen rund um Ihren Aufenthalt.</p>"
+  },
+  "slug": "die-besten-hotels-in-alicante"
+ },
+ "es": {
+  "title": "Los mejores hoteles de Alicante – Casco antiguo, puerto o playa",
+  "description": "Los mejores hoteles de Alicante, del Hospes Amérigo en un antiguo convento y Casa Alberola junto al puerto a los hoteles de playa del Postiguet y San Juan, con consejos para elegir zona.",
+  "crumb": "Mejores hoteles de Alicante",
+  "eyebrow": "Lugares · Costa Blanca",
+  "h1": "Los mejores hoteles de Alicante",
+  "hero_alt": "Terraza con piscina infinita frente al mar al atardecer",
+  "short": "Para una escapada urbana a Alicante, lo mejor es alojarse en el casco antiguo o junto al puerto: Hospes Amérigo (5 estrellas, en un antiguo convento), Casa Alberola by Hilton y el Palacete S.XVII, solo adultos, son los más especiales. Para la playa, Meliá Alicante y Porta Maris están junto al Postiguet, y Port Alicante City & Beach en la playa de San Juan. Eurostars Pórtico y NH Alicante son opciones céntricas y prácticas. Conviene reservar pronto para Semana Santa, las Hogueras de junio y el verano.",
+  "intro": [
+   "Alicante tiene hoteles para cada tipo de viaje, desde boutiques históricos en el casco antiguo hasta grandes hoteles de playa con piscina. Importa más la zona que las estrellas: el casco antiguo y el puerto son ideales para pasear y comer, y la playa de San Juan para unas vacaciones de playa.",
+   "Esta es nuestra selección, la que solemos recomendar a los clientes que vienen a ver viviendas en la Costa Blanca."
+  ],
+  "sections": [
+   {
+    "id": "amerigo",
+    "h2": "Hospes Amérigo – 5 estrellas en un antiguo convento",
+    "alt": "Salón luminoso de hotel con biblioteca y una palmera",
+    "html": "<p>En pleno casco antiguo, un convento dominico rehabilitado con interiores modernos, piscina y spa en la azotea con vistas al castillo y un restaurante reconocido. Ideal para una escapada urbana a pie.</p>"
+   },
+   {
+    "id": "melia",
+    "h2": "Meliá Alicante – en la playa del Postiguet",
+    "alt": "Piscina de hotel entre edificios altos vista desde arriba",
+    "html": "<p>Un gran hotel justo entre el puerto deportivo y la playa del Postiguet. Muchas habitaciones tienen vistas al mar, y cuenta con piscina exterior, spa y gimnasio. Bueno para familias y para tener la playa en la puerta.</p>"
+   },
+   {
+    "id": "palacete",
+    "h2": "Hotel Boutique Alicante Palacete S.XVII – solo adultos",
+    "alt": "Habitación de hotel boutique con muros de piedra y balcón",
+    "html": "<p>Un pequeño hotel solo para adultos en un palacete del siglo XVII en el casco antiguo, con habitaciones decoradas una a una, coctelería y bodega. Perfecto para parejas.</p>"
+   },
+   {
+    "id": "alberola",
+    "h2": "Casa Alberola, Curio Collection by Hilton",
+    "alt": "Vista desde el balcón sobre palmeras y el puerto deportivo",
+    "html": "<p>Un edificio neoclásico histórico frente al puerto y la Explanada, rehabilitado como hotel boutique con terraza en la azotea y un restaurante centrado en el marisco.</p>"
+   },
+   {
+    "id": "portico",
+    "h2": "Eurostars Pórtico Alicante",
+    "alt": "Terraza en la azotea con vista a la torre del ayuntamiento",
+    "html": "<p>Un cómodo hotel urbano junto al ayuntamiento, con terraza sobre el casco antiguo. Una base práctica para hacer turismo.</p>"
+   },
+   {
+    "id": "portamaris",
+    "h2": "Hotel Spa Porta Maris by Meliá",
+    "alt": "Piscina interior de spa con luz azul",
+    "html": "<p>Un 4 estrellas en el puerto deportivo, a pocos pasos del Postiguet, con habitaciones con vistas al mar y spa con piscina climatizada.</p>"
+   },
+   {
+    "id": "port",
+    "h2": "Port Alicante City & Beach",
+    "alt": "",
+    "html": "<p>Un 4 estrellas superior en la playa de San Juan, cerca de la gran playa y del tranvía al centro, con sky bar y piscina exterior. Buena opción para unas vacaciones de playa con la ciudad a mano.</p>"
+   },
+   {
+    "id": "nh",
+    "h2": "NH Alicante",
+    "alt": "Hotel urbano moderno detrás de los árboles",
+    "html": "<p>Un hotel urbano y de negocios fiable cerca del centro, con buen acceso a la estación de tren y a la carretera del aeropuerto.</p>"
+   },
+   {
+    "id": "where",
+    "h2": "Qué zona elegir",
+    "alt": "",
+    "html": "<ul><li><strong>Casco antiguo y Explanada</strong> – todo a pie, ideal para una primera visita.</li><li><strong>Postiguet y puerto deportivo</strong> – playa y ciudad a la vez.</li><li><strong>Playa de San Juan</strong> – playa larga, noches más tranquilas y tranvía al centro.</li><li><strong>Cerca de la estación</strong> – práctico para el AVE a Madrid y los trenes a Valencia.</li></ul><p>Vea también <a href=\"{up}es-es/alicante-que-ver-en-la-ciudad-mas-soleada-de-espana.html\">qué ver en Alicante</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuál es la mejor zona para alojarse en Alicante?",
+    "El casco antiguo y la Explanada para turismo y restaurantes, el Postiguet para playa en el centro y San Juan para unas vacaciones de playa más tranquilas."
+   ],
+   [
+    "¿Hay hoteles de 5 estrellas en Alicante?",
+    "Sí. El más conocido es el Hospes Amérigo, en el casco antiguo, un convento rehabilitado con piscina y spa en la azotea."
+   ],
+   [
+    "¿Qué hoteles de Alicante están en la playa?",
+    "Meliá Alicante y Porta Maris junto al Postiguet, y Port Alicante City & Beach en la playa de San Juan."
+   ],
+   [
+    "¿Cuándo conviene reservar hotel en Alicante?",
+    "Con antelación para Semana Santa, las Hogueras de San Juan en junio y julio–agosto, cuando los precios son más altos."
+   ]
+  ],
+  "closing": {
+   "h2": "De huésped a propietario",
+   "alt": "",
+   "html": "<p>Muchos de nuestros clientes se alojan en Alicante mientras visitan viviendas en la costa. Si está planeando un viaje así, <a href=\"{up}index.html#contact\">escríbanos</a> y organizaremos las visitas en torno a su estancia.</p>"
+  },
+  "slug": "los-mejores-hoteles-de-alicante"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/najlepsze-hotele-w-alicante"
+}

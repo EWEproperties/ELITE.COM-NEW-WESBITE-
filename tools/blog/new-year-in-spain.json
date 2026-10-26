@@ -1,0 +1,239 @@
+{
+ "author": "anita",
+ "published": "2025-12-23",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/new-year-in-spain/crowds-and-fireworks-at-puerta-del-sol-madrid.jpg",
+ "images": {
+  "dinner": "assets/blog/new-year-in-spain/fireworks-over-plaza-de-espana-seville.jpg",
+  "grapes": "assets/blog/new-year-in-spain/clock-grapes-and-cava-for-new-years-eve.jpg",
+  "street": "assets/blog/new-year-in-spain/fireworks-and-light-show-in-barcelona.jpg",
+  "jan1": "assets/blog/new-year-in-spain/fireworks-above-a-gothic-cathedral.jpg"
+ },
+ "cards": [
+  "18595762",
+  "24758318",
+  "26239846"
+ ],
+ "sources": [
+  [
+   "Spain's official tourism portal – New Year's Eve",
+   "https://www.spain.info/"
+  ],
+  [
+   "DOP Uva de Mesa Embolsada del Vinalopó",
+   "https://www.uvadelvinalopo.org/"
+  ],
+  [
+   "BOE – National public holidays",
+   "https://www.boe.es/"
+  ]
+ ],
+ "en": {
+  "title": "New Year in Spain – The 12 Grapes, Nochevieja Traditions and 1 January",
+  "description": "How Spain celebrates New Year's Eve (Nochevieja): family dinner, the 12 lucky grapes at midnight, Puerta del Sol, red underwear and cava, parties after midnight and what 1 January is like.",
+  "crumb": "New Year in Spain",
+  "eyebrow": "Living in Spain · Traditions",
+  "h1": "New Year in Spain: How Spaniards Welcome the New Year",
+  "hero_alt": "Crowds and fireworks at Puerta del Sol in Madrid on New Year's Eve",
+  "short": "On New Year's Eve (Nochevieja) Spaniards usually have a long family dinner, then at midnight eat 12 grapes, one on each chime of the clock, for 12 lucky months. The countdown from Puerta del Sol in Madrid is shown on TV across the country. Other customs include red underwear and a glass of cava. Parties and street celebrations begin after midnight and go on until morning. 1 January is a public holiday, quiet and spent with family. Many of the grapes eaten that night come from the Vinalopó valley near Alicante.",
+  "intro": [
+   "New Year's Eve in Spain has its own rhythm. The evening is calm and family-centred, the most important moment lasts just twelve seconds, and the party starts only once it is over.",
+   "Here is how Nochevieja works, so you can celebrate like a local."
+  ],
+  "sections": [
+   {
+    "id": "dinner",
+    "h2": "The family dinner",
+    "alt": "Fireworks over Plaza de España in Seville",
+    "html": "<p>Nochevieja starts at home or in a restaurant with a long dinner, often with seafood, Iberian ham, lamb or fish, and <em>turrón</em> and other Christmas sweets for dessert. Restaurants offer special set menus; book well ahead, especially on the coast.</p>"
+   },
+   {
+    "id": "grapes",
+    "h2": "The 12 grapes of luck",
+    "alt": "Clock showing nearly midnight with grapes and glasses of cava",
+    "html": "<p>Just before midnight everyone gathers in front of the television or in the town square. When the clock strikes twelve, you eat one grape on each chime: 12 grapes for 12 lucky months. It is harder than it sounds, and the laughter is part of the fun. Supermarkets sell peeled, seedless grapes in small cans for the occasion. The custom became popular in the early 20th century, and today many of the grapes come from the Vinalopó valley near Alicante, where bunches are grown in paper bags to ripen late.</p>"
+   },
+   {
+    "id": "street",
+    "h2": "Puerta del Sol and the party after midnight",
+    "alt": "Fireworks and a light show in Barcelona",
+    "html": "<p>The most famous countdown is at the clock of the Puerta del Sol in Madrid, broadcast live on TV. Many towns hold their own celebration in the main square, with music and sometimes fireworks. Only after the grapes and a toast with cava do people head out: parties, clubs and bars stay open until dawn, and some finish with hot chocolate and <em>churros</em> in the morning.</p>"
+   },
+   {
+    "id": "customs",
+    "h2": "Other customs for luck",
+    "alt": "",
+    "html": "<ul><li>Wearing red underwear, ideally received as a gift.</li><li>Dropping a gold ring into your glass of cava for the toast.</li><li>Stepping into the new year with your right foot first.</li><li>In some coastal towns, a midnight or New Year's Day swim in the sea.</li></ul>"
+   },
+   {
+    "id": "jan1",
+    "h2": "1 January",
+    "alt": "Fireworks above a Gothic cathedral at night",
+    "html": "<p>New Year's Day is a national public holiday. Most shops are closed, the streets are quiet in the morning, and families meet again for a long lunch. The festive season is not over yet: the big day for children is still to come on 6 January. Read <a href=\"{up}three-kings-day-in-spain.html\">Three Kings Day in Spain</a> and <a href=\"{up}christmas-in-spain.html\">Christmas in Spain</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Why do Spaniards eat 12 grapes on New Year's Eve?",
+    "For luck: one grape on each of the 12 chimes at midnight, one for each month of the new year."
+   ],
+   [
+    "Where is the most famous New Year's Eve celebration in Spain?",
+    "At the Puerta del Sol in Madrid, where the clock chimes are broadcast live across the country."
+   ],
+   [
+    "Is 1 January a public holiday in Spain?",
+    "Yes. It is a national holiday and most shops and offices are closed."
+   ],
+   [
+    "What do Spaniards drink at New Year?",
+    "Usually cava, the Spanish sparkling wine, for the toast after the grapes."
+   ]
+  ],
+  "closing": {
+   "h2": "Start a new year in Spain",
+   "alt": "",
+   "html": "<p>Many of our clients' plans to move began with a winter holiday on the coast. If a new home in Spain is on your list for next year, <a href=\"{up}index.html#contact\">get in touch</a>.</p>"
+  },
+  "slug": "new-year-in-spain"
+ },
+ "de": {
+  "title": "Silvester und Neujahr in Spanien – Die 12 Trauben, Traditionen und der 1. Januar",
+  "description": "Wie Spanien Silvester (Nochevieja) feiert: Familienessen, die 12 Glückstrauben um Mitternacht, die Puerta del Sol, rote Unterwäsche und Cava, Partys nach Mitternacht und wie der 1. Januar aussieht.",
+  "crumb": "Neujahr in Spanien",
+  "eyebrow": "Leben in Spanien · Traditionen",
+  "h1": "Silvester in Spanien: So begrüßen Spanier das neue Jahr",
+  "hero_alt": "Menschenmenge und Feuerwerk an der Puerta del Sol in Madrid an Silvester",
+  "short": "An Silvester (Nochevieja) essen Spanier meist lange mit der Familie und um Mitternacht 12 Trauben, eine zu jedem Glockenschlag, für 12 glückliche Monate. Der Countdown von der Puerta del Sol in Madrid läuft landesweit im Fernsehen. Dazu gehören rote Unterwäsche und ein Glas Cava. Partys und Straßenfeste beginnen erst nach Mitternacht und dauern bis zum Morgen. Der 1. Januar ist Feiertag, ruhig und familiär. Viele der Trauben stammen aus dem Vinalopó-Tal bei Alicante.",
+  "intro": [
+   "Silvester in Spanien hat seinen eigenen Rhythmus. Der Abend ist ruhig und familiär, der wichtigste Moment dauert nur zwölf Sekunden, und gefeiert wird erst danach.",
+   "So funktioniert Nochevieja, damit Sie wie ein Einheimischer feiern können."
+  ],
+  "sections": [
+   {
+    "id": "dinner",
+    "h2": "Das Familienessen",
+    "alt": "Feuerwerk über der Plaza de España in Sevilla",
+    "html": "<p>Nochevieja beginnt zu Hause oder im Restaurant mit einem langen Abendessen, oft mit Meeresfrüchten, iberischem Schinken, Lamm oder Fisch und zum Dessert <em>Turrón</em> und anderen Weihnachtssüßigkeiten. Restaurants bieten Festmenüs an, früh reservieren, besonders an der Küste.</p>"
+   },
+   {
+    "id": "grapes",
+    "h2": "Die 12 Glückstrauben",
+    "alt": "Uhr kurz vor Mitternacht mit Trauben und Gläsern Cava",
+    "html": "<p>Kurz vor Mitternacht versammeln sich alle vor dem Fernseher oder auf dem Hauptplatz. Wenn die Uhr zwölf schlägt, isst man zu jedem Schlag eine Traube: 12 Trauben für 12 glückliche Monate. Das ist schwieriger als gedacht, und das Lachen gehört dazu. Supermärkte verkaufen geschälte, kernlose Trauben in kleinen Dosen. Der Brauch wurde Anfang des 20. Jahrhunderts populär, heute kommen viele Trauben aus dem Vinalopó-Tal bei Alicante, wo die Rispen in Papiertüten spät reifen.</p>"
+   },
+   {
+    "id": "street",
+    "h2": "Puerta del Sol und die Party nach Mitternacht",
+    "alt": "Feuerwerk und Lichtshow in Barcelona",
+    "html": "<p>Der berühmteste Countdown ist an der Uhr der Puerta del Sol in Madrid, live im Fernsehen. Viele Orte feiern auf dem Hauptplatz mit Musik und manchmal Feuerwerk. Erst nach den Trauben und einem Glas Cava geht man aus: Partys, Clubs und Bars sind bis zum Morgengrauen offen, und manche beenden die Nacht mit heißer Schokolade und <em>Churros</em>.</p>"
+   },
+   {
+    "id": "customs",
+    "h2": "Weitere Glücksbräuche",
+    "alt": "",
+    "html": "<ul><li>Rote Unterwäsche tragen, am besten geschenkt.</li><li>Einen Goldring zum Anstoßen ins Cava-Glas legen.</li><li>Mit dem rechten Fuß zuerst ins neue Jahr treten.</li><li>In manchen Küstenorten ein Bad im Meer um Mitternacht oder an Neujahr.</li></ul>"
+   },
+   {
+    "id": "jan1",
+    "h2": "Der 1. Januar",
+    "alt": "Feuerwerk über einer gotischen Kathedrale bei Nacht",
+    "html": "<p>Neujahr ist landesweiter Feiertag. Die meisten Geschäfte sind geschlossen, morgens ist es ruhig, und die Familien treffen sich wieder zu einem langen Mittagessen. Die Festzeit ist noch nicht vorbei: Der große Tag für Kinder kommt am 6. Januar. Lesen Sie <a href=\"{up}de-de/dreikonigstag-in-spanien.html\">Dreikönigstag in Spanien</a> und <a href=\"{up}de-de/weihnachten-in-spanien.html\">Weihnachten in Spanien</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Warum essen Spanier an Silvester 12 Trauben?",
+    "Für Glück: eine Traube zu jedem der 12 Glockenschläge um Mitternacht, eine für jeden Monat des neuen Jahres."
+   ],
+   [
+    "Wo ist die berühmteste Silvesterfeier Spaniens?",
+    "An der Puerta del Sol in Madrid, deren Glockenschläge landesweit live übertragen werden."
+   ],
+   [
+    "Ist der 1. Januar in Spanien ein Feiertag?",
+    "Ja, ein landesweiter Feiertag. Die meisten Geschäfte und Ämter sind geschlossen."
+   ],
+   [
+    "Was trinkt man in Spanien an Silvester?",
+    "Meist Cava, den spanischen Schaumwein, zum Anstoßen nach den Trauben."
+   ]
+  ],
+  "closing": {
+   "h2": "Ein neues Jahr in Spanien beginnen",
+   "alt": "",
+   "html": "<p>Bei vielen unserer Kunden begannen die Umzugspläne mit einem Winterurlaub an der Küste. Wenn ein neues Zuhause in Spanien auf Ihrer Liste für das nächste Jahr steht, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>.</p>"
+  },
+  "slug": "neujahr-in-spanien"
+ },
+ "es": {
+  "title": "Año Nuevo en España – Las 12 uvas, la Nochevieja y el 1 de enero",
+  "description": "Cómo se celebra la Nochevieja en España: la cena familiar, las 12 uvas de la suerte, la Puerta del Sol, la ropa interior roja y el cava, la fiesta después de medianoche y cómo es el 1 de enero.",
+  "crumb": "Año Nuevo en España",
+  "eyebrow": "Vivir en España · Tradiciones",
+  "h1": "Año Nuevo en España: así se recibe el año",
+  "hero_alt": "Multitud y fuegos artificiales en la Puerta del Sol de Madrid en Nochevieja",
+  "short": "En Nochevieja lo habitual es una larga cena en familia y, a medianoche, las 12 uvas, una por cada campanada, para tener 12 meses de suerte. Las campanadas de la Puerta del Sol de Madrid se siguen por televisión en todo el país. Se suma la ropa interior roja y una copa de cava. Las fiestas empiezan después de medianoche y duran hasta el amanecer. El 1 de enero es festivo, tranquilo y familiar. Muchas de las uvas proceden del Vinalopó, en Alicante.",
+  "intro": [
+   "La Nochevieja en España tiene su propio ritmo: la noche es tranquila y familiar, el momento más importante dura doce segundos y la fiesta empieza cuando termina.",
+   "Así se vive, por si quiere celebrarla como un vecino más."
+  ],
+  "sections": [
+   {
+    "id": "dinner",
+    "h2": "La cena en familia",
+    "alt": "Fuegos artificiales sobre la Plaza de España de Sevilla",
+    "html": "<p>La Nochevieja empieza en casa o en un restaurante con una cena larga, a menudo con marisco, jamón ibérico, cordero o pescado, y turrón y otros dulces navideños de postre. Los restaurantes ofrecen menús especiales; conviene reservar pronto, sobre todo en la costa.</p>"
+   },
+   {
+    "id": "grapes",
+    "h2": "Las 12 uvas de la suerte",
+    "alt": "Reloj a punto de dar la medianoche con uvas y copas de cava",
+    "html": "<p>Poco antes de medianoche todos se reúnen ante el televisor o en la plaza del pueblo. Con cada una de las doce campanadas se come una uva: 12 uvas para 12 meses de suerte. Es más difícil de lo que parece, y las risas forman parte de la tradición. Los supermercados venden uvas peladas y sin pepitas en latas. La costumbre se popularizó a principios del siglo XX, y hoy muchas de las uvas proceden del Vinalopó, en Alicante, donde los racimos se cultivan embolsados en papel para madurar tarde.</p>"
+   },
+   {
+    "id": "street",
+    "h2": "La Puerta del Sol y la fiesta después de las campanadas",
+    "alt": "Fuegos artificiales y espectáculo de luz en Barcelona",
+    "html": "<p>Las campanadas más famosas son las del reloj de la Puerta del Sol de Madrid, en directo por televisión. Muchos municipios organizan su propia celebración en la plaza principal, con música y a veces fuegos artificiales. Solo después de las uvas y el brindis con cava empieza la fiesta: cotillones, discotecas y bares abren hasta el amanecer, y hay quien termina con chocolate con churros.</p>"
+   },
+   {
+    "id": "customs",
+    "h2": "Otras costumbres para la suerte",
+    "alt": "",
+    "html": "<ul><li>Llevar ropa interior roja, mejor si es regalada.</li><li>Echar un anillo de oro en la copa de cava al brindar.</li><li>Entrar en el año nuevo con el pie derecho.</li><li>En algunos pueblos costeros, bañarse en el mar a medianoche o el día de Año Nuevo.</li></ul>"
+   },
+   {
+    "id": "jan1",
+    "h2": "El 1 de enero",
+    "alt": "Fuegos artificiales sobre una catedral gótica de noche",
+    "html": "<p>El día de Año Nuevo es festivo nacional. La mayoría de tiendas cierran, las calles amanecen tranquilas y las familias vuelven a reunirse para comer. Las fiestas aún no han terminado: el gran día de los niños llega el 6 de enero. Lea <a href=\"{up}es-es/los-reyes-magos-en-espana.html\">los Reyes Magos en España</a> y <a href=\"{up}es-es/navidad-en-espana.html\">la Navidad en España</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Por qué se comen 12 uvas en Nochevieja?",
+    "Para la suerte: una uva con cada una de las 12 campanadas de medianoche, una por cada mes del nuevo año."
+   ],
+   [
+    "¿Dónde está la celebración de Nochevieja más famosa de España?",
+    "En la Puerta del Sol de Madrid, cuyas campanadas se retransmiten en directo a todo el país."
+   ],
+   [
+    "¿Es festivo el 1 de enero en España?",
+    "Sí, es festivo nacional y la mayoría de tiendas y oficinas cierran."
+   ],
+   [
+    "¿Qué se bebe en Nochevieja en España?",
+    "Normalmente cava, para brindar después de las uvas."
+   ]
+  ],
+  "closing": {
+   "h2": "Empezar el año en España",
+   "alt": "",
+   "html": "<p>Para muchos de nuestros clientes, la idea de mudarse empezó con unas vacaciones de invierno en la costa. Si una casa junto al mar está entre sus planes para el año que viene, <a href=\"{up}index.html#contact\">escríbanos</a>.</p>"
+  },
+  "slug": "ano-nuevo-en-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/nowy-rok-w-hiszpanii"
+}

@@ -1,0 +1,295 @@
+{
+ "author": "anita",
+ "published": "2024-11-03",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/golf-costa-blanca/golf-bunker-and-green-with-puig-campana-at-sunset.jpg",
+ "images": {
+  "colinas": "assets/blog/golf-costa-blanca/las-colinas-golf-resort-from-the-air.jpg",
+  "sella": "assets/blog/golf-costa-blanca/la-sella-golf-below-montgo-from-the-air.jpg",
+  "finca": "assets/blog/golf-costa-blanca/golf-green-and-clubhouse-at-sunset.jpg",
+  "javea": "assets/blog/golf-costa-blanca/javea-golf-course-and-the-hills.jpg",
+  "villamartin": "assets/blog/golf-costa-blanca/fairway-and-bunkers-among-pine-trees.jpg",
+  "alicante": "assets/blog/golf-costa-blanca/golf-green-by-a-lake-with-palm-trees.jpg"
+ },
+ "cards": [
+  "24623926",
+  "26239846",
+  "20598512"
+ ],
+ "sources": [
+  [
+   "Federació de Golf de la Comunitat Valenciana",
+   "https://www.golfcv.com/"
+  ],
+  [
+   "Costa Blanca Tourist Board – Golf",
+   "https://www.costablanca.org/"
+  ],
+  [
+   "Las Colinas Golf & Country Club",
+   "https://www.lascolinasgolf.es/"
+  ]
+ ],
+ "en": {
+  "title": "Best Golf Courses on the Costa Blanca – Las Colinas, La Sella, Villaitana and More",
+  "description": "The best golf courses on the Costa Blanca, from Las Colinas and Villamartín in the south to La Sella, Jávea and Villaitana in the north, with green fees, the best season and golf-front homes.",
+  "crumb": "Golf on the Costa Blanca",
+  "eyebrow": "Places · Costa Blanca",
+  "h1": "The Best Golf Courses on the Costa Blanca",
+  "hero_alt": "Golf bunker and green with the Puig Campana mountain at sunset",
+  "short": "The Costa Blanca has more than 20 golf courses and mild weather for golf almost all year. The best known are Las Colinas, Villamartín and La Finca in the south near Torrevieja, Alicante Golf by Seve Ballesteros, Villaitana's two Jack Nicklaus courses near Benidorm, and La Sella and Jávea in the north. Green fees are usually lower than on the Costa del Sol, and several resorts have homes right on the fairways.",
+  "intro": [
+   "Golf on the Costa Blanca is relaxed and good value. Courses are spread along the whole coast, so wherever you live there is a course within about 20–30 minutes. Winter is the main season, with sunny days around 17 °C.",
+   "Here are the courses we recommend most often, from south to north and back to the city."
+  ],
+  "sections": [
+   {
+    "id": "colinas",
+    "h2": "Las Colinas Golf & Country Club – Orihuela Costa",
+    "alt": "Las Colinas golf resort and villas from the air",
+    "html": "<p>An 18-hole course by Cabell B. Robinson in a quiet valley behind Orihuela Costa, often ranked among the best in Spain. The resort around it has villas and apartments, a clubhouse and a beach club.</p>"
+   },
+   {
+    "id": "sella",
+    "h2": "La Sella Golf – Dénia",
+    "alt": "La Sella golf course below Montgó from the air",
+    "html": "<p>27 holes designed by José María Olazábal at the foot of Montgó, surrounded by natural park scenery. A hotel and spa are on site.</p>"
+   },
+   {
+    "id": "finca",
+    "h2": "La Finca Golf – Algorfa",
+    "alt": "Golf green and clubhouse at sunset",
+    "html": "<p>A challenging 18-hole course in the Vega Baja, with a hotel and residential areas around it, about 15 minutes from Torrevieja's beaches.</p>"
+   },
+   {
+    "id": "javea",
+    "h2": "Club de Golf Jávea",
+    "alt": "Jávea golf course with the hills behind",
+    "html": "<p>A friendly 9-hole course among pines and orange groves, played twice for 18 holes with different tees. Popular with residents and beginners.</p>"
+   },
+   {
+    "id": "villamartin",
+    "h2": "Villamartín Golf – Orihuela Costa",
+    "alt": "Fairway and bunkers among pine trees at sunset",
+    "html": "<p>A classic course from the 1970s by Paul Putman, with mature trees and water features. Together with Las Ramblas and Campoamor nearby, it makes the south of the coast a golf hub.</p>"
+   },
+   {
+    "id": "villaitana",
+    "h2": "Villaitana – Benidorm/Finestrat",
+    "alt": "",
+    "html": "<p>Two 18-hole courses by Jack Nicklaus: Levante, a championship course with sea views, and Poniente, a shorter course for all levels. There is a resort hotel with spa. See our <a href=\"{up}properties-for-sale-in-finestrat.html\">homes in Finestrat</a>.</p>"
+   },
+   {
+    "id": "alicante",
+    "h2": "Alicante Golf – Playa de San Juan",
+    "alt": "Golf green by a lake with palm trees",
+    "html": "<p>A course designed by Severiano Ballesteros, just minutes from the centre of Alicante and the beach, with a golf academy and a hotel next door.</p>"
+   },
+   {
+    "id": "tips",
+    "h2": "Practical tips",
+    "alt": "",
+    "html": "<ul><li><strong>Season:</strong> October to May is the high season; summer mornings and evenings are also pleasant.</li><li><strong>Green fees:</strong> usually lower than on the Costa del Sol, often from about €50–120, with twilight and summer discounts.</li><li><strong>Booking:</strong> reserve tee times online, especially in winter, when northern European golfers fill the courses.</li><li><strong>Homes on the course:</strong> Las Colinas, La Finca, Villamartín and Villaitana all have residential areas next to the fairways.</li></ul><p>For the south of Spain, see our guide to <a href=\"{up}exclusive-golf-clubs-on-the-costa-del-sol.html\">golf on the Costa del Sol</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "What is the best golf course on the Costa Blanca?",
+    "Las Colinas near Orihuela Costa is often ranked the best. Villaitana's Levante course and La Sella are also very highly rated."
+   ],
+   [
+    "How many golf courses are on the Costa Blanca?",
+    "More than 20, from Dénia in the north to the border with Murcia in the south."
+   ],
+   [
+    "How much does a round of golf cost on the Costa Blanca?",
+    "Usually about €50–120, depending on the course and season, with lower twilight and summer rates."
+   ],
+   [
+    "Can I buy a home on a golf course on the Costa Blanca?",
+    "Yes. Las Colinas, La Finca, Villamartín and Villaitana all have villas and apartments next to the course."
+   ]
+  ],
+  "closing": {
+   "h2": "Live next to the fairway",
+   "alt": "",
+   "html": "<p>If you would like a home with views of the course, <a href=\"{up}index.html#contact\">get in touch</a>. We know the golf resorts of the Costa Blanca and can show you homes on or near the fairways. See also our <a href=\"{up}properties-for-sale-in-orihuela-costa.html\">homes in Orihuela Costa</a>.</p>"
+  },
+  "slug": "best-golf-courses-in-costa-blanca"
+ },
+ "de": {
+  "title": "Die besten Golfplätze an der Costa Blanca – Las Colinas, La Sella, Villaitana und mehr",
+  "description": "Die besten Golfplätze der Costa Blanca, von Las Colinas und Villamartín im Süden bis La Sella, Jávea und Villaitana im Norden, mit Greenfees, bester Saison und Immobilien am Platz.",
+  "crumb": "Golf an der Costa Blanca",
+  "eyebrow": "Orte · Costa Blanca",
+  "h1": "Die besten Golfplätze an der Costa Blanca",
+  "hero_alt": "Bunker und Grün vor dem Berg Puig Campana bei Sonnenuntergang",
+  "short": "Die Costa Blanca hat über 20 Golfplätze und fast ganzjährig mildes Golfwetter. Am bekanntesten sind Las Colinas, Villamartín und La Finca im Süden bei Torrevieja, Alicante Golf von Seve Ballesteros, die beiden Jack-Nicklaus-Plätze von Villaitana bei Benidorm sowie La Sella und Jávea im Norden. Die Greenfees sind meist günstiger als an der Costa del Sol, und mehrere Resorts haben Immobilien direkt an den Fairways.",
+  "intro": [
+   "Golf an der Costa Blanca ist entspannt und preiswert. Die Plätze verteilen sich über die ganze Küste, sodass man von fast überall in 20–30 Minuten einen Platz erreicht. Hauptsaison ist der Winter mit sonnigen Tagen um 17 °C.",
+   "Hier die Plätze, die wir am häufigsten empfehlen, von Süden nach Norden und zurück in die Stadt."
+  ],
+  "sections": [
+   {
+    "id": "colinas",
+    "h2": "Las Colinas Golf & Country Club – Orihuela Costa",
+    "alt": "Golfresort Las Colinas mit Villen aus der Luft",
+    "html": "<p>Ein 18-Loch-Platz von Cabell B. Robinson in einem ruhigen Tal hinter der Orihuela Costa, oft unter den besten Spaniens. Das Resort hat Villen und Apartments, Clubhaus und Beach Club.</p>"
+   },
+   {
+    "id": "sella",
+    "h2": "La Sella Golf – Dénia",
+    "alt": "Golfplatz La Sella unter dem Montgó aus der Luft",
+    "html": "<p>27 Löcher von José María Olazábal am Fuß des Montgó, umgeben von Naturpark-Landschaft. Mit Hotel und Spa direkt am Platz.</p>"
+   },
+   {
+    "id": "finca",
+    "h2": "La Finca Golf – Algorfa",
+    "alt": "Grün und Clubhaus bei Sonnenuntergang",
+    "html": "<p>Ein anspruchsvoller 18-Loch-Platz in der Vega Baja mit Hotel und Wohnanlagen, rund 15 Minuten von den Stränden Torreviejas.</p>"
+   },
+   {
+    "id": "javea",
+    "h2": "Club de Golf Jávea",
+    "alt": "Golfplatz Jávea vor den Hügeln",
+    "html": "<p>Ein freundlicher 9-Loch-Platz zwischen Pinien und Orangenhainen, mit unterschiedlichen Abschlägen zweimal als 18 Löcher spielbar. Beliebt bei Einheimischen und Einsteigern.</p>"
+   },
+   {
+    "id": "villamartin",
+    "h2": "Villamartín Golf – Orihuela Costa",
+    "alt": "Fairway und Bunker zwischen Pinien bei Sonnenuntergang",
+    "html": "<p>Ein klassischer Platz aus den 1970er-Jahren von Paul Putman mit alten Bäumen und Wasserhindernissen. Zusammen mit Las Ramblas und Campoamor macht er den Süden der Küste zum Golfzentrum.</p>"
+   },
+   {
+    "id": "villaitana",
+    "h2": "Villaitana – Benidorm/Finestrat",
+    "alt": "",
+    "html": "<p>Zwei 18-Loch-Plätze von Jack Nicklaus: Levante, ein Meisterschaftsplatz mit Meerblick, und Poniente, ein kürzerer Platz für alle Niveaus. Mit Resorthotel und Spa.</p>"
+   },
+   {
+    "id": "alicante",
+    "h2": "Alicante Golf – Playa de San Juan",
+    "alt": "Grün an einem See mit Palmen",
+    "html": "<p>Ein Platz nach Entwurf von Severiano Ballesteros, wenige Minuten vom Zentrum Alicantes und vom Strand, mit Golfakademie und Hotel nebenan.</p>"
+   },
+   {
+    "id": "tips",
+    "h2": "Praktische Tipps",
+    "alt": "",
+    "html": "<ul><li><strong>Saison:</strong> Oktober bis Mai ist Hochsaison, im Sommer sind Morgen und Abend angenehm.</li><li><strong>Greenfees:</strong> meist günstiger als an der Costa del Sol, oft etwa 50–120 €, mit Twilight- und Sommerrabatten.</li><li><strong>Buchen:</strong> Startzeiten online reservieren, besonders im Winter, wenn viele Golfer aus Nordeuropa kommen.</li><li><strong>Wohnen am Platz:</strong> Las Colinas, La Finca, Villamartín und Villaitana haben Wohnanlagen direkt an den Fairways.</li></ul><p>Für den Süden Spaniens siehe unseren Ratgeber zu den <a href=\"{up}de-de/exklusive-golfclubs-an-der-costa-del-sol.html\">Golfclubs der Costa del Sol</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Welcher ist der beste Golfplatz der Costa Blanca?",
+    "Las Colinas bei Orihuela Costa gilt oft als bester Platz. Auch der Levante-Platz von Villaitana und La Sella sind sehr gut bewertet."
+   ],
+   [
+    "Wie viele Golfplätze gibt es an der Costa Blanca?",
+    "Über 20, von Dénia im Norden bis an die Grenze zu Murcia im Süden."
+   ],
+   [
+    "Was kostet eine Runde Golf an der Costa Blanca?",
+    "Meist etwa 50–120 €, je nach Platz und Saison, mit günstigeren Twilight- und Sommertarifen."
+   ],
+   [
+    "Kann man an der Costa Blanca am Golfplatz kaufen?",
+    "Ja. Las Colinas, La Finca, Villamartín und Villaitana haben Villen und Apartments direkt am Platz."
+   ]
+  ],
+  "closing": {
+   "h2": "Wohnen am Fairway",
+   "alt": "",
+   "html": "<p>Wenn Sie ein Zuhause mit Blick auf den Platz suchen, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir kennen die Golfresorts der Costa Blanca und zeigen Ihnen Immobilien am oder nahe dem Fairway.</p>"
+  },
+  "slug": "die-besten-golfplatze-an-der-costa-blanca"
+ },
+ "es": {
+  "title": "Los mejores campos de golf de la Costa Blanca – Las Colinas, La Sella, Villaitana y más",
+  "description": "Los mejores campos de golf de la Costa Blanca, de Las Colinas y Villamartín en el sur a La Sella, Jávea y Villaitana en el norte, con green fees, mejor temporada y viviendas en primera línea de golf.",
+  "crumb": "Golf en la Costa Blanca",
+  "eyebrow": "Lugares · Costa Blanca",
+  "h1": "Los mejores campos de golf de la Costa Blanca",
+  "hero_alt": "Búnker y green con el Puig Campana al atardecer",
+  "short": "La Costa Blanca tiene más de 20 campos de golf y un clima suave para jugar casi todo el año. Los más conocidos son Las Colinas, Villamartín y La Finca en el sur, cerca de Torrevieja, Alicante Golf de Seve Ballesteros, los dos campos de Jack Nicklaus de Villaitana junto a Benidorm, y La Sella y Jávea en el norte. Los green fees suelen ser más bajos que en la Costa del Sol, y varios resorts tienen viviendas junto a las calles.",
+  "intro": [
+   "El golf en la Costa Blanca es relajado y asequible. Los campos se reparten por toda la costa, así que desde casi cualquier punto hay uno a 20–30 minutos. La temporada principal es el invierno, con días soleados de unos 17 °C.",
+   "Estos son los campos que más recomendamos, de sur a norte y de vuelta a la ciudad."
+  ],
+  "sections": [
+   {
+    "id": "colinas",
+    "h2": "Las Colinas Golf & Country Club – Orihuela Costa",
+    "alt": "Las Colinas Golf y sus villas desde el aire",
+    "html": "<p>Un campo de 18 hoyos de Cabell B. Robinson en un valle tranquilo detrás de Orihuela Costa, a menudo entre los mejores de España. El resort tiene villas y apartamentos, casa club y beach club.</p>"
+   },
+   {
+    "id": "sella",
+    "h2": "La Sella Golf – Dénia",
+    "alt": "Campo de La Sella bajo el Montgó desde el aire",
+    "html": "<p>27 hoyos diseñados por José María Olazábal al pie del Montgó, rodeados de paisaje de parque natural. Con hotel y spa en el propio complejo.</p>"
+   },
+   {
+    "id": "finca",
+    "h2": "La Finca Golf – Algorfa",
+    "alt": "Green y casa club al atardecer",
+    "html": "<p>Un exigente campo de 18 hoyos en la Vega Baja, con hotel y urbanizaciones alrededor, a unos 15 minutos de las playas de Torrevieja.</p>"
+   },
+   {
+    "id": "javea",
+    "h2": "Club de Golf Jávea",
+    "alt": "Campo de golf de Jávea con las colinas detrás",
+    "html": "<p>Un campo de 9 hoyos entre pinos y naranjos, que se juega dos veces con salidas distintas para hacer 18. Muy popular entre residentes y principiantes.</p>"
+   },
+   {
+    "id": "villamartin",
+    "h2": "Villamartín Golf – Orihuela Costa",
+    "alt": "Calle y búnkeres entre pinos al atardecer",
+    "html": "<p>Un clásico de los años setenta diseñado por Paul Putman, con árboles maduros y obstáculos de agua. Junto a Las Ramblas y Campoamor, convierte el sur de la costa en un gran destino de golf.</p>"
+   },
+   {
+    "id": "villaitana",
+    "h2": "Villaitana – Benidorm/Finestrat",
+    "alt": "",
+    "html": "<p>Dos campos de 18 hoyos de Jack Nicklaus: Levante, de campeonato y con vistas al mar, y Poniente, más corto y para todos los niveles. Con hotel resort y spa.</p>"
+   },
+   {
+    "id": "alicante",
+    "h2": "Alicante Golf – Playa de San Juan",
+    "alt": "Green junto a un lago con palmeras",
+    "html": "<p>Un campo diseñado por Severiano Ballesteros, a pocos minutos del centro de Alicante y de la playa, con escuela de golf y hotel al lado.</p>"
+   },
+   {
+    "id": "tips",
+    "h2": "Consejos prácticos",
+    "alt": "",
+    "html": "<ul><li><strong>Temporada:</strong> de octubre a mayo es temporada alta; en verano, las mañanas y las tardes también son agradables.</li><li><strong>Green fees:</strong> suelen ser más bajos que en la Costa del Sol, a menudo de unos 50–120 €, con descuentos de tarde y de verano.</li><li><strong>Reservas:</strong> reserve las salidas por internet, sobre todo en invierno, cuando llegan muchos golfistas del norte de Europa.</li><li><strong>Vivir en el campo:</strong> Las Colinas, La Finca, Villamartín y Villaitana tienen urbanizaciones junto a las calles.</li></ul><p>Para el sur de España, vea nuestra guía de <a href=\"{up}es-es/clubes-de-golf-exclusivos-en-la-costa-del-sol.html\">clubes de golf de la Costa del Sol</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuál es el mejor campo de golf de la Costa Blanca?",
+    "Las Colinas, cerca de Orihuela Costa, suele considerarse el mejor. El campo Levante de Villaitana y La Sella también están muy bien valorados."
+   ],
+   [
+    "¿Cuántos campos de golf hay en la Costa Blanca?",
+    "Más de 20, desde Dénia en el norte hasta el límite con Murcia en el sur."
+   ],
+   [
+    "¿Cuánto cuesta jugar al golf en la Costa Blanca?",
+    "Normalmente unos 50–120 € por recorrido, según el campo y la temporada, con tarifas de tarde y de verano más bajas."
+   ],
+   [
+    "¿Se puede comprar una vivienda en un campo de golf en la Costa Blanca?",
+    "Sí. Las Colinas, La Finca, Villamartín y Villaitana tienen villas y apartamentos junto al campo."
+   ]
+  ],
+  "closing": {
+   "h2": "Vivir junto a la calle",
+   "alt": "",
+   "html": "<p>Si busca una casa con vistas al campo, <a href=\"{up}index.html#contact\">escríbanos</a>. Conocemos los resorts de golf de la Costa Blanca y le mostraremos viviendas en primera línea o muy cerca.</p>"
+  },
+  "slug": "los-mejores-campos-de-golf-de-la-costa-blanca"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/najlepsze-pola-golfowe-na-costa-blanca"
+}

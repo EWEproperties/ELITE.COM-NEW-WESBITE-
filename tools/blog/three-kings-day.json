@@ -1,0 +1,240 @@
+{
+ "author": "anita",
+ "published": "2026-01-02",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/three-kings-day/three-kings-parade-float-at-night.jpg",
+ "images": {
+  "who": "assets/blog/three-kings-day/stained-glass-of-the-three-kings-on-camels.jpg",
+  "parade": "assets/blog/three-kings-day/king-waving-from-a-parade-float.jpg",
+  "gifts": "assets/blog/three-kings-day/three-golden-crowns-among-lights.jpg",
+  "roscon": "assets/blog/three-kings-day/roscon-de-reyes-cake-with-candied-fruit.jpg",
+  "life": "assets/blog/three-kings-day/small-figurines-of-the-three-kings.jpg"
+ },
+ "cards": [
+  "18595762",
+  "24758318",
+  "26239846"
+ ],
+ "sources": [
+  [
+   "Spain's official tourism portal – Three Kings Parade",
+   "https://www.spain.info/"
+  ],
+  [
+   "BOE – National public holidays",
+   "https://www.boe.es/"
+  ],
+  [
+   "Alcoi Tourism – Cabalgata de Reyes",
+   "https://www.alcoyturismo.com/"
+  ]
+ ],
+ "en": {
+  "title": "Three Kings Day in Spain – Parades, Presents and Roscón de Reyes",
+  "description": "How Spain celebrates Three Kings Day on 6 January: the Cabalgata parades on the evening of 5 January, presents brought by the Kings, the roscón de Reyes cake, the public holiday and what it means for family life.",
+  "crumb": "Three Kings Day in Spain",
+  "eyebrow": "Living in Spain · Traditions",
+  "h1": "Three Kings Day in Spain",
+  "hero_alt": "Illuminated Three Kings parade float in the street at night",
+  "short": "In Spain the main day for children's presents is 6 January, Three Kings Day (Día de Reyes), not Christmas. On the evening of 5 January almost every town holds a Cabalgata, a parade where the Kings Melchior, Gaspar and Balthazar throw sweets to the crowds. Children leave their shoes out, and in the morning they find presents (or coal if they have been naughty). Families share a ring-shaped roscón de Reyes with a hidden figurine and a bean. 6 January is a national holiday, and the winter sales start the next day.",
+  "intro": [
+   "For many people moving to Spain, the Christmas season seems to last surprisingly long. That is because it ends with the most exciting day of all for children: the arrival of the Three Kings.",
+   "Here is how Día de Reyes works and why it matters so much to Spanish families."
+  ],
+  "sections": [
+   {
+    "id": "who",
+    "h2": "Who are the Three Kings?",
+    "alt": "Stained glass window showing the Three Kings on camels",
+    "html": "<p>The Reyes Magos, Melchior, Gaspar and Balthazar, are the wise men who, in the Christian story, followed a star to Bethlehem with gifts of gold, frankincense and myrrh. In Spain they bring presents to children on the night of 5 January, the feast of the Epiphany. In the weeks before, children write letters to their favourite king and post them in special mailboxes or hand them to the royal pages in shopping centres.</p>"
+   },
+   {
+    "id": "parade",
+    "h2": "The Cabalgata de Reyes",
+    "alt": "One of the Kings waving to the crowd from a parade float",
+    "html": "<p>On the evening of 5 January, towns of every size hold a Cabalgata: the Kings ride through the streets on decorated floats or camels, with bands, dancers and pages, throwing sweets to the children. Bring a bag for the sweets and arrive early for a good spot. <strong>Alcoy</strong>, inland from Alicante, has one of the oldest parades in Spain, and Madrid's and Málaga's are among the biggest.</p>"
+   },
+   {
+    "id": "gifts",
+    "h2": "Presents on 6 January",
+    "alt": "Three golden crowns surrounded by festive lights",
+    "html": "<p>Before going to bed, children leave their shoes by the door or the window, often with water or something to eat for the Kings' camels. In the morning they find their presents. Naughty children, traditionally, get a lump of coal, which today is usually made of sugar. Many families now also give some presents at Christmas, but 6 January remains the big day.</p>"
+   },
+   {
+    "id": "roscon",
+    "h2": "Roscón de Reyes",
+    "alt": "Ring-shaped roscón de Reyes cake decorated with candied fruit",
+    "html": "<p>The classic breakfast or afternoon treat on 6 January is the <em>roscón de Reyes</em>, a ring-shaped sweet bread flavoured with orange blossom and decorated with candied fruit, often filled with cream. Inside are two surprises: a small figurine, which brings luck to whoever finds it, and a dried bean, whose finder by tradition pays for next year's roscón. Bakeries take orders days in advance.</p>"
+   },
+   {
+    "id": "life",
+    "h2": "What it means for daily life",
+    "alt": "Small figurines of the Three Kings",
+    "html": "<p>6 January is a national public holiday, so offices, banks and most shops are closed, and the evening before is busy with last-minute shopping and the parades. Schools return a day or two later. On 7 January the winter sales (<em>rebajas</em>) begin. For families moving to Spain, joining the Cabalgata is one of the easiest ways to feel part of the community. See also <a href=\"{up}christmas-in-spain.html\">Christmas in Spain</a> and <a href=\"{up}new-year-in-spain.html\">New Year in Spain</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "When is Three Kings Day in Spain?",
+    "On 6 January. The parades take place on the evening of 5 January."
+   ],
+   [
+    "Is 6 January a public holiday in Spain?",
+    "Yes. It is a national holiday, and most shops, offices and banks are closed."
+   ],
+   [
+    "What is a roscón de Reyes?",
+    "A ring-shaped sweet bread with candied fruit, eaten on 6 January. It hides a figurine for good luck and a bean, whose finder pays for next year's cake."
+   ],
+   [
+    "Do Spanish children get presents at Christmas or on 6 January?",
+    "Traditionally on 6 January, from the Three Kings. Many families now give some presents at Christmas too."
+   ]
+  ],
+  "closing": {
+   "h2": "A season to share",
+   "alt": "",
+   "html": "<p>Spanish traditions are a big part of what makes life here so warm. If you are thinking of spending the winter, or every winter, in Spain, <a href=\"{up}index.html#contact\">get in touch</a>. We will help you find a home near the sea.</p>"
+  },
+  "slug": "three-kings-day-in-spain"
+ },
+ "de": {
+  "title": "Dreikönigstag in Spanien – Umzüge, Geschenke und Roscón de Reyes",
+  "description": "Wie Spanien den Dreikönigstag am 6. Januar feiert: die Cabalgata-Umzüge am Abend des 5. Januar, Geschenke von den Königen, der Kuchen Roscón de Reyes, der Feiertag und was er für das Familienleben bedeutet.",
+  "crumb": "Dreikönigstag in Spanien",
+  "eyebrow": "Leben in Spanien · Traditionen",
+  "h1": "Der Dreikönigstag in Spanien",
+  "hero_alt": "Beleuchteter Wagen des Dreikönigsumzugs bei Nacht",
+  "short": "In Spanien ist der wichtigste Geschenktag für Kinder der 6. Januar, der Dreikönigstag (Día de Reyes), nicht Weihnachten. Am Abend des 5. Januar gibt es in fast jedem Ort eine Cabalgata, einen Umzug, bei dem Melchior, Caspar und Balthasar Süßigkeiten in die Menge werfen. Kinder stellen ihre Schuhe hin und finden am Morgen Geschenke (oder Kohle, wenn sie unartig waren). Familien teilen einen ringförmigen Roscón de Reyes mit versteckter Figur und Bohne. Der 6. Januar ist landesweiter Feiertag, am Tag danach beginnt der Winterschlussverkauf.",
+  "intro": [
+   "Vielen, die nach Spanien ziehen, kommt die Weihnachtszeit erstaunlich lang vor. Das liegt daran, dass sie mit dem für Kinder spannendsten Tag endet: der Ankunft der Heiligen Drei Könige.",
+   "Hier erfahren Sie, wie der Día de Reyes abläuft und warum er spanischen Familien so viel bedeutet."
+  ],
+  "sections": [
+   {
+    "id": "who",
+    "h2": "Wer sind die Heiligen Drei Könige?",
+    "alt": "Glasfenster mit den Heiligen Drei Königen auf Kamelen",
+    "html": "<p>Die Reyes Magos, Melchior, Caspar und Balthasar, sind die Weisen, die nach der christlichen Erzählung einem Stern nach Bethlehem folgten, mit Gold, Weihrauch und Myrrhe. In Spanien bringen sie den Kindern in der Nacht zum 6. Januar, dem Fest der Erscheinung des Herrn, die Geschenke. In den Wochen davor schreiben Kinder Briefe an ihren Lieblingskönig und werfen sie in spezielle Briefkästen oder geben sie den königlichen Pagen in Einkaufszentren.</p>"
+   },
+   {
+    "id": "parade",
+    "h2": "Die Cabalgata de Reyes",
+    "alt": "Einer der Könige winkt der Menge von einem Festwagen zu",
+    "html": "<p>Am Abend des 5. Januar findet in Orten jeder Größe eine Cabalgata statt: Die Könige ziehen auf geschmückten Wagen oder Kamelen durch die Straßen, mit Kapellen, Tänzern und Pagen, und werfen den Kindern Süßigkeiten zu. Eine Tüte für die Bonbons mitbringen und früh da sein. <strong>Alcoy</strong> im Hinterland von Alicante hat einen der ältesten Umzüge Spaniens, die von Madrid und Málaga gehören zu den größten.</p>"
+   },
+   {
+    "id": "gifts",
+    "h2": "Geschenke am 6. Januar",
+    "alt": "Drei goldene Kronen zwischen festlichen Lichtern",
+    "html": "<p>Vor dem Schlafengehen stellen Kinder ihre Schuhe an die Tür oder ans Fenster, oft mit Wasser oder etwas zu essen für die Kamele. Am Morgen finden sie ihre Geschenke. Unartige Kinder bekommen traditionell ein Stück Kohle, heute meist aus Zucker. Viele Familien schenken inzwischen auch an Weihnachten etwas, der große Tag bleibt aber der 6. Januar.</p>"
+   },
+   {
+    "id": "roscon",
+    "h2": "Roscón de Reyes",
+    "alt": "Ringförmiger Roscón de Reyes mit kandierten Früchten",
+    "html": "<p>Zum Frühstück oder Nachmittag am 6. Januar gehört der <em>Roscón de Reyes</em>, ein ringförmiges süßes Hefegebäck mit Orangenblütenaroma und kandierten Früchten, oft mit Sahne gefüllt. Darin stecken zwei Überraschungen: eine kleine Figur, die Glück bringt, und eine getrocknete Bohne, deren Finder traditionell den Roscón im nächsten Jahr bezahlt. Bäckereien nehmen Tage vorher Bestellungen an.</p>"
+   },
+   {
+    "id": "life",
+    "h2": "Was der Tag für den Alltag bedeutet",
+    "alt": "Kleine Figuren der Heiligen Drei Könige",
+    "html": "<p>Der 6. Januar ist landesweiter Feiertag, Ämter, Banken und die meisten Geschäfte sind geschlossen, und am Vorabend wird viel eingekauft und gefeiert. Die Schule beginnt ein oder zwei Tage später. Am 7. Januar startet der Winterschlussverkauf (<em>Rebajas</em>). Für Familien, die nach Spanien ziehen, ist die Cabalgata einer der einfachsten Wege, sich als Teil der Gemeinschaft zu fühlen. Siehe auch <a href=\"{up}de-de/weihnachten-in-spanien.html\">Weihnachten in Spanien</a> und <a href=\"{up}de-de/neujahr-in-spanien.html\">Neujahr in Spanien</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Wann ist der Dreikönigstag in Spanien?",
+    "Am 6. Januar. Die Umzüge finden am Abend des 5. Januar statt."
+   ],
+   [
+    "Ist der 6. Januar in Spanien ein Feiertag?",
+    "Ja, ein landesweiter Feiertag. Die meisten Geschäfte, Ämter und Banken sind geschlossen."
+   ],
+   [
+    "Was ist ein Roscón de Reyes?",
+    "Ein ringförmiges süßes Gebäck mit kandierten Früchten, das am 6. Januar gegessen wird. Darin versteckt sind eine Glücksfigur und eine Bohne, deren Finder den nächsten Kuchen bezahlt."
+   ],
+   [
+    "Bekommen spanische Kinder an Weihnachten oder am 6. Januar Geschenke?",
+    "Traditionell am 6. Januar von den Heiligen Drei Königen. Viele Familien schenken heute auch an Weihnachten."
+   ]
+  ],
+  "closing": {
+   "h2": "Eine Zeit zum Teilen",
+   "alt": "",
+   "html": "<p>Spanische Traditionen machen das Leben hier besonders herzlich. Wenn Sie den Winter, oder jeden Winter, in Spanien verbringen möchten, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir helfen Ihnen, ein Zuhause am Meer zu finden.</p>"
+  },
+  "slug": "dreikonigstag-in-spanien"
+ },
+ "es": {
+  "title": "El Día de Reyes en España – Cabalgatas, regalos y roscón",
+  "description": "Cómo se celebra el Día de Reyes el 6 de enero: las cabalgatas de la tarde del 5, los regalos de Sus Majestades, el roscón de Reyes, el festivo y lo que significa para la vida en familia.",
+  "crumb": "Día de Reyes",
+  "eyebrow": "Vivir en España · Tradiciones",
+  "h1": "Los Reyes Magos en España",
+  "hero_alt": "Carroza iluminada de la cabalgata de Reyes por la noche",
+  "short": "En España el gran día de los regalos para los niños es el 6 de enero, el Día de Reyes. La tarde del 5 casi todos los municipios celebran su cabalgata, en la que Melchor, Gaspar y Baltasar lanzan caramelos al público. Los niños dejan los zapatos preparados y por la mañana encuentran los regalos (o carbón si se han portado mal). Las familias comparten el roscón de Reyes con figurita y haba escondidas. El 6 de enero es festivo nacional, y al día siguiente empiezan las rebajas.",
+  "intro": [
+   "Quien llega a vivir a España descubre que las fiestas navideñas duran mucho, porque terminan con el día más emocionante para los niños: la llegada de los Reyes Magos.",
+   "Así se vive el Día de Reyes y por qué es tan importante para las familias."
+  ],
+  "sections": [
+   {
+    "id": "who",
+    "h2": "¿Quiénes son los Reyes Magos?",
+    "alt": "Vidriera con los Reyes Magos en camello",
+    "html": "<p>Melchor, Gaspar y Baltasar son los magos que, según el relato cristiano, siguieron una estrella hasta Belén con oro, incienso y mirra. En España traen los regalos a los niños la noche del 5 de enero, víspera de la Epifanía. En las semanas anteriores, los niños escriben su carta al rey favorito y la echan en buzones especiales o se la entregan a los pajes reales en los centros comerciales.</p>"
+   },
+   {
+    "id": "parade",
+    "h2": "La cabalgata de Reyes",
+    "alt": "Uno de los Reyes saludando desde una carroza",
+    "html": "<p>La tarde del 5 de enero, municipios de todos los tamaños celebran su cabalgata: los Reyes recorren las calles en carrozas o camellos, con bandas, bailarines y pajes, lanzando caramelos a los niños. Lleve una bolsa y llegue pronto para coger sitio. La de <strong>Alcoy</strong>, en el interior de Alicante, es una de las más antiguas de España, y las de Madrid y Málaga, de las más grandes.</p>"
+   },
+   {
+    "id": "gifts",
+    "h2": "Los regalos del 6 de enero",
+    "alt": "Tres coronas doradas entre luces festivas",
+    "html": "<p>Antes de dormir, los niños dejan los zapatos junto a la puerta o la ventana, a menudo con agua o algo de comer para los camellos. Por la mañana encuentran los regalos. A los que se han portado mal, según la tradición, les traen carbón, que hoy suele ser de azúcar. Muchas familias también hacen algún regalo en Navidad, pero el gran día sigue siendo el 6 de enero.</p>"
+   },
+   {
+    "id": "roscon",
+    "h2": "El roscón de Reyes",
+    "alt": "Roscón de Reyes decorado con fruta escarchada",
+    "html": "<p>El desayuno o la merienda del 6 de enero no se entiende sin el <em>roscón de Reyes</em>, un bollo en forma de rosca con agua de azahar y fruta escarchada, a menudo relleno de nata. Esconde dos sorpresas: una figurita, que trae suerte, y un haba, y a quien le toca, por tradición, paga el roscón del año siguiente. Las pastelerías aceptan encargos con días de antelación.</p>"
+   },
+   {
+    "id": "life",
+    "h2": "Qué supone en el día a día",
+    "alt": "Pequeñas figuras de los Reyes Magos",
+    "html": "<p>El 6 de enero es festivo nacional: oficinas, bancos y la mayoría de tiendas cierran, y la víspera hay mucho movimiento de compras y cabalgatas. Los colegios vuelven uno o dos días después. El 7 de enero empiezan las rebajas. Para las familias recién llegadas, ir a la cabalgata es una de las formas más fáciles de sentirse parte del pueblo. Vea también <a href=\"{up}es-es/navidad-en-espana.html\">la Navidad en España</a> y <a href=\"{up}es-es/ano-nuevo-en-espana.html\">el Año Nuevo en España</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuándo es el Día de Reyes?",
+    "El 6 de enero. Las cabalgatas son la tarde del 5."
+   ],
+   [
+    "¿Es festivo el 6 de enero en España?",
+    "Sí, es festivo nacional y la mayoría de tiendas, oficinas y bancos cierran."
+   ],
+   [
+    "¿Qué es el roscón de Reyes?",
+    "Un bollo en forma de rosca con fruta escarchada que se come el 6 de enero. Esconde una figurita de la suerte y un haba: quien la encuentra paga el roscón del año siguiente."
+   ],
+   [
+    "¿Los niños reciben regalos en Navidad o en Reyes?",
+    "Tradicionalmente el 6 de enero, de los Reyes Magos. Hoy muchas familias también hacen algún regalo en Navidad."
+   ]
+  ],
+  "closing": {
+   "h2": "Unas fiestas para compartir",
+   "alt": "",
+   "html": "<p>Las tradiciones son parte de lo que hace la vida aquí tan cálida. Si piensa pasar el invierno, o todos los inviernos, junto al mar, <a href=\"{up}index.html#contact\">escríbanos</a> y le ayudaremos a encontrar su casa.</p>"
+  },
+  "slug": "los-reyes-magos-en-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/trzech-kroli-w-hiszpanii"
+}

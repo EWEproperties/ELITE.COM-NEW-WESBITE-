@@ -1,0 +1,263 @@
+{
+ "author": "aleksandra",
+ "published": "2025-05-09",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/life-after-moving/couple-relaxing-on-a-terrace-with-sea-view.jpg",
+ "images": {
+  "first": "assets/blog/life-after-moving/woman-reading-documents-by-a-window.jpg",
+  "work": "assets/blog/life-after-moving/man-working-on-a-laptop-on-steps.jpg",
+  "costs": "assets/blog/life-after-moving/woman-buying-peppers-at-a-market.jpg",
+  "rhythm": "assets/blog/life-after-moving/woman-with-tablet-on-a-seafront-bench.jpg",
+  "people": "assets/blog/life-after-moving/cyclists-on-a-palm-lined-avenue.jpg",
+  "challenges": "assets/blog/life-after-moving/smiling-woman-on-a-beach-in-winter.jpg"
+ },
+ "cards": [
+  "26157630",
+  "24758318",
+  "26614054"
+ ],
+ "sources": [
+  [
+   "Spanish Government – EU citizens' residence (Extranjería)",
+   "https://www.inclusion.gob.es/"
+  ],
+  [
+   "Agencia Tributaria – tax residence",
+   "https://sede.agenciatributaria.gob.es/"
+  ],
+  [
+   "INE – Labour Force Survey (EPA)",
+   "https://www.ine.es/"
+  ],
+  [
+   "Seguridad Social",
+   "https://www.seg-social.es/"
+  ]
+ ],
+ "en": {
+  "slug": "expats-in-spain-what-is-life-like-after-moving",
+  "title": "Expats in Spain – What Is Life Like After the Move?",
+  "description": "What life in Spain is really like after you move: the first paperwork, work and the job market, the cost of living, language, the daily rhythm, making friends and the most common challenges for expats.",
+  "crumb": "Life in Spain after moving",
+  "eyebrow": "Living in Spain",
+  "h1": "Expats in Spain: What Is Life Like After the Move?",
+  "hero_alt": "Couple relaxing on a sunny terrace with flowers and a sea view",
+  "short": "Most expats settle into Spain within the first year, but the first months take work. Expect paperwork (padrón, residence registration, health card, tax residence after 183 days), slower bureaucracy with appointments (cita previa), a later daily rhythm, and a job market with unemployment around 10%, where remote work and your own business are common. Costs on the coast are lower than in most of northern Europe, except for housing in hotspots. Learning Spanish and joining local clubs make the biggest difference.",
+  "intro": [
+   "Every year hundreds of thousands of people from other European countries and beyond make Spain their home. The reasons are similar: the climate, the outdoor life, the food, and often a better balance between work and free time. But the move is only the beginning. What is daily life like once the boxes are unpacked?",
+   "This guide covers what our clients tell us about their first year, from the paperwork to making friends. For the steps before the move, see our <a href=\"{up}moving-to-spain-step-by-step-how-to-prepare.html\">moving to Spain checklist</a>."
+  ],
+  "sections": [
+   {
+    "id": "first",
+    "h2": "The first weeks: paperwork",
+    "alt": "Woman reading documents by a sunny window",
+    "html": "<ul><li><strong>Padrón</strong> – register at the town hall with your address. You need it for almost everything.</li><li><strong>Residence</strong> – EU citizens staying longer than three months register at the foreign nationals' office or police and receive a green registration certificate. Non-EU citizens need a visa or permit and then a TIE card.</li><li><strong>Healthcare</strong> – once you work, pay into the system or bring a pension form (S1), you can get a health card from your local health centre.</li><li><strong>Bank and utilities</strong> – a Spanish bank account makes paying bills, community fees and local taxes much easier.</li><li><strong>Driving</strong> – EU licences stay valid; many non-EU licences must be exchanged within six months of becoming resident.</li><li><strong>Taxes</strong> – after more than 183 days a year in Spain you are normally tax resident and declare your worldwide income here.</li></ul><p>Most offices work by appointment (cita previa), often booked online. Patience and copies of every document help a lot. Read more about <a href=\"{up}staying-in-spain-for-more-than-90-days-while-owning-property.html\">staying longer than 90 days</a> and <a href=\"{up}the-healthcare-system-in-spain.html\">healthcare in Spain</a>.</p>"
+   },
+   {
+    "id": "work",
+    "h2": "Work and the job market",
+    "alt": "Man working on a laptop on outdoor steps",
+    "html": "<p>Spain's unemployment rate is around 10%, higher than the EU average, and salaries are lower than in northern Europe. That is why many expats bring their work with them: remote employees, freelancers (<em>autónomos</em>) and business owners. Tourism, property, healthcare, IT and international schools also hire people with languages. Some newcomers who move for a job can use the special tax regime for inbound workers. See <a href=\"{up}the-best-paid-jobs-in-spain.html\">the best-paid jobs in Spain</a>.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "The cost of living",
+    "alt": "Woman choosing red peppers at a market stall",
+    "html": "<p>Day-to-day costs on the Costa Blanca and Costa del Sol are lower than in most of Germany, the Netherlands, Scandinavia or the UK: fresh food at the market, eating out at lunchtime and public transport are good value. Housing is the exception: rents in Málaga, Marbella, Alicante and popular coastal towns have risen fast. Electricity can be expensive in summer if you use air conditioning a lot. See our <a href=\"{up}how-much-does-it-cost-to-live-in-spain-prices-and-cost-of-living.html\">cost of living guide</a>.</p>"
+   },
+   {
+    "id": "rhythm",
+    "h2": "Language and the daily rhythm",
+    "alt": "Woman with headphones and a tablet on a seafront bench",
+    "html": "<p>In the big resorts you can manage in English, but in offices, health centres and smaller towns Spanish matters, and in the Valencian Community you will also see Valencian. Even basic Spanish makes daily life easier and opens doors to friendships. The day runs later than in northern Europe: lunch is around 2 pm, dinner after 9 pm, and in smaller towns many shops close in the early afternoon. Summers are slower, and August is a holiday month.</p>"
+   },
+   {
+    "id": "people",
+    "h2": "Making friends and finding your community",
+    "alt": "Cyclists riding along a palm-lined avenue",
+    "html": "<p>Spaniards are open and sociable, and life happens outdoors: on terraces, in squares and at local festivals. The quickest way in is through shared activities: sports clubs, walking and cycling groups, golf, choirs, language exchanges, volunteering and your children's school. Most coastal towns also have international associations where newcomers help each other.</p>"
+   },
+   {
+    "id": "challenges",
+    "h2": "The most common challenges",
+    "alt": "Smiling woman in a scarf on a quiet beach in winter",
+    "html": "<ul><li><strong>Bureaucracy</strong> – appointments, different rules in different regions and documents in Spanish. A good gestor or lawyer saves time.</li><li><strong>Language</strong> – the first months can feel tiring; it gets better quickly with lessons and practice.</li><li><strong>Quiet winters</strong> – some resorts are very calm out of season. Choose a town that lives all year.</li><li><strong>Homesickness</strong> – normal, especially in the first winter. Cheap flights help, and so does building a routine.</li><li><strong>Housing</strong> – renting first, for six to twelve months, is the best way to be sure about the area before you buy.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "How long does it take to settle in Spain?",
+    "Most people say the first six months are the hardest because of paperwork and language. By the end of the first year most expats feel at home."
+   ],
+   [
+    "Do I need to speak Spanish to live in Spain?",
+    "Not in the big international resorts, but for offices, healthcare and making local friends it helps a lot. Basic Spanish is worth learning before or soon after the move."
+   ],
+   [
+    "When do I become tax resident in Spain?",
+    "Normally when you spend more than 183 days a year in Spain, or when your main business or family interests are here. Then you declare your worldwide income in Spain."
+   ],
+   [
+    "Where do most expats live in Spain?",
+    "Madrid and Barcelona for work, and on the coast mostly the Costa Blanca and Costa del Sol, where there are large international communities."
+   ]
+  ],
+  "closing": {
+   "h2": "Find the right place to start",
+   "alt": "",
+   "html": "<p>The town you choose shapes your first year more than anything else. If you are planning a move, <a href=\"{up}index.html#contact\">get in touch</a>. We will help you find an area that lives all year round, and a home to rent or buy.</p>"
+  }
+ },
+ "de": {
+  "slug": "expats-in-spanien-wie-ist-das-leben-nach-dem-umzug",
+  "title": "Expats in Spanien – Wie ist das Leben nach dem Umzug?",
+  "description": "Wie das Leben in Spanien nach dem Umzug wirklich ist: die ersten Behördengänge, Arbeit und Arbeitsmarkt, Lebenshaltungskosten, Sprache, Tagesrhythmus, Anschluss finden und die häufigsten Herausforderungen.",
+  "crumb": "Leben in Spanien nach dem Umzug",
+  "eyebrow": "Leben in Spanien",
+  "h1": "Expats in Spanien: Wie ist das Leben nach dem Umzug?",
+  "hero_alt": "Paar entspannt auf einer sonnigen Terrasse mit Blumen und Meerblick",
+  "short": "Die meisten Expats leben sich im ersten Jahr in Spanien ein, die ersten Monate kosten aber Kraft. Rechnen Sie mit Behördengängen (Padrón, Registrierung des Aufenthalts, Gesundheitskarte, Steuerresidenz nach 183 Tagen), langsamer Bürokratie mit Terminvergabe (Cita previa), einem späteren Tagesrhythmus und einem Arbeitsmarkt mit rund 10 % Arbeitslosigkeit, in dem Remote-Arbeit und Selbstständigkeit verbreitet sind. Die Lebenshaltung an der Küste ist günstiger als in Deutschland, Österreich oder der Schweiz, außer beim Wohnen in gefragten Orten. Spanisch lernen und Vereinen beitreten macht den größten Unterschied.",
+  "intro": [
+   "Jedes Jahr machen Hunderttausende Menschen aus anderen Ländern Spanien zu ihrem Zuhause, darunter viele aus Deutschland, Österreich und der Schweiz. Die Gründe ähneln sich: Klima, Leben im Freien, Essen und oft eine bessere Balance zwischen Arbeit und Freizeit. Doch der Umzug ist nur der Anfang. Wie sieht der Alltag aus, wenn die Kisten ausgepackt sind?",
+   "Dieser Ratgeber fasst zusammen, was uns Kunden über ihr erstes Jahr erzählen, von den Formalitäten bis zu neuen Freundschaften. Die Schritte vor dem Umzug finden Sie in unserer <a href=\"{up}de-de/schritt-fur-schritt-nach-spanien-wie-bereite-ich-mich-vor.html\">Checkliste für den Umzug nach Spanien</a>."
+  ],
+  "sections": [
+   {
+    "id": "first",
+    "h2": "Die ersten Wochen: Formalitäten",
+    "alt": "Frau liest Unterlagen an einem sonnigen Fenster",
+    "html": "<ul><li><strong>Padrón</strong> – Anmeldung im Rathaus mit Ihrer Adresse. Man braucht sie für fast alles.</li><li><strong>Aufenthalt</strong> – EU-Bürger und Schweizer, die länger als drei Monate bleiben, registrieren sich bei der Ausländerbehörde oder Polizei und erhalten eine grüne Registrierungsbescheinigung.</li><li><strong>Gesundheit</strong> – wer hier arbeitet, einzahlt oder eine Rente mit Formular S1 bezieht, bekommt im Gesundheitszentrum eine Gesundheitskarte.</li><li><strong>Bank und Versorger</strong> – ein spanisches Konto erleichtert Rechnungen, Gemeinschaftskosten und lokale Steuern.</li><li><strong>Führerschein</strong> – EU-Führerscheine bleiben gültig. Schweizer Führerscheine müssen nach Erwerb des Wohnsitzes in der Regel umgetauscht werden.</li><li><strong>Steuern</strong> – wer mehr als 183 Tage im Jahr in Spanien verbringt, ist in der Regel steuerlich ansässig und versteuert sein Welteinkommen hier.</li></ul><p>Die meisten Ämter arbeiten mit Termin (Cita previa), oft online gebucht. Geduld und Kopien aller Dokumente helfen sehr. Mehr zu <a href=\"{up}de-de/aufenthalt-in-spanien-von-mehr-als-90-tagen-mit-immobilienbesitz.html\">Aufenthalten über 90 Tage</a> und zum <a href=\"{up}de-de/das-gesundheitssystem-in-spanien.html\">Gesundheitssystem</a>.</p>"
+   },
+   {
+    "id": "work",
+    "h2": "Arbeit und Arbeitsmarkt",
+    "alt": "Mann arbeitet mit dem Laptop auf einer Treppe im Freien",
+    "html": "<p>Die Arbeitslosenquote in Spanien liegt bei rund 10 %, über dem EU-Durchschnitt, und die Gehälter sind niedriger als in Deutschland, Österreich oder der Schweiz. Deshalb bringen viele Expats ihre Arbeit mit: Remote-Angestellte, Selbstständige (<em>Autónomos</em>) und Unternehmer. Tourismus, Immobilien, Gesundheit, IT und internationale Schulen suchen zudem Menschen mit Sprachkenntnissen. Wer für einen Job nach Spanien zieht, kann unter Umständen die Sonderregelung für zugezogene Arbeitnehmer nutzen. Siehe <a href=\"{up}de-de/die-bestbezahlten-berufe-in-spanien.html\">die bestbezahlten Berufe in Spanien</a>.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "Lebenshaltungskosten",
+    "alt": "Frau wählt rote Paprika an einem Marktstand",
+    "html": "<p>Die Alltagskosten an Costa Blanca und Costa del Sol liegen unter denen in Deutschland, Österreich oder der Schweiz: Frische Lebensmittel vom Markt, Mittagsmenüs und öffentlicher Verkehr sind günstig. Ausnahme ist das Wohnen: Mieten in Málaga, Marbella, Alicante und beliebten Küstenorten sind stark gestiegen. Strom kann im Sommer bei viel Klimaanlage teuer werden. Siehe unseren <a href=\"{up}de-de/wie-hoch-sind-die-lebenshaltungskosten-in-spanien-preise-und-lebenshaltungskosten.html\">Ratgeber zu den Lebenshaltungskosten</a>.</p>"
+   },
+   {
+    "id": "rhythm",
+    "h2": "Sprache und Tagesrhythmus",
+    "alt": "Frau mit Kopfhörern und Tablet auf einer Bank an der Promenade",
+    "html": "<p>In den großen Ferienorten kommt man mit Englisch und oft auch Deutsch zurecht, doch in Ämtern, Gesundheitszentren und kleineren Orten zählt Spanisch, in der Region Valencia sieht man auch Valencianisch. Schon Grundkenntnisse machen den Alltag leichter und öffnen Türen. Der Tag läuft später als in Mitteleuropa: Mittagessen gegen 14 Uhr, Abendessen nach 21 Uhr, und in kleineren Orten schließen viele Geschäfte am frühen Nachmittag. Der Sommer ist langsamer, der August Ferienmonat.</p>"
+   },
+   {
+    "id": "people",
+    "h2": "Anschluss finden",
+    "alt": "Radfahrer auf einer Allee mit Palmen",
+    "html": "<p>Spanier sind offen und gesellig, das Leben spielt sich draußen ab: auf Terrassen, Plätzen und bei Dorffesten. Am schnellsten findet man Anschluss über gemeinsame Aktivitäten: Sportvereine, Wander- und Radgruppen, Golf, Chöre, Sprachtandems, Ehrenamt und die Schule der Kinder. In den meisten Küstenorten gibt es auch internationale und deutschsprachige Vereine, in denen sich Neuankömmlinge gegenseitig helfen.</p>"
+   },
+   {
+    "id": "challenges",
+    "h2": "Die häufigsten Herausforderungen",
+    "alt": "Lächelnde Frau mit Schal an einem ruhigen Strand im Winter",
+    "html": "<ul><li><strong>Bürokratie</strong> – Termine, regional unterschiedliche Regeln und Dokumente auf Spanisch. Ein guter Gestor oder Anwalt spart Zeit.</li><li><strong>Sprache</strong> – die ersten Monate sind anstrengend, mit Unterricht und Übung wird es schnell besser.</li><li><strong>Ruhige Winter</strong> – manche Ferienorte sind außerhalb der Saison sehr still. Wählen Sie einen Ort, der das ganze Jahr lebt.</li><li><strong>Heimweh</strong> – normal, besonders im ersten Winter. Günstige Flüge helfen, eine feste Routine auch.</li><li><strong>Wohnen</strong> – zuerst sechs bis zwölf Monate mieten ist der beste Weg, sich der Gegend sicher zu sein.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "Wie lange dauert es, sich in Spanien einzuleben?",
+    "Die meisten sagen, die ersten sechs Monate sind wegen Formalitäten und Sprache am schwersten. Nach einem Jahr fühlen sich die meisten zu Hause."
+   ],
+   [
+    "Muss ich Spanisch sprechen, um in Spanien zu leben?",
+    "In den großen internationalen Orten nicht unbedingt, für Ämter, Arztbesuche und spanische Freunde hilft es aber sehr. Grundkenntnisse lohnen sich vor oder kurz nach dem Umzug."
+   ],
+   [
+    "Wann werde ich in Spanien steuerlich ansässig?",
+    "In der Regel, wenn Sie mehr als 183 Tage im Jahr in Spanien verbringen oder Ihr Lebensmittelpunkt hier liegt. Dann versteuern Sie Ihr Welteinkommen in Spanien."
+   ],
+   [
+    "Wo leben die meisten Expats in Spanien?",
+    "Madrid und Barcelona für den Beruf, an der Küste vor allem an der Costa Blanca und der Costa del Sol mit großen internationalen Gemeinschaften."
+   ]
+  ],
+  "closing": {
+   "h2": "Der richtige Ort für den Start",
+   "alt": "",
+   "html": "<p>Der Ort, den Sie wählen, prägt Ihr erstes Jahr mehr als alles andere. Wenn Sie einen Umzug planen, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir helfen Ihnen, eine Gegend zu finden, die das ganze Jahr lebt, und ein Zuhause zur Miete oder zum Kauf.</p>"
+  }
+ },
+ "es": {
+  "slug": "extranjeros-en-espana-como-es-la-vida-despues-de-mudarse",
+  "title": "Extranjeros en España – ¿Cómo es la vida después de mudarse?",
+  "description": "Cómo es de verdad la vida en España después de la mudanza: los primeros trámites, el trabajo, el coste de vida, el idioma, el ritmo diario, cómo hacer amigos y los retos más habituales.",
+  "crumb": "La vida en España tras la mudanza",
+  "eyebrow": "Vivir en España",
+  "h1": "Extranjeros en España: ¿cómo es la vida después de mudarse?",
+  "hero_alt": "Pareja descansando en una terraza soleada con flores y vistas al mar",
+  "short": "La mayoría de quienes se mudan a España se adaptan durante el primer año, pero los primeros meses exigen esfuerzo: trámites (padrón, registro de residencia, tarjeta sanitaria, residencia fiscal a partir de 183 días), una burocracia con cita previa, un horario más tardío y un mercado laboral con un paro en torno al 10 %, donde el teletrabajo y ser autónomo son habituales. El coste de vida en la costa es más bajo que en el norte de Europa, salvo la vivienda en las zonas más demandadas. Aprender español y apuntarse a actividades locales es lo que más ayuda.",
+  "intro": [
+   "Cada año cientos de miles de personas de otros países hacen de España su hogar, muchas de ellas hispanohablantes de América Latina. Los motivos se repiten: el clima, la vida al aire libre, la comida y, a menudo, un mejor equilibrio entre trabajo y tiempo libre. Pero la mudanza es solo el principio. ¿Cómo es el día a día cuando ya se han deshecho las cajas?",
+   "Esta guía recoge lo que nos cuentan nuestros clientes sobre su primer año, de los trámites a las nuevas amistades. Para los pasos previos, vea nuestra <a href=\"{up}es-es/mudarse-a-espana-paso-a-paso-como-prepararse.html\">guía para mudarse a España</a>."
+  ],
+  "sections": [
+   {
+    "id": "first",
+    "h2": "Las primeras semanas: trámites",
+    "alt": "Mujer leyendo documentos junto a una ventana soleada",
+    "html": "<ul><li><strong>Padrón</strong> – empadrónese en el ayuntamiento con su dirección. Se necesita para casi todo.</li><li><strong>Residencia</strong> – los ciudadanos de la UE que se quedan más de tres meses se inscriben en Extranjería o en la policía y reciben el certificado verde de registro. Los ciudadanos de fuera de la UE necesitan visado o autorización y después la TIE.</li><li><strong>Sanidad</strong> – si trabaja, cotiza o tiene una pensión con formulario S1, puede pedir la tarjeta sanitaria en su centro de salud.</li><li><strong>Banco y suministros</strong> – una cuenta española facilita el pago de recibos, comunidad e impuestos locales.</li><li><strong>Carné de conducir</strong> – los permisos de la UE siguen siendo válidos; muchos permisos de fuera de la UE deben canjearse en los seis meses siguientes a obtener la residencia, si existe convenio.</li><li><strong>Impuestos</strong> – con más de 183 días al año en España se es, por lo general, residente fiscal y se declara la renta mundial aquí.</li></ul><p>Casi todas las oficinas funcionan con cita previa, a menudo por internet. Paciencia y copias de todos los documentos ayudan mucho. Más sobre <a href=\"{up}es-es/estancia-en-espana-superior-a-90-dias-siendo-propietario-de-un-inmueble.html\">estancias de más de 90 días</a> y el <a href=\"{up}es-es/el-sistema-sanitario-en-espana.html\">sistema sanitario</a>.</p>"
+   },
+   {
+    "id": "work",
+    "h2": "Trabajo y mercado laboral",
+    "alt": "Hombre trabajando con un portátil en unas escaleras al aire libre",
+    "html": "<p>La tasa de paro en España ronda el 10 %, por encima de la media de la UE, y los sueldos son más bajos que en el norte de Europa. Por eso muchos recién llegados traen su trabajo consigo: teletrabajadores, autónomos y empresarios. El turismo, la vivienda, la sanidad, la informática y los colegios internacionales también buscan personas con idiomas. Quien se traslada por un empleo puede, en algunos casos, acogerse al régimen especial para trabajadores desplazados. Vea <a href=\"{up}es-es/las-profesiones-mejor-remuneradas-en-espana.html\">las profesiones mejor pagadas en España</a>.</p>"
+   },
+   {
+    "id": "costs",
+    "h2": "El coste de vida",
+    "alt": "Mujer eligiendo pimientos rojos en un puesto del mercado",
+    "html": "<p>Los gastos del día a día en la Costa Blanca y la Costa del Sol son más bajos que en la mayor parte del norte de Europa: el mercado, el menú del día y el transporte público tienen buen precio. La excepción es la vivienda: los alquileres en Málaga, Marbella, Alicante y los pueblos costeros más buscados han subido mucho. La luz puede encarecerse en verano si se usa mucho el aire acondicionado. Vea nuestra <a href=\"{up}es-es/cuanto-cuesta-vivir-en-espana-precios-y-coste-de-la-vida.html\">guía del coste de vida</a>.</p>"
+   },
+   {
+    "id": "rhythm",
+    "h2": "Idioma y ritmo diario",
+    "alt": "Mujer con auriculares y tableta en un banco del paseo marítimo",
+    "html": "<p>Para quien ya habla español la adaptación es mucho más rápida, aunque cambian el vocabulario y algunas costumbres, y en la Comunitat Valenciana también se usa el valenciano. El día empieza y termina más tarde que en otros países: se come hacia las 14 h, se cena después de las 21 h y en los pueblos muchas tiendas cierran a primera hora de la tarde. El verano es más lento y agosto es mes de vacaciones.</p>"
+   },
+   {
+    "id": "people",
+    "h2": "Hacer amigos y encontrar su comunidad",
+    "alt": "Ciclistas por una avenida con palmeras",
+    "html": "<p>La vida en España se hace en la calle: en terrazas, plazas y fiestas del pueblo. La forma más rápida de integrarse es compartir actividades: clubes deportivos, grupos de senderismo y ciclismo, golf, coros, intercambios de idiomas, voluntariado y el colegio de los hijos. En la mayoría de municipios costeros también hay asociaciones internacionales que ayudan a los recién llegados.</p>"
+   },
+   {
+    "id": "challenges",
+    "h2": "Los retos más habituales",
+    "alt": "Mujer sonriente con bufanda en una playa tranquila en invierno",
+    "html": "<ul><li><strong>Burocracia</strong> – citas, normas distintas según la comunidad y mucha documentación. Un buen gestor o abogado ahorra tiempo.</li><li><strong>Adaptación</strong> – los primeros meses cansan, pero mejoran rápido con rutinas y contactos.</li><li><strong>Inviernos tranquilos</strong> – algunos destinos se vacían fuera de temporada. Elija un municipio con vida todo el año.</li><li><strong>Nostalgia</strong> – es normal, sobre todo el primer invierno. Ayudan las visitas y una rutina propia.</li><li><strong>Vivienda</strong> – alquilar primero seis a doce meses es la mejor forma de asegurarse de la zona antes de comprar.</li></ul>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuánto se tarda en adaptarse a España?",
+    "La mayoría dice que los primeros seis meses son los más duros por los trámites. Al final del primer año casi todos se sienten en casa."
+   ],
+   [
+    "¿Cuáles son los primeros trámites al llegar a España?",
+    "Empadronarse, registrar la residencia (certificado de la UE o TIE), pedir la tarjeta sanitaria, abrir una cuenta bancaria y, si procede, canjear el carné de conducir."
+   ],
+   [
+    "¿Cuándo se es residente fiscal en España?",
+    "Por lo general cuando se pasan más de 183 días al año en España o cuando aquí está el centro de intereses económicos o familiares. Entonces se declara la renta mundial en España."
+   ],
+   [
+    "¿Dónde viven más extranjeros en España?",
+    "Madrid y Barcelona por trabajo y, en la costa, sobre todo la Costa Blanca y la Costa del Sol, con grandes comunidades internacionales."
+   ]
+  ],
+  "closing": {
+   "h2": "El lugar adecuado para empezar",
+   "alt": "",
+   "html": "<p>El municipio que elija marcará su primer año más que nada. Si está planeando la mudanza, <a href=\"{up}index.html#contact\">escríbanos</a> y le ayudaremos a encontrar una zona con vida todo el año y una casa para alquilar o comprar.</p>"
+  }
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/polacy-w-hiszpanii-jak-wyglda-zycie-po-przeprowadzce"
+}

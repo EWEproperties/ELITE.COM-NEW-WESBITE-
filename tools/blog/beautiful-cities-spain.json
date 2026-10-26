@@ -1,0 +1,334 @@
+{
+ "author": "lucyna",
+ "published": "2025-05-12",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/beautiful-cities-spain/plaza-de-espana-in-seville-at-sunset.jpg",
+ "images": {
+  "alicante": "assets/blog/beautiful-cities-spain/santa-barbara-castle-lit-up-above-alicante.jpg",
+  "barcelona": "assets/blog/beautiful-cities-spain/sagrada-familia-and-barcelona-from-above.jpg",
+  "malaga": "assets/blog/beautiful-cities-spain/malaga-city-and-port-from-gibralfaro.jpg",
+  "calpe": "assets/blog/beautiful-cities-spain/penon-de-ifach-and-calpe-from-the-air.jpg",
+  "elche": "assets/blog/beautiful-cities-spain/altamira-palace-and-palm-grove-in-elche.jpg",
+  "torrevieja": "assets/blog/beautiful-cities-spain/palm-trees-and-beach-promenade-in-torrevieja.jpg",
+  "benidorm": "assets/blog/beautiful-cities-spain/benidorm-skyline-and-poniente-beach.jpg",
+  "toledo": "assets/blog/beautiful-cities-spain/toledo-above-the-tagus-river-at-sunset.jpg",
+  "marbella": "assets/blog/beautiful-cities-spain/marbella-marina-and-sierra-blanca-from-the-air.jpg"
+ },
+ "cards": [
+  "24758318",
+  "26239846",
+  "26627092"
+ ],
+ "sources": [
+  [
+   "UNESCO World Heritage List – Spain",
+   "https://whc.unesco.org/en/statesparties/es"
+  ],
+  [
+   "Spain's official tourism portal",
+   "https://www.spain.info/"
+  ],
+  [
+   "Turisme Comunitat Valenciana",
+   "https://www.comunitatvalenciana.com/"
+  ]
+ ],
+ "en": {
+  "title": "The 10 Most Beautiful Cities in Spain – From Seville to the Costa Blanca",
+  "description": "Ten of the most beautiful cities in Spain: Seville, Barcelona, Toledo and Málaga, plus Alicante, Elche, Calpe, Torrevieja, Benidorm and Marbella on the coast, with what to see and the best festivals in each.",
+  "crumb": "Most beautiful cities in Spain",
+  "eyebrow": "Places · Spain",
+  "h1": "The 10 Most Beautiful Cities in Spain",
+  "hero_alt": "Plaza de España in Seville under a colourful sunset sky",
+  "short": "Spain's most beautiful cities mix history and the Mediterranean. Inland, Seville (Alcázar, cathedral, Plaza de España) and Toledo (the \"city of three cultures\") are among the most impressive historic centres in Europe. Barcelona is famous for Gaudí, and Málaga for Picasso and its Moorish Alcazaba. On the coast, Alicante, Elche with its UNESCO palm grove, Calpe below the Peñón de Ifach, Torrevieja with its pink salt lakes, Benidorm and Marbella combine beaches with real city life.",
+  "intro": [
+   "Spain has a long and layered history: Roman, Moorish, Jewish and Christian, then Renaissance, Baroque and modernist. You can read it in the streets of almost every city. Our list mixes famous names with coastal towns we know well, because many people who fall in love with Spain on a city break end up living by the sea.",
+   "Here are ten cities worth seeing, with the highlights and the festival to plan around in each."
+  ],
+  "sections": [
+   {
+    "id": "seville",
+    "h2": "1. Seville – the heart of Andalusia",
+    "alt": "",
+    "html": "<p>The capital of Andalusia is the home of flamenco and some of Spain's greatest monuments: the Real Alcázar palace and the cathedral with its Giralda tower (both UNESCO World Heritage), the curved Plaza de España, the Torre del Oro and the Santa Cruz quarter. Come in spring for Holy Week and the April Fair, and avoid July and August, when temperatures often pass 40 °C.</p>"
+   },
+   {
+    "id": "barcelona",
+    "h2": "2. Barcelona – Gaudí and the sea",
+    "alt": "Sagrada Família and the grid of Barcelona from above",
+    "html": "<p>Spain's second city combines the Gothic Quarter, the modernist buildings of Antoni Gaudí (the Sagrada Família, Park Güell, Casa Batlló) and city beaches at La Barceloneta. Try the Boqueria market and Catalan dishes such as crema catalana. The La Mercè festival in late September fills the streets with concerts and human towers.</p>"
+   },
+   {
+    "id": "toledo",
+    "h2": "3. Toledo – the city of three cultures",
+    "alt": "Toledo on its hill above the Tagus river at sunset",
+    "html": "<p>On a hill surrounded by the Tagus river, Toledo shows centuries of Christian, Muslim and Jewish life. See the Gothic cathedral, the Alcázar, the monastery of San Juan de los Reyes, the El Tránsito synagogue (now the Sephardic Museum) and the paintings of El Greco. It is an easy day trip from Madrid, 30 minutes by high-speed train.</p>"
+   },
+   {
+    "id": "malaga",
+    "h2": "4. Málaga – art and the Costa del Sol",
+    "alt": "Málaga city, the port and the bullring seen from Gibralfaro",
+    "html": "<p>Picasso's home town has become one of Spain's liveliest cities, with the Picasso Museum, the Moorish Alcazaba and Gibralfaro castle, the cathedral and a smart port promenade. Eat <em>espetos</em> (sardines grilled on a stick) on the beach. The Feria de Málaga in mid-August is one of the biggest summer fairs in Spain. See our <a href=\"{up}the-costa-del-sol-top-10-attractions-worth-visiting.html\">Costa del Sol top 10</a>.</p>"
+   },
+   {
+    "id": "alicante",
+    "h2": "5. Alicante – the capital of the Costa Blanca",
+    "alt": "Santa Bárbara castle lit up above Alicante at night",
+    "html": "<p>Alicante is a sunny city by the sea, with Santa Bárbara castle above the old town, the Basilica of Santa María, the palm-lined Explanada de España and the city beach of El Postiguet. In June the Hogueras de San Juan fill the streets with giant figures that are burned on the night of 24 June. Read more in <a href=\"{up}alicante-what-to-see-in-spains-sunniest-city.html\">what to see in Alicante</a>.</p>"
+   },
+   {
+    "id": "elche",
+    "h2": "6. Elche – Europe's largest palm grove",
+    "alt": "Altamira palace and the palm grove in Elche",
+    "html": "<p>Elche's Palmeral, with around 200,000 palm trees, is a UNESCO World Heritage site, and its Huerto del Cura garden is a peaceful place to walk. In the centre are the Basilica of Santa María and the Altamira palace. On 14–15 August the basilica stages the Misteri d'Elx, a medieval sung drama recognised by UNESCO.</p>"
+   },
+   {
+    "id": "calpe",
+    "h2": "7. Calpe – the town under the rock",
+    "alt": "Peñón de Ifach and the town of Calpe from the air",
+    "html": "<p>Calpe is defined by the Peñón de Ifach, a 332 m rock rising from the sea that is now a natural park with a walking trail (visitor numbers are limited at busy times). Explore the small old town, the Torreó de la Peça tower, the Roman fish tanks of the Banys de la Reina and the salt lake where flamingos feed. Moors and Christians festivities in October are a highlight. See our <a href=\"{up}properties-for-sale-in-calpe.html\">homes in Calpe</a>.</p>"
+   },
+   {
+    "id": "torrevieja",
+    "h2": "8. Torrevieja – salt lakes and habaneras",
+    "alt": "Palm trees and a crowded beach promenade in Torrevieja",
+    "html": "<p>Torrevieja grew around its salt works, and its pink lagoon is one of the most photographed sights on the coast. Visit the Museum of the Sea and Salt, the S-61 Delfín submarine in the port, and in summer the international Habaneras competition, a celebration of sea songs brought back from Cuba. See our <a href=\"{up}torrevieja--what-to-see-and-the-best-attractions.html\">Torrevieja guide</a>.</p>"
+   },
+   {
+    "id": "benidorm",
+    "h2": "9. Benidorm – the Mediterranean skyline",
+    "alt": "Benidorm skyline and Poniente beach from above",
+    "html": "<p>Benidorm's towers are framed by two long bays and the Puig Campana mountain. Beyond the skyline there is a pretty old town, the Balcón del Mediterráneo viewpoint and the church of San Jaime and Santa Ana. Each winter the city hosts Benidorm Fest, which chooses Spain's Eurovision entry. Read <a href=\"{up}benidorm-whats-worth-seeing-a-practical-guide.html\">what to see in Benidorm</a>.</p>"
+   },
+   {
+    "id": "marbella",
+    "h2": "10. Marbella – the elegant side of the coast",
+    "alt": "Marbella marina and the Sierra Blanca from the air",
+    "html": "<p>Marbella combines a whitewashed old town, Puerto Banús, the dunes of Artola and golf courses such as Las Brisas and Los Naranjos. In summer the Starlite festival brings international artists to an open-air auditorium in a quarry. Read <a href=\"{up}what-is-worth-seeing-in-marbella.html\">what to see in Marbella</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "What is the most beautiful city in Spain?",
+    "Many travellers choose Seville for its monuments and atmosphere. Toledo, Barcelona and Granada are also often named."
+   ],
+   [
+    "Which Spanish cities by the sea are worth visiting?",
+    "Barcelona, Málaga, Alicante and Marbella are the best-known. On the Costa Blanca, Calpe, Torrevieja and Benidorm are also popular."
+   ],
+   [
+    "What is the best time to visit Spanish cities?",
+    "Spring (April to June) and autumn (September to November). Inland cities such as Seville and Toledo are very hot in July and August."
+   ],
+   [
+    "Which Spanish city has the most UNESCO sites?",
+    "Several cities have more than one. Seville's cathedral, Alcázar and Archive of the Indies share one listing, and Elche has both its Palmeral and the Misteri d'Elx."
+   ]
+  ],
+  "closing": {
+   "h2": "From city break to life by the sea",
+   "alt": "",
+   "html": "<p>Many of our clients discovered Spain through its cities, then chose a home on the coast with Alicante or Málaga airport close by. If you would like to do the same, <a href=\"{up}index.html#contact\">get in touch</a>.</p>"
+  },
+  "slug": "the-10-most-beautiful-cities-in-spain"
+ },
+ "de": {
+  "title": "Die 10 schönsten Städte Spaniens – Von Sevilla bis zur Costa Blanca",
+  "description": "Zehn der schönsten Städte Spaniens: Sevilla, Barcelona, Toledo und Málaga sowie Alicante, Elche, Calpe, Torrevieja, Benidorm und Marbella an der Küste, mit Sehenswürdigkeiten und den besten Festen.",
+  "crumb": "Die schönsten Städte Spaniens",
+  "eyebrow": "Orte · Spanien",
+  "h1": "Die 10 schönsten Städte Spaniens",
+  "hero_alt": "Plaza de España in Sevilla unter einem farbigen Abendhimmel",
+  "short": "Spaniens schönste Städte verbinden Geschichte und Mittelmeer. Im Landesinneren gehören Sevilla (Alcázar, Kathedrale, Plaza de España) und Toledo (die „Stadt der drei Kulturen“) zu den eindrucksvollsten Altstädten Europas. Barcelona ist für Gaudí berühmt, Málaga für Picasso und die maurische Alcazaba. An der Küste verbinden Alicante, Elche mit seinem UNESCO-Palmenhain, Calpe am Peñón de Ifach, Torrevieja mit seinen rosa Salzseen, Benidorm und Marbella Strände mit echtem Stadtleben.",
+  "intro": [
+   "Spanien hat eine lange, vielschichtige Geschichte: römisch, maurisch, jüdisch und christlich, dann Renaissance, Barock und Modernisme. Man liest sie in den Straßen fast jeder Stadt. Unsere Liste mischt berühmte Namen mit Küstenorten, die wir gut kennen, denn viele, die sich bei einer Städtereise in Spanien verlieben, leben später am Meer.",
+   "Hier sind zehn Städte, die sich lohnen, mit Höhepunkten und dem Fest, für das man die Reise planen sollte."
+  ],
+  "sections": [
+   {
+    "id": "seville",
+    "h2": "1. Sevilla – das Herz Andalusiens",
+    "alt": "",
+    "html": "<p>Andalusiens Hauptstadt ist die Heimat des Flamenco und einiger der größten Bauwerke Spaniens: der Palast Real Alcázar und die Kathedrale mit der Giralda (beide UNESCO-Welterbe), die geschwungene Plaza de España, der Torre del Oro und das Viertel Santa Cruz. Ideal im Frühling zur Karwoche und Feria de Abril. Im Juli und August werden oft über 40 °C erreicht.</p>"
+   },
+   {
+    "id": "barcelona",
+    "h2": "2. Barcelona – Gaudí und das Meer",
+    "alt": "Sagrada Família und das Straßenraster Barcelonas von oben",
+    "html": "<p>Spaniens zweitgrößte Stadt verbindet das gotische Viertel, die Bauten von Antoni Gaudí (Sagrada Família, Park Güell, Casa Batlló) und Stadtstrände in La Barceloneta. Probieren Sie den Markt Boqueria und katalanische Küche wie Crema catalana. Das Fest La Mercè Ende September füllt die Straßen mit Konzerten und Menschentürmen.</p>"
+   },
+   {
+    "id": "toledo",
+    "h2": "3. Toledo – die Stadt der drei Kulturen",
+    "alt": "Toledo auf dem Hügel über dem Tajo bei Sonnenuntergang",
+    "html": "<p>Auf einem Hügel, umflossen vom Tajo, zeigt Toledo Jahrhunderte christlichen, muslimischen und jüdischen Lebens. Sehenswert sind die gotische Kathedrale, der Alcázar, das Kloster San Juan de los Reyes, die Synagoge El Tránsito (heute Sephardisches Museum) und die Gemälde von El Greco. Von Madrid in 30 Minuten mit dem Schnellzug erreichbar.</p>"
+   },
+   {
+    "id": "malaga",
+    "h2": "4. Málaga – Kunst und Costa del Sol",
+    "alt": "Málaga mit Hafen und Stierkampfarena vom Gibralfaro aus",
+    "html": "<p>Picassos Heimatstadt ist eine der lebendigsten Städte Spaniens geworden, mit Picasso-Museum, maurischer Alcazaba und Burg Gibralfaro, Kathedrale und eleganter Hafenpromenade. Am Strand isst man <em>Espetos</em>, am Spieß gegrillte Sardinen. Die Feria de Málaga Mitte August ist eines der größten Sommerfeste Spaniens. Mehr in unseren <a href=\"{up}de-de/die-costa-del-sol-die-10-besten-sehenswurdigkeiten-die-man-gesehen-haben-muss.html\">Top 10 der Costa del Sol</a>.</p>"
+   },
+   {
+    "id": "alicante",
+    "h2": "5. Alicante – die Hauptstadt der Costa Blanca",
+    "alt": "Beleuchtete Burg Santa Bárbara über Alicante bei Nacht",
+    "html": "<p>Alicante ist eine sonnige Stadt am Meer, mit der Burg Santa Bárbara über der Altstadt, der Basilika Santa María, der Palmenpromenade Explanada de España und dem Stadtstrand El Postiguet. Im Juni füllen die Hogueras de San Juan die Straßen mit riesigen Figuren, die in der Nacht zum 24. Juni verbrannt werden.</p>"
+   },
+   {
+    "id": "elche",
+    "h2": "6. Elche – Europas größter Palmenhain",
+    "alt": "Palast Altamira und der Palmenhain in Elche",
+    "html": "<p>Der Palmeral von Elche mit rund 200.000 Palmen ist UNESCO-Welterbe, und der Garten Huerto del Cura lädt zum Spazieren ein. Im Zentrum stehen die Basilika Santa María und der Palast Altamira. Am 14. und 15. August wird in der Basilika das Misteri d'Elx aufgeführt, ein mittelalterliches Singspiel, das von der UNESCO anerkannt ist.</p>"
+   },
+   {
+    "id": "calpe",
+    "h2": "7. Calpe – die Stadt unter dem Felsen",
+    "alt": "Der Peñón de Ifach und Calpe aus der Luft",
+    "html": "<p>Calpe wird vom Peñón de Ifach geprägt, einem 332 m hohen Felsen im Meer, heute Naturpark mit Wanderweg (zu Stoßzeiten ist die Besucherzahl begrenzt). Sehenswert sind die kleine Altstadt, der Turm Torreó de la Peça, die römischen Fischbecken Banys de la Reina und der Salzsee, in dem Flamingos fressen. Höhepunkt ist das Fest der Mauren und Christen im Oktober.</p>"
+   },
+   {
+    "id": "torrevieja",
+    "h2": "8. Torrevieja – Salzseen und Habaneras",
+    "alt": "Palmen und belebte Strandpromenade in Torrevieja",
+    "html": "<p>Torrevieja wuchs um seine Salinen, und die rosa Lagune ist eines der meistfotografierten Motive der Küste. Besuchen Sie das Museum des Meeres und des Salzes, das U-Boot S-61 Delfín im Hafen und im Sommer den internationalen Habaneras-Wettbewerb, ein Fest der aus Kuba mitgebrachten Seemannslieder.</p>"
+   },
+   {
+    "id": "benidorm",
+    "h2": "9. Benidorm – die Skyline am Mittelmeer",
+    "alt": "Skyline von Benidorm und Strand Poniente von oben",
+    "html": "<p>Benidorms Türme werden von zwei langen Buchten und dem Berg Puig Campana eingerahmt. Jenseits der Skyline gibt es eine hübsche Altstadt, den Aussichtspunkt Balcón del Mediterráneo und die Kirche San Jaime y Santa Ana. Jeden Winter findet das Benidorm Fest statt, bei dem Spaniens Beitrag zum Eurovision Song Contest gewählt wird.</p>"
+   },
+   {
+    "id": "marbella",
+    "h2": "10. Marbella – die elegante Seite der Küste",
+    "alt": "Hafen von Marbella und die Sierra Blanca aus der Luft",
+    "html": "<p>Marbella verbindet eine weiß getünchte Altstadt, Puerto Banús, die Dünen von Artola und Golfplätze wie Las Brisas und Los Naranjos. Im Sommer holt das Starlite-Festival internationale Stars in ein Freilufttheater in einem Steinbruch. Mehr in unseren <a href=\"{up}de-de/sehenswurdigkeiten-in-marbella.html\">Sehenswürdigkeiten in Marbella</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Welche ist die schönste Stadt Spaniens?",
+    "Viele Reisende nennen Sevilla wegen seiner Bauwerke und Atmosphäre. Auch Toledo, Barcelona und Granada werden oft genannt."
+   ],
+   [
+    "Welche spanischen Städte am Meer lohnen sich?",
+    "Am bekanntesten sind Barcelona, Málaga, Alicante und Marbella. An der Costa Blanca sind auch Calpe, Torrevieja und Benidorm beliebt."
+   ],
+   [
+    "Wann ist die beste Zeit für Städtereisen in Spanien?",
+    "Frühling (April bis Juni) und Herbst (September bis November). Städte im Landesinneren wie Sevilla und Toledo sind im Juli und August sehr heiß."
+   ],
+   [
+    "Welche spanische Stadt hat die meisten UNESCO-Stätten?",
+    "Mehrere Städte haben mehr als eine. Kathedrale, Alcázar und Indienarchiv in Sevilla bilden einen gemeinsamen Eintrag, Elche hat den Palmeral und das Misteri d'Elx."
+   ]
+  ],
+  "closing": {
+   "h2": "Von der Städtereise zum Leben am Meer",
+   "alt": "",
+   "html": "<p>Viele unserer Kunden haben Spanien über seine Städte entdeckt und dann ein Zuhause an der Küste gewählt, mit dem Flughafen Alicante oder Málaga in der Nähe. Wenn Sie das auch möchten, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>.</p>"
+  },
+  "slug": "die-10-schonsten-stadte-spaniens"
+ },
+ "es": {
+  "title": "Las 10 ciudades más bonitas de España – De Sevilla a la Costa Blanca",
+  "description": "Diez de las ciudades más bonitas de España: Sevilla, Barcelona, Toledo y Málaga, y en la costa Alicante, Elche, Calpe, Torrevieja, Benidorm y Marbella, con qué ver y las mejores fiestas de cada una.",
+  "crumb": "Ciudades más bonitas de España",
+  "eyebrow": "Lugares · España",
+  "h1": "Las 10 ciudades más bonitas de España",
+  "hero_alt": "Plaza de España de Sevilla bajo un cielo de atardecer",
+  "short": "Las ciudades más bonitas de España mezclan historia y Mediterráneo. En el interior, Sevilla (Alcázar, catedral, Plaza de España) y Toledo (la «ciudad de las tres culturas») tienen algunos de los cascos históricos más impresionantes de Europa. Barcelona es famosa por Gaudí y Málaga por Picasso y su Alcazaba. En la costa, Alicante, Elche con su Palmeral de la UNESCO, Calpe al pie del Peñón de Ifach, Torrevieja con sus lagunas rosas, Benidorm y Marbella combinan playa y vida urbana de verdad.",
+  "intro": [
+   "España tiene una historia larga y llena de capas: romana, andalusí, judía y cristiana, y después renacentista, barroca y modernista. Se lee en las calles de casi todas sus ciudades. Nuestra lista mezcla nombres famosos con ciudades de la costa que conocemos bien, porque muchos de los que se enamoran de España en una escapada acaban viviendo junto al mar.",
+   "Estas son diez ciudades que merecen la visita, con lo imprescindible y la fiesta para la que conviene planear el viaje."
+  ],
+  "sections": [
+   {
+    "id": "seville",
+    "h2": "1. Sevilla – el corazón de Andalucía",
+    "alt": "",
+    "html": "<p>La capital andaluza es la cuna del flamenco y guarda algunos de los grandes monumentos de España: el Real Alcázar y la catedral con la Giralda (ambos Patrimonio Mundial), la Plaza de España, la Torre del Oro y el barrio de Santa Cruz. Lo ideal es ir en primavera, con la Semana Santa y la Feria de Abril; en julio y agosto se superan a menudo los 40 °C.</p>"
+   },
+   {
+    "id": "barcelona",
+    "h2": "2. Barcelona – Gaudí y el mar",
+    "alt": "La Sagrada Família y la cuadrícula de Barcelona desde arriba",
+    "html": "<p>La segunda ciudad de España une el Barrio Gótico, los edificios modernistas de Antoni Gaudí (la Sagrada Família, el Park Güell, la Casa Batlló) y las playas de La Barceloneta. No deje de ir a la Boqueria ni de probar la crema catalana. La Mercè, a finales de septiembre, llena las calles de conciertos y castells.</p>"
+   },
+   {
+    "id": "toledo",
+    "h2": "3. Toledo – la ciudad de las tres culturas",
+    "alt": "Toledo sobre su colina junto al Tajo al atardecer",
+    "html": "<p>Sobre una colina rodeada por el Tajo, Toledo muestra siglos de convivencia cristiana, musulmana y judía. Vea la catedral gótica, el Alcázar, el monasterio de San Juan de los Reyes, la sinagoga del Tránsito (hoy Museo Sefardí) y las pinturas de El Greco. Está a 30 minutos de Madrid en AVE.</p>"
+   },
+   {
+    "id": "malaga",
+    "h2": "4. Málaga – arte y Costa del Sol",
+    "alt": "Málaga, el puerto y la plaza de toros desde Gibralfaro",
+    "html": "<p>La ciudad natal de Picasso es hoy una de las más animadas de España, con el Museo Picasso, la Alcazaba y Gibralfaro, la catedral y un elegante paseo del puerto. En la playa se comen espetos de sardinas. La Feria de Málaga, a mediados de agosto, es una de las grandes fiestas del verano. Vea nuestro <a href=\"{up}es-es/costa-del-sol-las-10-mejores-atracciones-que-vale-la-pena-visitar.html\">top 10 de la Costa del Sol</a>.</p>"
+   },
+   {
+    "id": "alicante",
+    "h2": "5. Alicante – la capital de la Costa Blanca",
+    "alt": "Castillo de Santa Bárbara iluminado sobre Alicante de noche",
+    "html": "<p>Alicante es una ciudad luminosa junto al mar, con el castillo de Santa Bárbara sobre el casco antiguo, la basílica de Santa María, la Explanada de España y la playa del Postiguet. En junio, las Hogueras de San Juan llenan las calles de grandes monumentos que se queman la noche del 24.</p>"
+   },
+   {
+    "id": "elche",
+    "h2": "6. Elche – el mayor palmeral de Europa",
+    "alt": "Palacio de Altamira y el palmeral de Elche",
+    "html": "<p>El Palmeral de Elche, con unas 200.000 palmeras, es Patrimonio Mundial, y el Huerto del Cura es un jardín perfecto para pasear. En el centro están la basílica de Santa María y el Palacio de Altamira. El 14 y 15 de agosto se representa en la basílica el Misteri d'Elx, drama cantado medieval reconocido por la UNESCO.</p>"
+   },
+   {
+    "id": "calpe",
+    "h2": "7. Calpe – el pueblo bajo el Peñón",
+    "alt": "El Peñón de Ifach y Calpe desde el aire",
+    "html": "<p>Calpe gira en torno al Peñón de Ifach, una roca de 332 m sobre el mar que hoy es parque natural, con un sendero (en momentos de mucha afluencia el aforo está limitado). Recorra el pequeño casco antiguo, el Torreó de la Peça, los viveros romanos de los Baños de la Reina y las salinas donde se alimentan los flamencos. Las fiestas de Moros y Cristianos de octubre son el gran momento del año.</p>"
+   },
+   {
+    "id": "torrevieja",
+    "h2": "8. Torrevieja – salinas y habaneras",
+    "alt": "Palmeras y paseo marítimo lleno de gente en Torrevieja",
+    "html": "<p>Torrevieja nació alrededor de sus salinas, y su laguna rosa es una de las imágenes más fotografiadas de la costa. Visite el Museo del Mar y de la Sal, el submarino S-61 Delfín en el puerto y, en verano, el Certamen Internacional de Habaneras, homenaje a las canciones marineras llegadas de Cuba.</p>"
+   },
+   {
+    "id": "benidorm",
+    "h2": "9. Benidorm – el skyline del Mediterráneo",
+    "alt": "Skyline de Benidorm y la playa de Poniente desde arriba",
+    "html": "<p>Los rascacielos de Benidorm se enmarcan entre dos largas bahías y el Puig Campana. Más allá del skyline hay un bonito casco antiguo, el mirador del Balcón del Mediterráneo y la iglesia de San Jaime y Santa Ana. Cada invierno se celebra el Benidorm Fest, que elige la canción de España para Eurovisión.</p>"
+   },
+   {
+    "id": "marbella",
+    "h2": "10. Marbella – la cara elegante de la costa",
+    "alt": "Puerto de Marbella y Sierra Blanca desde el aire",
+    "html": "<p>Marbella combina un casco antiguo encalado, Puerto Banús, las dunas de Artola y campos de golf como Las Brisas y Los Naranjos. En verano, el festival Starlite trae artistas internacionales a un auditorio al aire libre en una cantera. Más en <a href=\"{up}es-es/que-ver-en-marbella.html\">qué ver en Marbella</a>.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Cuál es la ciudad más bonita de España?",
+    "Muchos viajeros eligen Sevilla por sus monumentos y su ambiente. Toledo, Barcelona y Granada también aparecen a menudo."
+   ],
+   [
+    "¿Qué ciudades españolas junto al mar merecen la pena?",
+    "Las más conocidas son Barcelona, Málaga, Alicante y Marbella. En la Costa Blanca, también Calpe, Torrevieja y Benidorm."
+   ],
+   [
+    "¿Cuál es la mejor época para visitar ciudades españolas?",
+    "La primavera (abril a junio) y el otoño (septiembre a noviembre). Las ciudades del interior, como Sevilla y Toledo, son muy calurosas en julio y agosto."
+   ],
+   [
+    "¿Qué ciudad española tiene más sitios de la UNESCO?",
+    "Varias tienen más de uno. La catedral, el Alcázar y el Archivo de Indias de Sevilla forman una misma inscripción, y Elche tiene el Palmeral y el Misteri d'Elx."
+   ]
+  ],
+  "closing": {
+   "h2": "De la escapada a vivir junto al mar",
+   "alt": "",
+   "html": "<p>Muchos de nuestros clientes descubrieron España a través de sus ciudades y después eligieron una casa en la costa, cerca del aeropuerto de Alicante o de Málaga. Si quiere hacer lo mismo, <a href=\"{up}index.html#contact\">escríbanos</a>.</p>"
+  },
+  "slug": "las-10-ciudades-mas-bonitas-de-espana"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/10-najpiekniejszych-miast-hiszpanii"
+}
