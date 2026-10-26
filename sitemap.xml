@@ -253,32 +253,6 @@
     <image:image><image:loc>https://images.egorealestate.com/Z1280x1024/OAYES/S5/C6878/P31152953/Tphoto/ID395bdb01-0000-0500-0000-00001a8a4049.jpg</image:loc></image:image>
   </url>
   <!-- /properties -->
-  <!-- blog-index -->
-  <url>
-    <loc>https://www.eliteworldestates.com/blog</loc>
-    <lastmod>2026-10-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
-  </url>
-  <url>
-    <loc>https://www.eliteworldestates.com/de-de/blog</loc>
-    <lastmod>2026-10-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
-  </url>
-  <url>
-    <loc>https://www.eliteworldestates.com/es-es/blog</loc>
-    <lastmod>2026-10-26</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
-  </url>
-  <!-- /blog-index -->
   <!-- blog -->
   <url>
     <loc>https://www.eliteworldestates.com/alicante-lifestyle-prices-who-buys-here</loc>
@@ -524,6 +498,33 @@
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/cost-of-living/woman-eating-at-food-market.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.eliteworldestates.com/costa-blanca-beaches-you-must-visit</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/costa-blanca-beaches-you-must-visit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/costa-blanca-strande-die-man-gesehen-haben-muss"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/costa-blanca-playas-que-hay-que-visitar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/costa-blanca-beaches-you-must-visit"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/costa-blanca-beaches/la-fossa-beach-calpe-with-the-penon-de-ifach.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/costa-blanca-strande-die-man-gesehen-haben-muss</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/costa-blanca-beaches-you-must-visit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/costa-blanca-strande-die-man-gesehen-haben-muss"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/costa-blanca-playas-que-hay-que-visitar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/costa-blanca-beaches-you-must-visit"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/costa-blanca-beaches/la-fossa-beach-calpe-with-the-penon-de-ifach.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/costa-blanca-playas-que-hay-que-visitar</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/costa-blanca-beaches-you-must-visit"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/costa-blanca-strande-die-man-gesehen-haben-muss"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/costa-blanca-playas-que-hay-que-visitar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/costa-blanca-beaches-you-must-visit"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/costa-blanca-beaches/la-fossa-beach-calpe-with-the-penon-de-ifach.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.eliteworldestates.com/costa-blanca-or-costa-del-sol</loc>
     <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/costa-blanca-or-costa-del-sol"/>
@@ -549,6 +550,33 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/costa-blanca-o-costa-del-sol"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/costa-blanca-or-costa-del-sol"/>
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/costa-blanca-or-costa-del-sol/calpe-and-penon-de-ifach.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/the-costa-del-sol-top-10-attractions-worth-visiting</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/the-costa-del-sol-top-10-attractions-worth-visiting"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/die-costa-del-sol-die-10-besten-sehenswurdigkeiten-die-man-gesehen-haben-muss"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/costa-del-sol-las-10-mejores-atracciones-que-vale-la-pena-visitar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/the-costa-del-sol-top-10-attractions-worth-visiting"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/costa-del-sol-top-10/benalmadena-marina-from-the-air.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/die-costa-del-sol-die-10-besten-sehenswurdigkeiten-die-man-gesehen-haben-muss</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/the-costa-del-sol-top-10-attractions-worth-visiting"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/die-costa-del-sol-die-10-besten-sehenswurdigkeiten-die-man-gesehen-haben-muss"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/costa-del-sol-las-10-mejores-atracciones-que-vale-la-pena-visitar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/the-costa-del-sol-top-10-attractions-worth-visiting"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/costa-del-sol-top-10/benalmadena-marina-from-the-air.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/costa-del-sol-las-10-mejores-atracciones-que-vale-la-pena-visitar</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/the-costa-del-sol-top-10-attractions-worth-visiting"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/die-costa-del-sol-die-10-besten-sehenswurdigkeiten-die-man-gesehen-haben-muss"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/costa-del-sol-las-10-mejores-atracciones-que-vale-la-pena-visitar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/the-costa-del-sol-top-10-attractions-worth-visiting"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/costa-del-sol-top-10/benalmadena-marina-from-the-air.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.eliteworldestates.com/discover-cumbre-del-sol</loc>
@@ -630,6 +658,33 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/15-curiosidades-sobre-espana"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/15-interesting-facts-about-spain"/>
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/facts-about-spain/teide-national-park-tenerife.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/exclusive-golf-clubs-on-the-costa-del-sol</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/exclusive-golf-clubs-on-the-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/exklusive-golfclubs-an-der-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/clubes-de-golf-exclusivos-en-la-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/exclusive-golf-clubs-on-the-costa-del-sol"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/golf-costa-del-sol/golf-course-with-palm-trees-by-the-sea.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/exklusive-golfclubs-an-der-costa-del-sol</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/exclusive-golf-clubs-on-the-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/exklusive-golfclubs-an-der-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/clubes-de-golf-exclusivos-en-la-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/exclusive-golf-clubs-on-the-costa-del-sol"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/golf-costa-del-sol/golf-course-with-palm-trees-by-the-sea.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/clubes-de-golf-exclusivos-en-la-costa-del-sol</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/exclusive-golf-clubs-on-the-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/exklusive-golfclubs-an-der-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/clubes-de-golf-exclusivos-en-la-costa-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/exclusive-golf-clubs-on-the-costa-del-sol"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/golf-costa-del-sol/golf-course-with-palm-trees-by-the-sea.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.eliteworldestates.com/the-healthcare-system-in-spain</loc>
@@ -848,6 +903,33 @@
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/is-spain-safe/mounted-police-in-spain.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.eliteworldestates.com/javea-the-hidden-gem-of-the-costa-blanca</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/javea-the-hidden-gem-of-the-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/javea-das-versteckte-juwel-der-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/javea-la-joya-escondida-de-la-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/javea-the-hidden-gem-of-the-costa-blanca"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/javea-guide/turquoise-bay-of-portitxol-in-javea.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/javea-das-versteckte-juwel-der-costa-blanca</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/javea-the-hidden-gem-of-the-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/javea-das-versteckte-juwel-der-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/javea-la-joya-escondida-de-la-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/javea-the-hidden-gem-of-the-costa-blanca"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/javea-guide/turquoise-bay-of-portitxol-in-javea.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/javea-la-joya-escondida-de-la-costa-blanca</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/javea-the-hidden-gem-of-the-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/javea-das-versteckte-juwel-der-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/javea-la-joya-escondida-de-la-costa-blanca"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/javea-the-hidden-gem-of-the-costa-blanca"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/javea-guide/turquoise-bay-of-portitxol-in-javea.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.eliteworldestates.com/la-hoya-torrevieja-lagoons-village</loc>
     <lastmod>2026-10-25</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/la-hoya-torrevieja-lagoons-village"/>
@@ -954,6 +1036,33 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/comprar-una-casa-o-chalet-de-lujo-en-espana-donde-buscar-que-merece-la-pena-saber"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know"/>
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/luxury-villa-in-spain/modern-villa-with-pool.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/what-is-worth-seeing-in-marbella</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/what-is-worth-seeing-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/sehenswurdigkeiten-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/que-ver-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/what-is-worth-seeing-in-marbella"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/marbella-what-to-see/marbella-from-the-air-with-la-concha-mountain.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/sehenswurdigkeiten-in-marbella</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/what-is-worth-seeing-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/sehenswurdigkeiten-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/que-ver-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/what-is-worth-seeing-in-marbella"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/marbella-what-to-see/marbella-from-the-air-with-la-concha-mountain.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/que-ver-en-marbella</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/what-is-worth-seeing-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/sehenswurdigkeiten-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/que-ver-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/what-is-worth-seeing-in-marbella"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/marbella-what-to-see/marbella-from-the-air-with-la-concha-mountain.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.eliteworldestates.com/mortgage-loan-in-spain-for-the-purchase-of-real-estate-how-to-obtain-one</loc>
@@ -1305,6 +1414,33 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/impuestos-sobre-la-propiedad-y-el-patrimonio-en-espana"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/property-and-wealth-taxes-in-spain"/>
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/property-taxes-spain/couple-reviewing-tax-papers.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/puerto-banus-in-marbella</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/puerto-banus-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/puerto-banus-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/puerto-banus-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/puerto-banus-in-marbella"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/puerto-banus/superyachts-in-puerto-banus-marina.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/puerto-banus-in-marbella</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/puerto-banus-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/puerto-banus-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/puerto-banus-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/puerto-banus-in-marbella"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/puerto-banus/superyachts-in-puerto-banus-marina.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/puerto-banus-en-marbella</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/puerto-banus-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/puerto-banus-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/puerto-banus-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/puerto-banus-in-marbella"/>
+    <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/puerto-banus/superyachts-in-puerto-banus-marina.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.eliteworldestates.com/resident-vs-non-resident-in-spain</loc>
@@ -1685,4 +1821,30 @@
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/wellness-costa-blanca/infinity-pool-facing-the-mountains-at-dawn.jpg</image:loc></image:image>
   </url>
   <!-- /blog -->
+  <!-- blog-index -->
+  <url>
+    <loc>https://www.eliteworldestates.com/blog</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/blog</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/blog</loc>
+    <lastmod>2026-10-26</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+  </url>
+  <!-- /blog-index -->
 </urlset>

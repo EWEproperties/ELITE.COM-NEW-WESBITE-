@@ -1,0 +1,338 @@
+{
+ "author": "aleksandra",
+ "published": "2025-05-19",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/costa-del-sol-top-10/benalmadena-marina-from-the-air.jpg",
+ "images": {
+  "alcazaba": "assets/blog/costa-del-sol-top-10/alcazaba-of-malaga-and-the-roman-theatre.jpg",
+  "cathedral": "assets/blog/costa-del-sol-top-10/malaga-cathedral-and-gardens.jpg",
+  "picasso": "assets/blog/costa-del-sol-top-10/street-and-tower-by-the-picasso-museum-malaga.jpg",
+  "market": "assets/blog/costa-del-sol-top-10/fruit-and-vegetable-stall-at-atarazanas-market.jpg",
+  "cable": "assets/blog/costa-del-sol-top-10/benalmadena-cable-car-above-the-coast.jpg",
+  "bioparc": "assets/blog/costa-del-sol-top-10/meerkat-on-a-rock-at-bioparc-fuengirola.jpg",
+  "estepona": "assets/blog/costa-del-sol-top-10/flower-pots-in-a-street-of-estepona.jpg",
+  "nerja": "assets/blog/costa-del-sol-top-10/stalactites-in-the-nerja-caves.jpg",
+  "frigiliana": "assets/blog/costa-del-sol-top-10/white-village-of-frigiliana-and-the-sea.jpg"
+ },
+ "cards": [
+  "26627092",
+  "26614054",
+  "20927700"
+ ],
+ "sources": [
+  [
+   "Málaga city tourism",
+   "https://visita.malaga.eu/"
+  ],
+  [
+   "Museo Picasso Málaga",
+   "https://www.museopicassomalaga.org/"
+  ],
+  [
+   "Cueva de Nerja Foundation",
+   "https://www.cuevadenerja.es/"
+  ],
+  [
+   "Costa del Sol Tourist Board",
+   "https://www.visitcostadelsol.com/"
+  ]
+ ],
+ "en": {
+  "title": "What to See on the Costa del Sol – Top 10 Attractions",
+  "description": "The top 10 attractions on the Costa del Sol: Málaga's Alcazaba, cathedral, Picasso Museum and Atarazanas market, the Benalmádena cable car and marina, Bioparc Fuengirola, Estepona, the Nerja caves and Frigiliana.",
+  "crumb": "Costa del Sol top 10",
+  "eyebrow": "Places · Costa del Sol",
+  "h1": "What to See on the Costa del Sol: Top 10 Attractions",
+  "hero_alt": "Aerial view of Benalmádena marina with the mountains behind",
+  "short": "The Costa del Sol runs for about 150 km along the coast of Málaga province. Its top attractions are in Málaga city (the Moorish Alcazaba, the cathedral, the Picasso Museum and the Atarazanas market), in Benalmádena (the cable car up Calamorro and Puerto Marina), in Fuengirola (Bioparc zoo), in Estepona (the flower-filled old town) and in the east (the Nerja caves and the white village of Frigiliana). All are within about an hour of Málaga airport.",
+  "intro": [
+   "The Costa del Sol is best known for beaches and golf, but it also has Roman, Moorish and modern Spain within a short drive. Málaga has become one of the most interesting cities in the country, and the white villages in the mountains are only half an hour from the sea.",
+   "These ten places, from west to east, give a good picture of the coast for a holiday or a scouting trip before buying."
+  ],
+  "sections": [
+   {
+    "id": "alcazaba",
+    "h2": "1. The Alcazaba of Málaga",
+    "alt": "Walls of the Alcazaba above the Roman theatre in Málaga",
+    "html": "<p>This Moorish fortress-palace in the centre of Málaga was built mainly in the 11th century, with courtyards, fountains and gardens and views over the port. At its foot is a Roman theatre from the 1st century BC, and a path climbs to the 14th-century Gibralfaro castle for the best panorama of the city.</p>"
+   },
+   {
+    "id": "cathedral",
+    "h2": "2. Málaga Cathedral",
+    "alt": "Málaga Cathedral and its gardens",
+    "html": "<p>Work on the cathedral began in the 16th century and continued for more than 250 years, which explains its mix of Renaissance and Baroque. One of its towers was never finished, giving it the nickname <em>La Manquita</em>, the \"one-armed lady\". A rooftop tour gives great views over the old town.</p>"
+   },
+   {
+    "id": "picasso",
+    "h2": "3. Picasso Museum Málaga",
+    "alt": "Narrow street and stone tower beside the Picasso Museum in Málaga",
+    "html": "<p>Pablo Picasso was born in Málaga in 1881. The museum, opened in 2003 in the 16th-century Buenavista Palace, shows a large collection of his work donated by his family. His birthplace, on Plaza de la Merced a few minutes away, is also a small museum.</p>"
+   },
+   {
+    "id": "market",
+    "h2": "4. Atarazanas market",
+    "alt": "Colourful fruit, vegetable and mushroom stall at Atarazanas market",
+    "html": "<p>Málaga's central market is housed in a 19th-century iron building that kept the Moorish gate of the old shipyard. Come in the morning for fish, fruit, olives and cured ham, and have fried fish or tapas at one of the bars inside.</p>"
+   },
+   {
+    "id": "cable",
+    "h2": "5. Benalmádena cable car",
+    "alt": "Cable car cabin above the coast of Benalmádena",
+    "html": "<p>The cable car climbs in about 15 minutes to the top of Mount Calamorro (771 m). From the viewpoints you can see the whole coast, and on clear days Gibraltar and the mountains of North Africa. There are walking trails and bird of prey shows at the top.</p>"
+   },
+   {
+    "id": "marina",
+    "h2": "6. Puerto Marina, Benalmádena",
+    "alt": "",
+    "html": "<p>Benalmádena's marina has around 1,000 berths and unusual, colourful architecture with apartments on small islands. It is full of restaurants and bars, and home to the Sea Life aquarium, a good choice for families.</p>"
+   },
+   {
+    "id": "bioparc",
+    "h2": "7. Bioparc Fuengirola",
+    "alt": "Meerkat sitting on a rock at Bioparc Fuengirola",
+    "html": "<p>A zoo in the centre of Fuengirola where animals from the tropical forests of Africa, Madagascar and Southeast Asia live in spaces that recreate their habitats, without bars. It is compact, shady and ideal for children. See our <a href=\"{up}properties-for-sale-in-fuengirola.html\">homes for sale in Fuengirola</a>.</p>"
+   },
+   {
+    "id": "estepona",
+    "h2": "8. Estepona",
+    "alt": "Flower pots on white walls in a street of Estepona",
+    "html": "<p>Estepona is called the \"garden of the Costa del Sol\": the old town's white streets are decorated with thousands of flower pots, each street in a different colour. Add a long promenade, large murals, a botanical garden and a relaxed marina. See our <a href=\"{up}properties-for-sale-in-estepona.html\">properties in Estepona</a>.</p>"
+   },
+   {
+    "id": "nerja",
+    "h2": "9. The Nerja caves",
+    "alt": "Stalactites and stalagmites inside the Nerja caves",
+    "html": "<p>Discovered by chance in 1959, the Cueva de Nerja, near the village of Maro, is a huge cave system with giant stalactites and stalagmites and prehistoric paintings. A walkway route takes about 45 minutes, and in summer the caves host a music festival.</p>"
+   },
+   {
+    "id": "frigiliana",
+    "h2": "10. Frigiliana",
+    "alt": "White houses of Frigiliana with the sea in the distance",
+    "html": "<p>A few kilometres above Nerja, Frigiliana is one of the prettiest white villages in Andalusia, with steep cobbled streets, flowers, Moorish history and views to the sea. Come early in the morning or late in the day, when the day-trip crowds have gone.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "What is the Costa del Sol best known for?",
+    "Beaches, golf and around 300 days of sun a year, but also Málaga's museums and Moorish monuments and the white villages in the mountains."
+   ],
+   [
+    "What is the most beautiful town on the Costa del Sol?",
+    "Many visitors pick Frigiliana in the east and Estepona's flower-filled old town in the west. Marbella's old town is also very attractive."
+   ],
+   [
+    "How long does it take to drive the Costa del Sol?",
+    "From Nerja to Estepona is about 140 km, around 1 hour 30 minutes on the motorway."
+   ],
+   [
+    "Is the Costa del Sol good for families?",
+    "Yes. Bioparc Fuengirola, the Sea Life aquarium in Benalmádena, the cable car and the Nerja caves are all very popular with children."
+   ]
+  ],
+  "closing": {
+   "h2": "From visitor to resident",
+   "alt": "",
+   "html": "<p>Many of our clients first got to know the Costa del Sol on holiday, then came back to look for a home. If you are thinking about it, see our guides to <a href=\"{up}properties-for-sale-in-marbella.html\">Marbella</a>, <a href=\"{up}properties-for-sale-in-mijas.html\">Mijas</a> and <a href=\"{up}properties-for-sale-in-estepona.html\">Estepona</a>, or <a href=\"{up}index.html#contact\">get in touch</a>.</p>"
+  },
+  "slug": "the-costa-del-sol-top-10-attractions-worth-visiting"
+ },
+ "de": {
+  "title": "Costa del Sol – Die 10 schönsten Sehenswürdigkeiten",
+  "description": "Die Top 10 der Costa del Sol: Alcazaba, Kathedrale, Picasso-Museum und Markt Atarazanas in Málaga, Seilbahn und Hafen von Benalmádena, Bioparc Fuengirola, Estepona, die Höhlen von Nerja und Frigiliana.",
+  "crumb": "Costa del Sol Top 10",
+  "eyebrow": "Orte · Costa del Sol",
+  "h1": "Costa del Sol: Die 10 schönsten Sehenswürdigkeiten",
+  "hero_alt": "Luftaufnahme des Hafens von Benalmádena vor den Bergen",
+  "short": "Die Costa del Sol erstreckt sich über rund 150 km entlang der Küste der Provinz Málaga. Die wichtigsten Sehenswürdigkeiten liegen in Málaga (die maurische Alcazaba, die Kathedrale, das Picasso-Museum und der Markt Atarazanas), in Benalmádena (Seilbahn auf den Calamorro und Puerto Marina), in Fuengirola (Zoo Bioparc), in Estepona (die blumengeschmückte Altstadt) und im Osten (die Höhlen von Nerja und das weiße Dorf Frigiliana). Alle sind höchstens etwa eine Stunde vom Flughafen Málaga entfernt.",
+  "intro": [
+   "Die Costa del Sol ist vor allem für Strände und Golf bekannt, doch römisches, maurisches und modernes Spanien liegen nur eine kurze Fahrt entfernt. Málaga ist eine der spannendsten Städte des Landes geworden, und die weißen Dörfer in den Bergen sind nur eine halbe Stunde vom Meer entfernt.",
+   "Diese zehn Orte geben einen guten Eindruck von der Küste, ob im Urlaub oder bei einer Erkundungsreise vor dem Kauf."
+  ],
+  "sections": [
+   {
+    "id": "alcazaba",
+    "h2": "1. Die Alcazaba von Málaga",
+    "alt": "Mauern der Alcazaba über dem römischen Theater in Málaga",
+    "html": "<p>Die maurische Festung mitten in Málaga entstand überwiegend im 11. Jahrhundert, mit Innenhöfen, Brunnen, Gärten und Blick auf den Hafen. Zu ihren Füßen liegt ein römisches Theater aus dem 1. Jahrhundert v. Chr., und ein Weg führt hinauf zur Burg Gibralfaro aus dem 14. Jahrhundert mit dem besten Panorama der Stadt.</p>"
+   },
+   {
+    "id": "cathedral",
+    "h2": "2. Die Kathedrale von Málaga",
+    "alt": "Kathedrale von Málaga mit Gärten",
+    "html": "<p>Der Bau der Kathedrale begann im 16. Jahrhundert und dauerte über 250 Jahre, daher die Mischung aus Renaissance und Barock. Ein Turm wurde nie fertig, deshalb heißt sie im Volksmund <em>La Manquita</em>, „die Einarmige“. Eine Führung über das Dach bietet tolle Blicke auf die Altstadt.</p>"
+   },
+   {
+    "id": "picasso",
+    "h2": "3. Picasso-Museum Málaga",
+    "alt": "Enge Gasse und Steinturm am Picasso-Museum in Málaga",
+    "html": "<p>Pablo Picasso wurde 1881 in Málaga geboren. Das 2003 eröffnete Museum im Palacio de Buenavista aus dem 16. Jahrhundert zeigt eine große Sammlung seiner Werke, gestiftet von seiner Familie. Sein Geburtshaus an der Plaza de la Merced, wenige Minuten entfernt, ist ebenfalls ein kleines Museum.</p>"
+   },
+   {
+    "id": "market",
+    "h2": "4. Markthalle Atarazanas",
+    "alt": "Bunter Obst-, Gemüse- und Pilzstand in der Markthalle Atarazanas",
+    "html": "<p>Málagas Zentralmarkt steht in einer Eisenhalle aus dem 19. Jahrhundert, die das maurische Tor der alten Werft bewahrt hat. Morgens kommen für Fisch, Obst, Oliven und Schinken und an einer der Bars in der Halle frittierten Fisch oder Tapas probieren.</p>"
+   },
+   {
+    "id": "cable",
+    "h2": "5. Seilbahn Benalmádena",
+    "alt": "Seilbahngondel über der Küste von Benalmádena",
+    "html": "<p>Die Seilbahn fährt in rund 15 Minuten auf den Gipfel des Calamorro (771 m). Von den Aussichtspunkten sieht man die ganze Küste und an klaren Tagen Gibraltar und die Berge Nordafrikas. Oben gibt es Wanderwege und Greifvogelvorführungen.</p>"
+   },
+   {
+    "id": "marina",
+    "h2": "6. Puerto Marina, Benalmádena",
+    "alt": "",
+    "html": "<p>Der Hafen von Benalmádena hat rund 1.000 Liegeplätze und eine ungewöhnliche, bunte Architektur mit Wohnungen auf kleinen Inseln. Er ist voller Restaurants und Bars und beherbergt das Sea-Life-Aquarium, ideal für Familien.</p>"
+   },
+   {
+    "id": "bioparc",
+    "h2": "7. Bioparc Fuengirola",
+    "alt": "Erdmännchen auf einem Felsen im Bioparc Fuengirola",
+    "html": "<p>Ein Zoo mitten in Fuengirola, in dem Tiere aus den Tropenwäldern Afrikas, Madagaskars und Südostasiens in nachgebildeten Lebensräumen ohne Gitter leben. Kompakt, schattig und ideal für Kinder.</p>"
+   },
+   {
+    "id": "estepona",
+    "h2": "8. Estepona",
+    "alt": "Blumentöpfe an weißen Wänden in einer Gasse von Estepona",
+    "html": "<p>Estepona heißt „Garten der Costa del Sol“: Die weißen Gassen der Altstadt sind mit Tausenden Blumentöpfen geschmückt, jede Straße in einer anderen Farbe. Dazu eine lange Promenade, große Wandbilder, ein botanischer Garten und ein entspannter Hafen.</p>"
+   },
+   {
+    "id": "nerja",
+    "h2": "9. Die Höhlen von Nerja",
+    "alt": "Stalaktiten und Stalagmiten in den Höhlen von Nerja",
+    "html": "<p>Die 1959 zufällig entdeckte Cueva de Nerja beim Dorf Maro ist ein riesiges Höhlensystem mit gewaltigen Tropfsteinen und prähistorischen Malereien. Der Rundgang dauert etwa 45 Minuten, im Sommer findet hier ein Musikfestival statt.</p>"
+   },
+   {
+    "id": "frigiliana",
+    "h2": "10. Frigiliana",
+    "alt": "Weiße Häuser von Frigiliana mit dem Meer in der Ferne",
+    "html": "<p>Wenige Kilometer oberhalb von Nerja ist Frigiliana eines der schönsten weißen Dörfer Andalusiens, mit steilen Pflastergassen, Blumen, maurischer Geschichte und Blick aufs Meer. Am besten früh morgens oder spät am Tag, wenn die Tagesausflügler weg sind.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Wofür ist die Costa del Sol bekannt?",
+    "Für Strände, Golf und rund 300 Sonnentage im Jahr, aber auch für Málagas Museen und maurische Bauten und die weißen Dörfer in den Bergen."
+   ],
+   [
+    "Welcher ist der schönste Ort an der Costa del Sol?",
+    "Viele nennen Frigiliana im Osten und die Blumen-Altstadt von Estepona im Westen. Auch die Altstadt von Marbella ist sehr reizvoll."
+   ],
+   [
+    "Wie lange fährt man die Costa del Sol entlang?",
+    "Von Nerja bis Estepona sind es rund 140 km, etwa 1 Stunde 30 Minuten über die Autobahn."
+   ],
+   [
+    "Ist die Costa del Sol gut für Familien?",
+    "Ja. Bioparc Fuengirola, das Sea-Life-Aquarium in Benalmádena, die Seilbahn und die Höhlen von Nerja sind bei Kindern sehr beliebt."
+   ]
+  ],
+  "closing": {
+   "h2": "Vom Besucher zum Bewohner",
+   "alt": "",
+   "html": "<p>Viele unserer Kunden haben die Costa del Sol im Urlaub kennengelernt und kamen später zurück, um ein Zuhause zu suchen. Wenn Sie darüber nachdenken, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir zeigen Ihnen die Orte, die zu Ihnen passen.</p>"
+  },
+  "slug": "die-costa-del-sol-die-10-besten-sehenswurdigkeiten-die-man-gesehen-haben-muss"
+ },
+ "es": {
+  "title": "Costa del Sol – Las 10 mejores atracciones que vale la pena visitar",
+  "description": "Las 10 mejores atracciones de la Costa del Sol: la Alcazaba, la catedral, el Museo Picasso y el mercado de Atarazanas en Málaga, el teleférico y el puerto de Benalmádena, Bioparc Fuengirola, Estepona, la Cueva de Nerja y Frigiliana.",
+  "crumb": "Costa del Sol: top 10",
+  "eyebrow": "Lugares · Costa del Sol",
+  "h1": "Costa del Sol: las 10 mejores atracciones",
+  "hero_alt": "Vista aérea del puerto de Benalmádena con las montañas al fondo",
+  "short": "La Costa del Sol ocupa unos 150 km del litoral de la provincia de Málaga. Sus principales atracciones están en Málaga capital (la Alcazaba, la catedral, el Museo Picasso y el mercado de Atarazanas), en Benalmádena (el teleférico al Calamorro y Puerto Marina), en Fuengirola (Bioparc), en Estepona (el casco antiguo lleno de flores) y en el este (la Cueva de Nerja y el pueblo blanco de Frigiliana). Todas están a una hora como mucho del aeropuerto de Málaga.",
+  "intro": [
+   "La Costa del Sol es conocida sobre todo por sus playas y su golf, pero a poca distancia tiene la España romana, andalusí y moderna. Málaga se ha convertido en una de las ciudades más interesantes del país, y los pueblos blancos de la sierra están a media hora del mar.",
+   "Estos diez lugares dan una buena idea de la costa, ya sea para unas vacaciones o para un viaje de reconocimiento antes de comprar."
+  ],
+  "sections": [
+   {
+    "id": "alcazaba",
+    "h2": "1. La Alcazaba de Málaga",
+    "alt": "Murallas de la Alcazaba sobre el teatro romano de Málaga",
+    "html": "<p>Esta fortaleza-palacio andalusí en pleno centro de Málaga se construyó sobre todo en el siglo XI, con patios, fuentes, jardines y vistas al puerto. A sus pies está el teatro romano, del siglo I a. C., y un camino sube al castillo de Gibralfaro, del siglo XIV, con la mejor panorámica de la ciudad.</p>"
+   },
+   {
+    "id": "cathedral",
+    "h2": "2. La catedral de Málaga",
+    "alt": "Catedral de Málaga y sus jardines",
+    "html": "<p>Las obras de la catedral empezaron en el siglo XVI y duraron más de 250 años, de ahí su mezcla de renacimiento y barroco. Una de sus torres nunca se terminó, y por eso la llaman <em>La Manquita</em>. La visita a las cubiertas ofrece grandes vistas del centro histórico.</p>"
+   },
+   {
+    "id": "picasso",
+    "h2": "3. Museo Picasso Málaga",
+    "alt": "Calle estrecha y torre de piedra junto al Museo Picasso de Málaga",
+    "html": "<p>Pablo Picasso nació en Málaga en 1881. El museo, abierto en 2003 en el Palacio de Buenavista, del siglo XVI, reúne una gran colección de su obra donada por la familia. Su casa natal, en la Plaza de la Merced, a pocos minutos, también es un pequeño museo.</p>"
+   },
+   {
+    "id": "market",
+    "h2": "4. El mercado de Atarazanas",
+    "alt": "Puesto de fruta, verdura y setas en el mercado de Atarazanas",
+    "html": "<p>El mercado central de Málaga ocupa un edificio de hierro del siglo XIX que conserva la puerta nazarí de las antiguas atarazanas. Vaya por la mañana a por pescado, fruta, aceitunas y jamón, y tome pescaíto frito o unas tapas en uno de sus bares.</p>"
+   },
+   {
+    "id": "cable",
+    "h2": "5. El teleférico de Benalmádena",
+    "alt": "Cabina del teleférico sobre la costa de Benalmádena",
+    "html": "<p>El teleférico sube en unos 15 minutos a la cima del monte Calamorro (771 m). Desde los miradores se ve toda la costa y, en días claros, Gibraltar y las montañas del norte de África. Arriba hay senderos y exhibiciones de aves rapaces.</p>"
+   },
+   {
+    "id": "marina",
+    "h2": "6. Puerto Marina, Benalmádena",
+    "alt": "",
+    "html": "<p>El puerto deportivo de Benalmádena tiene unos 1.000 amarres y una arquitectura colorida y singular, con viviendas sobre pequeñas islas. Está lleno de restaurantes y bares y alberga el acuario Sea Life, una buena opción para ir con niños.</p>"
+   },
+   {
+    "id": "bioparc",
+    "h2": "7. Bioparc Fuengirola",
+    "alt": "Suricata sobre una roca en Bioparc Fuengirola",
+    "html": "<p>Un zoo en el centro de Fuengirola donde animales de las selvas de África, Madagascar y el sudeste asiático viven en espacios que recrean su hábitat, sin rejas. Es compacto, con sombra y perfecto para niños.</p>"
+   },
+   {
+    "id": "estepona",
+    "h2": "8. Estepona",
+    "alt": "Macetas en las paredes blancas de una calle de Estepona",
+    "html": "<p>A Estepona la llaman «el jardín de la Costa del Sol»: las calles blancas del casco antiguo están decoradas con miles de macetas, cada calle de un color. Súmele un largo paseo marítimo, grandes murales, un jardín botánico y un puerto tranquilo.</p>"
+   },
+   {
+    "id": "nerja",
+    "h2": "9. La Cueva de Nerja",
+    "alt": "Estalactitas y estalagmitas en la Cueva de Nerja",
+    "html": "<p>Descubierta por casualidad en 1959, junto al pueblo de Maro, la Cueva de Nerja es un enorme sistema de galerías con estalactitas gigantes y pinturas prehistóricas. La visita dura unos 45 minutos, y en verano acoge un festival de música.</p>"
+   },
+   {
+    "id": "frigiliana",
+    "h2": "10. Frigiliana",
+    "alt": "Casas blancas de Frigiliana con el mar a lo lejos",
+    "html": "<p>A pocos kilómetros de Nerja, Frigiliana es uno de los pueblos blancos más bonitos de Andalucía, con calles empedradas en cuesta, flores, historia morisca y vistas al mar. Lo mejor es ir temprano o al final del día, cuando ya se han ido las excursiones.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Por qué es famosa la Costa del Sol?",
+    "Por sus playas, su golf y unos 300 días de sol al año, pero también por los museos y monumentos andalusíes de Málaga y por los pueblos blancos de la sierra."
+   ],
+   [
+    "¿Cuál es el pueblo más bonito de la Costa del Sol?",
+    "Muchos eligen Frigiliana, en el este, y el casco antiguo lleno de flores de Estepona, en el oeste. El casco antiguo de Marbella también es muy atractivo."
+   ],
+   [
+    "¿Cuánto se tarda en recorrer la Costa del Sol en coche?",
+    "De Nerja a Estepona hay unos 140 km, alrededor de 1 hora 30 minutos por autovía."
+   ],
+   [
+    "¿La Costa del Sol es buena para ir con niños?",
+    "Sí. Bioparc Fuengirola, el acuario Sea Life de Benalmádena, el teleférico y la Cueva de Nerja gustan mucho a los niños."
+   ]
+  ],
+  "closing": {
+   "h2": "De visitante a residente",
+   "alt": "",
+   "html": "<p>Muchos de nuestros clientes conocieron la Costa del Sol de vacaciones y volvieron después a buscar casa. Si lo está pensando, <a href=\"{up}index.html#contact\">escríbanos</a> y le mostraremos las zonas que encajan con usted.</p>"
+  },
+  "slug": "costa-del-sol-las-10-mejores-atracciones-que-vale-la-pena-visitar"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/wybrzee-costa-del-sol-top-10-atrakcji-ktore-warto-odwiedzi"
+}

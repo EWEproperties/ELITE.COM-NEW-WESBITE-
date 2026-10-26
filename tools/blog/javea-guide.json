@@ -1,0 +1,262 @@
+{
+ "author": "lucyna",
+ "published": "2025-06-09",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/javea-guide/turquoise-bay-of-portitxol-in-javea.jpg",
+ "images": {
+  "why": "assets/blog/javea-guide/palm-tree-and-the-sea-in-javea.jpg",
+  "centres": "assets/blog/javea-guide/arenal-promenade-in-javea-with-palm-trees.jpg",
+  "nature": "assets/blog/javea-guide/view-of-the-javea-capes-through-pine-trees.jpg",
+  "beaches": "assets/blog/javea-guide/clear-water-in-cala-granadella.jpg",
+  "areas": "assets/blog/javea-guide/villas-on-the-hillside-above-javea-port.jpg"
+ },
+ "cards": [
+  "26234196",
+  "20598512",
+  "23527637"
+ ],
+ "sources": [
+  [
+   "Xàbia Tourist Office",
+   "https://www.xabia.org/"
+  ],
+  [
+   "Generalitat Valenciana – Parc Natural del Montgó",
+   "https://parquesnaturales.gva.es/es/web/pn-montgo"
+  ],
+  [
+   "INE – Population by municipality",
+   "https://www.ine.es/"
+  ],
+  [
+   "Guía Michelin – BonAmb",
+   "https://guide.michelin.com/es/es/comunidad-valenciana/xabia/restaurante/bonamb"
+  ]
+ ],
+ "en": {
+  "title": "Jávea (Xàbia) City Guide – What to See, Best Beaches and Where to Live",
+  "description": "A practical guide to Jávea on the Costa Blanca: the old town, the port and El Arenal, Montgó and the capes, the best coves, the most popular residential areas and everyday life for international residents.",
+  "crumb": "Jávea city guide",
+  "eyebrow": "Places · Costa Blanca",
+  "h1": "Jávea: The Hidden Gem of the Costa Blanca",
+  "hero_alt": "Turquoise bay of Portitxol in Jávea with villas on the hillside",
+  "short": "Jávea (Xàbia in Valencian) is a town of around 30,000 people in the far north of the Costa Blanca, between Dénia and Moraira. It has three centres: the historic old town, the fishing port of Duanes de la Mar and the sandy beach of El Arenal. Around them are the Montgó natural park, the capes of Sant Antoni and La Nau and more than 20 km of coast with coves such as Granadella and Portitxol. Alicante airport is about 1 hour 15 minutes away and Valencia about 1 hour 30.",
+  "intro": [
+   "Jávea is often called the hidden gem of the Costa Blanca because it sits a little away from the main motorway, protected by Montgó mountain and two capes. That position gives it a mild climate, green hills and a calmer feel than the big resorts. Low-rise building rules have kept the town human in scale, and it has one of the most international communities on the coast.",
+   "Here is what to see, where to swim and which areas people choose when they move here."
+  ],
+  "sections": [
+   {
+    "id": "why",
+    "h2": "Why people love Jávea",
+    "alt": "Palm tree in front of the turquoise sea in Jávea",
+    "html": "<p>Jávea combines sea and mountains in a way few towns can. Mornings can start with a walk on Montgó and end with a swim in a cove. The town is busy in July and August, but for the rest of the year it is relaxed and local, with markets, cafés and a strong cultural life. Many residents are from the UK, the Netherlands, Germany, Belgium and Scandinavia, so English is widely spoken, while Spanish and Valencian traditions remain very much alive.</p><p>See our <a href=\"{up}properties-for-sale-in-javea.html\">properties for sale in Jávea</a>.</p>"
+   },
+   {
+    "id": "centres",
+    "h2": "Old town, port and El Arenal",
+    "alt": "Palm-lined promenade at El Arenal in Jávea",
+    "html": "<ul><li><strong>The old town (Poble)</strong> – narrow streets, houses with stone window frames and the fortified Gothic church of Sant Bertomeu. The covered market and Thursday street market are the heart of daily life.</li><li><strong>Duanes de la Mar (the port)</strong> – the fishing harbour with its daily fish auction, the marina, seafood restaurants and the modern, ship-shaped church of Nuestra Señora de Loreto.</li><li><strong>El Arenal</strong> – the sandy beach and its promenade of restaurants, bars and shops, the liveliest part of town in the evenings.</li></ul><p>The three are linked by a long seafront walk and cycle path, about 30 minutes on foot from the port to El Arenal.</p>"
+   },
+   {
+    "id": "nature",
+    "h2": "Montgó and the capes",
+    "alt": "View of the Jávea capes and the sea through pine trees",
+    "html": "<p><strong>Montgó</strong> (753 m) is a natural park with walking trails, including the climb to the summit and the easier path to the Cova de l'Aigua. On one side of the bay, <strong>Cap de Sant Antoni</strong> has a lighthouse, a marine reserve and wide views over the town. On the other, <strong>Cap de la Nau</strong> is the easternmost point of the Costa Blanca, with the Cova Tallada sea cave nearby (in summer, a visit must be booked in advance). The old windmills on the Plana de Sant Antoni are a classic sunset spot.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Beaches and coves",
+    "alt": "Clear turquoise water and rocks in Cala Granadella",
+    "html": "<ul><li><strong>El Arenal</strong> – the only big sandy beach, shallow and ideal for children.</li><li><strong>Cala Granadella</strong> – a pebble cove among pine woods, often listed among the most beautiful beaches in Spain. Car access is limited in summer.</li><li><strong>Portitxol / La Barraca</strong> – white fishermen's huts, an island just offshore and calm water.</li><li><strong>Cala Blanca</strong> – a small rocky cove near the Arenal, good for snorkelling.</li><li><strong>Cala Sardinera</strong> – a quiet pebble cove below the capes, popular with divers.</li></ul><p>Bring water shoes, as most coves are pebble or rock. Some coves, such as Cala Ambolo, have been closed for years because of rockfalls, so check before you go.</p>"
+   },
+   {
+    "id": "areas",
+    "h2": "Where to live in Jávea",
+    "alt": "Villas on the green hillside above Jávea port",
+    "html": "<ul><li><strong>Cap de la Nau, Balcón al Mar and Granadella</strong> – cliff-top villas with sea views and infinity pools, the most exclusive part of town.</li><li><strong>Tosalet, Adsubia and the slopes of Montgó</strong> – private villa areas in the hills, green and quiet.</li><li><strong>El Arenal, Costa Nova and La Corona</strong> – closer to the beach and services, with apartments and townhouses.</li><li><strong>Port and old town</strong> – for those who want to walk everywhere and live like a local.</li></ul><p>Nearby, <a href=\"{up}properties-for-sale-in-cumbre-del-sol.html\">Cumbre del Sol</a> and <a href=\"{up}properties-for-sale-in-denia.html\">Dénia</a> are also popular with international buyers.</p>"
+   },
+   {
+    "id": "life",
+    "h2": "Everyday life and the international community",
+    "alt": "",
+    "html": "<p>Jávea has international and Spanish schools, private clinics, tennis and padel clubs, sailing and diving clubs, and golf about 20 minutes away. The food scene is excellent, from daily fish at the port to BonAmb, a restaurant with two Michelin stars. With dozens of clubs and associations, it is easy to make friends, which is one reason many people who first came on holiday end up living here all year.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Is Jávea the same as Xàbia?",
+    "Yes. Jávea is the Spanish name and Xàbia the Valencian one. Both are official."
+   ],
+   [
+    "How far is Jávea from Alicante airport?",
+    "About 90 km, around 1 hour 15 minutes by car via the AP-7. Valencia airport is about 1 hour 30 minutes away."
+   ],
+   [
+    "What is the best beach in Jávea?",
+    "For families, El Arenal. For scenery and snorkelling, Cala Granadella and Portitxol."
+   ],
+   [
+    "Is Jávea good for living all year round?",
+    "Yes. Unlike many resorts, Jávea stays alive in winter, with a large international community, schools, clinics and a busy cultural calendar."
+   ]
+  ],
+  "closing": {
+   "h2": "Your home in Jávea",
+   "alt": "",
+   "html": "<p>Whether you dream of a villa with a view of the capes or an apartment a short walk from the beach, we can help you choose the right part of Jávea. <a href=\"{up}index.html#contact\">Get in touch</a> and tell us what matters to you.</p>"
+  },
+  "slug": "javea-the-hidden-gem-of-the-costa-blanca"
+ },
+ "de": {
+  "title": "Jávea (Xàbia) – Sehenswürdigkeiten, schönste Strände und beste Wohnlagen",
+  "description": "Praktischer Ratgeber zu Jávea an der Costa Blanca: Altstadt, Hafen und El Arenal, Montgó und die Kaps, die schönsten Buchten, beliebte Wohngegenden und Alltag für internationale Bewohner.",
+  "crumb": "Jávea Reiseführer",
+  "eyebrow": "Orte · Costa Blanca",
+  "h1": "Jávea: Das versteckte Juwel der Costa Blanca",
+  "hero_alt": "Türkisfarbene Bucht Portitxol in Jávea mit Villen am Hang",
+  "short": "Jávea (auf Valencianisch Xàbia) ist eine Stadt mit rund 30.000 Einwohnern im äußersten Norden der Costa Blanca, zwischen Dénia und Moraira. Sie hat drei Zentren: die historische Altstadt, den Fischerhafen Duanes de la Mar und den Sandstrand El Arenal. Rundherum liegen der Naturpark Montgó, die Kaps Sant Antoni und La Nau und über 20 km Küste mit Buchten wie Granadella und Portitxol. Der Flughafen Alicante ist etwa 1 Stunde 15 Minuten entfernt, Valencia etwa 1 Stunde 30.",
+  "intro": [
+   "Jávea gilt als verstecktes Juwel der Costa Blanca, weil es etwas abseits der Autobahn liegt, geschützt vom Montgó und zwei Kaps. Diese Lage sorgt für ein mildes Klima, grüne Hügel und eine ruhigere Atmosphäre als in den großen Ferienorten. Strenge Bauhöhen haben die Stadt überschaubar gehalten, und sie hat eine der internationalsten Gemeinschaften der Küste.",
+   "Hier erfahren Sie, was Sie sehen sollten, wo Sie baden können und welche Gegenden Zuzügler wählen."
+  ],
+  "sections": [
+   {
+    "id": "why",
+    "h2": "Warum Jávea so beliebt ist",
+    "alt": "Palme vor dem türkisfarbenen Meer in Jávea",
+    "html": "<p>Jávea verbindet Meer und Berge wie kaum ein anderer Ort. Der Morgen kann mit einer Wanderung am Montgó beginnen und mit einem Bad in einer Bucht enden. Im Juli und August ist viel los, den Rest des Jahres ist die Stadt entspannt und authentisch, mit Märkten, Cafés und regem Kulturleben. Viele Bewohner kommen aus Deutschland, den Niederlanden, Belgien, Großbritannien und Skandinavien, und es gibt deutschsprachige Vereine und Dienstleister. Spanische und valencianische Traditionen bleiben dabei lebendig.</p>"
+   },
+   {
+    "id": "centres",
+    "h2": "Altstadt, Hafen und El Arenal",
+    "alt": "Promenade mit Palmen am Arenal in Jávea",
+    "html": "<ul><li><strong>Die Altstadt (Poble)</strong> – enge Gassen, Häuser mit Fensterrahmen aus Naturstein und die gotische Wehrkirche Sant Bertomeu. Markthalle und Donnerstagsmarkt sind das Herz des Alltags.</li><li><strong>Duanes de la Mar (der Hafen)</strong> – Fischerhafen mit täglicher Fischauktion, Marina, Fischrestaurants und die moderne, schiffsförmige Kirche Nuestra Señora de Loreto.</li><li><strong>El Arenal</strong> – Sandstrand mit Promenade voller Restaurants, Bars und Geschäfte, abends der lebhafteste Teil der Stadt.</li></ul><p>Alle drei verbindet ein langer Weg am Meer mit Radweg, zu Fuß etwa 30 Minuten vom Hafen zum Arenal.</p>"
+   },
+   {
+    "id": "nature",
+    "h2": "Montgó und die Kaps",
+    "alt": "Blick auf die Kaps von Jávea und das Meer durch Pinien",
+    "html": "<p>Der <strong>Montgó</strong> (753 m) ist ein Naturpark mit Wanderwegen, vom Aufstieg zum Gipfel bis zum leichteren Weg zur Cova de l'Aigua. Auf der einen Seite der Bucht hat das <strong>Cap de Sant Antoni</strong> einen Leuchtturm, ein Meeresschutzgebiet und weite Ausblicke über die Stadt. Auf der anderen ist das <strong>Cap de la Nau</strong> der östlichste Punkt der Costa Blanca, mit der Meereshöhle Cova Tallada in der Nähe (im Sommer nur mit Voranmeldung). Die alten Windmühlen auf der Plana de Sant Antoni sind ein klassischer Ort für den Sonnenuntergang.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Strände und Buchten",
+    "alt": "Klares türkisfarbenes Wasser und Felsen in der Cala Granadella",
+    "html": "<ul><li><strong>El Arenal</strong> – der einzige große Sandstrand, flach und ideal für Kinder.</li><li><strong>Cala Granadella</strong> – eine Kiesbucht zwischen Pinienwäldern, oft unter den schönsten Stränden Spaniens. Im Sommer ist die Zufahrt mit dem Auto begrenzt.</li><li><strong>Portitxol / La Barraca</strong> – weiße Fischerhütten, eine kleine Insel vor der Küste und ruhiges Wasser.</li><li><strong>Cala Blanca</strong> – kleine Felsbucht nahe dem Arenal, gut zum Schnorcheln.</li><li><strong>Cala Sardinera</strong> – ruhige Kiesbucht unterhalb der Kaps, beliebt bei Tauchern.</li></ul><p>Badeschuhe mitnehmen, die meisten Buchten sind steinig. Einige, etwa die Cala Ambolo, sind wegen Steinschlags seit Jahren gesperrt, also vorher informieren.</p>"
+   },
+   {
+    "id": "areas",
+    "h2": "Wo man in Jávea wohnt",
+    "alt": "Villen am grünen Hang über dem Hafen von Jávea",
+    "html": "<ul><li><strong>Cap de la Nau, Balcón al Mar und Granadella</strong> – Villen auf den Klippen mit Meerblick und Infinity-Pools, der exklusivste Teil der Stadt.</li><li><strong>Tosalet, Adsubia und die Hänge des Montgó</strong> – private Villengegenden in den Hügeln, grün und ruhig.</li><li><strong>El Arenal, Costa Nova und La Corona</strong> – näher an Strand und Infrastruktur, mit Apartments und Reihenhäusern.</li><li><strong>Hafen und Altstadt</strong> – für alle, die alles zu Fuß erledigen und wie Einheimische leben möchten.</li></ul>"
+   },
+   {
+    "id": "life",
+    "h2": "Alltag und internationale Gemeinschaft",
+    "alt": "",
+    "html": "<p>Jávea hat internationale und spanische Schulen, Privatkliniken, Tennis- und Padelclubs, Segel- und Tauchclubs und einen Golfplatz etwa 20 Minuten entfernt. Die Gastronomie ist hervorragend, vom frischen Fisch am Hafen bis zum BonAmb mit zwei Michelin-Sternen. Mit Dutzenden Vereinen findet man schnell Anschluss, und so bleiben viele, die zuerst im Urlaub kamen, irgendwann das ganze Jahr.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Sind Jávea und Xàbia derselbe Ort?",
+    "Ja. Jávea ist der spanische, Xàbia der valencianische Name. Beide sind offiziell."
+   ],
+   [
+    "Wie weit ist Jávea vom Flughafen Alicante entfernt?",
+    "Etwa 90 km, rund 1 Stunde 15 Minuten über die AP-7. Der Flughafen Valencia ist etwa 1 Stunde 30 Minuten entfernt."
+   ],
+   [
+    "Welcher ist der schönste Strand in Jávea?",
+    "Für Familien El Arenal. Für Landschaft und Schnorcheln die Cala Granadella und Portitxol."
+   ],
+   [
+    "Kann man in Jávea gut das ganze Jahr leben?",
+    "Ja. Anders als viele Ferienorte bleibt Jávea im Winter lebendig, mit großer internationaler Gemeinschaft, Schulen, Kliniken und vollem Kulturkalender."
+   ]
+  ],
+  "closing": {
+   "h2": "Ihr Zuhause in Jávea",
+   "alt": "",
+   "html": "<p>Ob Villa mit Blick auf die Kaps oder Apartment wenige Schritte vom Strand: Wir helfen Ihnen, den richtigen Teil von Jávea zu finden. <a href=\"{up}index.html#contact\">Schreiben Sie uns</a>, was Ihnen wichtig ist.</p>"
+  },
+  "slug": "javea-das-versteckte-juwel-der-costa-blanca"
+ },
+ "es": {
+  "title": "Jávea (Xàbia) – Qué ver, mejores playas y dónde vivir",
+  "description": "Guía práctica de Jávea en la Costa Blanca: el casco antiguo, el puerto y El Arenal, el Montgó y los cabos, las mejores calas, las zonas residenciales más buscadas y la vida diaria de sus residentes.",
+  "crumb": "Guía de Jávea",
+  "eyebrow": "Lugares · Costa Blanca",
+  "h1": "Jávea: la joya escondida de la Costa Blanca",
+  "hero_alt": "Bahía turquesa del Portitxol en Jávea con villas en la ladera",
+  "short": "Jávea (Xàbia en valenciano) es un municipio de unos 30.000 habitantes en el extremo norte de la Costa Blanca, entre Dénia y Moraira. Tiene tres núcleos: el casco antiguo, el puerto pesquero de Duanes de la Mar y la playa de arena de El Arenal. Alrededor están el parque natural del Montgó, los cabos de Sant Antoni y La Nau y más de 20 km de costa con calas como la Granadella y el Portitxol. El aeropuerto de Alicante está a 1 hora 15 minutos y el de Valencia a 1 hora 30.",
+  "intro": [
+   "A Jávea se la llama la joya escondida de la Costa Blanca porque queda algo apartada de la autopista, protegida por el Montgó y dos cabos. Esa posición le da un clima suave, colinas verdes y un ambiente más tranquilo que el de los grandes destinos. Las normas de baja altura han mantenido una escala humana, y tiene una de las comunidades más internacionales de la costa.",
+   "Esto es lo que conviene ver, dónde bañarse y qué zonas eligen quienes se instalan aquí."
+  ],
+  "sections": [
+   {
+    "id": "why",
+    "h2": "Por qué gusta tanto Jávea",
+    "alt": "Palmera frente al mar turquesa en Jávea",
+    "html": "<p>Jávea combina mar y montaña como pocos lugares. La mañana puede empezar con una ruta por el Montgó y terminar con un baño en una cala. En julio y agosto hay mucho ambiente, pero el resto del año es un pueblo tranquilo y auténtico, con mercados, cafés y una vida cultural muy activa. Conviven residentes de toda Europa con familias de Madrid y Valencia que veranean aquí desde hace generaciones, y las tradiciones valencianas siguen muy vivas.</p>"
+   },
+   {
+    "id": "centres",
+    "h2": "Casco antiguo, puerto y El Arenal",
+    "alt": "Paseo con palmeras en El Arenal de Jávea",
+    "html": "<ul><li><strong>El casco antiguo (Poble)</strong> – calles estrechas, casas con ventanas enmarcadas en piedra tosca y la iglesia-fortaleza gótica de Sant Bertomeu. El mercado municipal y el mercadillo de los jueves son el centro de la vida diaria.</li><li><strong>Duanes de la Mar (el puerto)</strong> – puerto pesquero con lonja diaria, puerto deportivo, restaurantes de pescado y la moderna iglesia de Nuestra Señora de Loreto, con forma de barco.</li><li><strong>El Arenal</strong> – la playa de arena y su paseo de restaurantes, bares y tiendas, la zona más animada por la noche.</li></ul><p>Los tres núcleos están unidos por un largo paseo marítimo con carril bici, unos 30 minutos a pie del puerto al Arenal.</p>"
+   },
+   {
+    "id": "nature",
+    "h2": "El Montgó y los cabos",
+    "alt": "Vista de los cabos de Jávea y el mar entre pinos",
+    "html": "<p>El <strong>Montgó</strong> (753 m) es parque natural, con rutas como la subida a la cima o el camino más fácil a la Cova de l'Aigua. A un lado de la bahía, el <strong>Cap de Sant Antoni</strong> tiene faro, reserva marina y grandes vistas sobre el pueblo. Al otro, el <strong>Cap de la Nau</strong> es el punto más oriental de la Costa Blanca, con la cueva marina de la Cova Tallada cerca (en verano hay que reservar la visita). Los antiguos molinos de la Plana de Sant Antoni son un clásico para ver el atardecer.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "Playas y calas",
+    "alt": "Agua turquesa y rocas en la cala Granadella",
+    "html": "<ul><li><strong>El Arenal</strong> – la única gran playa de arena, poco profunda e ideal para niños.</li><li><strong>Cala Granadella</strong> – cala de piedras entre pinares, a menudo entre las playas más bonitas de España. En verano el acceso en coche está limitado.</li><li><strong>Portitxol / La Barraca</strong> – casetas blancas de pescadores, un islote frente a la costa y agua tranquila.</li><li><strong>Cala Blanca</strong> – pequeña cala rocosa cerca del Arenal, buena para el snorkel.</li><li><strong>Cala Sardinera</strong> – cala tranquila de canto rodado bajo los cabos, muy apreciada por los buceadores.</li></ul><p>Lleve escarpines, porque casi todas las calas son de piedras. Algunas, como la cala Ambolo, llevan años cerradas por desprendimientos, así que conviene informarse antes.</p>"
+   },
+   {
+    "id": "areas",
+    "h2": "Dónde vivir en Jávea",
+    "alt": "Villas en la ladera verde sobre el puerto de Jávea",
+    "html": "<ul><li><strong>Cap de la Nau, Balcón al Mar y Granadella</strong> – villas sobre los acantilados con vistas al mar y piscinas infinitas, la zona más exclusiva.</li><li><strong>Tosalet, Adsubia y las faldas del Montgó</strong> – zonas privadas de villas en las colinas, verdes y tranquilas.</li><li><strong>El Arenal, Costa Nova y La Corona</strong> – más cerca de la playa y los servicios, con apartamentos y adosados.</li><li><strong>Puerto y casco antiguo</strong> – para quien quiere hacerlo todo a pie y vivir como un vecino más.</li></ul>"
+   },
+   {
+    "id": "life",
+    "h2": "Vida diaria y comunidad internacional",
+    "alt": "",
+    "html": "<p>Jávea tiene colegios internacionales y españoles, clínicas privadas, clubes de tenis y pádel, de vela y de buceo, y golf a unos 20 minutos. La gastronomía es excelente, desde el pescado de la lonja hasta BonAmb, con dos estrellas Michelin. Con decenas de asociaciones es fácil hacer amigos, y muchos de los que llegaron de vacaciones acaban viviendo aquí todo el año.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿Jávea y Xàbia son lo mismo?",
+    "Sí. Jávea es el nombre en castellano y Xàbia en valenciano. Ambos son oficiales."
+   ],
+   [
+    "¿A qué distancia está Jávea del aeropuerto de Alicante?",
+    "A unos 90 km, aproximadamente 1 hora 15 minutos por la AP-7. El aeropuerto de Valencia está a 1 hora 30 minutos."
+   ],
+   [
+    "¿Cuál es la mejor playa de Jávea?",
+    "Para familias, El Arenal. Para paisaje y snorkel, la cala Granadella y el Portitxol."
+   ],
+   [
+    "¿Se puede vivir bien en Jávea todo el año?",
+    "Sí. A diferencia de muchos destinos de playa, Jávea sigue viva en invierno, con una gran comunidad internacional, colegios, clínicas y una agenda cultural llena."
+   ]
+  ],
+  "closing": {
+   "h2": "Su casa en Jávea",
+   "alt": "",
+   "html": "<p>Tanto si sueña con una villa con vistas a los cabos como con un apartamento a un paso de la playa, le ayudamos a elegir la zona de Jávea adecuada. <a href=\"{up}index.html#contact\">Escríbanos</a> y cuéntenos qué es importante para usted.</p>"
+  },
+  "slug": "javea-la-joya-escondida-de-la-costa-blanca"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/javea-ukryty-klejnot-costa-blanca"
+}

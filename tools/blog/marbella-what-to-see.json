@@ -1,0 +1,331 @@
+{
+ "author": "lucyna",
+ "published": "2025-06-09",
+ "modified": "2026-10-26",
+ "hero": "assets/blog/marbella-what-to-see/marbella-from-the-air-with-la-concha-mountain.jpg",
+ "images": {
+  "oldtown": "assets/blog/marbella-what-to-see/white-chapel-and-palm-trees-in-marbella-old-town.jpg",
+  "naranjos": "assets/blog/marbella-what-to-see/fountain-in-plaza-de-los-naranjos-marbella.jpg",
+  "church": "assets/blog/marbella-what-to-see/church-of-the-incarnation-in-marbella.jpg",
+  "alameda": "assets/blog/marbella-what-to-see/fountain-in-alameda-park-marbella.jpg",
+  "beaches": "assets/blog/marbella-what-to-see/marbella-beach-and-promenade-at-sunset.jpg",
+  "banus": "assets/blog/marbella-what-to-see/yachts-in-puerto-banus-with-la-concha-behind.jpg"
+ },
+ "cards": [
+  "20927700",
+  "26232807",
+  "26614054"
+ ],
+ "sources": [
+  [
+   "Marbella Tourist Office",
+   "https://turismo.marbella.es/"
+  ],
+  [
+   "Junta de Andalucía – Dunas de Artola natural monument",
+   "https://www.juntadeandalucia.es/medioambiente/portal/"
+  ],
+  [
+   "Costa del Sol Tourist Board",
+   "https://www.visitcostadelsol.com/"
+  ]
+ ],
+ "en": {
+  "title": "What to See in Marbella – Top 10 Sights, Beaches and Walks",
+  "description": "The top 10 things to see in Marbella: the old town and Plaza de los Naranjos, the Dalí sculptures on Avenida del Mar, the seafront, Puerto Banús, the Golden Mile, La Concha, Roman remains and the Artola dunes.",
+  "crumb": "What to see in Marbella",
+  "eyebrow": "Places · Costa del Sol",
+  "h1": "What to See in Marbella: Top 10 Attractions",
+  "hero_alt": "Aerial view of Marbella and its marina with La Concha mountain behind",
+  "short": "Marbella is a city of about 160,000 people on the Costa del Sol, around 45 minutes from Málaga airport. Its top sights are the whitewashed old town and Plaza de los Naranjos, the Church of the Incarnation, the Alameda park and the Dalí sculptures on Avenida del Mar, the long seafront promenade, Puerto Banús and the Golden Mile, the walk up La Concha, the Roman remains in San Pedro and the Artola dunes at Cabopino. The municipality has about 27 km of beaches.",
+  "intro": [
+   "Marbella is famous for luxury, but the city has much more to offer than yachts and beach clubs. Behind the seafront is a beautifully kept Andalusian old town, and the coast is framed by the Sierra Blanca mountains, which protect it from cold winds and give it a mild climate all year.",
+   "Here are ten places we always recommend, whether you have a weekend or are getting to know the city before buying a home."
+  ],
+  "sections": [
+   {
+    "id": "oldtown",
+    "h2": "1. The old town (Casco Antiguo)",
+    "alt": "White chapel, palm trees and a scooter in Marbella old town",
+    "html": "<p>The old town grew inside the walls of a Moorish castle, and parts of those walls still stand. Today it is a maze of narrow white streets with flower pots, small squares, boutiques and tapas bars. Go early in the morning or in the evening, when it is cooler and quieter.</p>"
+   },
+   {
+    "id": "naranjos",
+    "h2": "2. Plaza de los Naranjos",
+    "alt": "Fountain and café terraces in Plaza de los Naranjos",
+    "html": "<p>The heart of the old town was laid out after the Christian conquest of Marbella in 1485. Orange trees surround a Renaissance fountain, and the square is framed by the 16th-century town hall, the Casa del Corregidor and the small Ermita de Santiago, one of the oldest buildings in the city. Café terraces fill the square from morning to night.</p>"
+   },
+   {
+    "id": "church",
+    "h2": "3. Church of the Incarnation",
+    "alt": "White and yellow façade and bell tower of the Church of the Incarnation",
+    "html": "<p>A few steps from the square, the Iglesia de la Encarnación was built in the 16th century, probably on the site of the town's old mosque. It has a stone baroque doorway and a richly decorated interior, and its large organ is used for concerts.</p>"
+   },
+   {
+    "id": "alameda",
+    "h2": "4. Alameda park and Avenida del Mar",
+    "alt": "Fountain surrounded by trees in Alameda park",
+    "html": "<p>The shady Alameda park, with its fountain and tiled benches, connects the old town to the sea. From there, the pedestrian Avenida del Mar leads to the beach and is lined with ten bronze sculptures by Salvador Dalí, an open-air gallery that is free to visit.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "5. The seafront and beaches",
+    "alt": "Marbella beach and promenade at sunset",
+    "html": "<p>A long seafront promenade runs through the centre, and the coastal path (Senda Litoral) continues along much of the municipality. Central beaches such as La Venus, La Fontanilla and El Faro are easy to reach and have beach bars. In total Marbella has about 27 km of coast, from city beaches to quiet coves and well-known beach clubs.</p>"
+   },
+   {
+    "id": "banus",
+    "h2": "6. Puerto Banús",
+    "alt": "Yachts in Puerto Banús marina with La Concha behind",
+    "html": "<p>About 6 km west of the centre, Puerto Banús is one of the most famous marinas in the Mediterranean, opened in 1970. Come for the superyachts, the luxury shops on the front line and the evening atmosphere. Read our full <a href=\"{up}puerto-banus-in-marbella.html\">Puerto Banús guide</a>.</p>"
+   },
+   {
+    "id": "golden",
+    "h2": "7. The Golden Mile",
+    "alt": "",
+    "html": "<p>Between the centre and Puerto Banús, the Golden Mile is lined with grand villas, luxury hotels and famous beach clubs. Here you also find the Mosque of King Abdulaziz, built in 1981, with its white minaret among the gardens. It is the area that made Marbella famous with the international jet set in the 1950s and 1960s.</p>"
+   },
+   {
+    "id": "concha",
+    "h2": "8. La Concha mountain",
+    "alt": "",
+    "html": "<p>The shell-shaped peak above the city (about 1,215 m) is Marbella's symbol. The hike from Refugio de Juanar or from Istán is demanding but rewards you with views of the whole coast, and on clear days of Gibraltar and Africa. Start early, bring plenty of water and avoid the midday heat in summer.</p>"
+   },
+   {
+    "id": "roman",
+    "h2": "9. Roman Marbella",
+    "alt": "",
+    "html": "<p>Few visitors know that Marbella has important Roman remains: the Río Verde Roman villa with its well-preserved mosaics, and in San Pedro de Alcántara the Las Bóvedas baths and the early Christian basilica of Vega del Mar. They are small, quiet and a lovely contrast to the busy coast.</p>"
+   },
+   {
+    "id": "artola",
+    "h2": "10. Cabopino and the Artola dunes",
+    "alt": "",
+    "html": "<p>At the eastern end of the municipality, the Dunas de Artola are a protected natural monument with wooden walkways through the dunes and pines. Next to them, the small Cabopino marina has relaxed restaurants and a wide natural beach.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "How far is Marbella from Málaga airport?",
+    "About 50 km, around 40–50 minutes by car on the A-7 or the AP-7 toll road. There are also direct buses."
+   ],
+   [
+    "What is Marbella's old town famous for?",
+    "Its white streets full of flowers and Plaza de los Naranjos, the square with orange trees laid out after 1485."
+   ],
+   [
+    "Where are the Dalí sculptures in Marbella?",
+    "On Avenida del Mar, the pedestrian street between Alameda park and the seafront. There are ten bronze sculptures and they are free to see."
+   ],
+   [
+    "Is Marbella only for the rich?",
+    "No. Alongside the luxury areas, Marbella is a real city with a lively old town, public beaches, markets and many affordable restaurants."
+   ]
+  ],
+  "closing": {
+   "h2": "Living in Marbella",
+   "alt": "",
+   "html": "<p>Marbella offers city life, beaches, golf and mountains within a few minutes of each other. If you are thinking about a home here, see our <a href=\"{up}properties-for-sale-in-marbella.html\">properties for sale in Marbella</a> or <a href=\"{up}index.html#contact\">get in touch</a>, and we will help you choose between the old town, the Golden Mile, Nueva Andalucía and the quieter east.</p>"
+  },
+  "slug": "what-is-worth-seeing-in-marbella"
+ },
+ "de": {
+  "title": "Sehenswürdigkeiten in Marbella – Die Top 10, Strände und Spaziergänge",
+  "description": "Die 10 schönsten Sehenswürdigkeiten in Marbella: Altstadt und Plaza de los Naranjos, die Dalí-Skulpturen an der Avenida del Mar, die Promenade, Puerto Banús, die Goldene Meile, La Concha, römische Spuren und die Dünen von Artola.",
+  "crumb": "Sehenswürdigkeiten in Marbella",
+  "eyebrow": "Orte · Costa del Sol",
+  "h1": "Sehenswürdigkeiten in Marbella: Die Top 10",
+  "hero_alt": "Luftaufnahme von Marbella und dem Hafen mit dem Berg La Concha",
+  "short": "Marbella ist eine Stadt mit rund 160.000 Einwohnern an der Costa del Sol, etwa 45 Minuten vom Flughafen Málaga. Die wichtigsten Sehenswürdigkeiten sind die weiße Altstadt mit der Plaza de los Naranjos, die Kirche der Menschwerdung, der Alameda-Park und die Dalí-Skulpturen an der Avenida del Mar, die lange Strandpromenade, Puerto Banús und die Goldene Meile, die Wanderung auf den La Concha, die römischen Reste in San Pedro und die Dünen von Artola bei Cabopino. Die Gemeinde hat rund 27 km Strände.",
+  "intro": [
+   "Marbella ist für Luxus bekannt, hat aber viel mehr zu bieten als Yachten und Beach Clubs. Hinter der Promenade liegt eine gepflegte andalusische Altstadt, und die Küste wird von der Sierra Blanca eingerahmt, die kalte Winde abhält und für ein mildes Klima sorgt.",
+   "Hier sind zehn Orte, die wir immer empfehlen, ob Sie ein Wochenende haben oder die Stadt vor dem Kauf einer Immobilie kennenlernen."
+  ],
+  "sections": [
+   {
+    "id": "oldtown",
+    "h2": "1. Die Altstadt (Casco Antiguo)",
+    "alt": "Weiße Kapelle, Palmen und ein Roller in der Altstadt von Marbella",
+    "html": "<p>Die Altstadt entstand innerhalb der Mauern einer maurischen Burg, von denen Teile noch stehen. Heute ist sie ein Labyrinth aus engen weißen Gassen mit Blumentöpfen, kleinen Plätzen, Boutiquen und Tapasbars. Am schönsten früh morgens oder abends, wenn es kühler und ruhiger ist.</p>"
+   },
+   {
+    "id": "naranjos",
+    "h2": "2. Plaza de los Naranjos",
+    "alt": "Brunnen und Caféterrassen auf der Plaza de los Naranjos",
+    "html": "<p>Das Herz der Altstadt wurde nach der christlichen Eroberung Marbellas 1485 angelegt. Orangenbäume umgeben einen Renaissancebrunnen, und den Platz säumen das Rathaus aus dem 16. Jahrhundert, die Casa del Corregidor und die kleine Ermita de Santiago, eines der ältesten Gebäude der Stadt. Die Caféterrassen sind von früh bis spät belebt.</p>"
+   },
+   {
+    "id": "church",
+    "h2": "3. Kirche der Menschwerdung",
+    "alt": "Weiß-gelbe Fassade und Glockenturm der Iglesia de la Encarnación",
+    "html": "<p>Wenige Schritte vom Platz wurde die Iglesia de la Encarnación im 16. Jahrhundert erbaut, wahrscheinlich an der Stelle der früheren Moschee. Sie hat ein barockes Steinportal und ein reich geschmücktes Inneres, ihre große Orgel wird für Konzerte genutzt.</p>"
+   },
+   {
+    "id": "alameda",
+    "h2": "4. Alameda-Park und Avenida del Mar",
+    "alt": "Brunnen zwischen Bäumen im Alameda-Park",
+    "html": "<p>Der schattige Alameda-Park mit Brunnen und gefliesten Bänken verbindet die Altstadt mit dem Meer. Von dort führt die Fußgängerzone Avenida del Mar zum Strand, gesäumt von zehn Bronzeskulpturen von Salvador Dalí, eine kostenlose Freiluftgalerie.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "5. Promenade und Strände",
+    "alt": "Strand und Promenade von Marbella bei Sonnenuntergang",
+    "html": "<p>Eine lange Strandpromenade führt durch das Zentrum, und der Küstenweg (Senda Litoral) zieht sich durch weite Teile der Gemeinde. Zentrale Strände wie La Venus, La Fontanilla und El Faro sind leicht erreichbar und haben Strandbars. Insgesamt hat Marbella rund 27 km Küste, vom Stadtstrand bis zu ruhigen Buchten und bekannten Beach Clubs.</p>"
+   },
+   {
+    "id": "banus",
+    "h2": "6. Puerto Banús",
+    "alt": "Yachten im Hafen Puerto Banús vor dem La Concha",
+    "html": "<p>Rund 6 km westlich des Zentrums liegt Puerto Banús, 1970 eröffnet und einer der berühmtesten Yachthäfen des Mittelmeers. Kommen Sie für die Superyachten, die Luxusgeschäfte in der ersten Reihe und die Abendstimmung. Mehr in unserem <a href=\"{up}de-de/puerto-banus-in-marbella.html\">Ratgeber zu Puerto Banús</a>.</p>"
+   },
+   {
+    "id": "golden",
+    "h2": "7. Die Goldene Meile",
+    "alt": "",
+    "html": "<p>Zwischen dem Zentrum und Puerto Banús reihen sich an der Goldenen Meile prächtige Villen, Luxushotels und berühmte Beach Clubs. Hier steht auch die 1981 erbaute Moschee König Abdulaziz mit ihrem weißen Minarett im Garten. Diese Gegend machte Marbella in den 1950er- und 1960er-Jahren beim internationalen Jetset berühmt.</p>"
+   },
+   {
+    "id": "concha",
+    "h2": "8. Der Berg La Concha",
+    "alt": "",
+    "html": "<p>Der muschelförmige Gipfel über der Stadt (rund 1.215 m) ist Marbellas Wahrzeichen. Die Wanderung vom Refugio de Juanar oder von Istán ist anspruchsvoll, belohnt aber mit Blick über die ganze Küste und an klaren Tagen bis Gibraltar und Afrika. Früh starten, viel Wasser mitnehmen und im Sommer die Mittagshitze meiden.</p>"
+   },
+   {
+    "id": "roman",
+    "h2": "9. Das römische Marbella",
+    "alt": "",
+    "html": "<p>Wenige Besucher wissen, dass Marbella bedeutende römische Spuren hat: die römische Villa von Río Verde mit gut erhaltenen Mosaiken und in San Pedro de Alcántara die Thermen Las Bóvedas und die frühchristliche Basilika Vega del Mar. Klein, ruhig und ein schöner Kontrast zur belebten Küste.</p>"
+   },
+   {
+    "id": "artola",
+    "h2": "10. Cabopino und die Dünen von Artola",
+    "alt": "",
+    "html": "<p>Am östlichen Ende der Gemeinde stehen die Dunas de Artola als Naturdenkmal unter Schutz, mit Holzstegen durch Dünen und Pinien. Daneben hat der kleine Hafen von Cabopino entspannte Restaurants und einen breiten Naturstrand.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "Wie weit ist Marbella vom Flughafen Málaga entfernt?",
+    "Etwa 50 km, rund 40–50 Minuten mit dem Auto über die A-7 oder die mautpflichtige AP-7. Es gibt auch direkte Busse."
+   ],
+   [
+    "Wofür ist die Altstadt von Marbella bekannt?",
+    "Für ihre weißen, blumengeschmückten Gassen und die Plaza de los Naranjos, den nach 1485 angelegten Platz mit Orangenbäumen."
+   ],
+   [
+    "Wo stehen die Dalí-Skulpturen in Marbella?",
+    "An der Avenida del Mar, der Fußgängerzone zwischen Alameda-Park und Promenade. Es sind zehn Bronzeskulpturen, frei zugänglich."
+   ],
+   [
+    "Ist Marbella nur etwas für Reiche?",
+    "Nein. Neben den Luxusvierteln ist Marbella eine echte Stadt mit lebendiger Altstadt, öffentlichen Stränden, Märkten und vielen günstigen Restaurants."
+   ]
+  ],
+  "closing": {
+   "h2": "Leben in Marbella",
+   "alt": "",
+   "html": "<p>Marbella bietet Stadtleben, Strände, Golf und Berge, alles wenige Minuten voneinander entfernt. Wenn Sie hier an ein Zuhause denken, <a href=\"{up}index.html#contact\">schreiben Sie uns</a>. Wir helfen Ihnen bei der Wahl zwischen Altstadt, Goldener Meile, Nueva Andalucía und dem ruhigeren Osten.</p>"
+  },
+  "slug": "sehenswurdigkeiten-in-marbella"
+ },
+ "es": {
+  "title": "Qué ver en Marbella – Los 10 imprescindibles, playas y paseos",
+  "description": "Los 10 lugares imprescindibles de Marbella: el casco antiguo y la Plaza de los Naranjos, las esculturas de Dalí en la Avenida del Mar, el paseo marítimo, Puerto Banús, la Milla de Oro, La Concha, la Marbella romana y las dunas de Artola.",
+  "crumb": "Qué ver en Marbella",
+  "eyebrow": "Lugares · Costa del Sol",
+  "h1": "Qué ver en Marbella: los 10 lugares imprescindibles",
+  "hero_alt": "Vista aérea de Marbella y su puerto con la montaña de La Concha al fondo",
+  "short": "Marbella es una ciudad de unos 160.000 habitantes en la Costa del Sol, a unos 45 minutos del aeropuerto de Málaga. Sus imprescindibles son el casco antiguo encalado y la Plaza de los Naranjos, la iglesia de la Encarnación, el parque de la Alameda y las esculturas de Dalí en la Avenida del Mar, el largo paseo marítimo, Puerto Banús y la Milla de Oro, la subida a La Concha, los restos romanos de San Pedro y las dunas de Artola en Cabopino. El municipio tiene unos 27 km de playas.",
+  "intro": [
+   "Marbella es famosa por el lujo, pero ofrece mucho más que yates y beach clubs. Detrás del paseo marítimo hay un casco antiguo andaluz muy cuidado, y la costa está enmarcada por Sierra Blanca, que la protege de los vientos fríos y le da un clima suave todo el año.",
+   "Estos son diez lugares que siempre recomendamos, tanto si viene un fin de semana como si quiere conocer la ciudad antes de comprar una vivienda."
+  ],
+  "sections": [
+   {
+    "id": "oldtown",
+    "h2": "1. El casco antiguo",
+    "alt": "Ermita blanca, palmeras y una moto en el casco antiguo de Marbella",
+    "html": "<p>El casco antiguo creció dentro de las murallas de un castillo árabe, del que aún quedan tramos. Hoy es un laberinto de calles blancas y estrechas con macetas, plazuelas, tiendas y bares de tapas. Lo mejor es pasear a primera hora o al atardecer, cuando hace menos calor y hay menos gente.</p>"
+   },
+   {
+    "id": "naranjos",
+    "h2": "2. La Plaza de los Naranjos",
+    "alt": "Fuente y terrazas en la Plaza de los Naranjos",
+    "html": "<p>El corazón del casco antiguo se trazó tras la conquista cristiana de Marbella en 1485. Los naranjos rodean una fuente renacentista, y la plaza la cierran el ayuntamiento del siglo XVI, la Casa del Corregidor y la pequeña Ermita de Santiago, uno de los edificios más antiguos de la ciudad. Las terrazas están llenas desde la mañana hasta la noche.</p>"
+   },
+   {
+    "id": "church",
+    "h2": "3. La iglesia de la Encarnación",
+    "alt": "Fachada blanca y amarilla y campanario de la iglesia de la Encarnación",
+    "html": "<p>A pocos pasos de la plaza, la iglesia de la Encarnación se levantó en el siglo XVI, probablemente sobre la antigua mezquita. Tiene una portada barroca de piedra y un interior muy decorado, y su gran órgano se usa para conciertos.</p>"
+   },
+   {
+    "id": "alameda",
+    "h2": "4. El parque de la Alameda y la Avenida del Mar",
+    "alt": "Fuente rodeada de árboles en el parque de la Alameda",
+    "html": "<p>El parque de la Alameda, con su fuente y sus bancos de azulejos, une el casco antiguo con el mar. Desde allí, la peatonal Avenida del Mar baja hasta la playa con diez esculturas de bronce de Salvador Dalí, un museo al aire libre gratuito.</p>"
+   },
+   {
+    "id": "beaches",
+    "h2": "5. El paseo marítimo y las playas",
+    "alt": "Playa y paseo marítimo de Marbella al atardecer",
+    "html": "<p>Un largo paseo marítimo recorre el centro, y la Senda Litoral continúa por buena parte del municipio. Playas céntricas como La Venus, La Fontanilla y El Faro son de fácil acceso y tienen chiringuitos. En total, Marbella tiene unos 27 km de costa, desde playas urbanas hasta calas tranquilas y conocidos beach clubs.</p>"
+   },
+   {
+    "id": "banus",
+    "h2": "6. Puerto Banús",
+    "alt": "Yates en Puerto Banús con La Concha al fondo",
+    "html": "<p>A unos 6 km al oeste del centro, Puerto Banús, inaugurado en 1970, es uno de los puertos deportivos más famosos del Mediterráneo. Merece la pena por los superyates, las tiendas de lujo de primera línea y el ambiente nocturno. Más en nuestra <a href=\"{up}es-es/puerto-banus-en-marbella.html\">guía de Puerto Banús</a>.</p>"
+   },
+   {
+    "id": "golden",
+    "h2": "7. La Milla de Oro",
+    "alt": "",
+    "html": "<p>Entre el centro y Puerto Banús, la Milla de Oro reúne grandes villas, hoteles de lujo y famosos beach clubs. Aquí está también la mezquita del Rey Abdulaziz, construida en 1981, con su minarete blanco entre jardines. Es la zona que hizo famosa a Marbella entre la jet set internacional en los años cincuenta y sesenta.</p>"
+   },
+   {
+    "id": "concha",
+    "h2": "8. La Concha",
+    "alt": "",
+    "html": "<p>La cumbre en forma de concha sobre la ciudad (unos 1.215 m) es el símbolo de Marbella. La ruta desde el Refugio de Juanar o desde Istán es exigente, pero recompensa con vistas a toda la costa y, en días claros, a Gibraltar y África. Salga temprano, lleve agua de sobra y evite el calor del mediodía en verano.</p>"
+   },
+   {
+    "id": "roman",
+    "h2": "9. La Marbella romana",
+    "alt": "",
+    "html": "<p>Pocos visitantes saben que Marbella tiene importantes restos romanos: la villa romana de Río Verde, con mosaicos muy bien conservados, y en San Pedro de Alcántara las termas de Las Bóvedas y la basílica paleocristiana de Vega del Mar. Son lugares pequeños y tranquilos, un buen contraste con la costa más concurrida.</p>"
+   },
+   {
+    "id": "artola",
+    "h2": "10. Cabopino y las dunas de Artola",
+    "alt": "",
+    "html": "<p>En el extremo este del municipio, las Dunas de Artola son monumento natural, con pasarelas de madera entre dunas y pinos. Al lado, el pequeño puerto de Cabopino tiene restaurantes tranquilos y una amplia playa natural.</p>"
+   }
+  ],
+  "faq": [
+   [
+    "¿A qué distancia está Marbella del aeropuerto de Málaga?",
+    "A unos 50 km, entre 40 y 50 minutos en coche por la A-7 o la autopista de peaje AP-7. También hay autobuses directos."
+   ],
+   [
+    "¿Por qué es famoso el casco antiguo de Marbella?",
+    "Por sus calles blancas llenas de flores y por la Plaza de los Naranjos, trazada después de 1485."
+   ],
+   [
+    "¿Dónde están las esculturas de Dalí en Marbella?",
+    "En la Avenida del Mar, la calle peatonal entre el parque de la Alameda y el paseo marítimo. Son diez esculturas de bronce y se pueden ver gratis."
+   ],
+   [
+    "¿Marbella es solo para ricos?",
+    "No. Además de las zonas de lujo, Marbella es una ciudad de verdad, con un casco antiguo animado, playas públicas, mercados y muchos restaurantes asequibles."
+   ]
+  ],
+  "closing": {
+   "h2": "Vivir en Marbella",
+   "alt": "",
+   "html": "<p>Marbella reúne vida urbana, playas, golf y montaña a pocos minutos entre sí. Si piensa en una casa aquí, <a href=\"{up}index.html#contact\">escríbanos</a> y le ayudaremos a elegir entre el casco antiguo, la Milla de Oro, Nueva Andalucía y el este más tranquilo.</p>"
+  },
+  "slug": "que-ver-en-marbella"
+ },
+ "pl": "https://www.eliteworldestates.com/pl-pl/co-warto-zobaczy-w-marbelli"
+}
