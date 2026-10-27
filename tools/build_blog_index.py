@@ -139,9 +139,9 @@ def page(arts, lang):
     feat, rest = own[0], own[1:]
     canon = f"{SITE}/{DIRS[lang]}blog"
     alts = "\n".join(f'  <link rel="alternate" hreflang="{l}" href="{SITE}/{DIRS[l]}blog">' for l in LANGS)
-    alts += f'\n  <link rel="alternate" hreflang="x-default" href="{SITE}/blog">\n  <link rel="alternate" hreflang="pl" href="https://eliteworldestates.pl/blog">'
+    alts += f'\n  <link rel="alternate" hreflang="x-default" href="{SITE}/blog">\n  <link rel="alternate" hreflang="pl" href="{SITE}/pl-pl/blog">'
     langs = "\n        ".join(f'<a href="{up}{DIRS[l]}blog.html"{" class=\"active\"" if l == lang else ""} hreflang="{l}">{l.upper()}</a>' for l in LANGS)
-    langs += '\n        <a href="https://eliteworldestates.pl/blog" hreflang="pl">PL</a>'
+    langs += f'\n        <a href="{up}pl-pl/blog.html" hreflang="pl">PL</a>'
     chips = f'<button type="button" class="chip active" data-topic="all">{tx["all"]}</button>' + "".join(
         f'<button type="button" class="chip" data-topic="{k}">{esc(v)}</button>' for k, v in tx["topics"].items())
     ld = [
@@ -290,6 +290,7 @@ def update_sitemap():
     s = re.sub(r"  <!-- blog-index -->.*?<!-- /blog-index -->\n", "", s, flags=re.S)
     alt = "".join(f'    <xhtml:link rel="alternate" hreflang="{l}" href="{SITE}/{DIRS[l]}blog"/>\n' for l in LANGS)
     alt += f'    <xhtml:link rel="alternate" hreflang="x-default" href="{SITE}/blog"/>\n'
+    alt += f'    <xhtml:link rel="alternate" hreflang="pl" href="{SITE}/pl-pl/blog"/>\n'
     import datetime
     today = datetime.date.today().isoformat()
     blocks = "".join(f"  <url>\n    <loc>{SITE}/{DIRS[l]}blog</loc>\n    <lastmod>{today}</lastmod>\n{alt}  </url>\n" for l in LANGS)

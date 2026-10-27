@@ -110,6 +110,20 @@ def nice_date(iso, lang):
     return f"{d}. {mon} {y}" if lang == "de" else (f"{d} de {mon} de {y}" if lang == "es" else f"{d} {mon} {y}")
 
 
+_PL_EN = None
+
+
+def pl_pair(a):
+    """True if a["pl"] is the Polish article that names this one as its match (hreflang must go both ways)."""
+    global _PL_EN
+    if _PL_EN is None:
+        p = os.path.join(ROOT, "tools", "blog-pl", "articles.json")
+        pl = json.load(open(p, encoding="utf-8")) if os.path.exists(p) else {}
+        _PL_EN = {f"{SITE}/pl-pl/{k}": json.load(open(os.path.join(SRC, v["en"] + ".json"), encoding="utf-8"))["en"]["slug"]
+                  for k, v in pl.items() if v.get("en")}
+    return _PL_EN.get(a.get("pl")) == a["en"]["slug"]
+
+
 def url(a, lang):
     return f"{SITE}/{DIRS[lang]}{a[lang]['slug']}"
 
@@ -134,7 +148,12 @@ def page(a, lang):
     langs = "\n        ".join(
         f'<a href="{url(a, l)}"{" class=\"active\"" if l == lang else ""} hreflang="{l}">{l.upper()}</a>' for l in LANGS)
     if a.get("pl"):
-        langs += f'\n        <a href="{a["pl"]}" hreflang="pl">PL</a>'
+        pl_href = a["pl"]
+        if pl_href.startswith(SITE + "/pl-pl/"):  # Polish blog on this site
+            pl_href = up + pl_href[len(SITE) + 1:] + ".html"
+        langs += f'\n        <a href="{pl_href}" hreflang="pl">PL</a>'
+        if pl_pair(a):
+            alts += f'\n  <link rel="alternate" hreflang="pl" href="{a["pl"]}">'
 
     faq_ld = [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": strip_tags(ans)}} for q, ans in t["faq"]]
     ld = [
@@ -347,6 +366,8 @@ def update_sitemap(articles):
     for a in articles:
         alt = "".join(f'    <xhtml:link rel="alternate" hreflang="{l}" href="{url(a, l)}"/>\n' for l in LANGS)
         alt += f'    <xhtml:link rel="alternate" hreflang="x-default" href="{url(a, "en")}"/>\n'
+        if pl_pair(a):
+            alt += f'    <xhtml:link rel="alternate" hreflang="pl" href="{a["pl"]}"/>\n'
         for l in LANGS:
             blocks.append(f"  <url>\n    <loc>{url(a, l)}</loc>\n    <lastmod>{a['modified']}</lastmod>\n{alt}"
                           f"    <image:image><image:loc>{SITE}/{a['hero']}</image:loc></image:image>\n  </url>\n")

@@ -340,6 +340,7 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .post-body a { color: var(--gold-dark); text-decoration: underline; text-underline-offset: 2px; }
 .in-short { border-left: 3px solid var(--gold); background: #faf8f5; padding: 1.1rem 1.4rem; margin: 0 0 2rem; }
 .in-short p { margin: 0; }
+.in-short p + p { margin-top: .75rem; }
 .toc { border-top: 1px solid #ece7df; border-bottom: 1px solid #ece7df; padding: 1rem 0; margin: 1.5rem 0 1rem; }
 .toc-title { font-weight: 700; color: var(--ink); margin: 0 0 .4rem !important; }
 .toc ol { margin: 0; padding-left: 1.3rem; }
