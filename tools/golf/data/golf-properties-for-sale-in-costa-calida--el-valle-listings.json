@@ -1,0 +1,58 @@
+[
+ {
+  "id": "26703587",
+  "slug": "exclusive-apartments-with-golf-course-views-in-murcia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31126879/Tphoto/ID5ff5da01-0000-0500-0000-00001a82dce7.jpg.webp",
+  "alt": "Apartment 2 Bedrooms Murcia Campo de Murcia",
+  "ref": "EWE3880",
+  "title": "Exclusive apartments with golf course views in Murcia",
+  "price": "299 000 €",
+  "loc": [
+   "Murcia"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "88"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26703587.jpg"
+ },
+ {
+  "id": "26703668",
+  "slug": "new-apartment-with-a-large-terrace-next-to-a-golf-course-in-murcia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31126929/Tphoto/ID91f5da01-0000-0500-0000-00001a82df5d.jpg.webp",
+  "alt": "New apartments for sale with views of the golf course.",
+  "ref": "EWE3881",
+  "title": "New apartment with a large terrace next to a golf course in Murcia",
+  "price": "370 000 €",
+  "loc": [
+   "Murcia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "98"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26703668.jpg"
+ },
+ {
+  "id": "26703751",
+  "slug": "new-villa-with-private-pool-by-the-golf-course-in-murcia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P31127055/Tphoto/ID0ff6da01-0000-0500-0000-00001a82e8f8.jpg.webp",
+  "alt": "Villa 3 Bedrooms Murcia Campo de Murcia",
+  "ref": "EWE3882",
+  "title": "New villa with private pool by the golf course in Murcia",
+  "price": "640 000 €",
+  "loc": [
+   "Murcia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26703751.jpg"
+ }
+]

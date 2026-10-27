@@ -8,6 +8,7 @@ Reads tools/golf/golf.json (the written content) and tools/golf/data/<page>-list
   golf-properties-for-sale-in-spain.html            Spain: links to both coasts
   golf-properties-for-sale-in-costa-blanca.html     Costa Blanca: one card per golf course
   golf-properties-for-sale-in-costa-del-sol.html    Costa del Sol: the listings and the golf areas
+  golf-properties-for-sale-in-costa-calida.html     Costa Cálida: one section per golf course with the nearest listings
   properties-for-sale-<course>-golf.html            one page per Costa Blanca golf course
 The page layout and listing cards are the same as the town pages (tools/towns/build_town.py).
 """
@@ -26,6 +27,7 @@ from build_town import SITE, card, clean_title, local_pages, price_value  # noqa
 
 e = html.escape
 SPAIN, CB, CDS = "golf-properties-for-sale-in-spain", "golf-properties-for-sale-in-costa-blanca", "golf-properties-for-sale-in-costa-del-sol"
+CC = "golf-properties-for-sale-in-costa-calida"
 # eGO municipality -> the name buyers know
 TOWN_NAMES = {"Orihuela": "Orihuela Costa", "Rojales": "Ciudad Quesada"}
 
@@ -395,26 +397,70 @@ def main():
                     schema=schema, contact_name="Costa del Sol golf"))
     print(f"{CDS}.html: {len(own)} properties")
 
-    # Spain: the two coasts
+    # Costa Cálida: one section per golf course, each with the homes we sell nearest to it
+    cc = cfg["costa_calida"]
+    cc_groups = [(g, listings(f"{CC}--{g['key']}", pages)[0]) for g in cc["courses"]]
+    cc_all = [i for _, items in cc_groups for i in items]
+    cc_low = low_price(cc_all)
+    fill = filler(len(cc_all), cc_low)
+    cc["_title"], cc["_description"], cc["_where"] = fill(cc["title"]), fill(cc["description"]), "on the Costa Cálida"
+    intro = "\n".join(f"        <p>{fill(x)}</p>" for x in cc["intro"])
+    jump = " · ".join(f'<a href="#{g["key"]}">{e(g["name"])}</a>' for g, _ in cc_groups)
+    body = facts_band([["{count}", "golf properties for sale"], ["from {from}", "for an apartment"], [str(len(cc_groups)), "golf areas with our homes"], ["20+", "golf courses in Murcia"]], fill)
+    body += f"""
+  <section class="t-section" id="courses">
+    <div class="container">
+      <p class="eyebrow dark">The golf courses</p>
+      <h2>Golf courses on the Costa Cálida and the homes near them</h2>
+      <div class="t-narrow">
+{intro}
+        <p class="g-jump">{jump}</p>
+      </div>
+    </div>
+  </section>
+"""
+    for g, items in cc_groups:
+        link = f'<br><a class="link-more" href="{g["town_link"][0]}">{e(g["town_link"][1])} &rarr;</a>' if g.get("town_link") else ""
+        text = " ".join(fill(x) for x in g["text"])
+        intro_html = f'<span class="g-facts">{e(g["facts"])}</span><br>{text}{link}'
+        body += grid(items, pages, f"{g['name']}, {g['area']}", intro_html, "Golf course", g["key"])
+    others = "\n".join(f"""        <div class="t-area">
+          <h3>{e(o['name'])}</h3>
+          <p>{o['text']}</p>
+        </div>""" for o in cc["others"])
+    body += section("More golf", "Other golf courses in the Region of Murcia", '      <div class="t-areas">\n' + others + "\n      </div>")
+    body += costs_html(cc["costs"], "on the Costa Cálida", "On top of the price you pay tax and fees. In the Region of Murcia new builds pay VAT and stamp duty, resale homes pay transfer tax. Always ask us for the exact figure for the home you like.")
+    body += section("Questions", "Golf properties on the Costa Cálida: questions and answers", faq_html(cc["faq"], fill), "t-section t-faq")
+    body += section("Read more", "Before you buy", '      <div class="t-reads">\n' + tiles(cc["reads"]) + "\n      </div>")
+    cc_url = f"{SITE}/{CC}"
+    schema = [collection(cc["h1"], cc_url, cc["_description"], [(url_of(i, pages), clean_title(i["title"])) for i in cc_all]), faq_schema(cc["faq"], fill)]
+    write(cc, page(cc, crumbs=[("Home", "index.html"), ("Golf properties", SPAIN + ".html"), ("Costa Cálida", CC + ".html")],
+                   hero=f"assets/golf/{cc['photo']}", kicker="Golf · Costa Cálida · Murcia", h1=cc["h1"], lead=fill(cc["lead"]), body=body,
+                   schema=schema, contact_name="Costa Cálida golf", cta="#courses", cta_label="See the golf courses"))
+    print(f"{CC}.html: {len(cc_groups)} golf areas, {len(cc_all)} properties")
+
+    # Spain: the three coasts
     sp = cfg["spain"]
-    total = len(cb_items) + len(own)
-    fill = filler(total, min(cb_low, cds_low))
+    total = len(cb_items) + len(own) + len(cc_all)
+    fill = filler(total, min(cb_low, cds_low, cc_low))
     sp["_title"], sp["_description"], sp["_where"] = fill(sp["title"]), fill(sp["description"]), "in Spain"
     intro = "\n".join(f"      <p>{fill(x)}</p>" for x in sp["intro"])
     coasts = [{"href": CB + ".html", "img": f"assets/golf/{cb['photo']}", "alt": cb["photo_alt"], "tag": f"{len(cb_items)} properties · {len(cfg['courses'])} golf resorts",
                "title": "Golf properties on the Costa Blanca", "line": "Las Colinas, La Finca, Vistabella, Bonalba, Font del Llop, La Marquesa, Puig Campana and Alenda."},
               {"href": CDS + ".html", "img": f"assets/golf/{cds['photo']}", "alt": cds["photo_alt"], "tag": f"{len(own)} properties",
-               "title": "Golf properties on the Costa del Sol", "line": "Estepona, Casares, Mijas, Marbella and Benahavís."}]
-    body = facts_band([["{count}", "golf properties for sale"], ["from {from}", "for an apartment"], ["2", "coasts"], ["300+", "days of sun a year"]], fill)
+               "title": "Golf properties on the Costa del Sol", "line": "Estepona, Casares, Mijas, Marbella and Benahavís."},
+              {"href": CC + ".html", "img": f"assets/golf/{cc['photo']}", "alt": cc["photo_alt"], "tag": f"{len(cc_all)} properties · Region of Murcia",
+               "title": "Golf properties on the Costa Cálida", "line": "La Serena, Roda, La Torre, Hacienda del Álamo, El Valle and La Manga Club."}]
+    body = facts_band([["{count}", "golf properties for sale"], ["from {from}", "for an apartment"], ["3", "coasts"], ["300+", "days of sun a year"]], fill)
     body += f"""
   <section class="t-section" id="coasts">
     <div class="container">
       <p class="eyebrow dark">Choose a coast</p>
-      <h2>Golf properties on the Costa Blanca and the Costa del Sol</h2>
+      <h2>Golf properties on the Costa Blanca, Costa del Sol and Costa Cálida</h2>
       <div class="t-narrow">
 {intro}
       </div>
-      <div class="t-reads t-reads-2">
+      <div class="t-reads">
 {tiles(coasts)}
       </div>
     </div>
@@ -424,7 +470,7 @@ def main():
     body += section("Questions", "Buying a golf property in Spain: questions and answers", faq_html(sp["faq"], fill), "t-section t-faq")
     body += section("From our blog", "Read before you buy", '      <div class="t-reads">\n' + tiles(sp["reads"]) + "\n      </div>")
     sp_url = f"{SITE}/{SPAIN}"
-    schema = [collection(sp["h1"], sp_url, sp["_description"], [(cb_url, "Golf properties on the Costa Blanca"), (cds_url, "Golf properties on the Costa del Sol")]),
+    schema = [collection(sp["h1"], sp_url, sp["_description"], [(cb_url, "Golf properties on the Costa Blanca"), (cds_url, "Golf properties on the Costa del Sol"), (cc_url, "Golf properties on the Costa Cálida")]),
               faq_schema(sp["faq"], fill)]
     write(sp, page(sp, crumbs=[("Home", "index.html"), ("Golf properties", SPAIN + ".html")],
                    hero=f"assets/golf/{sp['photo']}", kicker="Golf · Spain", h1=sp["h1"], lead=fill(sp["lead"]), body=body,

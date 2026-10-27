@@ -1,0 +1,76 @@
+[
+ {
+  "id": "26069661",
+  "slug": "apartment-by-the-golf-course-in-the-prestigious-hacienda-del-alamo-golf-resort",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30426260/Tphoto/ID9444d001-0000-0500-0000-000019b1224f.jpg.webp",
+  "alt": "Modern apartments for sale next to the Hacienda del Alamo Golf Resort golf course",
+  "ref": "EWE3760",
+  "title": "Apartment by the Golf Course in the Prestigious Hacienda del Álamo Golf Resort",
+  "price": "207 900 €",
+  "loc": [
+   "Fuente Álamo de Murcia"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "70"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26069661.jpg"
+ },
+ {
+  "id": "26052204",
+  "slug": "elegant-villa-overlooking-the-golf-course-in-hacienda-del-alamo",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30373572/Tphoto/IDc476cf01-0000-0500-0000-000019a68a22.jpg.webp",
+  "alt": "Villa 3 Bedrooms Fuente Álamo de Murcia Hacienda del Álamo Golf",
+  "ref": "EWE3749",
+  "title": "Elegant Villa Overlooking the Golf Course in Hacienda del Álamo",
+  "price": "439 900 €",
+  "loc": [
+   "Fuente Álamo de Murcia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26052204.jpg"
+ },
+ {
+  "id": "26052190",
+  "slug": "elegant-villa-with-private-pool-in-hacienda-del-alamo-golf-resort",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30373567/Tphoto/IDbf76cf01-0000-0500-0000-000019a689a5.jpg.webp",
+  "alt": "Elegant villa with private pool for sale in Hacienda del Alamo Golf Resort",
+  "ref": "EWE3748",
+  "title": "Elegant Villa with Private Pool in Hacienda del Álamo Golf Resort",
+  "price": "369 900 €",
+  "loc": [
+   "Fuente Álamo de Murcia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26052190.jpg"
+ },
+ {
+  "id": "26031532",
+  "slug": "comfortable-villa-with-private-pool-and-golf-course-views-in-murcia",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30373456/Tphoto/ID5076cf01-0000-0500-0000-000019a67bd1.jpg.webp",
+  "alt": "Swimming pool",
+  "ref": "EWE3747",
+  "title": "Comfortable Villa with Private Pool and Golf Course Views in Murcia",
+  "price": "519 900 €",
+  "loc": [
+   "Fuente Álamo de Murcia"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "123"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26031532.jpg"
+ }
+]

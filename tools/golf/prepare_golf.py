@@ -58,7 +58,9 @@ def main(extra):
     items = load_all(extra)
     os.makedirs(os.path.join(ROOT, "assets", "golf", "listings"), exist_ok=True)
     c = json.load(open(os.path.join(HERE, "golf.json"), encoding="utf-8"))
-    for p in c["courses"] + [c["costa_del_sol"]]:
+    cc = c["costa_calida"]  # one page, one listings file per golf course on it
+    groups = c["courses"] + [c["costa_del_sol"]] + [dict(g, page=f"{cc['page']}--{g['key']}") for g in cc["courses"]]
+    for p in groups:
         refs = p.get("refs", []) + p.get("near_refs", [])
         missing = [r for r in refs if r not in items]
         if missing:

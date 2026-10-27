@@ -1,0 +1,133 @@
+[
+ {
+  "id": "25753473",
+  "slug": "designer-ibiza-style-villa-in-roldan-costa-calida",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30024216/Tphoto/ID1822ca01-0000-0500-0000-0000194ec45e.jpg.webp",
+  "alt": "Ibiza-style designer villas for sale in Roldán, Costa Cálida",
+  "ref": "EWE3710",
+  "title": "Designer Ibiza style villa in Roldán, Costa Cálida",
+  "price": "419 950 €",
+  "loc": [
+   "Torre-Pacheco"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3"
+  },
+  "near": false,
+  "photo": "assets/towns/torre-pacheco/listings/25753473.jpg"
+ },
+ {
+  "id": "23890683",
+  "slug": "cozy-bungalow-in-el-alba-residential-in-the-city-of-roldan",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27946215/Tphoto/IDe76caa01-0000-0500-0000-00001a7c97f7.jpg.webp",
+  "alt": "New bungalows for sale in Roldán, Murcia",
+  "ref": "EWE3602",
+  "title": "Cozy bungalow in El Alba Residential in the city of Roldán",
+  "price": "238 000 €",
+  "loc": [
+   "Torre-Pacheco"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "80"
+  },
+  "near": false,
+  "photo": "assets/towns/torre-pacheco/listings/23890683.jpg"
+ },
+ {
+  "id": "22619086",
+  "slug": "magnificent-semi-detached-villa-with-pool-in-el-alba-mediterranean-resort",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26501476/Tphoto/ID64619401-0000-0500-0000-000014fe5780.jpg.webp",
+  "alt": "Semi-detached villa with pool for sale in El Alba Mediterranean Resort",
+  "ref": "EWE3458",
+  "title": "Magnificent semi-detached villa with pool in El Alba Mediterranean Resort",
+  "price": "311 000 €",
+  "loc": [
+   "Torre-Pacheco"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "60"
+  },
+  "near": false,
+  "photo": "assets/towns/torre-pacheco/listings/22619086.jpg"
+ },
+ {
+  "id": "23890547",
+  "slug": "new-villa-with-pool-villa-in-roldan",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27946080/Tphoto/ID606caa01-0000-0500-0000-00001a0cfa46.jpg.webp",
+  "alt": "Modern single-storey homes with private pool for sale in Roldán",
+  "ref": "EWE3600",
+  "title": "New villa with pool villa in Roldán",
+  "price": "274 900 €",
+  "loc": [
+   "Torre-Pacheco"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2"
+  },
+  "near": false,
+  "photo": "assets/towns/torre-pacheco/listings/23890547.jpg"
+ },
+ {
+  "id": "21545527",
+  "slug": "finished-villa-at-the-luxury-el-alba-mediterranean-resort-development",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P25363241/Tphoto/ID29038301-0000-0500-0000-000016e5fd4d.jpg.webp",
+  "alt": "Villa for sale in El Alba Mediterranean Resort",
+  "ref": "EWE3361",
+  "title": "Finished villa at the luxury El Alba Mediterranean Resort development",
+  "price": "311 900 €",
+  "loc": [
+   "Torre-Pacheco"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "75"
+  },
+  "near": false,
+  "photo": "assets/towns/torre-pacheco/listings/21545527.jpg"
+ },
+ {
+  "id": "23890629",
+  "slug": "an-exquisite-villa-with-a-large-swimming-pool-at-el-alba-mediterranean-resort",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27946161/Tphoto/IDb16caa01-0000-0500-0000-000016e5c0d2.jpg.webp",
+  "alt": "Villa for sale in Roland",
+  "ref": "EWE3601",
+  "title": "An exquisite villa with a large swimming pool at El Alba Mediterranean Resort",
+  "price": "674 500 €",
+  "loc": [
+   "Torre-Pacheco"
+  ],
+  "det": {
+   "ROOMS": "4",
+   "BATHS": "3",
+   "AREA": "148"
+  },
+  "near": false,
+  "photo": "assets/towns/torre-pacheco/listings/23890629.jpg"
+ },
+ {
+  "id": "26363969",
+  "slug": "single-storey-villa-with-private-pool-in-torre-pacheco",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30757980/Tphoto/ID5c54d501-0000-0500-0000-00001a0cdb44.jpg.webp",
+  "alt": "Nowoczesna willa z prywatnym basenem na sprzedaż w Torre-Pacheco",
+  "ref": "EWE3828",
+  "title": "Single-Storey Villa with Private Pool in Torre-Pacheco",
+  "price": "279 900 €",
+  "loc": [
+   "Torre-Pacheco"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "84"
+  },
+  "near": false,
+  "photo": "assets/towns/torre-pacheco/listings/26363969.jpg"
+ }
+]

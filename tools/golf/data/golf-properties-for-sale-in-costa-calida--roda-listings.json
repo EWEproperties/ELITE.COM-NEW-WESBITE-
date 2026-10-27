@@ -1,0 +1,97 @@
+[
+ {
+  "id": "25874259",
+  "slug": "elegant-villa-with-private-pool-san-javier",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30157657/Tphoto/ID592bcc01-0000-0500-0000-000019778fb7.jpg.webp",
+  "alt": "Villa for sale in San Javier",
+  "ref": "EWE3722",
+  "title": "Elegant villa with private pool San Javier",
+  "price": "499 000 €",
+  "loc": [
+   "San Javier"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "96"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/25874259.jpg"
+ },
+ {
+  "id": "25867549",
+  "slug": "elegant-villa-with-private-pool-san-javier",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30150322/Tphoto/IDb20ecc01-0000-0500-0000-0000197551d8.jpg.webp",
+  "alt": "Villa for sale in San Javier",
+  "ref": "EWE3721",
+  "title": "Elegant villa with private pool San Javier",
+  "price": "611 500 €",
+  "loc": [
+   "San Javier"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3",
+   "AREA": "110"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/25867549.jpg"
+ },
+ {
+  "id": "23887190",
+  "slug": "semi-detached-house-with-private-pool-and-large-terrace-in-san-javier",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27942439/Tphoto/ID275eaa01-0000-0500-0000-000016e4da8c.jpg.webp",
+  "alt": "Villa for sale in Santiago de la Ribera",
+  "ref": "EWE3593",
+  "title": "Semi-detached house with private pool and large terrace in San Javier",
+  "price": "366 000 €",
+  "loc": [
+   "San Javier"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "88"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/23887190.jpg"
+ },
+ {
+  "id": "22927022",
+  "slug": "excellent-villa-with-pool-1-km-from-the-beach-in-san-javier",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26864234/Tphoto/ID6aea9901-0000-0500-0000-0000156da9db.jpg.webp",
+  "alt": "Villa with pool for sale in San Javier.",
+  "ref": "EWE3477",
+  "title": "Excellent villa with pool 1 km from the beach in San Javier",
+  "price": "399 900 €",
+  "loc": [
+   "San Javier"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "85"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/22927022.jpg"
+ },
+ {
+  "id": "22734956",
+  "slug": "tourist-licensed-apartments-900-metres-from-the-sea-in-san-javier",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26658779/Tphoto/IDdbc79601-0000-0500-0000-000019062f21.jpg.webp",
+  "alt": "Bungalow for sale in San Javier",
+  "ref": "EWE3461",
+  "title": "Tourist-Licensed Apartments 900 Metres from the Sea in San Javier",
+  "price": "250 000 €",
+  "loc": [
+   "San Javier"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "70"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/22734956.jpg"
+ }
+]

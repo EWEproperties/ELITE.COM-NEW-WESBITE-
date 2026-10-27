@@ -1,0 +1,58 @@
+[
+ {
+  "id": "26550680",
+  "slug": "penthouse-with-large-terrace-3-km-from-the-beach-in-la-manga-club",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30961458/Tphoto/ID326fd801-0000-0500-0000-00001a4cc189.jpg.webp",
+  "alt": "Penthouse with solarium for sale in La Manga Club",
+  "ref": "EWE3837",
+  "title": "Penthouse with Large Terrace 3 km from the Beach in La Manga Club",
+  "price": "435 000 €",
+  "loc": [
+   "Cartagena"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "95.5"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26550680.jpg"
+ },
+ {
+  "id": "26549670",
+  "slug": "spacious-apartment-with-large-terrace-in-la-manga-club",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30961344/Tphoto/IDc06ed801-0000-0500-0000-00001a4cb9dc.jpg.webp",
+  "alt": "Apartments for sale in La Manga Club, Murcia",
+  "ref": "EWE3836",
+  "title": "Spacious Apartment with Large Terrace in La Manga Club",
+  "price": "400 000 €",
+  "loc": [
+   "Cartagena"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "88"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/26549670.jpg"
+ },
+ {
+  "id": "22123452",
+  "slug": "luxury-apartment-in-the-picturesque-la-manga-club-resort",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26023461/Tphoto/ID25168d01-0000-0500-0000-000014873e41.jpg.webp",
+  "alt": "Luxury flat for sale in La Manga Club.",
+  "ref": "EWE3433",
+  "title": "Luxury apartment in the picturesque La Manga Club resort",
+  "price": "385 000 €",
+  "loc": [
+   "La Manga del Mar Menor"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/22123452.jpg"
+ }
+]

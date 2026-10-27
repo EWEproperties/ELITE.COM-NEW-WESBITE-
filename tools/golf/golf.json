@@ -2,13 +2,13 @@
  "spain": {
   "page": "golf-properties-for-sale-in-spain",
   "title": "Golf Properties for Sale in Spain – Costa Blanca & Costa del Sol | Elite World Estates",
-  "description": "{count} golf properties for sale in Spain, from {from}: villas and apartments at Las Colinas, La Finca, Font del Llop and the golf valleys of the Costa del Sol.",
+  "description": "{count} golf properties for sale in Spain, from {from}: villas and apartments on the Costa Blanca, the Costa del Sol and the Costa Cálida, near the best golf courses.",
   "h1": "Golf properties for sale in Spain",
-  "lead": "Villas, townhouses and apartments on or near the best golf courses of the Costa Blanca and the Costa del Sol. Choose a coast, then a golf resort.",
+  "lead": "Villas, townhouses and apartments on or near the best golf courses of the Costa Blanca, the Costa del Sol and the Costa Cálida. Choose a coast, then a golf course.",
   "photo": "golf-spain.jpg",
   "intro": [
-   "Spain has some of the best golf in Europe and the sun to play it all year. We sell homes on two coasts: the Costa Blanca, around Alicante, and the Costa del Sol, around Marbella.",
-   "The Costa Blanca has more choice at lower prices, with many new resorts in the south and courses close to Alicante airport. The Costa del Sol has the famous golf valleys of Marbella, Benahavís, Estepona and Mijas, with higher prices and more luxury homes."
+   "Spain has some of the best golf in Europe and the sun to play it all year. We sell golf homes on three coasts: the Costa Blanca around Alicante, the Costa del Sol around Marbella, and the Costa Cálida in the Region of Murcia.",
+   "The Costa Blanca has more choice at lower prices, with many new resorts in the south and courses close to Alicante airport. The Costa del Sol has the famous golf valleys of Marbella, Benahavís, Estepona and Mijas, with higher prices and more luxury homes. The Costa Cálida, around the Mar Menor, has flat resort courses and the lowest prices of the three."
   ],
   "faq": [
    [
@@ -767,5 +767,204 @@
     ]
    ]
   }
- ]
+ ],
+ "costa_calida": {
+  "page": "golf-properties-for-sale-in-costa-calida",
+  "title": "Golf Properties for Sale on the Costa Cálida, Murcia | Elite World Estates",
+  "description": "{count} golf properties for sale on the Costa Cálida, from {from}: homes near La Serena, Roda, La Torre, Mar Menor, Hacienda del Álamo, El Valle and La Manga Club.",
+  "h1": "Golf properties for sale on the Costa Cálida",
+  "lead": "Villas and apartments near the golf courses of the Region of Murcia, around the warm waters of the Mar Menor. Here are the courses and the homes we sell closest to each one.",
+  "photo": "golf-costa-calida.jpg",
+  "photo_alt": "Golf green by a lake with palm trees",
+  "intro": [
+   "The Costa Cálida is the coast of the Region of Murcia, around the Mar Menor lagoon. It has more than 20 golf courses, most of them flat resort courses with lakes, a short drive from the beaches and from Región de Murcia airport at Corvera.",
+   "Prices are lower than on the Costa Blanca, so it is popular with buyers who want a villa with a private pool near golf for a moderate budget. Below, each golf course has the properties we sell nearest to it."
+  ],
+  "courses": [
+   {
+    "key": "la-serena",
+    "name": "La Serena Golf",
+    "area": "Los Alcázares",
+    "facts": "18 holes · par 72 · by Manuel Piñero · opened 2006",
+    "text": [
+     "La Serena Golf is a flat championship course on the edge of Los Alcázares, designed by the Spanish Ryder Cup player Manuel Piñero. Water comes into play on 16 of the 18 holes, so lakes are the main challenge.",
+     "The new villas and apartments around the course are about 1 km from the beaches of the Mar Menor, and Los Alcázares has shops, restaurants and a promenade open all year."
+    ],
+    "refs": [
+     "EWE3720",
+     "EWE3585",
+     "EWE3726",
+     "EWE3618",
+     "EWE2286",
+     "EWE3728",
+     "EWE3727",
+     "EWE3692",
+     "EWE3763",
+     "EWE3725",
+     "EWE3699",
+     "EWE3691"
+    ],
+    "town_link": [
+     "properties-for-sale-in-los-alcazares.html",
+     "All our properties in Los Alcázares"
+    ]
+   },
+   {
+    "key": "roda",
+    "name": "Roda Golf",
+    "area": "San Javier",
+    "facts": "18 holes · par 72 · by Dave Thomas",
+    "text": [
+     "Roda Golf in San Javier is an 18-hole course designed by Dave Thomas, on flat land with many lakes, between Los Alcázares and Santiago de la Ribera.",
+     "Our nearest homes are villas and apartments in San Javier, about 1 km from the Mar Menor beaches and close to the Roda course."
+    ],
+    "refs": [
+     "EWE3722",
+     "EWE3721",
+     "EWE3593",
+     "EWE3477",
+     "EWE3461"
+    ]
+   },
+   {
+    "key": "la-torre",
+    "name": "La Torre Golf and Mar Menor Golf",
+    "area": "Torre-Pacheco",
+    "facts": "La Torre: 18 holes, par 68, Nicklaus Design · Mar Menor Golf: 18 holes, par 72",
+    "text": [
+     "Torre-Pacheco has several courses close together. La Torre Golf in Roldán, and Saurines next to it, were built by Nicklaus Design. Mar Menor Golf Resort started as a 9-hole course by Dave Thomas and was extended to 18 holes by Nicklaus Design.",
+     "Our homes here are in Roldán and Torre-Pacheco: new villas with private pools and bungalows in the El Alba resort, a short drive from these courses and about 15 minutes from the Mar Menor."
+    ],
+    "refs": [
+     "EWE3710",
+     "EWE3602",
+     "EWE3458",
+     "EWE3600",
+     "EWE3361",
+     "EWE3601",
+     "EWE3828"
+    ],
+    "town_link": [
+     "properties-for-sale-in-torre-pacheco.html",
+     "All our properties in Torre-Pacheco"
+    ]
+   },
+   {
+    "key": "hacienda-del-alamo",
+    "name": "Hacienda del Álamo Golf",
+    "area": "Fuente Álamo",
+    "facts": "18 holes · par 72 · by Dave Thomas · about 6,700 m",
+    "text": [
+     "Hacienda del Álamo is one of the longest courses in Spain, about 6,700 metres from the back tees, designed by Dave Thomas in the open countryside of Fuente Álamo.",
+     "The resort has apartments and villas with golf views, many with a private pool, at some of the lowest prices of any golf resort on the coast."
+    ],
+    "refs": [
+     "EWE3760",
+     "EWE3749",
+     "EWE3748",
+     "EWE3747"
+    ]
+   },
+   {
+    "key": "el-valle",
+    "name": "El Valle Golf",
+    "area": "Murcia",
+    "facts": "18 holes · par 71 · Nicklaus Design",
+    "text": [
+     "El Valle Golf is a Nicklaus Design course in Baños y Mendigo, south of the city of Murcia, with lakes, streams and small waterfalls among dry hills.",
+     "The new apartments and villas next to the course are about 25 km from the city of Murcia and around 15 minutes from Región de Murcia airport."
+    ],
+    "refs": [
+     "EWE3880",
+     "EWE3881",
+     "EWE3882"
+    ]
+   },
+   {
+    "key": "la-manga-club",
+    "name": "La Manga Club",
+    "area": "Cartagena",
+    "facts": "3 courses × 18 holes · 560-hectare resort",
+    "text": [
+     "La Manga Club is one of the best-known golf resorts in Spain: 560 hectares with three 18-hole courses. The North and South courses were designed by Robert Dean Putman, and the West course by Dave Thomas in 1996.",
+     "The resort also has a hotel, tennis, football pitches and restaurants, and the beaches of the Mediterranean and La Manga are a few minutes away."
+    ],
+    "refs": [
+     "EWE3837",
+     "EWE3836",
+     "EWE3433"
+    ]
+   }
+  ],
+  "others": [
+   {
+    "name": "Saurines",
+    "text": "Next to La Torre Golf in Roldán, also by Nicklaus Design."
+   },
+   {
+    "name": "Hacienda Riquelme",
+    "text": "Golf resort near Sucina, inland from the Mar Menor."
+   },
+   {
+    "name": "Condado de Alhama",
+    "text": "Large golf resort in Alhama de Murcia, inland towards Lorca."
+   },
+   {
+    "name": "Altorreal",
+    "text": "Established golf and residential area in Molina de Segura, north of the city of Murcia."
+   }
+  ],
+  "faq": [
+   [
+    "How much does a golf property cost on the Costa Cálida?",
+    "Our golf properties on the Costa Cálida start at {from} for an apartment at Hacienda del Álamo. Most apartments cost between €250,000 and €400,000, and villas with a private pool from about €275,000 in Roldán up to about €720,000 at La Serena."
+   ],
+   [
+    "Which golf course is closest to the beach?",
+    "La Serena Golf in Los Alcázares and Roda Golf in San Javier are about 1 km from the Mar Menor. La Manga Club is a few minutes from the Mediterranean beaches."
+   ],
+   [
+    "What costs are there on top of the price?",
+    "In the Region of Murcia you pay 10% VAT and 1.5% stamp duty on a new build, or 7.75% transfer tax on a resale home. Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+   ]
+  ],
+  "costs": [
+   [
+    "New build",
+    "10% VAT (IVA) + 1.5% stamp duty (AJD)"
+   ],
+   [
+    "Resale home",
+    "7.75% transfer tax (ITP)"
+   ],
+   [
+    "Notary, registry, lawyer",
+    "about 1.5–2.5% of the price"
+   ],
+   [
+    "Every year",
+    "IBI property tax, community fees and, if you play, golf membership"
+   ]
+  ],
+  "reads": [
+   {
+    "href": "properties-for-sale-in-los-alcazares.html",
+    "img": "assets/towns/los-alcazares/marina.jpg",
+    "tag": "Property for sale",
+    "title": "Property for sale in Los Alcázares"
+   },
+   {
+    "href": "santa-rosalia-lake-and-life-resort.html",
+    "img": "assets/towns/torre-pacheco/lagoon.jpg",
+    "tag": "Resorts",
+    "title": "Santa Rosalía Lake and Life Resort"
+   },
+   {
+    "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+    "img": "assets/blog/thumbs/how-to-buy.jpg",
+    "tag": "Buying in Spain",
+    "title": "How to buy an apartment or house in Spain"
+   }
+  ]
+ }
 }
