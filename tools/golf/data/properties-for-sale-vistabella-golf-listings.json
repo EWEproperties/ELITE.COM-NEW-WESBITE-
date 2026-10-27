@@ -1,0 +1,135 @@
+[
+ {
+  "id": "25965654",
+  "slug": "modern-villa-with-private-pool-at-vistabella-golf",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P30301662/Tphoto/IDde5dce01-0000-0500-0000-000019942d94.jpg.webp",
+  "alt": "For Sale New Villas with Private Pool next to Vistabella Golf",
+  "ref": "EWE3736",
+  "title": "Modern Villa with Private Pool at Vistabella Golf",
+  "price": "356 900 €",
+  "loc": [
+   "Orihuela"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "90"
+  },
+  "near": false,
+  "photo": "assets/towns/orihuela-costa/listings/25965654.jpg"
+ },
+ {
+  "id": "22106933",
+  "slug": "elegant-terraced-house-in-the-picturesque-vistabella-golf",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26006711/Tphoto/IDb7d48c01-0000-0500-0000-0000196bbb3a.jpg.webp",
+  "alt": "Semi-detached villa for sale in Vistabella Golf.",
+  "ref": "EWE3430",
+  "title": "Elegant terraced house in the picturesque Vistabella Golf",
+  "price": "325 000 €",
+  "loc": [
+   "Orihuela"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3",
+   "AREA": "95"
+  },
+  "near": false,
+  "photo": "assets/towns/orihuela-costa/listings/22106933.jpg"
+ },
+ {
+  "id": "24552948",
+  "slug": "excellent-villa-with-swimming-pool-near-the-vistabella-golf-course",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P28709815/Tphoto/IDb713b601-0000-0500-0000-000017a464a2.jpg.webp",
+  "alt": "Villa with pool for sale in Vistabella Golf Course",
+  "ref": "EWE3632",
+  "title": "Excellent villa with swimming pool near the Vistabella golf course",
+  "price": "469 900 €",
+  "loc": [
+   "Orihuela"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "115"
+  },
+  "near": false,
+  "photo": "assets/towns/orihuela-costa/listings/24552948.jpg"
+ },
+ {
+  "id": "22107167",
+  "slug": "elegant-villa-with-private-pool-in-vistabella-golf",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26006955/Tphoto/IDabd58c01-0000-0500-0000-0000148444c9.jpg.webp",
+  "alt": "Villa with pool for sale in Vistabella Golf",
+  "ref": "EWE3431",
+  "title": "Elegant villa with private pool in Vistabella Golf",
+  "price": "649 000 €",
+  "loc": [
+   "Orihuela"
+  ],
+  "det": {
+   "ROOMS": "4",
+   "BATHS": "3",
+   "AREA": "169"
+  },
+  "near": false,
+  "photo": "assets/towns/orihuela-costa/listings/22107167.jpg"
+ },
+ {
+  "id": "22106396",
+  "slug": "elegant-semi-detached-house-with-pool-in-vistabella-golf",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26006181/Tphoto/IDa5d28c01-0000-0500-0000-0000196bcb14.jpg.webp",
+  "alt": "Villa with pool for sale in Vistabella Golf",
+  "ref": "EWE3429",
+  "title": "Elegant semi-detached house with pool in Vistabella Golf",
+  "price": "351 000 €",
+  "loc": [
+   "Orihuela"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "73"
+  },
+  "near": false,
+  "photo": "assets/towns/orihuela-costa/listings/22106396.jpg"
+ },
+ {
+  "id": "20549454",
+  "slug": "modern-villa-with-swimming-pool-in-vistabella",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P24032165/Tphoto/IDa5b36e01-0000-0500-0000-000011a3b25f.jpg.webp",
+  "alt": "Modern villa with swimming pool for salein Vistabella",
+  "ref": "EWE2184",
+  "title": "Modern villa with swimming pool in Vistabella",
+  "price": "465 000 €",
+  "loc": [
+   "Orihuela"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3",
+   "AREA": "118"
+  },
+  "near": false,
+  "photo": "assets/towns/orihuela-costa/listings/20549454.jpg"
+ },
+ {
+  "id": "10407093",
+  "slug": "apartments-on-the-vistabella-golf-course",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P12349662/Tphoto/IDde70bc00-0000-0500-0000-000017a47120.jpg.webp",
+  "alt": "Apartments for sale in Vista Bella Golf Course",
+  "ref": "EWE1369",
+  "title": "Apartments on the Vistabella Golf Course",
+  "price": "269 900 €",
+  "loc": [
+   "Orihuela"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "76"
+  },
+  "near": false,
+  "photo": "assets/towns/orihuela-costa/listings/10407093.jpg"
+ }
+]

@@ -1,0 +1,771 @@
+{
+ "spain": {
+  "page": "golf-properties-for-sale-in-spain",
+  "title": "Golf Properties for Sale in Spain – Costa Blanca & Costa del Sol | Elite World Estates",
+  "description": "{count} golf properties for sale in Spain, from {from}: villas and apartments at Las Colinas, La Finca, Font del Llop and the golf valleys of the Costa del Sol.",
+  "h1": "Golf properties for sale in Spain",
+  "lead": "Villas, townhouses and apartments on or near the best golf courses of the Costa Blanca and the Costa del Sol. Choose a coast, then a golf resort.",
+  "photo": "golf-spain.jpg",
+  "intro": [
+   "Spain has some of the best golf in Europe and the sun to play it all year. We sell homes on two coasts: the Costa Blanca, around Alicante, and the Costa del Sol, around Marbella.",
+   "The Costa Blanca has more choice at lower prices, with many new resorts in the south and courses close to Alicante airport. The Costa del Sol has the famous golf valleys of Marbella, Benahavís, Estepona and Mijas, with higher prices and more luxury homes."
+  ],
+  "faq": [
+   [
+    "Costa Blanca or Costa del Sol for a golf home?",
+    "The Costa Blanca is cheaper and has many new golf resorts with apartments from about €260,000. The Costa del Sol has more famous courses and a more international, luxury feel, with prices that are usually higher. Many buyers choose by airport and budget."
+   ],
+   [
+    "Do I need to play golf to buy on a golf resort?",
+    "No. Many owners do not play. They choose golf resorts for the green views, the quiet, the security and the restaurants and sports clubs. Membership is optional and paid separately."
+   ],
+   [
+    "Can I rent out a golf property?",
+    "Often yes, but holiday rental needs a tourist licence from the region and some communities do not allow it. Ask us before you buy and we will check the rules for the home you like."
+   ]
+  ],
+  "reads": [
+   {
+    "href": "best-golf-courses-in-costa-blanca.html",
+    "img": "assets/blog/thumbs/golf-costa-blanca.jpg",
+    "tag": "Golf",
+    "title": "The best golf courses on the Costa Blanca"
+   },
+   {
+    "href": "exclusive-golf-clubs-on-the-costa-del-sol.html",
+    "img": "assets/blog/thumbs/golf-costa-del-sol.jpg",
+    "tag": "Golf",
+    "title": "Exclusive golf clubs on the Costa del Sol"
+   },
+   {
+    "href": "costa-blanca-or-costa-del-sol.html",
+    "img": "assets/blog/thumbs/costa-blanca-or-costa-del-sol.jpg",
+    "tag": "Buying in Spain",
+    "title": "Costa Blanca or Costa del Sol?"
+   }
+  ]
+ },
+ "costa_blanca": {
+  "page": "golf-properties-for-sale-in-costa-blanca",
+  "title": "Golf Properties for Sale on the Costa Blanca | Elite World Estates",
+  "description": "{count} golf properties for sale on the Costa Blanca, from {from}, at Las Colinas, La Finca, Vistabella, Bonalba, Font del Llop, La Marquesa, Puig Campana and Alenda.",
+  "h1": "Golf properties for sale on the Costa Blanca",
+  "lead": "Apartments, townhouses and villas in and around the best golf resorts of the Costa Blanca. Pick a golf course to see its homes, the course and the area.",
+  "photo": "golf-costa-blanca.jpg",
+  "photo_alt": "Golf course with palm trees and the Benidorm skyline behind",
+  "intro": [
+   "Most golf resorts on the Costa Blanca are in the south, between Alicante and Murcia: Las Colinas, La Finca, Vistabella and La Marquesa. They have new villas and apartments, sunny weather all year and sandy beaches 10–20 minutes away.",
+   "Around Alicante itself, Bonalba, Font del Llop and Alenda put you close to the city and the airport. Further north, Puig Campana in Finestrat has mountain and sea views next to Benidorm."
+  ],
+  "faq": [
+   [
+    "Which is the best golf resort on the Costa Blanca?",
+    "It depends on what you want. Las Colinas is the most exclusive and has won many awards. La Finca has a five-star hotel and lots of choice. Font del Llop and Bonalba are close to Alicante and the airport, and La Marquesa is inside a town with shops open all year."
+   ],
+   [
+    "How much does a golf property cost on the Costa Blanca?",
+    "Our golf properties on the Costa Blanca start at {from}. Most new apartments cost between €270,000 and €450,000, villas with a private pool from about €350,000 in Vistabella to over €2 million in Las Colinas."
+   ],
+   [
+    "What costs are there on top of the price?",
+    "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+   ]
+  ],
+  "reads": [
+   {
+    "href": "best-golf-courses-in-costa-blanca.html",
+    "img": "assets/blog/thumbs/golf-costa-blanca.jpg",
+    "tag": "Golf",
+    "title": "The best golf courses on the Costa Blanca"
+   },
+   {
+    "href": "new-construction-in-spain.html",
+    "img": "assets/blog/thumbs/new-construction.jpg",
+    "tag": "Buying in Spain",
+    "title": "Buying a new build in Spain"
+   },
+   {
+    "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+    "img": "assets/blog/thumbs/how-to-buy.jpg",
+    "tag": "Buying in Spain",
+    "title": "How to buy an apartment or house in Spain"
+   }
+  ]
+ },
+ "costa_del_sol": {
+  "page": "golf-properties-for-sale-in-costa-del-sol",
+  "title": "Golf Properties for Sale on the Costa del Sol | Elite World Estates",
+  "description": "{count} golf properties for sale on the Costa del Sol, from {from}: apartments and villas in Estepona, Casares, Mijas, Marbella and Benahavís, near the best golf courses.",
+  "h1": "Golf properties for sale on the Costa del Sol",
+  "lead": "Apartments, townhouses and villas near the golf courses of Estepona, Casares, Mijas, Marbella and Benahavís, many with sea views.",
+  "photo": "golf-costa-del-sol.jpg",
+  "photo_alt": "Golf course with a lake and white apartment buildings below the mountains on the Costa del Sol",
+  "refs": [
+   "EWE3895",
+   "EWE3894",
+   "EWE3185",
+   "EWE3190",
+   "EWE3770",
+   "EWE2423",
+   "EWE3854",
+   "EWE3416",
+   "EWE3175",
+   "EWE3207",
+   "EWE3853",
+   "EWE3852",
+   "EWE3850",
+   "EWE3268",
+   "EWE3208",
+   "EWE3186",
+   "EWE3245",
+   "EWE3781",
+   "EWE3197",
+   "EWE3402",
+   "EWE3771",
+   "EWE2325",
+   "EWE3400",
+   "EWE2293",
+   "EWE3649",
+   "EWE3415",
+   "EWE3335",
+   "EWE3315",
+   "EWE3301",
+   "EWE3280",
+   "EWE3219",
+   "EWE3218",
+   "EWE3174"
+  ],
+  "listings_intro": "New apartments with golf and sea views, penthouses, townhouses and villas, from Casares to Marbella's Golden Mile. Prices are as listed today; ask us for current availability.",
+  "areas": [
+   {
+    "name": "Mijas",
+    "text": "La Cala Resort has three 18-hole courses in the hills behind La Cala de Mijas, and Calanova Golf is close by. New apartments and townhouses with golf views."
+   },
+   {
+    "name": "Marbella",
+    "text": "Nueva Andalucía is known as the Golf Valley, with Los Naranjos, Las Brisas and Aloha. Apartments and villas close to Puerto Banús."
+   },
+   {
+    "name": "Benahavís",
+    "text": "Inland from Marbella, with courses such as La Quinta and Los Arqueros. Large villas with sea views in the hills."
+   },
+   {
+    "name": "Estepona",
+    "text": "Estepona Golf and El Paraíso Golf, with new developments between the courses and the sea. Good value compared with Marbella."
+   },
+   {
+    "name": "Casares",
+    "text": "Finca Cortesín, which hosted the Solheim Cup in 2023, and Doña Julia Golf on Casares Costa. Apartments with sea and golf views."
+   }
+  ],
+  "faq": [
+   [
+    "How much does a golf property cost on the Costa del Sol?",
+    "Our golf properties on the Costa del Sol start at {from} for a new apartment. Most apartments with golf or sea views cost between €350,000 and €900,000, and villas from about €950,000 to almost €7 million."
+   ],
+   [
+    "Which area is best for golf on the Costa del Sol?",
+    "Marbella's Golf Valley in Nueva Andalucía has the most courses close together. Mijas and Estepona have newer homes at lower prices, and Casares and Benahavís suit buyers who want space and views."
+   ],
+   [
+    "What costs are there on top of the price?",
+    "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, or 7% transfer tax on a resale home. Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+   ]
+  ],
+  "costs": [
+   [
+    "New build",
+    "10% VAT (IVA) + 1.2% stamp duty (AJD)"
+   ],
+   [
+    "Resale home",
+    "7% transfer tax (ITP)"
+   ],
+   [
+    "Notary, registry, lawyer",
+    "about 1.5–2.5% of the price"
+   ],
+   [
+    "Every year",
+    "IBI property tax, community fees and, if you play, golf membership"
+   ]
+  ],
+  "reads": [
+   {
+    "href": "exclusive-golf-clubs-on-the-costa-del-sol.html",
+    "img": "assets/blog/thumbs/golf-costa-del-sol.jpg",
+    "tag": "Golf",
+    "title": "Exclusive golf clubs on the Costa del Sol"
+   },
+   {
+    "href": "properties-for-sale-in-marbella.html",
+    "img": "assets/blog/thumbs/marbella-what-to-see.jpg",
+    "tag": "Property for sale",
+    "title": "Property for sale in Marbella"
+   },
+   {
+    "href": "how-to-buy-an-apartment-or-house-in-spain.html",
+    "img": "assets/blog/thumbs/how-to-buy.jpg",
+    "tag": "Buying in Spain",
+    "title": "How to buy an apartment or house in Spain"
+   }
+  ]
+ },
+ "val_costs": [
+  [
+   "New build",
+   "10% VAT (IVA) + 1.4% stamp duty (AJD)"
+  ],
+  [
+   "Resale home",
+   "9% transfer tax (ITP), 11% above €1 million"
+  ],
+  [
+   "Notary, registry, lawyer",
+   "about 1.5–2.5% of the price"
+  ],
+  [
+   "Every year",
+   "IBI property tax, community fees and, if you play, golf membership"
+  ]
+ ],
+ "courses": [
+  {
+   "key": "las-colinas",
+   "name": "Las Colinas Golf & Country Club",
+   "short": "Las Colinas Golf",
+   "page": "properties-for-sale-las-colinas-golf",
+   "area": "Orihuela Costa",
+   "photo": "las-colinas.jpg",
+   "card_photo": "las-colinas-card.jpg",
+   "photo_alt": "Las Colinas golf course with a lake and the clubhouse among pine trees",
+   "card_line": "Award-winning, low-density resort in a green valley behind Campoamor.",
+   "title": "Properties for Sale in Las Colinas Golf & Country Club | Elite World Estates",
+   "description": "{count} apartments, penthouses and villas for sale in Las Colinas Golf & Country Club, Orihuela Costa, from {from}. The resort, the golf course and buying costs explained.",
+   "lead": "Apartments, penthouses and villas in one of the most respected golf resorts in Spain, in a quiet valley a few minutes from the beaches of Campoamor.",
+   "facts": [
+    [
+     "{count}",
+     "properties for sale"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "18 holes",
+     "par 71, by Cabell B. Robinson"
+    ],
+    [
+     "330 ha",
+     "of protected valley"
+    ]
+   ],
+   "refs": [
+    "EWE3889",
+    "EWE3888",
+    "EWE3887",
+    "EWE3886",
+    "EWE3885",
+    "EWE3884",
+    "EWE3883",
+    "EWE1897",
+    "EWE1898",
+    "EWE1900",
+    "EWE2345",
+    "EWE2150"
+   ],
+   "listings_intro": "New apartments with large terraces, penthouses with private pools and contemporary villas with views over the course and the valley. Prices are as listed today; ask us for current availability and off-market homes.",
+   "golf": [
+    "The 18-hole, par-71 championship course was designed by the American architect Cabell B. Robinson. It follows the natural contours of the valley, between hills, pine trees and open countryside.",
+    "Las Colinas has won many awards, including several World Golf Awards as Spain's best golf course. Players also have a golf academy, a grass practice area, a putting green and a 5,000 m² short-game area designed with Miguel Ángel Jiménez."
+   ],
+   "why": [
+    "The resort is planned at low density, so homes have space, privacy and views. Inside the resort you find restaurants, a racquet club, a gym and wellness areas, and the resort's beach club sits on La Glea beach in Campoamor.",
+    "The beaches of Campoamor and Orihuela Costa are a short drive away, and both Alicante-Elche and Murcia-Corvera airports are within easy reach. It suits buyers looking for a quiet, high-end second home or a permanent home on the southern Costa Blanca."
+   ],
+   "faq": [
+    [
+     "How much does a property cost in Las Colinas?",
+     "Our properties in Las Colinas start at {from} for a new apartment. Penthouses with a private pool cost from about €550,000, and villas from about €1.09 million up to about €2.5 million."
+    ],
+    [
+     "Where is Las Colinas Golf?",
+     "In the municipality of Orihuela, inland from Campoamor on the southern Costa Blanca. The beaches of Campoamor and Orihuela Costa are a short drive away, and the resort is between Alicante-Elche and Murcia-Corvera airports."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  },
+  {
+   "key": "la-finca",
+   "name": "La Finca Golf Resort",
+   "short": "La Finca Golf",
+   "page": "properties-for-sale-la-finca-golf",
+   "area": "Algorfa",
+   "photo": "la-finca.jpg",
+   "photo_alt": "Fairway at La Finca golf course in Algorfa with olive trees and a lake",
+   "card_line": "Established resort with a five-star hotel, spa and restaurants.",
+   "title": "Properties for Sale in La Finca Golf Resort, Algorfa | Elite World Estates",
+   "description": "{count} villas, townhouses and apartments for sale in La Finca Golf Resort, Algorfa, from {from}. The resort, the golf course and buying costs explained.",
+   "lead": "Villas, townhouses and apartments in one of the best-known golf resorts of the southern Costa Blanca, with a five-star hotel at its heart.",
+   "facts": [
+    [
+     "{count}",
+     "properties for sale"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "18 holes",
+     "by Pepe Gancedo"
+    ],
+    [
+     "about 20 min",
+     "to Guardamar's beaches"
+    ]
+   ],
+   "refs": [
+    "EWE1771",
+    "EWE2033",
+    "EWE3752",
+    "EWE3741",
+    "EWE3740",
+    "EWE3757",
+    "EWE3754",
+    "EWE3753",
+    "EWE3672",
+    "EWE3604",
+    "EWE3660",
+    "EWE3368",
+    "EWE2255",
+    "EWE3606",
+    "EWE2247",
+    "EWE2113",
+    "EWE2030",
+    "EWE1683"
+   ],
+   "listings_intro": "Apartments and bungalows with a communal pool, semi-detached villas, and detached villas with a private pool, up to frontline villas on the course. Prices are as listed today; ask us for current availability.",
+   "golf": [
+    "La Finca's 18-hole course was designed by Pepe Gancedo. It has generous fairways, unusual greens such as the square green on the 7th, plenty of bunkers, and lakes and waterfalls along the way.",
+    "Golfers have a driving range, putting greens, a chipping area, a practice bunker, a golf academy, a pro shop and a clubhouse. The same company also runs Villamartín Golf, another established course on the Costa Blanca."
+   ],
+   "why": [
+    "At the centre of the resort is the five-star La Finca Resort hotel, with a spa, pool, gym, tennis and padel courts. Owners also have several restaurants and bars inside the resort, so daily life does not depend on the car.",
+    "Algorfa is a quiet inland village, but the coast is close: the beaches of Guardamar del Segura are about 20 minutes away, Torrevieja about 25 minutes and Alicante-Elche airport about 40–45 minutes."
+   ],
+   "faq": [
+    [
+     "How much does a property cost in La Finca?",
+     "Our properties in La Finca start at {from} for an apartment. Semi-detached villas cost from about €465,000, detached villas from about €450,000 to €1 million, and frontline villas on the course up to about €1.8 million."
+    ],
+    [
+     "Where is La Finca Golf?",
+     "In Algorfa, in the south of the province of Alicante. Guardamar's beaches are about 20 minutes by car, Torrevieja about 25 minutes and Alicante-Elche airport about 40–45 minutes."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  },
+  {
+   "key": "vistabella",
+   "name": "Vistabella Golf",
+   "short": "Vistabella Golf",
+   "page": "properties-for-sale-vistabella-golf",
+   "area": "Orihuela Costa",
+   "photo": "vistabella.jpg",
+   "photo_alt": "Vistabella golf course from the air with trees, bunkers and a lake",
+   "card_line": "Relaxed golf community with good value villas and townhouses.",
+   "title": "Properties for Sale in Vistabella Golf | Elite World Estates",
+   "description": "{count} villas, townhouses and apartments for sale in Vistabella Golf, near San Miguel de Salinas, from {from}. The resort, the golf course and buying costs explained.",
+   "lead": "Apartments, townhouses and villas with a private pool in a relaxed golf community between San Miguel de Salinas and Los Montesinos.",
+   "facts": [
+    [
+     "{count}",
+     "properties for sale"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "18 holes",
+     "by Manuel Piñero"
+    ],
+    [
+     "about 15–20 min",
+     "to the beaches"
+    ]
+   ],
+   "refs": [
+    "EWE3736",
+    "EWE3430",
+    "EWE3632",
+    "EWE3431",
+    "EWE3429",
+    "EWE2184",
+    "EWE1369"
+   ],
+   "listings_intro": "Apartments on the course, terraced and semi-detached houses, and modern villas with a private pool. Prices are as listed today; ask us for current availability.",
+   "golf": [
+    "The 18-hole course was designed under the direction of Manuel Piñero, a former European Tour player who played in the Ryder Cup. It covers more than 40 hectares of Mediterranean landscape with native trees.",
+    "Undulating fairways, well-placed bunkers and lakes reward accuracy more than length, so the course works for both good players and beginners. Lessons, practice areas and a clubhouse are available."
+   ],
+   "why": [
+    "Vistabella has a clubhouse, a restaurant, bars and shops within the resort, and San Miguel de Salinas and Los Montesinos have more shops and services a few minutes away.",
+    "The beaches are about 15–20 minutes away by car and Alicante-Elche airport about 35–40 minutes. Prices are lower than in the bigger resorts, which makes it popular for holiday homes."
+   ],
+   "faq": [
+    [
+     "How much does a property cost in Vistabella Golf?",
+     "Our properties in Vistabella start at {from} for an apartment. Terraced and semi-detached houses cost from about €325,000, and villas with a private pool from about €357,000 to €650,000."
+    ],
+    [
+     "Where is Vistabella Golf?",
+     "Between San Miguel de Salinas and Los Montesinos, inland from Orihuela Costa. The beaches are about 15–20 minutes by car and Alicante-Elche airport about 35–40 minutes."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  },
+  {
+   "key": "bonalba",
+   "name": "Bonalba Golf Resort",
+   "short": "Bonalba Golf",
+   "page": "properties-for-sale-bonalba-golf",
+   "area": "Mutxamel",
+   "photo": "bonalba.jpg",
+   "photo_alt": "Bonalba golf course in Mutxamel with the hotel and the hills behind",
+   "card_line": "Golf close to Alicante city, with beaches 10–15 minutes away.",
+   "title": "Properties for Sale in Bonalba Golf, Mutxamel | Elite World Estates",
+   "description": "{count} villas, penthouses and apartments for sale in Bonalba Golf, Mutxamel, near Alicante, from {from}. The resort, the golf course and buying costs explained.",
+   "lead": "Apartments, penthouses and villas around a golf course in Mutxamel, about 20 minutes from Alicante and 10–15 minutes from the beaches of El Campello and San Juan.",
+   "facts": [
+    [
+     "{count}",
+     "properties for sale"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "18 holes",
+     "par 72, by Ramón Espinosa"
+    ],
+    [
+     "about 20 min",
+     "to Alicante city"
+    ]
+   ],
+   "refs": [
+    "EWE3755",
+    "EWE2429",
+    "EWE2428",
+    "EWE3897",
+    "EWE2427"
+   ],
+   "listings_intro": "Apartments with golf views, a penthouse over the course, and villas with a private pool. Prices are as listed today; ask us for current availability.",
+   "golf": [
+    "Bonalba is an 18-hole, par-72 course designed by Ramón Espinosa. It has wide fairways, large greens and well-placed bunkers, and five large lakes come into play on several holes.",
+    "Practice facilities include putting greens, an approach area, a practice bunker and a driving range, and the clubhouse restaurant looks out over the course."
+   ],
+   "why": [
+    "Bonalba combines a quiet golf setting with the city close by. Mutxamel, El Campello and Sant Joan d'Alacant have supermarkets, shops, restaurants, health centres and international services.",
+    "The beaches of El Campello and San Juan are about 10–15 minutes away by car, Alicante city centre about 20 minutes and Alicante-Elche airport about 25–30 minutes."
+   ],
+   "faq": [
+    [
+     "How much does a property cost in Bonalba Golf?",
+     "Our properties in Bonalba start at {from} for an apartment. A penthouse over the course costs about €437,000, and villas from about €460,000."
+    ],
+    [
+     "Where is Bonalba Golf?",
+     "In Mutxamel, just north of Alicante, next to El Campello. The beaches are about 10–15 minutes away, Alicante city about 20 minutes and the airport about 25–30 minutes."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  },
+  {
+   "key": "font-del-llop",
+   "name": "Font del Llop Golf Resort",
+   "short": "Font del Llop Golf",
+   "page": "properties-for-sale-font-del-llop-golf",
+   "area": "Monforte del Cid",
+   "photo": "font-del-llop.jpg",
+   "photo_alt": "Font del Llop golf course with a lake, palm trees and the mountains",
+   "card_line": "New-build golf resort a few minutes from Alicante airport.",
+   "title": "Properties for Sale in Font del Llop Golf | Elite World Estates",
+   "description": "{count} apartments and villas for sale in Font del Llop Golf Resort, Monforte del Cid, from {from}. The resort, the golf course and buying costs explained.",
+   "lead": "New apartments and villas inside a golf resort in Monforte del Cid, between Alicante and Elche and close to the airport.",
+   "facts": [
+    [
+     "{count}",
+     "properties for sale"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "18 holes",
+     "par 72, by Stirling & Martín"
+    ],
+    [
+     "about 10–15 min",
+     "to Alicante-Elche airport"
+    ]
+   ],
+   "refs": [
+    "EWE2226",
+    "EWE3571",
+    "EWE3572",
+    "EWE3573"
+   ],
+   "near_refs": [
+    "EWE3465"
+   ],
+   "near_title": "Nearby in Monforte del Cid",
+   "near_intro": "A few minutes from the resort, in the same municipality.",
+   "listings_intro": "Apartments with a communal pool and golf views, and villas with a private pool, garden and solarium on the edge of the course. Prices are as listed today; ask us for current availability.",
+   "golf": [
+    "Font del Llop is an 18-hole, par-72 course designed by Blake Stirling and Marco Martín. It mixes an American-style design with Scottish-style shaping, in natural valleys with a stream linking five lakes.",
+    "Every hole has five tees, so the course adapts to all levels. There is a driving range, an approach area with a bunker and a putting green, plus a clubhouse with a pro shop and a Mediterranean restaurant with terraces over the course."
+   ],
+   "why": [
+    "The location is the main reason buyers choose Font del Llop. The resort is quiet and green, yet Elche is about 5 minutes away, Alicante about 15 minutes and Alicante-Elche airport about 10–15 minutes.",
+    "The resort has a restaurant, a bar-café and a clubhouse, so you do not have to drive for every coffee or meal. It suits buyers who want a new golf home without being far from a city and the airport."
+   ],
+   "faq": [
+    [
+     "How much does a property cost in Font del Llop?",
+     "Our properties at Font del Llop start at {from} for an apartment. Villas with a private pool on the edge of the course cost more; ask us for the current price list."
+    ],
+    [
+     "Where is Font del Llop Golf?",
+     "In Monforte del Cid, inland between Alicante and Elche. Elche is about 5 minutes away, Alicante about 15 minutes and the airport about 10–15 minutes by car."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  },
+  {
+   "key": "la-marquesa",
+   "name": "La Marquesa Golf",
+   "short": "La Marquesa Golf",
+   "page": "properties-for-sale-la-marquesa-golf",
+   "area": "Ciudad Quesada",
+   "photo": "la-marquesa.jpg",
+   "photo_alt": "Green and fairway at La Marquesa golf course in Ciudad Quesada",
+   "card_line": "Classic course inside Ciudad Quesada, about 6 km from Guardamar's beaches.",
+   "title": "Properties for Sale in La Marquesa Golf, Ciudad Quesada | Elite World Estates",
+   "description": "{count} villas and apartments for sale around La Marquesa Golf in Ciudad Quesada, Rojales, from {from}. The area, the golf course and buying costs explained.",
+   "lead": "Villas and apartments in Ciudad Quesada, around one of the oldest golf courses on the Costa Blanca and about 6 km from the beaches of Guardamar.",
+   "facts": [
+    [
+     "{count}",
+     "properties for sale"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "18 holes",
+     "opened in 1989"
+    ],
+    [
+     "about 6 km",
+     "to Guardamar's beaches"
+    ]
+   ],
+   "refs": [
+    "EWE1803",
+    "EWE1832",
+    "EWE3187",
+    "EWE1874",
+    "EWE3879",
+    "EWE1977",
+    "EWE1455",
+    "EWE3732",
+    "EWE3470",
+    "EWE3387",
+    "EWE3654",
+    "EWE2177",
+    "EWE1878",
+    "EWE3673",
+    "EWE3731",
+    "EWE2035",
+    "EWE3469",
+    "EWE3454",
+    "EWE3423",
+    "EWE3388"
+   ],
+   "listings_title": "Properties for sale in Ciudad Quesada",
+   "listings_intro": "Villas next to the course and on the frontline, and new apartments and villas across Ciudad Quesada and Rojales. Prices are as listed today; ask us which homes are closest to the course.",
+   "golf": [
+    "La Marquesa opened in 1989 as Quesada Golf Club, designed by Justo Quesada, and is one of the most established courses on the Costa Blanca. The Spanish professional Miguel Ángel Jiménez is an honorary member.",
+    "Its best-known hole is the 17th, with an island-style green inspired by the 17th at TPC Sawgrass. You can play 18 or 9 holes, rent clubs and buggies, and residents of Ciudad Quesada can join on special memberships."
+   ],
+   "why": [
+    "La Marquesa is part of Ciudad Quesada, a large, established town with supermarkets, shops, restaurants and bars open all year. You live by a golf course without being cut off in a remote resort.",
+    "The beaches of Guardamar del Segura are about 6 km away, and Alicante-Elche airport is easy to reach along the coast road and the motorway. That mix of golf, services and beaches is what makes the area so popular."
+   ],
+   "faq": [
+    [
+     "How much does a property cost near La Marquesa Golf?",
+     "Our properties in Ciudad Quesada start at {from} for an apartment. Villas with a private pool cost from about €395,000 up to about €1.2 million, depending on size and how close they are to the course."
+    ],
+    [
+     "Where is La Marquesa Golf?",
+     "In Ciudad Quesada, in the municipality of Rojales, in the south of the province of Alicante. The beaches of Guardamar del Segura are about 6 km away."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  },
+  {
+   "key": "puig-campana",
+   "name": "Puig Campana Golf",
+   "short": "Puig Campana Golf",
+   "page": "properties-for-sale-puig-campana-golf",
+   "area": "Finestrat",
+   "photo": "puig-campana.jpg",
+   "photo_alt": "Golf buggy on the Puig Campana course in Finestrat with the mountain behind",
+   "card_line": "Nine holes below the mountain, ten minutes from Benidorm's beaches.",
+   "title": "Properties for Sale near Puig Campana Golf, Finestrat | Elite World Estates",
+   "description": "{count} villas, penthouses and apartments for sale near Puig Campana Golf in Finestrat, from {from}. The area, the golf course and buying costs explained.",
+   "lead": "Villas, penthouses and apartments with sea and mountain views in Finestrat, around a 9-hole course below the Puig Campana mountain.",
+   "facts": [
+    [
+     "{count}",
+     "properties for sale"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "9 holes",
+     "by Stirling & Martín"
+    ],
+    [
+     "about 10 min",
+     "to the beaches"
+    ]
+   ],
+   "refs": [
+    "EWE3357",
+    "EWE1419",
+    "EWE3775",
+    "EWE3479",
+    "EWE3735",
+    "EWE3633",
+    "EWE3317",
+    "EWE3295"
+   ],
+   "listings_title": "Properties for sale near Puig Campana Golf",
+   "listings_intro": "New apartments with sea views, a penthouse with panoramic views, and villas with a private pool and solarium. Prices are as listed today; ask us for current availability.",
+   "golf": [
+    "Puig Campana Golf is a 9-hole course in Finestrat, designed by Stirling & Martín. Its setting makes it special: you play with the Puig Campana mountain on one side and views of the Mediterranean on the other.",
+    "The club has a modern clubhouse with a restaurant, a café, a pro shop and changing rooms. For longer rounds, several 18-hole courses around Benidorm and Finestrat are a short drive away."
+   ],
+   "why": [
+    "You live in a quieter area with mountain and sea views, while Benidorm, Finestrat and Villajoyosa are a short drive away, with shopping centres, international schools and restaurants.",
+    "The beaches and big shopping areas are about 10 minutes away by car, and Alicante-Elche airport about 45 minutes along the AP-7 motorway."
+   ],
+   "faq": [
+    [
+     "How much does a property cost near Puig Campana Golf?",
+     "Our properties near Puig Campana start at {from} for an apartment. Villas with a private pool cost from about €605,000."
+    ],
+    [
+     "Where is Puig Campana Golf?",
+     "In Finestrat, on the hills behind Benidorm. The beaches are about 10 minutes away and Alicante-Elche airport about 45 minutes by car."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  },
+  {
+   "key": "alenda",
+   "name": "Alenda Golf",
+   "short": "Alenda Golf",
+   "page": "properties-for-sale-alenda-golf",
+   "area": "Monforte del Cid",
+   "photo": "alenda.jpg",
+   "photo_alt": "Alenda golf course with a lake and palm trees in Monforte del Cid",
+   "card_line": "Established community with an international school, between Alicante and Elche.",
+   "title": "Properties for Sale near Alenda Golf, Monforte del Cid | Elite World Estates",
+   "description": "Apartments and villas for sale near Alenda Golf in Monforte del Cid, between Alicante and Elche, from {from}. The community, the golf course and buying costs explained.",
+   "lead": "An established golf community in Monforte del Cid, between Alicante and Elche, with an international school, shops and sports facilities.",
+   "facts": [
+    [
+     "{near_count}",
+     "properties nearby"
+    ],
+    [
+     "from {from}",
+     "for an apartment"
+    ],
+    [
+     "18 holes",
+     "below the Sierra de las Águilas"
+    ],
+    [
+     "between",
+     "Alicante and Elche"
+    ]
+   ],
+   "refs": [],
+   "near_refs": [
+    "EWE2226",
+    "EWE3571",
+    "EWE3572",
+    "EWE3573",
+    "EWE3465"
+   ],
+   "near_title": "Properties for sale nearby in Monforte del Cid",
+   "near_intro": "We have no homes inside Alenda itself right now. These are in the same municipality, most of them at Font del Llop golf, a few minutes away. Ask us about new homes in Alenda.",
+   "golf": [
+    "Alenda Golf is an established course set in the landscape of the Sierra de las Águilas. Besides the main course, the club has three putting greens and a practice hole called Hole 19, and floodlights let you practise after sunset.",
+    "The clubhouse has changing rooms, a pro shop and a café with views over the course. There is also a gym with fitness classes and outdoor padel courts."
+   ],
+   "why": [
+    "Alenda is a lived-in community, not just a holiday resort: it has restaurants, a supermarket, a gym, padel and other services. Magno International School, a bilingual international school, is within walking distance of the homes.",
+    "It sits between Alicante and Elche, with good roads to both cities, the airport and the coast. That suits families and buyers who want a quiet golf setting close to a city."
+   ],
+   "faq": [
+    [
+     "Do you have properties for sale in Alenda Golf?",
+     "Not inside Alenda right now. We have apartments and villas nearby in Monforte del Cid, most at Font del Llop golf, from {from}. Tell us what you are looking for and we will check new homes in Alenda for you."
+    ],
+    [
+     "Where is Alenda Golf?",
+     "In Monforte del Cid, inland between Alicante and Elche, with good road links to both cities, Alicante-Elche airport and the coast."
+    ],
+    [
+     "What costs are there on top of the price?",
+     "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Add about 1.5–2.5% for the notary, land registry and lawyer. We give you the exact figure for the home you like."
+    ]
+   ]
+  }
+ ]
+}

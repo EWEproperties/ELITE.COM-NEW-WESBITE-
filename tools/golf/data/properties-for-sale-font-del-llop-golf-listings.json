@@ -1,0 +1,96 @@
+[
+ {
+  "id": "19494176",
+  "slug": "apartment-with-views-of-the-mountains-and-golf-course-in-monforte-del-cid",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P22479158/Tphoto/ID36015701-0000-0500-0000-000016e03bf0.jpg.webp",
+  "alt": "Apartment for sale in Monforte del Cid",
+  "ref": "EWE2226",
+  "title": "Apartment with views of the mountains and golf course in Monforte del Cid",
+  "price": "395 000 €",
+  "loc": [
+   "Monforte del Cid"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "104"
+  },
+  "near": false,
+  "photo": "assets/towns/alicante/listings/19494176.jpg"
+ },
+ {
+  "id": "23871212",
+  "slug": "golf-view-apartments-at-font-del-llop",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27924717/Tphoto/IDed18aa01-0000-0500-0000-000016e02c3e.jpg.webp",
+  "alt": "Apartments for sale in Monforte del Cid",
+  "ref": "EWE3571",
+  "title": "Golf View Apartments at Font del Llop",
+  "price": "310 000 €",
+  "loc": [
+   "Monforte del Cid"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "78"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/23871212.jpg"
+ },
+ {
+  "id": "23871314",
+  "slug": "semi-detached-villa-with-pool-next-to-the-golf-course-in-monforte-del-cid",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27924819/Tphoto/ID5319aa01-0000-0500-0000-000016e03307.jpg.webp",
+  "alt": "Villa for sale in Font del Llop",
+  "ref": "EWE3572",
+  "title": "Semi-detached villa with pool next to the golf course in Monforte del Cid",
+  "price": "489 000 €",
+  "loc": [
+   "Monforte del Cid"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "2",
+   "AREA": "118"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/23871314.jpg"
+ },
+ {
+  "id": "23871441",
+  "slug": "magnificent-villa-overlooking-the-font-del-llop-golf-course",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P27924966/Tphoto/IDe619aa01-0000-0500-0000-000016e0433c.jpg.webp",
+  "alt": "Modern villa for sale in Font del Llop Golf Resort",
+  "ref": "EWE3573",
+  "title": "Magnificent villa overlooking the Font del Llop golf course",
+  "price": "895 000 €",
+  "loc": [
+   "Monforte del Cid"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3",
+   "AREA": "238"
+  },
+  "near": false,
+  "photo": "assets/golf/listings/23871441.jpg"
+ },
+ {
+  "id": "22773787",
+  "slug": "charming-house-near-the-golf-course-in-monforte-del-cid",
+  "img": "https://images.egorealestate.com/Z512x384/OAYES/S5/C6878/P26699751/Tphoto/IDe7679701-0000-0500-0000-00001981f583.jpg.webp",
+  "alt": "Townhouse for sale in Monforte del Cid",
+  "ref": "EWE3465",
+  "title": "Charming house near the golf course in Monforte del Cid",
+  "price": "365 000 €",
+  "loc": [
+   "Monforte del Cid"
+  ],
+  "det": {
+   "ROOMS": "3",
+   "BATHS": "3"
+  },
+  "near": true,
+  "photo": "assets/towns/alicante/listings/22773787.jpg"
+ }
+]
