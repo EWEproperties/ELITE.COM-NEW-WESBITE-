@@ -175,9 +175,6 @@ def page(arts, lang):
   <meta property="og:image" content="{SITE}/{feat["hero"]}">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="{up}assets/logo.png" type="image/png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Prata&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{up}css/style.css">
   <script type="application/ld+json">
 {json.dumps(ld, ensure_ascii=False, indent=1)}
@@ -240,6 +237,7 @@ def page(arts, lang):
   <div class="container footer-bottom">
     <p><a href="{up}index.html">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
     <p>{ui["reg"]}</p>
+    <p class="footer-legal">{bb.legal_links(up, lang)}</p>
     <p>&copy; <span id="year"></span> Elite World Estates</p>
   </div>
 </footer>

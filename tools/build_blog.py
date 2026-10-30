@@ -77,6 +77,17 @@ CARD_TYPE = {
     "apartment": {"en": ("Apartment", "Apartment for sale in {t}"), "de": ("Wohnung", "Wohnung zum Verkauf in {t}"), "es": ("Apartamento", "Apartamento en venta en {t}")},
 }
 
+# Footer links to the legal pages (English only for now), labelled in the page language
+LEGAL = {"en": ("Legal notice", "Privacy policy", "Cookie policy"), "de": ("Impressum", "Datenschutz", "Cookie-Richtlinie"),
+         "es": ("Aviso legal", "Política de privacidad", "Política de cookies"), "pl": ("Nota prawna", "Polityka prywatności", "Polityka cookies")}
+
+
+def legal_links(up, lang):
+    a, b, c = LEGAL[lang]
+    return (f'<a href="{up}terms-and-conditions.html">{a}</a> · <a href="{up}privacy-policy.html">{b}</a> · '
+            f'<a href="{up}cookie-policy.html">{c}</a>')
+
+
 UI = {
     "en": dict(home="Home", props="Properties", blog="Blog", about="About Us", contact="Contact Us", menu="Open menu",
                main="Main", crumbs="Breadcrumb", by="By", updated="updated", read="min read", contents="Contents",
@@ -250,9 +261,6 @@ def page(a, lang):
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="{up}assets/logo.png" type="image/png">
   <link rel="preload" as="image" href="{up}{hero}" fetchpriority="high">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Prata&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="{up}css/style.css">
   <script type="application/ld+json">
 {json.dumps(ld, ensure_ascii=False, indent=1)}
@@ -335,6 +343,7 @@ def page(a, lang):
   <div class="container footer-bottom">
     <p><a href="{up}index.html">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
     <p>{ui["reg"]}</p>
+    <p class="footer-legal">{legal_links(up, lang)}</p>
     <p>&copy; <span id="year"></span> Elite World Estates</p>
   </div>
 </footer>

@@ -185,9 +185,6 @@ def main(slug):
   <meta property="og:image" content="{SITE}/assets/towns/{slug}/hero.jpg">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="assets/logo.png" type="image/png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Prata&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="css/style.css">
   <script type="application/ld+json">
 {json.dumps(schema, ensure_ascii=False, indent=1)}
@@ -323,6 +320,7 @@ def main(slug):
   <div class="container footer-bottom">
     <p><a href="index.html">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
     <p>Registered in the Registro de Agentes de Intermediación Inmobiliaria de la Comunitat Valenciana (RAICV) no. 2321.</p>
+    <p class="footer-legal"><a href="terms-and-conditions.html">Legal notice</a> · <a href="privacy-policy.html">Privacy policy</a> · <a href="cookie-policy.html">Cookie policy</a></p>
     <p>&copy; <span id="year"></span> Elite World Estates</p>
   </div>
 </footer>

@@ -141,6 +141,7 @@ FOOTER = f'''<footer class="site-footer">
   <div class="container footer-bottom">
     <p><a href="../index.html">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
     <p>{UI["reg"]}</p>
+    <p class="footer-legal">{bb.legal_links("../", "pl")}</p>
     <p>&copy; <span id="year"></span> Elite World Estates</p>
   </div>
 </footer>'''
@@ -163,9 +164,6 @@ def head_tags(title, desc, canon, alts, og_type, image):
   <meta property="og:locale" content="pl_PL">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="../assets/logo.png" type="image/png">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Prata&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="../css/style.css">'''
 
 
