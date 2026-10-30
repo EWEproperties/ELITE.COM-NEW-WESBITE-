@@ -688,3 +688,5 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .g-facts{display:inline-block;font-size:.78rem;letter-spacing:.08em;text-transform:uppercase;color:#866c4a;margin-bottom:.4rem}
 .g-jump{font-size:.95rem;line-height:2}
 .g-jump a{color:#866c4a;border-bottom:1px solid var(--gold-line)}
+/* Square corners on photos and cards (Lucy prefers no rounded corners) */
+.ab-hero-photo img, .ab-awards img, .ab-person, .ab-card, .ab-hero-photo figcaption, .grid-4 .card { border-radius: 0; }
