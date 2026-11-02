@@ -1,8 +1,8 @@
 {
  "spain": {
   "page": "golf-properties-for-sale-in-spain",
-  "title": "Golf Properties for Sale in Spain – Costa Blanca & Costa del Sol | Elite World Estates",
-  "description": "{count} golf properties for sale in Spain, from {from}: villas and apartments on the Costa Blanca, the Costa del Sol and the Costa Cálida, near the best golf courses.",
+  "title": "Golf properties for sale in Spain: villas & apartments",
+  "description": "{count} golf properties for sale in Spain from {from}: villas and apartments on the Costa Blanca, Costa del Sol and Costa Cálida, near top courses.",
   "h1": "Golf properties for sale in Spain",
   "lead": "Villas, townhouses and apartments on or near the best golf courses of the Costa Blanca, the Costa del Sol and the Costa Cálida. Choose a coast, then a golf course.",
   "photo": "golf-spain.jpg",
@@ -47,8 +47,8 @@
  },
  "costa_blanca": {
   "page": "golf-properties-for-sale-in-costa-blanca",
-  "title": "Golf Properties for Sale on the Costa Blanca | Elite World Estates",
-  "description": "{count} golf properties for sale on the Costa Blanca, from {from}, at Las Colinas, La Finca, Vistabella, Bonalba, Font del Llop, La Marquesa, Puig Campana and Alenda.",
+  "title": "Golf properties for sale on the Costa Blanca",
+  "description": "{count} golf properties for sale on the Costa Blanca from {from}, at Las Colinas, La Finca, Vistabella, Bonalba and more. Photos and buying costs.",
   "h1": "Golf properties for sale on the Costa Blanca",
   "lead": "Apartments, townhouses and villas in and around the best golf resorts of the Costa Blanca. Pick a golf course to see its homes, the course and the area.",
   "photo": "golf-costa-blanca.jpg",
@@ -94,8 +94,8 @@
  },
  "costa_del_sol": {
   "page": "golf-properties-for-sale-in-costa-del-sol",
-  "title": "Golf Properties for Sale on the Costa del Sol | Elite World Estates",
-  "description": "{count} golf properties for sale on the Costa del Sol, from {from}: apartments and villas in Estepona, Casares, Mijas, Marbella and Benahavís, near the best golf courses.",
+  "title": "Golf properties for sale on the Costa del Sol",
+  "description": "{count} golf apartments and villas for sale on the Costa del Sol from {from}, in Estepona, Casares, Mijas, Marbella and Benahavís. Photos and costs.",
   "h1": "Golf properties for sale on the Costa del Sol",
   "lead": "Apartments, townhouses and villas near the golf courses of Estepona, Casares, Mijas, Marbella and Benahavís, many with sea views.",
   "photo": "golf-costa-del-sol.jpg",
@@ -240,8 +240,9 @@
    "card_photo": "las-colinas-card.jpg",
    "photo_alt": "Las Colinas golf course with a lake and the clubhouse among pine trees",
    "card_line": "Award-winning, low-density resort in a green valley behind Campoamor.",
-   "title": "Properties for Sale in Las Colinas Golf & Country Club | Elite World Estates",
-   "description": "{count} apartments, penthouses and villas for sale in Las Colinas Golf & Country Club, Orihuela Costa, from {from}. The resort, the golf course and buying costs explained.",
+   "h1": "Properties for sale in Las Colinas Golf & Country Club",
+   "title": "Las Colinas Golf property for sale: apartments & villas",
+   "description": "{count} apartments, penthouses and villas for sale in Las Colinas Golf & Country Club, Orihuela Costa, from {from}. Resort guide and buying costs.",
    "lead": "Apartments, penthouses and villas in one of the most respected golf resorts in Spain, in a quiet valley a few minutes from the beaches of Campoamor.",
    "facts": [
     [
@@ -308,8 +309,9 @@
    "photo": "la-finca.jpg",
    "photo_alt": "Fairway at La Finca golf course in Algorfa with olive trees and a lake",
    "card_line": "Established resort with a five-star hotel, spa and restaurants.",
-   "title": "Properties for Sale in La Finca Golf Resort, Algorfa | Elite World Estates",
-   "description": "{count} villas, townhouses and apartments for sale in La Finca Golf Resort, Algorfa, from {from}. The resort, the golf course and buying costs explained.",
+   "h1": "Properties for sale in La Finca Golf Resort, Algorfa",
+   "title": "La Finca Golf property for sale, Algorfa",
+   "description": "{count} villas, townhouses and apartments for sale in La Finca Golf Resort, Algorfa, from {from}. Resort guide, golf course and buying costs.",
    "lead": "Villas, townhouses and apartments in one of the best-known golf resorts of the southern Costa Blanca, with a five-star hotel at its heart.",
    "facts": [
     [
@@ -382,8 +384,9 @@
    "photo": "vistabella.jpg",
    "photo_alt": "Vistabella golf course from the air with trees, bunkers and a lake",
    "card_line": "Relaxed golf community with good value villas and townhouses.",
-   "title": "Properties for Sale in Vistabella Golf | Elite World Estates",
-   "description": "{count} villas, townhouses and apartments for sale in Vistabella Golf, near San Miguel de Salinas, from {from}. The resort, the golf course and buying costs explained.",
+   "h1": "Properties for sale in Vistabella Golf",
+   "title": "Vistabella Golf property for sale: villas & apartments",
+   "description": "{count} villas, townhouses and apartments for sale in Vistabella Golf, near San Miguel de Salinas, from {from}. Resort guide and buying costs.",
    "lead": "Apartments, townhouses and villas with a private pool in a relaxed golf community between San Miguel de Salinas and Los Montesinos.",
    "facts": [
     [
@@ -445,8 +448,9 @@
    "photo": "bonalba.jpg",
    "photo_alt": "Bonalba golf course in Mutxamel with the hotel and the hills behind",
    "card_line": "Golf close to Alicante city, with beaches 10–15 minutes away.",
-   "title": "Properties for Sale in Bonalba Golf, Mutxamel | Elite World Estates",
-   "description": "{count} villas, penthouses and apartments for sale in Bonalba Golf, Mutxamel, near Alicante, from {from}. The resort, the golf course and buying costs explained.",
+   "h1": "Properties for sale in Bonalba Golf, Mutxamel",
+   "title": "Bonalba Golf property for sale, Mutxamel (Alicante)",
+   "description": "{count} villas, penthouses and apartments for sale in Bonalba Golf, Mutxamel, near Alicante, from {from}. Resort guide and buying costs.",
    "lead": "Apartments, penthouses and villas around a golf course in Mutxamel, about 20 minutes from Alicante and 10–15 minutes from the beaches of El Campello and San Juan.",
    "facts": [
     [
@@ -506,8 +510,9 @@
    "photo": "font-del-llop.jpg",
    "photo_alt": "Font del Llop golf course with a lake, palm trees and the mountains",
    "card_line": "New-build golf resort a few minutes from Alicante airport.",
-   "title": "Properties for Sale in Font del Llop Golf | Elite World Estates",
-   "description": "{count} apartments and villas for sale in Font del Llop Golf Resort, Monforte del Cid, from {from}. The resort, the golf course and buying costs explained.",
+   "h1": "Properties for sale in Font del Llop Golf",
+   "title": "Font del Llop Golf property for sale, Monforte del Cid",
+   "description": "{count} apartments and villas for sale in Font del Llop Golf Resort, Monforte del Cid, from {from}. Resort guide, golf course and buying costs.",
    "lead": "New apartments and villas inside a golf resort in Monforte del Cid, between Alicante and Elche and close to the airport.",
    "facts": [
     [
@@ -571,8 +576,9 @@
    "photo": "la-marquesa.jpg",
    "photo_alt": "Green and fairway at La Marquesa golf course in Ciudad Quesada",
    "card_line": "Classic course inside Ciudad Quesada, about 6 km from Guardamar's beaches.",
-   "title": "Properties for Sale in La Marquesa Golf, Ciudad Quesada | Elite World Estates",
-   "description": "{count} villas and apartments for sale around La Marquesa Golf in Ciudad Quesada, Rojales, from {from}. The area, the golf course and buying costs explained.",
+   "h1": "Properties for sale in La Marquesa Golf, Ciudad Quesada",
+   "title": "La Marquesa Golf property for sale, Ciudad Quesada",
+   "description": "{count} villas and apartments for sale around La Marquesa Golf in Ciudad Quesada, Rojales, from {from}. Area guide and buying costs.",
    "lead": "Villas and apartments in Ciudad Quesada, around one of the oldest golf courses on the Costa Blanca and about 6 km from the beaches of Guardamar.",
    "facts": [
     [
@@ -648,8 +654,9 @@
    "photo": "puig-campana.jpg",
    "photo_alt": "Golf buggy on the Puig Campana course in Finestrat with the mountain behind",
    "card_line": "Nine holes below the mountain, ten minutes from Benidorm's beaches.",
-   "title": "Properties for Sale near Puig Campana Golf, Finestrat | Elite World Estates",
-   "description": "{count} villas, penthouses and apartments for sale near Puig Campana Golf in Finestrat, from {from}. The area, the golf course and buying costs explained.",
+   "h1": "Properties for sale near Puig Campana Golf, Finestrat",
+   "title": "Property for sale near Puig Campana Golf, Finestrat",
+   "description": "{count} villas, penthouses and apartments for sale near Puig Campana Golf in Finestrat, from {from}. Area guide and buying costs.",
    "lead": "Villas, penthouses and apartments with sea and mountain views in Finestrat, around a 9-hole course below the Puig Campana mountain.",
    "facts": [
     [
@@ -713,8 +720,9 @@
    "photo": "alenda.jpg",
    "photo_alt": "Alenda golf course with a lake and palm trees in Monforte del Cid",
    "card_line": "Established community with an international school, between Alicante and Elche.",
-   "title": "Properties for Sale near Alenda Golf, Monforte del Cid | Elite World Estates",
-   "description": "Apartments and villas for sale near Alenda Golf in Monforte del Cid, between Alicante and Elche, from {from}. The community, the golf course and buying costs explained.",
+   "h1": "Properties for sale near Alenda Golf, Monforte del Cid",
+   "title": "Property for sale near Alenda Golf, Monforte del Cid",
+   "description": "Apartments and villas for sale near Alenda Golf in Monforte del Cid, between Alicante and Elche, from {from}. Area guide and buying costs.",
    "lead": "An established golf community in Monforte del Cid, between Alicante and Elche, with an international school, shops and sports facilities.",
    "facts": [
     [
@@ -770,8 +778,8 @@
  ],
  "costa_calida": {
   "page": "golf-properties-for-sale-in-costa-calida",
-  "title": "Golf Properties for Sale on the Costa Cálida, Murcia | Elite World Estates",
-  "description": "{count} golf properties for sale on the Costa Cálida, from {from}: homes near La Serena, Roda, La Torre, Mar Menor, Hacienda del Álamo, El Valle and La Manga Club.",
+  "title": "Golf properties for sale on the Costa Cálida, Murcia",
+  "description": "{count} golf homes for sale on the Costa Cálida from {from}, near La Serena, Roda, La Torre, El Valle and La Manga Club. Photos and buying costs.",
   "h1": "Golf properties for sale on the Costa Cálida",
   "lead": "Villas and apartments near the golf courses of the Region of Murcia, around the warm waters of the Mar Menor. Here are the courses and the homes we sell closest to each one.",
   "photo": "golf-costa-calida.jpg",

@@ -307,10 +307,10 @@ def build_course(c, cfg, pages, others):
     body += section("More golf on the Costa Blanca", "Other golf resorts", '      <div class="t-reads">\n' + tiles(others) + "\n      </div>")
     body += section("From our blog", "Read before you buy", '      <div class="t-reads">\n' + tiles(cfg["costa_blanca"]["reads"]) + "\n      </div>")
     about = {"@type": "GolfCourse", "name": c["name"], "address": {"@type": "PostalAddress", "addressLocality": c["area"], "addressRegion": "Alicante", "addressCountry": "ES"}}
-    schema = [collection(c["_title"].split(" | ")[0], url, c["_description"], [(url_of(i, pages), clean_title(i["title"])) for i in own + near], about),
+    schema = [collection(c["h1"], url, c["_description"], [(url_of(i, pages), clean_title(i["title"])) for i in own + near], about),
               faq_schema(c["faq"], fill)]
     out = page(c, crumbs=[("Home", "index.html"), ("Golf properties", SPAIN + ".html"), ("Costa Blanca", CB + ".html"), (c["short"], c["page"] + ".html")],
-               hero=f"assets/golf/{c['photo']}", kicker=f"Costa Blanca · {c['area']}", h1=c["title"].split(" | ")[0].replace("Properties for Sale", "Properties for sale"),
+               hero=f"assets/golf/{c['photo']}", kicker=f"Costa Blanca · {c['area']}", h1=c["h1"],
                lead=fill(c["lead"]), body=body, schema=schema, contact_name=c["short"])
     write(c, out)
     print(f"{c['page']}.html: {len(own)} at the course, {len(near)} nearby, from €{low:,}")
