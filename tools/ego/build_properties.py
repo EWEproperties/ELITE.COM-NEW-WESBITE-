@@ -110,11 +110,24 @@ def features(raw):
     return out
 
 
+# eGO's image server only serves fixed sizes. Z1920x1080 is the largest and keeps the
+# photo's shape; Z800x600 is sharp enough for cards and thumbnails. Links in the
+# CRM's own form (/W6878/...) pad photos with white bars, the website form
+# (/OAYES/...) does not, so every link is turned into the website form.
+BIG, SMALL = "Z1920x1080", "Z800x600"
+EGO_IMG = re.compile(r"^(https://images\.egorealestate\.com)/Z\d+x\d+/(?:W\d+|OAYES)/")
+
+
+def ego_photo(url, size):
+    return EGO_IMG.sub(lambda m: f"{m.group(1)}/{size}/OAYES/", url or "")
+
+
 def listing(p, pl_links):
     title = (p.get("Title") or "").strip() or f"{p['Type']} for sale in {p['Municipality']}"
     price = p["PropertyBusiness"][0]["Prices"][0]["PriceValue"] if p.get("PropertyBusiness") else 0
     agents = [a["AgentName"] for a in p.get("PropertyAgents") or [] if a.get("AgentName") in TEAM]
-    photos = [{"big": im.get("Thumbnail_1280X1024") or im["Thumbnail"], "small": im.get("Thumbnail_640X480") or im["Thumbnail"],
+    photos = [{"big": ego_photo(im.get("Thumbnail_1280X1024") or im["Thumbnail"], BIG),
+               "small": ego_photo(im.get("Thumbnail_640X480") or im["Thumbnail"], SMALL),
                "alt": (im.get("AlternativeText") or im.get("Description") or "").strip()} for im in p.get("Images") or []]
     region = next((r for r, d in REGIONS.items() if p.get("District") in d["provinces"]), None)
     return {
@@ -325,13 +338,13 @@ def gallery(L, src):
         return ""
     badge = "New build" if L["new"] else "Resale"
     out = [f'<a href="{src(0, "big")}" class="gallery-main photo" data-i="0"><img src="{src(0, "big")}" alt="{e(photo_alt(L, 0))}" '
-           f'width="1280" height="960" fetchpriority="high"><span class="photo-badge">{badge}</span><span class="photo-count">1 / {n}</span></a>']
+           f'width="1920" height="1280" fetchpriority="high"><span class="photo-badge">{badge}</span><span class="photo-count">1 / {n}</span></a>']
     row = []
     for i in (1, 2):
         if i < n:
-            row.append(f'<a href="{src(i, "big")}" class="photo" data-i="{i}"><img src="{src(i, "small")}" alt="{e(photo_alt(L, i))}" width="640" height="480"></a>')
+            row.append(f'<a href="{src(i, "big")}" class="photo" data-i="{i}"><img src="{src(i, "small")}" alt="{e(photo_alt(L, i))}" width="800" height="600"></a>')
     if n > 3:
-        row.append(f'<button class="photo gallery-more" type="button" data-all><img src="{src(3, "small")}" alt="" width="640" height="480"><span>View all {n} photos</span></button>')
+        row.append(f'<button class="photo gallery-more" type="button" data-all><img src="{src(3, "small")}" alt="" width="800" height="600"><span>View all {n} photos</span></button>')
     if row:
         out.append('<div class="gallery-row">\n        ' + "\n        ".join(row) + "\n      </div>")
     return '<section class="gallery" aria-label="Photos">\n      ' + "\n      ".join(out) + "\n    </section>"
@@ -398,7 +411,7 @@ def similar(L, everyone, url_of):
     cards = []
     for o in pool:
         cards.append(f'''      <a class="card" href="{url_of(o, rel=True)}">
-        <div class="card-photo"><img src="{o['photos'][0]['small']}" alt="{e(type_label(o).capitalize())} for sale in {e(o['town'])}" width="640" height="480" loading="lazy" decoding="async"><span class="badge">{e(o['type'])}</span></div>
+        <div class="card-photo"><img src="{o['photos'][0]['small']}" alt="{e(type_label(o).capitalize())} for sale in {e(o['town'])}" width="800" height="600" loading="lazy" decoding="async"><span class="badge">{e(o['type'])}</span></div>
         <div class="card-body">
           <p class="price">{price_text(o)}</p>
           <h3>{e(o['town'])}</h3>
