@@ -110,11 +110,12 @@ def features(raw):
     return out
 
 
-# eGO's image server only serves fixed sizes. Z1920x1080 is the largest and keeps the
-# photo's shape; Z800x600 is sharp enough for cards and thumbnails. Links in the
+# eGO's image server only serves fixed sizes. Z1920x1080 keeps the photo's shape and is
+# used on the page, Z2560x1920 in the full-screen gallery; Z800x600 is sharp enough for cards and thumbnails. Links in the
 # CRM's own form (/W6878/...) pad photos with white bars, the website form
 # (/OAYES/...) does not, so every link is turned into the website form.
 BIG, SMALL = "Z1920x1080", "Z800x600"
+FULL = "Z2560x1920"  # full-screen gallery only (loaded when a visitor opens a photo)
 EGO_IMG = re.compile(r"^(https://images\.egorealestate\.com)/Z\d+x\d+/(?:W\d+|OAYES)/")
 
 
@@ -147,6 +148,7 @@ def listing(p, pl_links):
     agents = [a["AgentName"] for a in p.get("PropertyAgents") or [] if a.get("AgentName") in TEAM]
     photos = [{"big": ego_photo(im.get("Thumbnail_1280X1024") or im["Thumbnail"], BIG),
                "small": ego_photo(im.get("Thumbnail_640X480") or im["Thumbnail"], SMALL),
+               "full": ego_photo(im.get("Thumbnail_1280X1024") or im["Thumbnail"], FULL),
                "alt": (im.get("AlternativeText") or im.get("Description") or "").strip()} for im in p.get("Images") or []]
     region = next((r for r, d in REGIONS.items() if p.get("District") in d["provinces"]), None)
     return {
@@ -373,7 +375,7 @@ def all_photos(L, src):
     rows, i, n = [], 0, len(L["photos"])
     while i < n:
         size = 1 if (len(rows) % 2 == 0 or i == n - 1) else 2
-        cells = "".join(f'<a href="{src(j, "big")}" class="photo" data-i="{j}"><img src="{src(j, "big")}" alt="{e(photo_alt(L, j))}" '
+        cells = "".join(f'<a href="{src(j, "full")}" class="photo" data-i="{j}"><img src="{src(j, "big")}" alt="{e(photo_alt(L, j))}" '
                         f'width="1280" height="960" loading="lazy" decoding="async"></a>' for j in range(i, i + size))
         rows.append(f'<div class="ap-row {"one" if size == 1 else "two"}">{cells}</div>')
         i += size
@@ -643,6 +645,7 @@ def photo_src(L, local):
     """Return src(i, size) -> photo URL for the page (eGO image server, or local copies)."""
     if not local:
         return lambda i, size: L["photos"][i][size]
+    # local copies: the full-screen gallery uses the big copy
     folder = os.path.join(ROOT, "assets", "listings", str(L["id"]))
     os.makedirs(folder, exist_ok=True)
     for i, ph in enumerate(L["photos"]):
@@ -652,7 +655,7 @@ def photo_src(L, local):
                 req = urllib.request.Request(ph[size], headers={"User-Agent": "Mozilla/5.0"})
                 with urllib.request.urlopen(req, timeout=60) as r, open(path, "wb") as f:
                     f.write(r.read())
-    return lambda i, size: f"../assets/listings/{L['id']}/{i + 1:02d}{'-s' if size == 'small' else ''}.jpg"
+    return lambda i, size: f"../assets/listings/{L['id']}/{i + 1:02d}{'-s' if size == 'small' else ''}.jpg"  # "full" -> big copy
 
 
 # ---------- site files ----------

@@ -5,7 +5,8 @@ Usage:
 
 Listings are picked by EWE reference (the "refs" and "near_refs" lists in tools/golf/golf.json)
 from tools/towns/data/all-live-listings.json and any extra scraped files (scrape_list.js output).
-Until the eGO API key arrives this is how the golf pages get their listings.
+With the eGO cache present (tools/ego/fetch_ego.py), prices, titles and photos come from eGO
+and listings no longer in eGO are left out.
 """
 import json
 import os
@@ -31,6 +32,11 @@ def load_all(extra):
                 items[i["ref"]] = {"id": m.group(2), "slug": m.group(1), "img": i["img"], "alt": i.get("alt") or "", "ref": i["ref"],
                                    "title": re.split(r"\s{3,}", i["title"].strip())[0], "price": i["price"], "loc": i["loc"],
                                    "det": {k: num(d.get(k)) for k in ("ROOMS", "BATHS", "AREA") if num(d.get(k))}}
+    # eGO listings (tools/ego/cache) win: current prices and titles, sold ones drop out
+    if os.path.isdir(os.path.join(ROOT, "tools", "ego", "cache")):
+        from from_ego import item, load_cache
+        ego = {p["Reference"]: item(p, set()) for p in load_cache()}
+        items = {r: dict(ego[r], slug=items[r]["slug"] if r in items else "") for r in ego}
     return items
 
 
@@ -63,8 +69,9 @@ def main(extra):
     for p in groups:
         refs = p.get("refs", []) + p.get("near_refs", [])
         missing = [r for r in refs if r not in items]
-        if missing:
-            sys.exit(f"{p['page']}: not found {missing}")
+        if missing:  # sold or withdrawn in eGO
+            print(f"{p['page']}: no longer in eGO, left out: {missing}")
+        refs = [r for r in refs if r in items]
         out = []
         for r in refs:
             i = dict(items[r], near=r in p.get("near_refs", []))
