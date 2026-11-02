@@ -265,6 +265,157 @@ def summary(L):
     return s if len(s) <= 160 else s[:157].rsplit(" ", 1)[0] + "…"
 
 
+
+# ---------- Google title and description ----------
+# The page heading keeps eGO's title. The <title> and meta description are built
+# from the facts so every page says what it is, where, and the price, within the
+# length Google shows (about 60 and 155 characters).
+
+KNOWN_PLACES = ["Cumbre del Sol", "La Manga", "La Mata", "Santa Rosalía", "Calanova", "Campoamor",
+                "Villamartín", "Villamartin", "La Zenia", "Playa Flamenca", "Cabo Roig", "Punta Prima",
+                "Ciudad Quesada", "Vistabella", "Las Colinas", "La Finca", "Mil Palmeras", "Lomas de Cabo Roig",
+                "Puerto Banús", "Nueva Andalucía", "La Cala de Mijas", "Riviera del Sol", "Cabopino",
+                "Sierra Cortina", "Gran Alacant", "Los Dolses", "El Raso", "Moraira", "Altea Hills",
+                "Mar de Cristal", "Lo Pagán", "Cabo de Palos", "San Juan de los Terreros", "Mojácar"]
+TYPE_WORDS = {"town house": "townhouse", "ground floor": "ground-floor apartment", "duplex house": "duplex",
+              "semi-detached house": "semi-detached house", "semi-detached": "semi-detached house",
+              "chalet": "villa"}
+
+
+def short_town(t):
+    return {"Benitachell / El Poble Nou de Benitatxell": "Benitachell"}.get(t, t.split(" / ")[0].strip())
+
+
+def place(L):
+    town = short_town(L["town"])
+    for k in KNOWN_PLACES:
+        if k.lower() in L["title"].lower() or k.lower() == L["area"].lower():
+            return k.replace("Villamartin", "Villamartín")
+    return town
+
+
+def kind(L):
+    k = L["type"].lower()
+    k = TYPE_WORDS.get(k, k)
+    if L["from"]:
+        k = k.replace("house", "houses") if k.endswith("house") else (k + "s" if not k.endswith("s") else k)
+    return (f"{L['beds']}-bed " if L["beds"] else "") + k
+
+
+def selling_points(L):
+    t = L["title"].lower()
+    f = [x.lower() for x in L["feat"]["features"]]
+    pts = []
+    if "frontline" in t or "front line" in t or "first line" in t:
+        pts.append("frontline beach" if "golf" not in t else "frontline golf")
+    if "Sea" in L["feat"]["views"] or "sea view" in t or "sea-view" in t:
+        pts.append("sea views")
+    if "swimming pool" in f or "private pool" in t:
+        pts.append("private pool")
+    elif "shared swimming pool" in f or " pool" in t:
+        pts.append("pool")
+    m = re.search(r"(\d[\d.,]*\s?(?:m|km|metres|meters))\s+(?:from|to)\s+the\s+beach", t)
+    if m and not any("frontline" in x for x in pts):
+        pts.append(re.sub(r"\s?(metres|meters)$", " m", m.group(1)).replace("  ", " ").replace("m", " m").replace("  ", " ").replace("k m", "km") + " from the beach")
+    if "golf" in t and not any("golf" in x for x in pts):
+        pts.append("near golf")
+    return pts
+
+
+def points_text(pts):
+    """'with sea views and private pool, 400 m from the beach'"""
+    withs = [x for x in pts if x in ("sea views", "private pool", "pool")]
+    rest = [x for x in pts if x not in withs]
+    out = ""
+    if withs:
+        out = " with " + (", ".join(withs[:-1]) + " and " + withs[-1] if len(withs) > 1 else withs[0])
+    return out + "".join(", " + x for x in rest)
+
+
+def short_price(L):
+    v = L["price"]
+    if not v:
+        return ""
+    v = int(v)
+    s = (f"€{v / 1e6:.2f}".rstrip("0").rstrip(".") + "M") if v >= 1e6 else f"€{v:,}"
+    return ("from " if L["from"] else "") + s
+
+
+def seo_title(L, extra=""):
+    base = f"{kind(L)} for sale in {place(L)}"
+    base = base[0].upper() + base[1:]
+    pts, pr = selling_points(L), short_price(L)
+    tail = f", {pr}" if pr else ""
+    cands = []
+    if extra:
+        cands += [f"{base}, {extra}{tail}", f"{base}, {extra}"]
+    else:
+        if len(pts) > 1:
+            cands.append(f"{base}{points_text(pts[:2]).replace(' and ', ' & ')}{tail}")
+        if pts:
+            cands.append(f"{base}{points_text(pts[:1])}{tail}")
+        cands.append(base + tail)
+    short = base.replace(" for sale in ", " in ")
+    if extra:
+        cands += [f"{short}, {extra}{tail}", f"{short}, {extra}"]
+    cands += [short + tail, base, short]
+    return next((c for c in cands if len(c) <= 62), short)
+
+
+def seo_description(L):
+    if L.get("seo"):
+        return L["seo"]  # written in eGO
+    k = ("New build " if L["new"] else "") + kind(L)
+    where = place(L)
+    town = short_town(L["town"])
+    loc = f"{where}, {town}" if where != town else f"{town}, {L['province']}"
+    pts = selling_points(L)
+    s = f"{k[0].upper() + k[1:]} in {loc}{points_text(pts)}. "
+    bits = []
+    if L["built"]:
+        bits.append(f"{L['built']:g} m² built" if isinstance(L["built"], (int, float)) else f"{L['built']} m² built")
+    if L["plot"] and L["type"] not in APARTMENT_TYPES:
+        bits.append(f"{L['plot']:,} m² plot")
+    if L["baths"]:
+        bits.append(f"{L['baths']} bathroom{'s' if L['baths'] != 1 else ''}")
+    s += (", ".join(bits) + ". " if bits else "") + (price_text(L) + ". " if L["price"] else "")
+    for tail in ["See photos and buying costs, and book a viewing with Elite World Estates.",
+                 "See photos and buying costs, and book a viewing.", "Book a viewing.", ""]:
+        if len(s + tail) <= 158:
+            return (s + tail).strip()
+    return s.strip()[:155].rsplit(" ", 1)[0] + "…"
+
+
+def set_seo_titles(items):
+    """Give every listing a Google title; listings that would share one get a size or the reference."""
+    for L in items:
+        L["seo_title"] = seo_title(L)
+    groups = {}
+    for L in items:
+        groups.setdefault(L["seo_title"], []).append(L)
+    for same in groups.values():
+        if len(same) < 2:
+            continue
+        sizes = [L["built"] for L in same]
+        for L in same:
+            size_ok = L["built"] and sizes.count(L["built"]) == 1
+            L["seo_title"] = seo_title(L, f"{L['built']:g} m²" if size_ok else f"ref. {L['ref']}")
+    count = {}
+    for L in items:
+        count[L["seo_title"]] = count.get(L["seo_title"], 0) + 1
+    for L in items:
+        if count[L["seo_title"]] > 1:
+            L["seo_title"] = seo_title(L, f"ref. {L['ref']}")
+    for L in items:
+        L["seo_desc"] = seo_description(L)
+    dcount = {}
+    for L in items:
+        dcount[L["seo_desc"]] = dcount.get(L["seo_desc"], 0) + 1
+    for L in items:
+        if dcount[L["seo_desc"]] > 1 and not L.get("seo"):
+            L["seo_desc"] = re.sub(r"(See photos.*|Book a viewing\.)$", f"Ref. {L['ref']}. Book a viewing.", L["seo_desc"])
+
+
 def costs(L):
     """Rows of the buying-cost table and a note, or None where we have no regional rates."""
     r = REGIONS.get(L["region"])
@@ -451,7 +602,7 @@ def page(L, everyone, url_of, src):
     agent = TEAM[L["agent"]]
     faqs = faq(L, agent)
     lead, body = description_html(L["description"])
-    desc = L.get("seo") or summary(L)  # SEO description from eGO when it has one
+    desc = L.get("seo_desc") or seo_description(L)  # eGO's SEO description when it has one
     c = costs(L)
     wa = urllib.request.quote(f"Hello {agent['name'].split()[0]}, I am interested in {L['title']} (ref. {L['ref']}).")
     hreflang = f'  <link rel="alternate" hreflang="en" href="{url}">\n'
@@ -491,13 +642,13 @@ def page(L, everyone, url_of, src):
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {MARKER}
-  <title>{e(L['title'])} | Elite World Estates</title>
+  <title>{e(L.get('seo_title') or seo_title(L))}</title>
   <meta name="description" content="{e(desc)}">
   <meta name="robots" content="index, follow, max-image-preview:large">
   <link rel="canonical" href="{url}">
 {hreflang}  <meta property="og:type" content="website">
   <meta property="og:site_name" content="Elite World Estates">
-  <meta property="og:title" content="{e(L['title'])}">
+  <meta property="og:title" content="{e(L.get('seo_title') or seo_title(L))}">
   <meta property="og:description" content="{e(desc)}">
   <meta property="og:url" content="{url}">
   <meta property="og:image" content="{og_img}">
@@ -719,6 +870,7 @@ def main(args):
     for L in items:
         if seen[L["slug"]] > 1 or not L["slug"]:
             L["slug"] = f"{L['slug']}-{L['ref'].lower()}".strip("-")
+    set_seo_titles(items)
 
     os.makedirs(OUT, exist_ok=True)
     hand_made = set()
