@@ -167,6 +167,7 @@ def listing(p, pl_links):
         "energy": (p.get("EnergyCertification") or "").strip(),
         "feat": features(p.get("Features")),
         "description": (p.get("Description") or "").replace("\r", ""),
+        "seo": (p.get("SEODescription") or "").strip(),
         "photos": photos, "agent": agents[0] if agents else DEFAULT_AGENT,
         "created": (p.get("CreatedDate") or TODAY)[:10], "modified": (p.get("LastModified") or TODAY)[:10],
         "pl": pl_links.get(str(p["ID"])),
@@ -450,7 +451,7 @@ def page(L, everyone, url_of, src):
     agent = TEAM[L["agent"]]
     faqs = faq(L, agent)
     lead, body = description_html(L["description"])
-    desc = summary(L)
+    desc = L.get("seo") or summary(L)  # SEO description from eGO when it has one
     c = costs(L)
     wa = urllib.request.quote(f"Hello {agent['name'].split()[0]}, I am interested in {L['title']} (ref. {L['ref']}).")
     hreflang = f'  <link rel="alternate" hreflang="en" href="{url}">\n'

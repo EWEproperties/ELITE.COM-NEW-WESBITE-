@@ -196,6 +196,7 @@ def to_website_shape(r, lk, old=None):
         "Year": (old or {}).get("Year"), "EnergyCertification": (old or {}).get("EnergyCertification") or "",
         "Features": (old or {}).get("Features") or feats,
         "Description": lang(r.get("description")),
+        "SEODescription": lang(r.get("seoDescription")) or (old or {}).get("SEODescription") or "",
         "CreatedDate": r.get("createDate") or "", "LastModified": r.get("lastUpdate") or "",
         "Images": images, "_source": "egocrm",
     }
