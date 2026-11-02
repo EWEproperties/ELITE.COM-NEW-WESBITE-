@@ -141,7 +141,7 @@ class Lookups:
         """Fetch the given location ids and all their parents."""
         todo = {i for i in ids if i and i not in self.locations}
         while todo:
-            batch = list(todo)[:100]
+            batch = list(todo)[:50]  # eGO allows at most 50 per call
             for x in self.g.get("/metadata/Location/ListLocationById", locationIds=batch):
                 self.locations[x["id"]] = x
             todo -= set(batch)
@@ -161,6 +161,12 @@ class Lookups:
         return "", (chain[0] if chain else ""), ""
 
 
+def web_id(r):
+    """The listing's website id (metabaseId): the number in the old live URLs, the
+    PL site links and the cache file names. The CRM's own id is kept as CrmID."""
+    return r.get("metabaseId") or r["id"]
+
+
 def to_website_shape(r, lk, old=None):
     """Global API listing -> the website-API field names build_properties.listing() reads."""
     province, town, area = lk.place(r.get("locationId"))
@@ -178,7 +184,7 @@ def to_website_shape(r, lk, old=None):
                                              "Thumbnail_640X480": m.get("urlThumbnail") or m.get("webThumbUri") or main,
                                              "Description": lang(m.get("description"))}] if main else [])
     return {
-        "ID": r["id"], "Reference": r.get("reference") or "", "Title": lang(r.get("name")),
+        "ID": web_id(r), "CrmID": r["id"], "Reference": r.get("reference") or "", "Title": lang(r.get("name")),
         "Type": lk.nature.get(r.get("natureTypeId"), ""), "Condition": lk.condition.get(r.get("conditionTypeId"), ""),
         "Municipality": town, "Parish": area, "District": province,
         "GPSLat": r.get("gpsLat"), "GPSLon": r.get("gpsLon"),
@@ -206,15 +212,15 @@ def fetch_global(user, password, ids=None, check=False):
             print("  ", p.get("securityFeatureReference"), "flag", p.get("securityAccessFlag"))
     rows = list(g.pages(limit=PAGE_SIZE if check else None, hasWebPage=True))
     if ids:
-        rows = [r for r in rows if str(r["id"]) in ids]
+        rows = [r for r in rows if str(r["id"]) in ids or str(web_id(r)) in ids]
     lk = Lookups(g)
     lk.load_locations({r.get("locationId") for r in rows})
     keep = set()
     for r in rows:
-        path = os.path.join(CACHE, f"{r['id']}.json")
+        path = os.path.join(CACHE, f"{web_id(r)}.json")
         old = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else None
         save(to_website_shape(r, lk, old))
-        keep.add(f"{r['id']}.json")
+        keep.add(f"{web_id(r)}.json")
     print(f"saved {len(keep)} listings")
     if not ids and not check:
         for f in os.listdir(CACHE):

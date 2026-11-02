@@ -122,6 +122,25 @@ def ego_photo(url, size):
     return EGO_IMG.sub(lambda m: f"{m.group(1)}/{size}/OAYES/", url or "")
 
 
+FIXES_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fixes.json")
+FIXES = json.load(open(FIXES_PATH, encoding="utf-8")) if os.path.exists(FIXES_PATH) else {}
+
+
+def apply_fixes(p):
+    """Small website-side fixes to eGO texts (fixes.json, by reference) plus common typos.
+    eGO itself is never changed."""
+    fix = FIXES.get(p.get("Reference") or "", {})
+    if fix.get("title"):
+        p["Title"] = fix["title"]
+    if fix.get("description"):
+        p["Description"] = fix["description"]
+    t = re.sub(r"\b([Aa])partament(s?)\b", r"\1partment\2", p.get("Title") or "")
+    if t.isupper():
+        t = t.capitalize()
+    p["Title"] = re.sub(r"\s{2,}", " ", t).strip()
+    return p
+
+
 def listing(p, pl_links):
     title = (p.get("Title") or "").strip() or f"{p['Type']} for sale in {p['Municipality']}"
     price = p["PropertyBusiness"][0]["Prices"][0]["PriceValue"] if p.get("PropertyBusiness") else 0
@@ -681,8 +700,12 @@ def main(args):
     local = "--local-photos" in args
     pl_path = os.path.join(CACHE, "_pl_links.json")
     pl_links = json.load(open(pl_path)) if os.path.exists(pl_path) else {}
-    raw = [json.load(open(os.path.join(CACHE, f), encoding="utf-8"))
+    raw = [apply_fixes(json.load(open(os.path.join(CACHE, f), encoding="utf-8")))
            for f in sorted(os.listdir(CACHE)) if f.endswith(".json") and not f.startswith("_")]
+    empty = [p.get("Reference") or p["ID"] for p in raw if not (p.get("Description") or "").strip()]
+    if empty:
+        print("skipped (no description in eGO):", ", ".join(map(str, empty)))
+    raw = [p for p in raw if (p.get("Description") or "").strip()]
     items = [listing(p, pl_links) for p in raw]
     items.sort(key=lambda L: L["id"])
     # Two listings with the same title get the reference added to the address
