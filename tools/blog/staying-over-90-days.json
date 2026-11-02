@@ -13,8 +13,8 @@
  "cards": ["26157630", "21034180", "26239846"],
  "en": {
   "slug": "staying-in-spain-for-more-than-90-days-while-owning-property",
-  "title": "Staying in Spain Over 90 Days as a Property Owner – EU and UK Rules",
-  "description": "Owning a home in Spain does not give you the right to live there. What EU and non-EU (including UK) owners need to stay more than 90 days: registration, visas, tax residency, healthcare and cars.",
+  "title": "Staying in Spain over 90 days as a property owner",
+  "description": "Owning a home in Spain does not give you the right to live there. What EU and non-EU (including UK) owners need to stay over 90 days: visas, tax and cars.",
   "crumb": "Staying over 90 days",
   "eyebrow": "Living in Spain · Residency",
   "h1": "Staying in Spain for More Than 90 Days While Owning Property",
@@ -46,8 +46,8 @@
  },
  "de": {
   "slug": "aufenthalt-in-spanien-von-mehr-als-90-tagen-mit-immobilienbesitz",
-  "title": "Mehr als 90 Tage in Spanien als Immobilieneigentümer – Anmeldung, Steuern, Auto",
-  "description": "Was deutsche, österreichische und Schweizer Eigentümer brauchen, um länger als drei Monate in Spanien zu bleiben: Registrierung, NIE, steuerliche Ansässigkeit, Krankenversicherung und Auto.",
+  "title": "Über 90 Tage in Spanien als Immobilieneigentümer",
+  "description": "Was deutsche, österreichische und Schweizer Eigentümer brauchen, um über drei Monate in Spanien zu bleiben: Registrierung, NIE, Steuern, Auto.",
   "crumb": "Mehr als 90 Tage in Spanien",
   "eyebrow": "Leben in Spanien · Aufenthalt",
   "h1": "Aufenthalt in Spanien von mehr als 90 Tagen mit Immobilienbesitz",
@@ -79,8 +79,8 @@
  },
  "es": {
   "slug": "estancia-en-espana-superior-a-90-dias-siendo-propietario-de-un-inmueble",
-  "title": "Más de 90 días en España siendo propietario extranjero – Normas UE y no UE",
-  "description": "Tener una vivienda en España no da derecho a residir. Qué necesitan los propietarios extranjeros, de la UE y de fuera de la UE, para quedarse más de 90 días: registro, visado, residencia fiscal, sanidad y coche.",
+  "title": "Más de 90 días en España siendo propietario extranjero",
+  "description": "Tener vivienda en España no da derecho a residir. Qué necesitan los propietarios de la UE y de fuera para quedarse más de 90 días: visado, impuestos y coche.",
   "crumb": "Más de 90 días en España",
   "eyebrow": "Vivir en España · Residencia",
   "h1": "Estancia en España superior a 90 días siendo propietario de un inmueble",
