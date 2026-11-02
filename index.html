@@ -14,11 +14,12 @@
   <meta property="og:title" content="Premium Real Estate Agency in Costa Blanca | Elite World Estates">
   <meta property="og:description" content="Sea view apartments, villas and luxury villas for sale on the Costa Blanca and Costa del Sol.">
   <meta property="og:url" content="https://www.eliteworldestates.com/">
-  <meta property="og:image" content="https://www.eliteworldestates.com/assets/hero.jpg">
+  <meta property="og:image" content="https://www.eliteworldestates.com/assets/hero-villa.jpg">
   <meta property="og:locale" content="en_GB">
   <meta name="twitter:card" content="summary_large_image">
   <link rel="icon" href="assets/logo.png" type="image/png">
-  <link rel="preload" as="image" href="assets/hero.jpg" fetchpriority="high">
+  <link rel="preload" as="image" href="assets/hero-villa.jpg" imagesrcset="assets/hero-villa-800.jpg 800w, assets/hero-villa.jpg 1376w" imagesizes="100vw" fetchpriority="high">
+  <link rel="preload" as="font" type="font/woff2" href="assets/fonts/cinzel-latin.woff2" crossorigin>
   <link rel="stylesheet" href="css/style.css">
   <script type="application/ld+json">
 [
@@ -29,7 +30,7 @@
   "name": "Elite World Estates",
   "url": "https://www.eliteworldestates.com/",
   "logo": "https://www.eliteworldestates.com/assets/logo.png",
-  "image": "https://www.eliteworldestates.com/assets/hero.jpg",
+  "image": "https://www.eliteworldestates.com/assets/hero-villa.jpg",
   "slogan": "Home is your castle!",
   "description": "Polish real estate agency in Spain selling sea view apartments, villas and luxury villas on the Costa Blanca and Costa del Sol since 2018.",
   "telephone": "+34 672 519 809",
@@ -85,7 +86,7 @@
 ]
   </script>
 </head>
-<body>
+<body class="home">
 
 <header class="site-header" id="top">
   <div class="container header-inner">
@@ -119,33 +120,54 @@
 </header>
 
 <section class="hero">
+  <img class="hero-img" src="assets/hero-villa.jpg" srcset="assets/hero-villa-800.jpg 800w, assets/hero-villa.jpg 1376w" sizes="100vw" width="1376" height="768" alt="Modern white villa with an infinity pool overlooking the sea on the Spanish coast" fetchpriority="high" decoding="async">
   <div class="hero-overlay"></div>
   <div class="container hero-content">
-    <h1><span class="eyebrow">Polish Real Estate Agency in Spain</span> Elite World Estates</h1>
-    <p class="tagline">Home is your castle!</p>
-    <form class="search" action="#properties">
-      <select id="search-type" aria-label="Property type">
-        <option>Property type</option>
+    <p class="hero-kicker">Elite World Estates &middot; Real estate agency in Spain</p>
+    <h1>Your home on the <em>Spanish</em> coast</h1>
+    <p class="hero-lead">Villas, apartments and homes for sale on the Costa Blanca, Costa C&aacute;lida and Costa del Sol. We guide you through the whole purchase, from the first viewing to the signature at the notary.</p>
+    <div class="hero-acts">
+      <a href="#featured" class="btn btn-gold">View properties</a>
+      <a href="how-to-buy-an-apartment-or-house-in-spain.html" class="btn btn-light">How to buy in Spain</a>
+    </div>
+  </div>
+</section>
+
+<div class="container">
+  <form class="search-bar" action="#featured" aria-label="Search properties">
+    <div class="field">
+      <label for="search-type">Property type</label>
+      <select id="search-type" name="type">
+        <option value="">Any</option>
         <option>Apartment</option>
         <option>Villa</option>
         <option>Luxury villa</option>
       </select>
-      <select id="search-location" aria-label="Location">
-        <option>Location</option>
+    </div>
+    <div class="field">
+      <label for="search-location">Location</label>
+      <select id="search-location" name="location">
+        <option value="">Any</option>
         <option>Costa Blanca</option>
+        <option>Costa C&aacute;lida</option>
         <option>Costa del Sol</option>
       </select>
-      <select id="search-price" aria-label="Maximum price">
-        <option>Max price</option>
-        <option>€400,000</option>
-        <option>€700,000</option>
-        <option>€1,500,000</option>
-        <option>€3,000,000+</option>
+    </div>
+    <div class="field">
+      <label for="search-price">Max price</label>
+      <select id="search-price" name="max-price">
+        <option value="">No limit</option>
+        <option>&euro;400,000</option>
+        <option>&euro;700,000</option>
+        <option>&euro;1,500,000</option>
+        <option>&euro;3,000,000+</option>
       </select>
+    </div>
+    <div class="field field-btn">
       <button type="submit" class="btn btn-gold">Search</button>
-    </form>
-  </div>
-</section>
+    </div>
+  </form>
+</div>
 
 <section class="featured" id="featured">
   <div class="container">
