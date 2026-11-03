@@ -1,0 +1,65 @@
+{
+ "title": "Pisos en venta en Santa Pola y Gran Alacant",
+ "description": "{count} pisos, áticos y casas en venta en Santa Pola y Gran Alacant desde {from}, cerca de la playa. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Santa Pola",
+ "lead": "Pisos nuevos a un paseo de la playa y del puerto, y casas con vistas en Gran Alacant, a 15 minutos del aeropuerto de Alicante. Estos son los inmuebles que vendemos hoy en Santa Pola, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Santa Pola"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "unos 15 min",
+   "al aeropuerto de Alicante-Elche"
+  ],
+  [
+   "Tabarca",
+   "una isla a un corto trayecto en barco"
+  ]
+ ],
+ "listings_intro": "Pisos nuevos y áticos de 1 a 3 dormitorios, la mayoría a menos de un kilómetro de la playa, y adosados, bungalows y villas en Gran Alacant. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Santa Pola",
+ "guide": [
+  "Santa Pola es una localidad costera de unos 38.000 habitantes justo al sur de Alicante. Tiene una de las mayores flotas pesqueras de la costa, un puerto animado con restaurantes de pescado y largas playas de arena a lo largo de la bahía.",
+  "Detrás de la ciudad está el Parque Natural de las Salinas de Santa Pola, una amplia zona de salinas donde viven flamencos buena parte del año. Desde el puerto salen barcos a la pequeña isla de Tabarca, una reserva marina de aguas claras. En el cabo sobre la ciudad, Gran Alacant es una gran zona residencial con vistas al mar.",
+  "Aquí la vida sigue todo el año, con tiendas, mercados y servicios en el centro. El aeropuerto de Alicante-Elche está a solo 15 minutos en coche, y Alicante ciudad a unos 25 minutos."
+ ],
+ "guide_photo_alt": "Flamencos en las salinas de Santa Pola",
+ "areas_title": "Las principales zonas de Santa Pola",
+ "areas": [
+  {
+   "name": "Centro y puerto",
+   "text": "El puerto, la lonja y el centro antiguo, con tiendas y restaurantes a pie. Pisos cerca de la playa."
+  },
+  {
+   "name": "Playa de Levante",
+   "text": "La larga playa de arena al este del puerto, con paseo marítimo. Pisos y áticos cerca del mar."
+  },
+  {
+   "name": "Gran Alacant",
+   "text": "Una gran zona residencial en el cabo sobre Santa Pola, con vistas al mar. Adosados, bungalows y villas."
+  },
+  {
+   "name": "Santa Pola del Este",
+   "text": "Una zona más tranquila en el cabo, con calas y casas cerca del mar."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Santa Pola?",
+   "Nuestros pisos nuevos en Santa Pola empiezan hoy en {from}, y la mayoría de 2 o 3 dormitorios cuestan entre 235.000 € y 380.000 €. Las casas en Gran Alacant cuestan desde unos 289.000 € por un adosado hasta 792.000 € por una villa moderna."
+  ],
+  [
+   "¿Está Santa Pola cerca del aeropuerto?",
+   "Sí, es una de las localidades de playa más cercanas al aeropuerto de Alicante-Elche, a unos 15 minutos en coche. Eso la hace práctica para escapadas cortas y para alquilar."
+  ],
+  [
+   "¿Qué es Gran Alacant?",
+   "Gran Alacant es una zona residencial en el cabo sobre Santa Pola, con casas y pisos, tiendas y restaurantes, y vistas al mar y a las salinas. Está a unos 10 minutos de Santa Pola y del aeropuerto."
+  ]
+ ]
+}

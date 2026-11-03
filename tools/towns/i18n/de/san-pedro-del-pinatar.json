@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in San Pedro del Pinatar & Lo Pagán kaufen",
+ "description": "{count} Wohnungen, Bungalows und Villen zum Verkauf in San Pedro del Pinatar und Lo Pagán ab {from}, am Mar Menor. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in San Pedro del Pinatar",
+ "lead": "Neue Wohnungen und Bungalows wenige Schritte vom Strand in Lo Pagán und Villen mit eigenem Pool, zwischen dem Mar Menor und dem offenen Meer. Hier finden Sie die Immobilien, die wir heute in San Pedro del Pinatar verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in San Pedro del Pinatar"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 35 Min.",
+   "zum Flughafen Región de Murcia"
+  ],
+  [
+   "2 Meere",
+   "das Mar Menor und das Mittelmeer"
+  ]
+ ],
+ "listings_intro": "Neue Wohnungen mit 1 bis 3 Schlafzimmern, Bungalows mit Terrasse und Villen mit eigenem Pool, viele weniger als einen Kilometer vom Strand. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in San Pedro del Pinatar",
+ "guide": [
+  "San Pedro del Pinatar ist eine Stadt mit rund 27.000 Einwohnern im Norden der Region Murcia, direkt an der Grenze zur Costa Blanca. Sie liegt zwischen zwei Meeren: auf der einen Seite die ruhige, warme Lagune Mar Menor, auf der anderen das offene Mittelmeer.",
+  "Zwischen der Stadt und dem Meer liegt der Regionalpark Salinas y Arenales, mit Salinen, Dünen, alten Windmühlen und Flamingos und langen Naturstränden auf der Mittelmeerseite. Lo Pagán, der Küstenteil der Stadt, ist bekannt für seine Promenade, den Jachthafen und die Schlammbäder am Ufer des Mar Menor.",
+  "Das Leben ist entspannt, und die Preise sind niedriger als an den meisten Orten der Küste. Der Flughafen Región de Murcia ist mit dem Auto etwa 35 Minuten entfernt, der Flughafen Alicante etwa 50 Minuten und Torrevieja etwa 20 Minuten."
+ ],
+ "guide_photo_alt": "Flamingos in den Salinen von Lo Pagán, San Pedro del Pinatar",
+ "areas_title": "Die wichtigsten Viertel von San Pedro del Pinatar",
+ "areas": [
+  {
+   "name": "Lo Pagán",
+   "text": "Der Küstenteil der Stadt am Mar Menor, mit Promenade, Jachthafen und Schlammbädern. Wohnungen nahe am Wasser."
+  },
+  {
+   "name": "Stadtzentrum",
+   "text": "Geschäfte, Märkte und Versorgung zu Fuß, 1 bis 2 km vom Strand. Neue Wohnungen und Bungalows zum Leben das ganze Jahr."
+  },
+  {
+   "name": "Villananitos",
+   "text": "Ein ruhiges Strandviertel am Mar Menor, neben Lo Pagán. Wohnungen und Häuser nahe am Wasser."
+  },
+  {
+   "name": "Stadtrand",
+   "text": "Neuere Wohngebiete wenige Kilometer vom Meer, mit Villen und Reihenhäusern mit eigenem Pool."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in San Pedro del Pinatar?",
+   "Unsere neuen Wohnungen in San Pedro del Pinatar beginnen heute bei {from}, die meisten mit 1 oder 2 Schlafzimmern kosten zwischen 150.000 € und 330.000 €. Bungalows gibt es ab etwa 270.000 €, Villen mit eigenem Pool kosten etwa 400.000 € bis 810.000 €."
+  ],
+  [
+   "Was sind die Schlammbäder von Lo Pagán?",
+   "Am Ufer des Mar Menor in Lo Pagán gibt es natürliche, mineralreiche Schlammbecken. Viele Menschen reiben sich mit dem Schlamm ein und spülen ihn dann in der Lagune ab, eine örtliche Sommertradition."
+  ],
+  [
+   "Wie weit ist San Pedro del Pinatar vom Flughafen entfernt?",
+   "Der Flughafen Región de Murcia in Corvera ist mit dem Auto etwa 35 Minuten entfernt, der Flughafen Alicante-Elche etwa 50 Minuten."
+  ]
+ ]
+}

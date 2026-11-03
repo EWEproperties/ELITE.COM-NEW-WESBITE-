@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in Torre-Pacheco & Santa Rosalía kaufen",
+ "description": "{count} Wohnungen, Bungalows und Villen zum Verkauf in Torre-Pacheco, Santa Rosalía Resort und Roldán ab {from}. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Torre-Pacheco",
+ "lead": "Häuser rund um die Badelagune des Santa Rosalía Lake & Life Resort und Villen mit eigenem Pool in Roldán und El Alba, wenige Minuten vom Mar Menor. Hier finden Sie die Immobilien, die wir heute in Torre-Pacheco verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Torre-Pacheco"
+  ],
+  [
+   "ab {from}",
+   "für einen Bungalow"
+  ],
+  [
+   "ca. 25 Min.",
+   "zum Flughafen Región de Murcia"
+  ],
+  [
+   "ca. 5 km",
+   "von Santa Rosalía zum Mar Menor"
+  ]
+ ],
+ "listings_intro": "Wohnungen, Penthäuser, Bungalows und Villen in geschlossenen Resorts, viele mit eigenem Pool oder Blick auf die Lagune. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Torre-Pacheco",
+ "guide": [
+  "Torre-Pacheco ist eine Gemeinde mit rund 40.000 Einwohnern im Campo de Cartagena in der Region Murcia, eine kurze Fahrt landeinwärts vom Mar Menor. Die meisten unserer Immobilien hier liegen in modernen, geschlossenen Resorts für Menschen, die Platz, Sonne und einen Pool suchen, nahe an den Stränden von Los Alcázares.",
+  "Das bekannteste ist das Santa Rosalía Lake & Life Resort, etwa 5 km vom Mar Menor. Sein Herzstück ist eine türkisfarbene Badelagune von rund 1,6 Hektar mit weißen Sandstränden und zwei Inseln, in einem Park von rund 12 Hektar. In der Nähe bieten Roldán und das Wohngebiet El Alba Villen und Bungalows mit eigenem Pool für weniger Geld.",
+  "Golfplätze, Supermärkte und die Strände von Los Alcázares sind wenige Minuten entfernt. Der Flughafen Región de Murcia ist mit dem Auto etwa 25 Minuten entfernt, der Flughafen Alicante etwas über eine Stunde."
+ ],
+ "guide_photo_alt": "Sandstrand mit Palmen an der Badelagune des Santa Rosalía Lake & Life Resort",
+ "areas_title": "Die wichtigsten Viertel von Torre-Pacheco",
+ "areas": [
+  {
+   "name": "Santa Rosalía Lake & Life Resort",
+   "text": "Ein geschlossenes Resort rund um eine große Badelagune mit Stränden, etwa 5 km vom Mar Menor. Wohnungen, Penthäuser, Bungalows und Villen."
+  },
+  {
+   "name": "Roldán",
+   "text": "Ein kleiner Ort in der Gemeinde, mit Läden und neuen Villen und Bungalows mit eigenem Pool."
+  },
+  {
+   "name": "El Alba Mediterranean Resort",
+   "text": "Ein Wohngebiet mit modernen Villen und Bungalows, viele mit eigenem Pool, nahe Roldán."
+  },
+  {
+   "name": "Ort Torre-Pacheco",
+   "text": "Der Hauptort, mit Geschäften, Märkten, Schulen und Gesundheitszentren, für den Alltag das ganze Jahr."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Immobilie in Torre-Pacheco?",
+   "Unsere Immobilien in Torre-Pacheco beginnen heute bei {from}. Wohnungen in Santa Rosalía gibt es ab etwa 290.000 €, Penthäuser ab etwa 525.000 €, Villen mit eigenem Pool ab etwa 275.000 € in Roldán bis 675.000 € in El Alba."
+  ],
+  [
+   "Was ist das Santa Rosalía Lake & Life Resort?",
+   "Ein geschlossenes Wohnresort in Torre-Pacheco rund um eine große Badelagune mit weißen Sandstränden. Lagune und Anlagen sind für Bewohner und ihre Gäste und werden über die Gemeinschaftskosten bezahlt. Lesen Sie unseren <a href=\"santa-rosalia-lake-and-life-resort.html\">Ratgeber zu Santa Rosalía</a>."
+  ],
+  [
+   "Wie weit ist Torre-Pacheco vom Strand und vom Flughafen entfernt?",
+   "Die Strände von Los Alcázares am Mar Menor sind mit dem Auto etwa 5 bis 10 Minuten entfernt. Der Flughafen Región de Murcia ist etwa 25 Minuten entfernt."
+  ]
+ ]
+}

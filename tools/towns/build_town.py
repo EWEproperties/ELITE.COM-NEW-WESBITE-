@@ -62,6 +62,69 @@ UI = {
 BLOG = {"en": "blog.html", "de": "de-de/blog.html", "es": "es-es/blog.html"}
 LEGAL = {"en": ("terms-and-conditions.html", "privacy-policy.html", "cookie-policy.html")}
 
+# The cost table rows are the same wording on every town page, so they are translated here once
+COSTS = {
+    "de": {"New build": "Neubau", "Resale home": "Bestandsimmobilie", "Notary, registry, lawyer": "Notar, Grundbuch, Anwalt",
+           "Every year": "Jedes Jahr", "about 1.5–2.5% of the price": "ca. 1,5–2,5 % des Preises",
+           "IBI property tax and community fees, which depend on the home": "Grundsteuer IBI und Gemeinschaftskosten, je nach Immobilie",
+           "10% VAT (IVA) + 1.2% stamp duty (AJD)": "10 % Mehrwertsteuer (IVA) + 1,2 % Stempelsteuer (AJD)",
+           "10% VAT (IVA) + 1.4% stamp duty (AJD)": "10 % Mehrwertsteuer (IVA) + 1,4 % Stempelsteuer (AJD)",
+           "10% VAT (IVA) + 1.5% stamp duty (AJD)": "10 % Mehrwertsteuer (IVA) + 1,5 % Stempelsteuer (AJD)",
+           "7% transfer tax (ITP)": "7 % Grunderwerbsteuer (ITP)", "7.75% transfer tax (ITP)": "7,75 % Grunderwerbsteuer (ITP)",
+           "9% transfer tax (ITP), 11% above €1 million": "9 % Grunderwerbsteuer (ITP), 11 % über 1 Mio. €"},
+    "es": {"New build": "Obra nueva", "Resale home": "Segunda mano", "Notary, registry, lawyer": "Notaría, registro, abogado",
+           "Every year": "Cada año", "about 1.5–2.5% of the price": "aprox. 1,5–2,5 % del precio",
+           "IBI property tax and community fees, which depend on the home": "IBI y gastos de comunidad, según la vivienda",
+           "10% VAT (IVA) + 1.2% stamp duty (AJD)": "10 % IVA + 1,2 % AJD",
+           "10% VAT (IVA) + 1.4% stamp duty (AJD)": "10 % IVA + 1,4 % AJD",
+           "10% VAT (IVA) + 1.5% stamp duty (AJD)": "10 % IVA + 1,5 % AJD",
+           "7% transfer tax (ITP)": "7 % ITP", "7.75% transfer tax (ITP)": "7,75 % ITP",
+           "9% transfer tax (ITP), 11% above €1 million": "9 % ITP, 11 % por encima de 1 millón de €"},
+}
+
+# FAQ answers that are the same on many town pages ({t} = town), translated once
+NIE = '<a href="nie-number-in-spain-what-is-it-and-how-to-get-it.html">'
+FAQ_TR = {
+    "de": {
+        ("Can foreigners buy property in {t}?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the " + NIE + "NIE number</a>."):
+        ("Können Ausländer in {t} eine Immobilie kaufen?", "Ja. Jeder kann in Spanien eine Immobilie kaufen. Sie brauchen eine spanische Steuernummer (NIE) und meist ein spanisches Bankkonto, und wir helfen Ihnen bei beidem. Mehr dazu in unserem Ratgeber zur " + NIE + "NIE-Nummer</a>."),
+        ("What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("Welche Kosten kommen zum Kaufpreis hinzu?", "Bei einem Neubau zahlen Sie 10 % Mehrwertsteuer und 1,4 % Stempelsteuer. Bei einer Bestandsimmobilie zahlen Sie 9 % Grunderwerbsteuer (11 % über 1 Mio. €). Notar, Grundbuch und Anwalt kosten zusammen etwa 1,5–2,5 %."),
+        ("What costs are there on top of the price?", "In the Valencian Community you pay 10% VAT and 1.4% stamp duty on a new build, and 9% transfer tax (11% above €1 million) on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("Welche Kosten kommen zum Kaufpreis hinzu?", "In der Region Valencia zahlen Sie bei einem Neubau 10 % Mehrwertsteuer und 1,4 % Stempelsteuer, bei einer Bestandsimmobilie 9 % Grunderwerbsteuer (11 % über 1 Mio. €). Notar, Grundbuch und Anwalt kosten zusammen etwa 1,5–2,5 %."),
+        ("What costs are there on top of the price?", "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("Welche Kosten kommen zum Kaufpreis hinzu?", "In Andalusien zahlen Sie bei einem Neubau 10 % Mehrwertsteuer und 1,2 % Stempelsteuer, bei einer Bestandsimmobilie 7 % Grunderwerbsteuer. Notar, Grundbuch und Anwalt kosten zusammen etwa 1,5–2,5 %."),
+        ("What costs are there on top of the price?", "In the Region of Murcia you pay 10% VAT and 1.5% stamp duty on a new build, and 7.75% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("Welche Kosten kommen zum Kaufpreis hinzu?", "In der Region Murcia zahlen Sie bei einem Neubau 10 % Mehrwertsteuer und 1,5 % Stempelsteuer, bei einer Bestandsimmobilie 7,75 % Grunderwerbsteuer. Notar, Grundbuch und Anwalt kosten zusammen etwa 1,5–2,5 %."),
+    },
+    "es": {
+        ("Can foreigners buy property in {t}?", "Yes. Anyone can buy property in Spain. You need a Spanish NIE tax number and usually a Spanish bank account, and we help you with both. See our guide to the " + NIE + "NIE number</a>."):
+        ("¿Pueden comprar vivienda los extranjeros en {t}?", "Sí. Cualquier persona puede comprar una vivienda en España. Necesita un NIE y normalmente una cuenta bancaria española, y le ayudamos con las dos cosas. Consulte nuestra guía del " + NIE + "NIE</a>."),
+        ("What costs are there on top of the price?", "For a new build you pay 10% VAT and 1.4% stamp duty. For a resale home you pay 9% transfer tax (11% above €1 million). Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("¿Qué gastos hay además del precio?", "En obra nueva se paga un 10 % de IVA y un 1,4 % de AJD. En segunda mano se paga un 9 % de ITP (11 % por encima de 1 millón de €). Notaría, registro y abogado suman alrededor de un 1,5–2,5 %."),
+        ("What costs are there on top of the price?", "In the Valencian Community you pay 10% VAT and 1.4% stamp duty on a new build, and 9% transfer tax (11% above €1 million) on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("¿Qué gastos hay además del precio?", "En la Comunitat Valenciana se paga un 10 % de IVA y un 1,4 % de AJD en obra nueva, y un 9 % de ITP (11 % por encima de 1 millón de €) en segunda mano. Notaría, registro y abogado suman alrededor de un 1,5–2,5 %."),
+        ("What costs are there on top of the price?", "In Andalusia you pay 10% VAT and 1.2% stamp duty on a new build, and 7% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("¿Qué gastos hay además del precio?", "En Andalucía se paga un 10 % de IVA y un 1,2 % de AJD en obra nueva, y un 7 % de ITP en segunda mano. Notaría, registro y abogado suman alrededor de un 1,5–2,5 %."),
+        ("What costs are there on top of the price?", "In the Region of Murcia you pay 10% VAT and 1.5% stamp duty on a new build, and 7.75% transfer tax on a resale home. Notary, land registry and legal fees add about 1.5–2.5%."):
+        ("¿Qué gastos hay además del precio?", "En la Región de Murcia se paga un 10 % de IVA y un 1,5 % de AJD en obra nueva, y un 7,75 % de ITP en segunda mano. Notaría, registro y abogado suman alrededor de un 1,5–2,5 %."),
+    },
+}
+
+COSTS_INTRO_EN = (r"On top of the price you pay tax and fees\. For a new (\w+) at €([\d,]+), for example, that is €([\d,]+) VAT "
+                  r"and €([\d,]+) stamp duty, plus notary, land registry and legal fees\. Taxes on resale homes are different, "
+                  r"so always ask us for the exact figure for the home you like\.")
+COSTS_INTRO = {
+    "de": ("Zum Kaufpreis kommen Steuern und Gebühren. Für {kind} zu {p} sind das zum Beispiel {vat} Mehrwertsteuer und {ajd} "
+           "Stempelsteuer, dazu Notar, Grundbuch und Anwalt. Für Bestandsimmobilien gelten andere Steuern, fragen Sie uns also "
+           "immer nach der genauen Summe für die Immobilie, die Ihnen gefällt.",
+           {"apartment": "eine neue Wohnung", "villa": "eine neue Villa", "home": "eine neue Immobilie"}),
+    "es": ("Al precio se suman impuestos y gastos. Para {kind} de {p}, por ejemplo, son {vat} de IVA y {ajd} de AJD, más notaría, "
+           "registro y abogado. En la segunda mano los impuestos son otros, así que pídanos siempre la cifra exacta de la vivienda "
+           "que le guste.",
+           {"apartment": "un piso nuevo", "villa": "una villa nueva", "home": "una vivienda nueva"}),
+}
+
 
 def money(v, lang):
     return f"€{v:,}" if lang == "en" else f"{v:,} €".replace(",", ".")
@@ -154,6 +217,19 @@ def main(slug, lang="en"):
     en = dict(c)
     if lang != "en":
         c.update(json.load(open(os.path.join(HERE, "i18n", lang, slug + ".json"), encoding="utf-8")))
+        if "costs" not in c or c["costs"] is en["costs"]:
+            c["costs"] = [[COSTS[lang][x] for x in r] for r in en["costs"]]
+        if "costs_intro" not in c or c["costs_intro"] is en["costs_intro"]:
+            k, p, vat, ajd = re.fullmatch(COSTS_INTRO_EN, en["costs_intro"]).groups()
+            num = lambda x: money(int(x.replace(",", "")), lang)
+            tpl, kinds = COSTS_INTRO[lang]
+            c["costs_intro"] = tpl.format(kind=kinds[k], p=num(p), vat=num(vat), ajd=num(ajd))
+        if len(c["faq"]) < len(en["faq"]):  # the shared questions come from FAQ_TR, the town's own from the file
+            own, t, faq = iter(c["faq"]), en["town"], []
+            for q, a in en["faq"]:
+                k = (q.replace(t, "{t}"), a.replace(t, "{t}"))
+                faq.append([x.replace("{t}", t) for x in FAQ_TR[lang][k]] if k in FAQ_TR[lang] else next(own))
+            c["faq"] = faq
     u, up, bm = UI[lang], ("../" if lang != "en" else ""), blog_map()
     versions = {l: SITE + "/" + page_path(en, slug, l) for l in langs_of(slug)}
 

@@ -1,0 +1,65 @@
+{
+ "title": "Pisos y casas en venta en Guardamar del Segura",
+ "description": "{count} pisos, áticos y casas en venta en Guardamar del Segura desde {from}, cerca de la playa y las dunas. Fotos, guía y gastos de compra.",
+ "h1": "Inmuebles en venta en Guardamar del Segura",
+ "lead": "Pisos nuevos y áticos cerca de las largas playas de arena, la pinada y el puerto deportivo. Estos son los inmuebles que vendemos hoy en Guardamar del Segura, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Guardamar"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "unos 30 min",
+   "al aeropuerto de Alicante-Elche"
+  ],
+  [
+   "unos 11 km",
+   "de playas de arena"
+  ]
+ ],
+ "listings_intro": "Pisos nuevos y áticos de 2 o 3 dormitorios, muchos cerca de la playa o del puerto, y un pareado en El Raso. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Guardamar del Segura",
+ "guide": [
+  "Guardamar del Segura es una localidad costera de unos 17.000 habitantes en el sur de la Costa Blanca, donde el río Segura llega al mar, entre Santa Pola y Torrevieja. Es conocida por sus largas playas de arena, unos 11 km, con dunas y una gran pinada detrás que se plantó para sujetar la arena.",
+  "La localidad tiene un ambiente relajado y español, con un centro de tiendas y cafeterías, un puerto deportivo en la desembocadura del río y parques en la pinada para pasear y montar en bici. Al sur, muy cerca, está el parque natural de La Mata y su laguna.",
+  "Los precios son razonables y la localidad tiene vida todo el año. El aeropuerto de Alicante-Elche está a unos 30 minutos en coche, y Torrevieja a unos 15 minutos."
+ ],
+ "guide_photo_alt": "Veleros al atardecer en el puerto deportivo de Guardamar del Segura",
+ "areas_title": "Las principales zonas de Guardamar del Segura",
+ "areas": [
+  {
+   "name": "Centro",
+   "text": "Tiendas, cafeterías y servicios a pie, a pocos minutos de la playa. Pisos para vivir todo el año."
+  },
+  {
+   "name": "Playa y pinada",
+   "text": "Las playas, las dunas y los parques de la pinada. Pisos cerca de la arena."
+  },
+  {
+   "name": "Junto al puerto",
+   "text": "El puerto deportivo en la desembocadura del Segura, con restaurantes. Pisos nuevos y áticos."
+  },
+  {
+   "name": "El Raso",
+   "text": "Una zona residencial más tranquila al sur de la localidad, cerca del parque natural de La Mata. Pisos y casas."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Guardamar del Segura?",
+   "Nuestros pisos en Guardamar empiezan hoy en {from}, y la mayoría de 2 o 3 dormitorios cuestan entre 250.000 € y 345.000 €. Los áticos junto al puerto cuestan hasta unos 550.000 €."
+  ],
+  [
+   "¿Son de arena las playas de Guardamar?",
+   "Sí. Guardamar tiene unos 11 km de playas de arena fina con dunas y pinada detrás, de las más naturales de la Costa Blanca."
+  ],
+  [
+   "¿A qué distancia está Guardamar del aeropuerto?",
+   "El aeropuerto de Alicante-Elche está a unos 30 minutos en coche, y el de la Región de Murcia a unos 50 minutos."
+  ]
+ ]
+}

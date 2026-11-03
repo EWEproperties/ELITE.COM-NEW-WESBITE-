@@ -1,0 +1,73 @@
+{
+ "title": "Immobilien in Mijas kaufen: Wohnungen mit Meer- & Golfblick",
+ "description": "{count} Wohnungen, Reihenhäuser und Villen zum Verkauf in Mijas, La Cala und Calanova Golf ab {from}. Fotos, Ortsinfos und Kaufkosten erklärt.",
+ "h1": "Immobilien zum Verkauf in Mijas",
+ "lead": "Wohnungen mit Meerblick nahe am Strand von La Cala, Häuser an den Golfplätzen und Villen in den Hügeln. Hier finden Sie die Immobilien, die wir heute in Mijas verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Mijas"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 25 Min.",
+   "zum Flughafen Málaga"
+  ],
+  [
+   "Golftal",
+   "viele Plätze dicht beieinander"
+  ]
+ ],
+ "listings_intro": "Vor allem neue Wohnungen mit 1 bis 3 Schlafzimmern, viele mit Meer- oder Golfblick und großen Terrassen, dazu Reihenhäuser und Villen in den Golfgebieten. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Mijas",
+ "guide": [
+  "Mijas ist eine große Gemeinde an der Costa del Sol mit rund 90.000 Einwohnern, zwischen Fuengirola und Marbella. Sie hat zwei sehr verschiedene Seiten: Mijas Pueblo, ein weißes Dorf am Berg mit Blick über die Küste, und Mijas Costa, einen langen Streifen aus Stränden und Wohngebieten am Meer.",
+  "La Cala de Mijas ist das Herz der Küste, mit Sandstrand, Promenade und einem kleinen Ortskern mit Geschäften und Restaurants. Im Hinterland liegt eines der besten Golfgebiete Spaniens, mit Plätzen wie La Cala, Calanova und El Chaparral dicht beieinander und neuen Häusern rundherum.",
+  "Mijas hat eine große internationale Gemeinschaft, Schulen und Gesundheitszentren, und das Leben läuft das ganze Jahr. Der Flughafen Málaga ist mit dem Auto etwa 25 Minuten entfernt, Fuengirola und Marbella 10 bis 20 Minuten."
+ ],
+ "guide_photo_alt": "Brunnen und weiße Häuser im Dorf Mijas Pueblo",
+ "areas_title": "Die wichtigsten Viertel von Mijas",
+ "areas": [
+  {
+   "name": "La Cala de Mijas",
+   "text": "Der Strandort von Mijas Costa, mit Promenade, Geschäften und Restaurants. Wohnungen nahe am Meer, viele mit Meerblick."
+  },
+  {
+   "name": "Calanova und La Cala Golf",
+   "text": "Das Golftal wenige Minuten landeinwärts, mit mehreren Plätzen. Wohnungen, Reihenhäuser und Villen mit Golf- und Meerblick."
+  },
+  {
+   "name": "El Chaparral",
+   "text": "Ein Golfplatz an der Grenze zu Marbella, nahe am Strand. Doppelhaushälften und Villen direkt am Platz."
+  },
+  {
+   "name": "Calahonda und Riviera del Sol",
+   "text": "Grüne Wohngebiete an der Küste zwischen La Cala und Marbella, mit Wohnungen und Villen nahe am Strand."
+  },
+  {
+   "name": "Mijas Pueblo",
+   "text": "Das weiße Dorf am Berg, mit engen Gassen und Blick über die Küste. Wohnungen und Dorfhäuser."
+  },
+  {
+   "name": "Nahe Fuengirola",
+   "text": "Die Viertel von Mijas direkt neben Fuengirola, mit Geschäften und Versorgung zu Fuß. Moderne Wohnungen zum Leben das ganze Jahr."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Mijas?",
+   "Unsere neuen Wohnungen in Mijas beginnen heute bei {from}. Die meisten Wohnungen mit 2 oder 3 Schlafzimmern, die wir verkaufen, kosten zwischen 380.000 € und 800.000 €, je nach Aussicht und Entfernung zum Strand. Reihenhäuser gibt es ab etwa 650.000 €, Villen bis 1,86 Mio. € in Calanova Golf."
+  ],
+  [
+   "In welchem Viertel von Mijas kauft man am besten?",
+   "Das hängt davon ab, wie Sie die Immobilie nutzen wollen. La Cala de Mijas passt zu Käufern, die den Strand und einen kleinen Ortskern wollen. Calanova, La Cala Golf und El Chaparral sind für Golfer, Mijas Pueblo für das Dorfleben mit Aussicht."
+  ],
+  [
+   "Wie weit ist Mijas vom Flughafen entfernt?",
+   "Der Flughafen Málaga ist von La Cala de Mijas mit dem Auto etwa 25 Minuten entfernt, und der Zug vom nahen Fuengirola fährt direkt zum Flughafen."
+  ]
+ ]
+}

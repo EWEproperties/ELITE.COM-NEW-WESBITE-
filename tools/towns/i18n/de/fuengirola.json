@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in Fuengirola kaufen: Wohnungen & Reihenhäuser",
+ "description": "{count} Wohnungen, Reihenhäuser und Villen zum Verkauf in Fuengirola ab {from}, nahe am Strand und in El Higuerón. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Fuengirola",
+ "lead": "Wohnungen mit Meerblick nahe am Strand und moderne Reihenhäuser und Villen in den Hügeln von El Higuerón. Hier finden Sie die Immobilien, die wir heute in Fuengirola verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Fuengirola"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 25 Min.",
+   "mit dem Zug zum Flughafen Málaga"
+  ],
+  [
+   "ca. 7 km",
+   "Sandstrände"
+  ]
+ ],
+ "listings_intro": "Wohnungen und Penthäuser mit 2 oder 3 Schlafzimmern nahe am Strand und neue Reihenhäuser und Villen mit eigenem Pool und Meerblick in El Higuerón. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Fuengirola",
+ "guide": [
+  "Fuengirola ist eine lebendige Küstenstadt mit rund 85.000 Einwohnern an der Costa del Sol, zwischen Málaga und Marbella. Sie hat rund 7 km Sandstrand entlang einer langen Promenade, und am Westende der Stadt steht die Burg Sohail auf einem Hügel am Fluss.",
+  "Hier lässt es sich das ganze Jahr praktisch leben, mit allem zu Fuß: Geschäfte, Märkte, Restaurants, Schulen und Gesundheitszentren. Die Vorortbahn fährt an der Küste entlang zum Flughafen Málaga und in die Stadt Málaga, deshalb leben viele Menschen hier ohne Auto.",
+  "Über der Stadt liegt El Higuerón, ein neueres Wohngebiet auf den Hügeln, mit modernen Häusern und weitem Meerblick. Der Flughafen Málaga ist mit Zug oder Auto etwa 25 Minuten entfernt, Marbella etwa 30 Minuten."
+ ],
+ "guide_photo_alt": "Burg Sohail auf einem grünen Hügel in Fuengirola",
+ "areas_title": "Die wichtigsten Viertel von Fuengirola",
+ "areas": [
+  {
+   "name": "Zentrum und Strandpromenade",
+   "text": "Die Promenade, die Strände und das Stadtzentrum mit Geschäften und Restaurants. Wohnungen und Penthäuser nahe am Meer."
+  },
+  {
+   "name": "Los Boliches",
+   "text": "Der östliche Teil der Stadt, mit eigenem Strand, Bahnhof und Läden. Wohnungen zum Leben das ganze Jahr."
+  },
+  {
+   "name": "Torreblanca",
+   "text": "Ein Hangviertel am Stadtrand, nahe am Strand und an der Bahn. Neue Wohnungen mit Meerblick."
+  },
+  {
+   "name": "El Higuerón",
+   "text": "Ein neueres Viertel auf den Hügeln über Fuengirola, mit modernen Reihenhäusern und Villen mit eigenem Pool und weitem Meerblick."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Fuengirola?",
+   "Unsere Wohnungen in Fuengirola beginnen heute bei {from}, die meisten mit 2 oder 3 Schlafzimmern kosten zwischen 450.000 € und 800.000 €, je nach Aussicht und Entfernung zum Strand. Reihenhäuser in El Higuerón gibt es ab etwa 800.000 €, eine große Villa mit Panorama-Meerblick kostet 3,2 Mio. €."
+  ],
+  [
+   "Kann man in Fuengirola ohne Auto leben?",
+   "Ja. Fuengirola ist kompakt und am Meer flach, mit Geschäften und Versorgung zu Fuß, und die Vorortbahn fährt zum Flughafen Málaga und in die Stadt Málaga."
+  ],
+  [
+   "Wie weit ist Fuengirola vom Flughafen entfernt?",
+   "Der Flughafen Málaga ist mit dem Auto oder der Vorortbahn etwa 25 Minuten entfernt."
+  ]
+ ]
+}

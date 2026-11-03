@@ -184,16 +184,16 @@ def page(arts, lang):
 
 <header class="site-header" id="top">
   <div class="container header-inner">
-    <a class="logo" href="{up}index.html" aria-label="Elite World Estates – {ui["home"]}">
+    <a class="logo" href="{up}{bb.HOMEP[lang]}" aria-label="Elite World Estates – {ui["home"]}">
       <img src="{up}assets/logo.png" alt="Elite World Estates – Home is your castle" width="434" height="176">
     </a>
     <button class="nav-toggle" aria-label="{ui["menu"]}" aria-expanded="false">&#9776;</button>
     <nav class="main-nav" aria-label="{ui["main"]}">
-      <a href="{up}index.html">{ui["home"]}</a>
+      <a href="{up}{bb.HOMEP[lang]}">{ui["home"]}</a>
       <a href="{up}properties-for-sale-in-spain.html">{ui["props"]}</a>
       <a href="{up}{DIRS[lang]}blog.html" class="active" aria-current="page">{ui["blog"]}</a>
-      <a href="{up}about-us.html">{ui["about"]}</a>
-      <a href="{up}index.html#contact">{ui["contact"]}</a>
+      <a href="{up}{bb.ABOUTP[lang]}">{ui["about"]}</a>
+      <a href="{up}{bb.CONTACTP[lang]}">{ui["contact"]}</a>
       <div class="lang">
         {langs}
       </div>
@@ -204,7 +204,7 @@ def page(arts, lang):
 <main class="blog-page">
   <div class="container">
     <nav class="breadcrumb" aria-label="{ui["crumbs"]}">
-      <a href="{up}index.html">{ui["home"]}</a> <span>/</span> <span aria-current="page">{ui["blog"]}</span>
+      <a href="{up}{bb.HOMEP[lang]}">{ui["home"]}</a> <span>/</span> <span aria-current="page">{ui["blog"]}</span>
     </nav>
     <header class="blog-head">
       <p class="eyebrow">{tx["eyebrow"]}</p>
@@ -228,14 +228,14 @@ def page(arts, lang):
     <section class="blog-cta">
       <h2>{tx["cta_h"]}</h2>
       <p>{tx["cta_p"]}</p>
-      <a class="btn btn-gold" href="{up}index.html#contact">{tx["cta_b"]}</a>
+      <a class="btn btn-gold" href="{up}{bb.CONTACTP[lang]}">{tx["cta_b"]}</a>
     </section>
   </div>
 </main>
 
 <footer class="site-footer">
   <div class="container footer-bottom">
-    <p><a href="{up}index.html">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
+    <p><a href="{up}{bb.HOMEP[lang]}">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
     <p>{ui["reg"]}</p>
     <p class="footer-legal">{bb.legal_links(up, lang)}</p>
     <p>&copy; <span id="year"></span> Elite World Estates</p>

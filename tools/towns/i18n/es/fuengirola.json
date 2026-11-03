@@ -1,0 +1,65 @@
+{
+ "title": "Pisos y adosados en venta en Fuengirola",
+ "description": "{count} pisos, adosados y villas en venta en Fuengirola desde {from}, cerca de la playa y en El Higuerón. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Fuengirola",
+ "lead": "Pisos con vistas al mar cerca de la playa y adosados y villas modernos en las colinas de El Higuerón. Estos son los inmuebles que vendemos hoy en Fuengirola, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Fuengirola"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "unos 25 min",
+   "en tren al aeropuerto de Málaga"
+  ],
+  [
+   "unos 7 km",
+   "de playas de arena"
+  ]
+ ],
+ "listings_intro": "Pisos y áticos de 2 o 3 dormitorios cerca de la playa, y adosados y villas nuevos con piscina privada y vistas al mar en El Higuerón. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Fuengirola",
+ "guide": [
+  "Fuengirola es una animada ciudad costera de unos 85.000 habitantes en la Costa del Sol, entre Málaga y Marbella. Tiene unos 7 km de playas de arena a lo largo de un largo paseo marítimo, y el Castillo Sohail se alza sobre una colina junto al río, en el extremo oeste de la ciudad.",
+  "Es un lugar práctico para vivir todo el año, con todo a pie: tiendas, mercados, restaurantes, colegios y centros de salud. El tren de cercanías recorre la costa hasta el aeropuerto y la ciudad de Málaga, así que mucha gente vive aquí sin coche.",
+  "Sobre la ciudad, El Higuerón es una zona residencial más nueva en las colinas, con viviendas modernas y amplias vistas al mar. El aeropuerto de Málaga está a unos 25 minutos en tren o en coche, y Marbella a unos 30 minutos."
+ ],
+ "guide_photo_alt": "Castillo Sohail sobre una colina verde en Fuengirola",
+ "areas_title": "Las principales zonas de Fuengirola",
+ "areas": [
+  {
+   "name": "Centro y paseo marítimo",
+   "text": "El paseo, las playas y el centro con tiendas y restaurantes. Pisos y áticos cerca del mar."
+  },
+  {
+   "name": "Los Boliches",
+   "text": "La parte este de la ciudad, con su propia playa, estación de tren y comercios. Pisos para vivir todo el año."
+  },
+  {
+   "name": "Torreblanca",
+   "text": "Una zona de ladera en el borde de la ciudad, cerca de la playa y del tren. Pisos nuevos con vistas al mar."
+  },
+  {
+   "name": "El Higuerón",
+   "text": "Una zona más nueva en las colinas sobre Fuengirola, con adosados y villas modernos con piscina privada y amplias vistas al mar."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Fuengirola?",
+   "Nuestros pisos en Fuengirola empiezan hoy en {from}, y la mayoría de 2 o 3 dormitorios cuestan entre 450.000 € y 800.000 €, según las vistas y la distancia a la playa. Los adosados en El Higuerón cuestan desde unos 800.000 €, y una gran villa con vistas panorámicas al mar 3,2 millones de €."
+  ],
+  [
+   "¿Se puede vivir en Fuengirola sin coche?",
+   "Sí. Fuengirola es compacta y llana junto al mar, con tiendas y servicios a pie, y el tren de cercanías va al aeropuerto y a la ciudad de Málaga."
+  ],
+  [
+   "¿A qué distancia está Fuengirola del aeropuerto?",
+   "El aeropuerto de Málaga está a unos 25 minutos en coche o en tren de cercanías."
+  ]
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "title": "Immobilien in Finestrat kaufen: Villen & Wohnungen",
+ "description": "{count} neue Wohnungen, Reihenhäuser und Villen zum Verkauf in Finestrat und Sierra Cortina ab {from}, direkt bei Benidorm. Fotos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Finestrat",
+ "lead": "Neue Wohnungen und Villen mit Blick über die Bucht von Benidorm, auf den Hügeln gleich hinter der Küste. Hier finden Sie die Immobilien, die wir heute in Finestrat verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Finestrat"], ["ab {from}", "für eine neue Wohnung"], ["ca. 10 Min.", "zu den Stränden von Benidorm"], ["ca. 45 Min.", "zum Flughafen Alicante-Elche"]],
+ "listings_intro": "Neue Wohnungen mit 1 bis 3 Schlafzimmern und Gemeinschaftspool, Reihenhäuser und Villen mit eigenem Pool und Meerblick. Die meisten liegen in modernen, geschlossenen Wohnanlagen. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Finestrat",
+ "guide": [
+  "Finestrat ist eine Gemeinde auf den Hügeln direkt hinter Benidorm. Sie reicht vom Berg Puig Campana bis hinunter zu einem kleinen Küstenstück bei La Cala. Das alte Dorf liegt auf einem Felshügel, mit weißen Häusern, einer Kirche und einem Aussichtspunkt über die ganze Bucht.",
+  "Die meisten neuen Häuser entstehen zwischen dem alten Dorf und Benidorm, in Wohngebieten wie Sierra Cortina und Balcón de Finestrat. Von hier sehen Sie das Meer und die Türme von Benidorm, und die Strände von Benidorm und La Cala sind etwa 10 Autominuten entfernt.",
+  "Der Alltag ist einfach: große Einkaufszentren, Supermärkte, Freizeitparks und Golfplätze sind ganz nah, und die Autobahn AP-7 führt vorbei. Der Flughafen Alicante-Elche ist mit dem Auto etwa 45 Minuten entfernt. Für viele Käufer bietet Finestrat mehr Platz und mehr Ruhe als Benidorm, mit derselben Aussicht."
+ ],
+ "guide_photo_alt": "Strand La Cala in Finestrat mit Wohngebäuden hinter dem Sand",
+ "areas_title": "Die wichtigsten Viertel von Finestrat",
+ "areas": [
+  {"name": "Sierra Cortina", "text": "Eine geschlossene Wohnanlage auf den Hügeln über Benidorm, mit Gärten, Pools und Sicherheitsdienst. Neue Wohnungen und moderne Villen mit Meerblick."},
+  {"name": "Balcón de Finestrat", "text": "Ein Hanggebiet mit weitem Blick über die Bucht und die Skyline von Benidorm. Villen und Wohnungen, viele in neuen Anlagen."},
+  {"name": "Altes Dorf", "text": "Weiße Häuser auf einem Felshügel unter dem Puig Campana, mit Kirche, kleinen Plätzen und Aussichtspunkt. Dorfhäuser, wenige im Verkauf."},
+  {"name": "La Cala de Finestrat", "text": "Das kleine Strandviertel an der Küste, direkt neben dem Strand Poniente von Benidorm. Wohnungen nahe am Meer, mit Geschäften und Restaurants."},
+  {"name": "Nahe Benidorm", "text": "Die neueren Viertel direkt bei Benidorm, nahe den Einkaufszentren und Freizeitparks. Moderne Wohnanlagen mit Pool."},
+  {"name": "Am Fuß des Puig Campana", "text": "Die grünen Hänge unter dem Berg, landeinwärts vom alten Dorf. Villen auf großen Grundstücken mit Blick auf Berg und Meer."}
+ ],
+ "faq": [
+  ["Was kostet eine Immobilie in Finestrat?", "Unsere neuen Wohnungen in Finestrat beginnen heute bei {from}, die meisten mit 2 oder 3 Schlafzimmern kosten zwischen 310.000 € und 550.000 €. Reihenhäuser gibt es ab etwa 425.000 €, Villen mit eigenem Pool ab etwa 555.000 €, bis zu 2,45 Mio. € für eine große Villa in Sierra Cortina."],
+  ["Liegt Finestrat nahe am Strand?", "Finestrat hat bei La Cala ein eigenes kleines Küstenstück, und die Strände von Benidorm sind von den meisten Vierteln etwa 10 Autominuten entfernt. Viele Häuser haben von den Hügeln Meerblick."],
+  ["Finestrat oder Benidorm: was ist besser?", "Benidorm passt zu Käufern, die am Strand leben wollen, in einem Turm mit allem zu Fuß. Finestrat passt zu Käufern, die mehr Platz, einen Garten oder einen eigenen Pool und mehr Ruhe wollen, mit derselben Aussicht und Benidorm ganz in der Nähe."],
+  ["Wie weit ist Finestrat vom Flughafen entfernt?", "Zum Flughafen Alicante-Elche Miguel Hernández sind es über die Autobahn AP-7 etwa 45 Minuten mit dem Auto."]
+ ]
+}

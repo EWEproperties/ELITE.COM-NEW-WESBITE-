@@ -1,0 +1,32 @@
+{
+ "title": "Villas de lujo en venta en Altea con vistas al mar",
+ "description": "Villas de lujo en venta en Altea desde {from}, y viviendas en el Albir, Polop y La Nucía. Fotos, guía de la zona y gastos de compra explicados.",
+ "h1": "Inmuebles en venta en Altea",
+ "lead": "Villas con vistas al mar en Altea Hills y Altea la Vella, y viviendas en los pueblos justo detrás de la costa. Estos son los inmuebles que vendemos hoy en Altea y alrededores, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "villas en venta en Altea"], ["desde {from}", "una villa"], ["aprox. 1 hora", "al aeropuerto de Alicante-Elche"], ["11 km", "hasta Benidorm"]],
+ "listings_intro": "Villas de 3 a 5 dormitorios con piscina privada y vistas al mar o a la montaña, en Altea Hills, Altea la Vella y las colinas alrededor de la ciudad. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "near_intro": "A diez o quince minutos de Altea: pisos y villas junto a la playa del Albir, y villas y adosados con vistas a la montaña en Polop y La Nucía, a menudo por menos dinero.",
+ "guide_title": "Vivir en Altea",
+ "guide": [
+  "Altea es una localidad de unos 22.000 habitantes en el norte de la Costa Blanca, entre Benidorm y Calpe. Su casco antiguo blanco se levanta sobre una colina junto al mar, coronado por la iglesia de Nuestra Señora del Consuelo y sus cúpulas de azulejos azules y blancos, que se ven desde muy lejos a lo largo de la costa.",
+  "La mayoría de las playas de Altea son de cantos rodados, por eso el agua es muy transparente. La playa de la Roda, bajo el casco antiguo, tiene paseo y cafeterías, y al norte hay calas más tranquilas. La ciudad tiene un ambiente relajado y artístico, con galerías, pequeños restaurantes y una facultad de Bellas Artes.",
+  "Aquí las viviendas son sobre todo villas: en Altea Hills, una urbanización cerrada en las laderas sobre el puerto deportivo, y alrededor de Altea la Vella y su campo de golf, en el interior. El aeropuerto de Alicante-Elche está a una hora en coche, Benidorm a unos 11 km y Calpe a unos 20 km."
+ ],
+ "guide_photo_alt": "Calle blanca del casco antiguo de Altea con las cúpulas azules de la iglesia",
+ "areas_title": "Las principales zonas de Altea",
+ "areas": [
+  {"name": "Casco antiguo", "text": "Casas blancas y calles estrechas en la colina alrededor de la iglesia, con vistas a la bahía. Casas pequeñas, pocas en venta y mucha demanda."},
+  {"name": "Paseo marítimo y playa de la Roda", "text": "El paseo y la playa principal bajo el casco antiguo, con cafeterías y restaurantes. Pisos cerca del mar."},
+  {"name": "Altea Hills", "text": "Una urbanización cerrada en las colinas sobre el puerto deportivo, con seguridad y amplias vistas al mar. Villas de lujo, muchas con piscina infinita."},
+  {"name": "Altea la Vella", "text": "El pueblo antiguo del interior, cerca del campo de golf y de la montaña. Villas con jardines grandes, tranquilas y a pocos minutos de la costa."},
+  {"name": "El Albir", "text": "La localidad de playa vecina, en L'Alfàs del Pi, entre Altea y Benidorm. Pisos y villas cerca de un largo paseo marítimo."},
+  {"name": "Polop y La Nucía", "text": "Pueblos al pie de la montaña, a 10 o 15 minutos de la playa. Villas y adosados con vistas, a menudo por menos dinero."}
+ ],
+ "costs_intro": "Al precio se suman impuestos y gastos. Para una villa nueva de 2.090.000 €, por ejemplo, son 209.000 € de IVA y 29.260 € de AJD, más notaría, registro y abogado. En la segunda mano los impuestos son otros, así que pídanos siempre la cifra exacta de la vivienda que le guste.",
+ "faq": [
+  ["¿Cuánto cuesta una villa en Altea?", "Nuestras villas en Altea empiezan hoy en {from}, por una villa reformada junto al campo de golf en Altea la Vella. La mayoría de las villas con vistas al mar que vendemos en Altea y Altea Hills cuestan entre 2 y 2,4 millones de €. En Polop y La Nucía hay villas desde unos 470.000 €."],
+  ["¿Cuál es la mejor zona para comprar en Altea?", "Depende de lo que busque. Altea Hills es para vistas al mar, seguridad y villas de lujo. Altea la Vella es más tranquila, cerca del golf y la montaña. El paseo marítimo encaja con quien quiere un piso cerca de la playa, y el Albir, Polop y La Nucía dan más espacio por el mismo dinero."],
+  ["¿Son de arena las playas de Altea?", "La mayoría de las playas de Altea son de cantos rodados, por eso el agua es tan clara. Si prefiere arena, el Albir y Benidorm están a entre 10 y 20 minutos."],
+  ["¿A qué distancia está Altea del aeropuerto?", "El aeropuerto Alicante-Elche Miguel Hernández está a unos 60 km, alrededor de una hora en coche."]
+ ]
+}

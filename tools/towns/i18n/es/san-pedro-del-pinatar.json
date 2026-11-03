@@ -1,0 +1,65 @@
+{
+ "title": "Pisos en venta en San Pedro del Pinatar y Lo Pagán",
+ "description": "{count} pisos, bungalows y villas en venta en San Pedro del Pinatar y Lo Pagán desde {from}, junto al Mar Menor. Fotos, guía y gastos de compra.",
+ "h1": "Inmuebles en venta en San Pedro del Pinatar",
+ "lead": "Pisos nuevos y bungalows a un paseo de la playa en Lo Pagán, y villas con piscina privada, entre el Mar Menor y el mar abierto. Estos son los inmuebles que vendemos hoy en San Pedro del Pinatar, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en San Pedro del Pinatar"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "unos 35 min",
+   "al aeropuerto de la Región de Murcia"
+  ],
+  [
+   "2 mares",
+   "el Mar Menor y el Mediterráneo"
+  ]
+ ],
+ "listings_intro": "Pisos nuevos de 1 a 3 dormitorios, bungalows con terraza y villas con piscina privada, muchos a menos de un kilómetro de la playa. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en San Pedro del Pinatar",
+ "guide": [
+  "San Pedro del Pinatar es una localidad de unos 27.000 habitantes en el norte de la Región de Murcia, justo en el límite con la Costa Blanca. Está entre dos mares: la laguna tranquila y cálida del Mar Menor a un lado y el Mediterráneo abierto al otro.",
+  "Entre la ciudad y el mar está el Parque Regional de las Salinas y Arenales, con salinas, dunas, viejos molinos y flamencos, y largas playas naturales en el lado del Mediterráneo. Lo Pagán, la parte costera, es conocida por su paseo, su puerto deportivo y los baños de lodo a orillas del Mar Menor.",
+  "La vida es tranquila y los precios son más bajos que en la mayor parte de la costa. El aeropuerto de la Región de Murcia está a unos 35 minutos en coche, el de Alicante a unos 50 minutos, y Torrevieja a unos 20 minutos."
+ ],
+ "guide_photo_alt": "Flamencos en las salinas de Lo Pagán, San Pedro del Pinatar",
+ "areas_title": "Las principales zonas de San Pedro del Pinatar",
+ "areas": [
+  {
+   "name": "Lo Pagán",
+   "text": "La parte costera de la ciudad, en el Mar Menor, con el paseo, el puerto deportivo y los baños de lodo. Pisos cerca del agua."
+  },
+  {
+   "name": "Centro",
+   "text": "Tiendas, mercados y servicios a pie, a 1 o 2 km de la playa. Pisos nuevos y bungalows para vivir todo el año."
+  },
+  {
+   "name": "Villananitos",
+   "text": "Una zona de playa tranquila en el Mar Menor, junto a Lo Pagán. Pisos y casas cerca del agua."
+  },
+  {
+   "name": "Afueras",
+   "text": "Zonas residenciales más nuevas a pocos kilómetros del mar, con villas y adosados con piscina privada."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en San Pedro del Pinatar?",
+   "Nuestros pisos nuevos en San Pedro del Pinatar empiezan hoy en {from}, y la mayoría de 1 o 2 dormitorios cuestan entre 150.000 € y 330.000 €. Los bungalows cuestan desde unos 270.000 € y las villas con piscina privada de unos 400.000 € a 810.000 €."
+  ],
+  [
+   "¿Qué son los baños de lodo de Lo Pagán?",
+   "A orillas del Mar Menor, en Lo Pagán, hay charcas naturales de lodo rico en minerales. Mucha gente se cubre de barro y luego se aclara en la laguna, una tradición local en verano."
+  ],
+  [
+   "¿A qué distancia está San Pedro del Pinatar del aeropuerto?",
+   "El aeropuerto de la Región de Murcia, en Corvera, está a unos 35 minutos en coche, y el de Alicante-Elche a unos 50 minutos."
+  ]
+ ]
+}

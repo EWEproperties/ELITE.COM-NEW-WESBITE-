@@ -1,0 +1,31 @@
+{
+ "title": "Pisos en venta en Villajoyosa junto al mar",
+ "description": "{count_all} pisos y áticos en venta en Villajoyosa desde {from}, muchos con vistas al mar y cerca de la playa. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Villajoyosa",
+ "lead": "Pisos nuevos y áticos cerca de la playa, muchos con vistas al mar, en una auténtica ciudad española con carácter propio. Estos son los inmuebles que vendemos hoy en Villajoyosa, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Villajoyosa"], ["desde {from}", "un piso nuevo"], ["unos 35 min", "al aeropuerto de Alicante-Elche"], ["10 min", "hasta Benidorm"]],
+ "listings_intro": "Pisos nuevos de 1 a 3 dormitorios, áticos y dúplex con grandes terrazas, la mayoría a pocos cientos de metros de la playa. Algunos tienen licencia turística. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "near_intro": "La Cala es la zona de playa en el límite con Benidorm y Finestrat, a pocos minutos al norte de Villajoyosa, con pisos cerca del mar.",
+ "guide_title": "Vivir en Villajoyosa",
+ "guide": [
+  "Villajoyosa, o La Vila Joiosa en valenciano, es una ciudad costera de unos 37.000 habitantes entre Alicante y Benidorm. Es conocida sobre todo por las casas de colores de su casco antiguo, que se alzan sobre la desembocadura del río y la playa, y por su larga tradición chocolatera.",
+  "La ciudad tiene varias playas a lo largo de su costa: la playa Centro frente a las casas de colores, la larga playa del Paraíso y calas más pequeñas entre medias. El puerto pesquero sigue activo, y el casco antiguo tiene calles estrechas, plazuelas y restaurantes de toda la vida.",
+  "Villajoyosa tiene vida todo el año, porque la mayoría de la gente vive y trabaja aquí, y los precios suelen ser más bajos que en Benidorm, a solo 10 minutos. El TRAM une la ciudad con Benidorm y Alicante, y el aeropuerto de Alicante-Elche está a unos 35 minutos en coche."
+ ],
+ "guide_photo_alt": "Casas de colores en una calle estrecha del casco antiguo de Villajoyosa",
+ "areas_title": "Las principales zonas de Villajoyosa",
+ "areas": [
+  {"name": "Casco antiguo y paseo marítimo", "text": "Las casas de colores, el paseo y la playa principal. Pisos en edificios reformados y nuevos, a un paseo del mar."},
+  {"name": "Centro", "text": "Tiendas, mercados y servicios a pie, a pocos minutos de la playa. Edificios de pisos modernos para vivir todo el año."},
+  {"name": "Junto al puerto", "text": "El puerto pesquero y el deportivo, con restaurantes y una playa más tranquila cerca. Pisos nuevos con vistas al mar."},
+  {"name": "Playa del Paraíso", "text": "Una larga playa a pocos minutos del centro, con residenciales y piscinas. Pisos y áticos cerca de la arena."},
+  {"name": "Colinas de la costa", "text": "Las laderas detrás de la costa entre Villajoyosa y La Cala. Promociones más nuevas con grandes terrazas y vistas al mar."},
+  {"name": "La Cala", "text": "La zona de playa en el límite con Benidorm y Finestrat, con pisos, tiendas y restaurantes cerca del mar."}
+ ],
+ "faq": [
+  ["¿Cuánto cuesta un piso en Villajoyosa?", "Nuestros pisos en Villajoyosa empiezan hoy en {from}. La mayoría de los pisos de 2 o 3 dormitorios que vendemos cuestan entre 350.000 € y 580.000 €, según la distancia a la playa y las vistas. Los áticos con vistas al mar cuestan desde unos 535.000 €, y un ático en primera línea 1.540.000 €."],
+  ["Villajoyosa o Benidorm: ¿qué es mejor?", "Benidorm es una ciudad de vacaciones con torres altas y vida nocturna. Villajoyosa es una auténtica ciudad española, con un ritmo más tranquilo y su propio casco antiguo, y los precios suelen ser más bajos. Benidorm está a solo 10 minutos en coche o en TRAM."],
+  ["¿Puedo alquilar un piso en Villajoyosa?", "Sí, y algunos de nuestros pisos ya tienen licencia turística. El alquiler vacacional necesita una licencia turística en el registro de la Comunitat Valenciana, y algunos edificios lo limitan, así que compruébelo antes de comprar. Consulte nuestra guía sobre las <a href=\"new-regulations-on-short-term-rentals-in-spain.html\">normas del alquiler de corta duración</a>."],
+  ["¿A qué distancia está Villajoyosa del aeropuerto?", "El aeropuerto Alicante-Elche Miguel Hernández está a unos 35 minutos en coche. También puede ir en TRAM hasta Alicante."]
+ ]
+}

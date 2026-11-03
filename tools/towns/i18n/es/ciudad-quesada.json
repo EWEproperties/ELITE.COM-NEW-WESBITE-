@@ -1,0 +1,74 @@
+{
+ "title": "Inmuebles en venta en Ciudad Quesada y La Finca Golf",
+ "description": "{count_all} villas, bungalows y pisos en venta en Ciudad Quesada y La Finca Golf, Algorfa, desde {from}. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Ciudad Quesada",
+ "lead": "Villas con piscina privada cerca de La Marquesa Golf, pisos nuevos y bungalows, y viviendas en La Finca Golf, en la cercana Algorfa. Estos son los inmuebles que vendemos hoy en Ciudad Quesada y alrededores, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Ciudad Quesada"
+  ],
+  [
+   "desde {from}",
+   "un bungalow"
+  ],
+  [
+   "unos 35 min",
+   "al aeropuerto de Alicante-Elche"
+  ],
+  [
+   "unos 15 min",
+   "a las playas de Guardamar"
+  ]
+ ],
+ "listings_intro": "Sobre todo villas de 3 o 4 dormitorios con piscina privada, además de pisos nuevos y bungalows, muchos cerca de La Marquesa Golf. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "near_intro": "Algorfa está a unos 10 minutos de Ciudad Quesada. La mayoría de nuestras viviendas allí están en La Finca Golf Resort: villas, pareados y bungalows, muchos con piscina privada y vistas al golf.",
+ "guide_title": "Vivir en Ciudad Quesada",
+ "guide": [
+  "Ciudad Quesada es una gran zona residencial del municipio de Rojales, en el sur de la Costa Blanca, a unos 10 km del mar. Fue uno de los primeros lugares de la costa construidos para compradores internacionales, y hoy tiene una gran comunidad que vive aquí todo el año.",
+  "La zona tiene sus propias tiendas, restaurantes y el campo de golf La Marquesa, y el casco antiguo de Rojales, con su puente y sus cuevas, está a pocos minutos. Las playas de arena de Guardamar y La Mata están a unos 15 minutos en coche.",
+  "Los precios son más bajos que en la costa, así que se consigue una villa con piscina y jardín por el precio de un piso junto al mar. El aeropuerto de Alicante-Elche está a unos 35 minutos en coche, y Torrevieja a unos 15 minutos."
+ ],
+ "guide_photo_alt": "El arco de entrada de Ciudad Quesada con palmeras",
+ "areas_title": "Las principales zonas alrededor de Ciudad Quesada",
+ "areas": [
+  {
+   "name": "Ciudad Quesada",
+   "text": "La zona residencial principal, con tiendas, restaurantes y servicios. Villas, bungalows y pisos en calles tranquilas."
+  },
+  {
+   "name": "La Marquesa Golf",
+   "text": "El campo de golf en el centro de Ciudad Quesada. Villas con vistas al golf y piscina privada."
+  },
+  {
+   "name": "Doña Pepa",
+   "text": "La parte más nueva de Ciudad Quesada, con villas y pisos modernos y una zona comercial cerca."
+  },
+  {
+   "name": "Rojales",
+   "text": "El casco antiguo junto al río Segura, con su puente histórico, cuevas y vida local. Bungalows y villas cerca."
+  },
+  {
+   "name": "La Finca Golf, Algorfa",
+   "text": "Un resort de golf a unos 10 minutos, con hotel y campo. Villas, pareados y bungalows."
+  },
+  {
+   "name": "Pueblo de Algorfa",
+   "text": "Un pequeño pueblo español cerca de La Finca, con comercios y bares y villas en las afueras."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta una villa en Ciudad Quesada?",
+   "Nuestras villas en Ciudad Quesada cuestan hoy de unos 394.000 € a 1,2 millones de €, la mayoría de 3 o 4 dormitorios con piscina privada. Los pisos y bungalows empiezan en {from}. En La Finca Golf, en Algorfa, las villas cuestan de unos 450.000 € a 1,8 millones de €."
+  ],
+  [
+   "¿Se puede vivir todo el año en Ciudad Quesada?",
+   "Sí. Ciudad Quesada tiene una gran comunidad internacional que vive aquí todo el año, con tiendas, restaurantes, centros de salud y golf cerca, y la costa a unos 15 minutos."
+  ],
+  [
+   "¿A qué distancia está Ciudad Quesada del aeropuerto?",
+   "El aeropuerto de Alicante-Elche está a unos 35 minutos en coche, y el de la Región de Murcia a unos 45 minutos."
+  ]
+ ]
+}

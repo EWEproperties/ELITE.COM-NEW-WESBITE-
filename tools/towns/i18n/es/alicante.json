@@ -1,0 +1,34 @@
+{
+ "title": "Pisos y casas en venta en Alicante ciudad",
+ "description": "{count_all} pisos y viviendas en venta en Alicante ciudad, El Campello, Sant Joan y Mutxamel desde {from}. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Alicante",
+ "lead": "Pisos nuevos en la ciudad, viviendas junto a la playa y villas de golf justo a las afueras. Estos son los inmuebles que vendemos hoy en Alicante y alrededores, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en la ciudad"], ["desde {from}", "un piso nuevo"], ["unos 20 min", "al aeropuerto de Alicante-Elche"], ["Postiguet", "la playa urbana, en pleno centro"]],
+ "listings_intro": "Sobre todo pisos nuevos de 2 a 4 dormitorios, muchos con piscina comunitaria, plaza de garaje y trastero. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "near_intro": "A diez o veinte minutos del centro: viviendas junto al mar en El Campello y Sant Joan, y villas y pisos junto a los campos de golf de Bonalba y Alicante Golf en Mutxamel.",
+ "guide_title": "Vivir en Alicante",
+ "guide": [
+  "Alicante es la capital de su provincia y la mayor ciudad de la Costa Blanca, con unos 360.000 habitantes. Es una ciudad de verdad que vive todo el año: tiene aeropuerto internacional, puerto, universidad, grandes hospitales y el TRAM, que une el centro con las playas y los pueblos cercanos.",
+  "Sobre el casco antiguo se alza el Castillo de Santa Bárbara, en el monte Benacantil, con vistas a toda la bahía. Abajo, la Explanada de España, con sus palmeras y unos 6,6 millones de teselas en forma de ola, recorre el puerto deportivo junto a la playa del Postiguet. Al norte, la larga playa de arena de San Juan es donde muchos compradores empiezan a buscar.",
+  "Como aquí se vive, se estudia y se trabaja en todas las estaciones, el mercado del alquiler no se para después del verano. Por eso las nuevas promociones de Alicante se construyen para la vida diaria, con garaje, trastero, piscina comunitaria y buen aislamiento."
+ ],
+ "guide_photo_alt": "Playa de la Albufereta en Alicante con palmeras",
+ "areas_title": "Las principales zonas de Alicante",
+ "areas": [
+  {"name": "Centro y Ensanche", "text": "Tiendas, restaurantes, la Explanada y la playa del Postiguet a pie. Sobre todo pisos en edificios antiguos y reformados, con alguna promoción nueva."},
+  {"name": "Playa de San Juan", "text": "Una larga playa de arena al norte de la ciudad, muy apreciada por familias y compradores extranjeros. Edificios más nuevos con piscina y el TRAM al centro."},
+  {"name": "Cabo de las Huertas", "text": "Un cabo tranquilo con pequeñas calas entre la Albufereta y San Juan. Villas y adosados, con algunos de los precios más altos de Alicante."},
+  {"name": "Albufereta", "text": "Una pequeña bahía con playa entre el centro y el Cabo de las Huertas. Pisos con vistas al mar, cerca del TRAM."},
+  {"name": "Bulevar del Pla", "text": "Una zona moderna con avenidas anchas, a unos 2 km de la playa del Postiguet y con parada de TRAM. Buena para vivir en la ciudad sin coche."},
+  {"name": "San Agustín y Villafranqueza", "text": "Barrios residenciales al norte del centro, a unos 3,5 a 6 km de la playa. Colegios y servicios cerca, y los precios más bajos en pisos nuevos."}
+ ],
+ "costs_intro": "Al precio se suman impuestos y gastos. Para un piso nuevo de 272.400 €, por ejemplo, son 27.240 € de IVA y 3.814 € de AJD, más notaría, registro y abogado. En la segunda mano los impuestos son otros, así que pídanos siempre la cifra exacta de la vivienda que le guste.",
+ "faq": [
+  ["¿Cuánto cuesta un piso en Alicante?", "En la ciudad nuestros pisos empiezan hoy en {from}. La mayoría de los pisos de 2 o 3 dormitorios que vendemos en la ciudad cuestan entre 210.000 € y 410.000 €, según la zona, la planta y la distancia a la playa. Las casas cuestan más: nuestro adosado en el Cabo de las Huertas cuesta 1.225.000 €."],
+  ["¿Cuál es la mejor zona para comprar en Alicante?", "Depende del uso que le vaya a dar. Playa de San Juan y la Albufereta son para quien quiere la playa. El centro y el Bulevar del Pla, para vivir en la ciudad sin coche. San Agustín y Villafranqueza dan más espacio por el mismo dinero, y el Cabo de las Huertas es la zona de villas."],
+  ["¿Es Alicante un buen lugar para alquilar?", "Alicante tiene demanda todo el año de estudiantes, teletrabajadores, familias y gente que se muda a la ciudad, así que el alquiler de larga duración funciona bien. El alquiler vacacional necesita una licencia turística en el registro de la Comunitat Valenciana, y algunos edificios y zonas lo limitan, así que compruébelo antes de comprar."],
+  ["¿A qué distancia está Alicante del aeropuerto?", "El aeropuerto Alicante-Elche Miguel Hernández está a unos 20 minutos en coche del centro, con vuelos a la mayoría de las ciudades europeas todo el año."],
+  ["¿Qué gastos hay además del precio?", "En obra nueva se paga un 10 % de IVA y un 1,4 % de AJD. En segunda mano se paga un 9 % de ITP (11 % por encima de 1 millón de €). Notaría, registro y abogado suman alrededor de un 1,5–2,5 %."],
+  ["¿Pueden comprar vivienda los extranjeros en Alicante?", "Sí. Cualquier persona puede comprar una vivienda en España. Necesita un NIE y normalmente una cuenta bancaria española, y le ayudamos con las dos cosas. Consulte nuestra guía del <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE</a>."]
+ ]
+}

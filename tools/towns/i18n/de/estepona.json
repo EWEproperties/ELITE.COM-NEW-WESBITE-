@@ -1,0 +1,30 @@
+{
+ "title": "Immobilien in Estepona kaufen: Wohnungen & Villen",
+ "description": "{count} neue Wohnungen, Penthäuser und Villen zum Verkauf in Estepona ab {from}, viele mit Meer- oder Golfblick. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Estepona",
+ "lead": "Neue Wohnungen mit Meerblick, Penthäuser mit großen Terrassen und Villen an den Golfplätzen, in einer der schönsten Städte der Costa del Sol. Hier finden Sie die Immobilien, die wir heute in Estepona verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Estepona"], ["ab {from}", "für eine neue Wohnung"], ["ca. 1 Stunde", "zum Flughafen Málaga"], ["ca. 25 Min.", "bis Marbella"]],
+ "listings_intro": "Vor allem neue Wohnungen mit 2 oder 3 Schlafzimmern, viele mit Meerblick, Gemeinschaftspool und großen Terrassen, dazu Penthäuser, Reihenhäuser und Villen nahe den Golfplätzen. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Estepona",
+ "guide": [
+  "Estepona ist eine Stadt mit rund 75.000 Einwohnern an der westlichen Costa del Sol, zwischen Marbella und Gibraltar. Die Altstadt gilt als der Garten der Costa del Sol, mit weißen Gassen voller Blumentöpfe, kleinen Plätzen und Wandmalereien, und sie hat das Gefühl einer echten andalusischen Stadt bewahrt.",
+  "Entlang der Küste verläuft eine lange Promenade mit Sandstränden wie La Rada und El Cristo und ein Jachthafen mit Restaurants. Im Hinterland erheben sich die Hügel der Sierra Bermeja, und zwischen Meer und Bergen liegen Golfplätze und neue Wohngebiete mit Blick über das Meer bis nach Gibraltar und Afrika.",
+  "Estepona lebt das ganze Jahr, mit Geschäften, Märkten, internationalen Schulen und einem Krankenhaus. Der Flughafen Málaga ist mit dem Auto etwa eine Stunde entfernt, Gibraltar etwa 45 Minuten, Marbella und Puerto Banús etwa 25 Minuten. Die Preise liegen unter denen in Marbella, deshalb suchen viele Käufer zuerst hier."
+ ],
+ "guide_photo_alt": "Garten und Brunnen vor dem Orchideenhaus in Estepona",
+ "areas_title": "Die wichtigsten Viertel von Estepona",
+ "areas": [
+  {"name": "Altstadt und Zentrum", "text": "Weiße Gassen mit Blumen, Geschäfte und Restaurants, wenige Gehminuten vom Strand La Rada. Wohnungen zum Leben das ganze Jahr."},
+  {"name": "Strandpromenade und Jachthafen", "text": "Die Promenade, die Strände und der Jachthafen. Wohnungen nahe am Meer, viele mit Blick aufs Wasser."},
+  {"name": "Neue Goldene Meile", "text": "Die Küste zwischen Estepona und San Pedro de Alcántara, mit modernen Anlagen am Strand, Pools und Gärten."},
+  {"name": "Selwo und die Hügel", "text": "Neuere Anlagen an den Hängen östlich der Stadt, mit großen Terrassen und freiem Meerblick. Vor allem Wohnungen und Penthäuser."},
+  {"name": "Golftal", "text": "Die Gegend um die Golfplätze von Estepona, wenige Minuten landeinwärts. Wohnungen am Platz und Villen mit eigenem Pool."},
+  {"name": "Westlich von Estepona", "text": "Ruhigere Wohngebiete Richtung Casares und Manilva, mit Reihenhäusern und Villen, oft für weniger Geld."}
+ ],
+ "faq": [
+  ["Was kostet eine Wohnung in Estepona?", "Unsere neuen Wohnungen in Estepona beginnen heute bei {from}. Die meisten Wohnungen mit 2 oder 3 Schlafzimmern, die wir verkaufen, kosten zwischen 400.000 € und 750.000 €, je nach Aussicht, Terrasse und Entfernung zum Strand. Villen kosten etwa 730.000 € für eine Doppelhaushälfte bis 2,35 Mio. € am Golfplatz."],
+  ["Estepona oder Marbella: was ist besser?", "Marbella hat die Goldene Meile, Puerto Banús und die bekanntesten Adressen, und höhere Preise. Estepona ist ruhiger, mit einer echten Altstadt und mehr Platz fürs Geld. Marbella ist mit dem Auto etwa 25 Minuten entfernt."],
+  ["Kann man in Estepona das ganze Jahr leben?", "Ja. Estepona ist eine echte Stadt, in der die meisten Menschen das ganze Jahr leben, mit Geschäften, Märkten, internationalen Schulen, einem Krankenhaus und einem milden Winter."],
+  ["Wie weit ist Estepona vom Flughafen entfernt?", "Der Flughafen Málaga liegt etwa 85 km entfernt, rund eine Stunde mit dem Auto. Der Flughafen Gibraltar ist etwa 45 Minuten entfernt."]
+ ]
+}

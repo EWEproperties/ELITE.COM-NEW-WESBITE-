@@ -1,0 +1,31 @@
+{
+ "title": "Immobilien in Orihuela Costa kaufen: Wohnungen & Villen",
+ "description": "{count_all} Wohnungen und Villen zum Verkauf in Orihuela Costa, Campoamor, Cabo Roig und Villamartín ab {from}. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Orihuela Costa",
+ "lead": "Wohnungen nahe am Strand, Häuser an einigen der besten Golfplätze Spaniens und Luxusvillen in Campoamor. Hier finden Sie die Immobilien, die wir heute in Orihuela Costa verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Orihuela Costa"], ["ab {from}", "für eine neue Wohnung"], ["ca. 45 Min.", "zum Flughafen Alicante-Elche"], ["4 Golfplätze", "wenige Minuten von der Küste"]],
+ "listings_intro": "Neue Wohnungen mit 2 oder 3 Schlafzimmern und Gemeinschaftspool, viele in Golfresorts oder wenige Gehminuten vom Strand, dazu Villen mit eigenem Pool in Campoamor, Cabo Roig und Las Colinas. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "near_intro": "Wenige Minuten landeinwärts: Vistabella Golf, ein neueres Golfresort mit Villen und Reihenhäusern mit eigenem Pool, und San Miguel de Salinas, ein spanischer Ort nahe den Golfplätzen mit neuen Wohnungen und Villen, oft günstiger als am Meer.",
+ "guide_title": "Leben in Orihuela Costa",
+ "guide": [
+  "Orihuela Costa ist der Küstenteil der Gemeinde Orihuela, im Süden der Costa Blanca zwischen Torrevieja und Pilar de la Horadada. Es ist eine Kette von Wohngebieten am Meer, jedes mit eigenem Strand oder eigener Bucht, etwa Punta Prima, Playa Flamenca, La Zenia, Cabo Roig und Campoamor.",
+  "Für Golfer ist es einer der besten Orte Spaniens. Las Colinas Golf & Country Club, Villamartín, Las Ramblas und Campoamor liegen alle wenige Minuten von der Küste, und viele neue Wohnanlagen werden direkt an den Plätzen gebaut.",
+  "Das Leben ist hier das ganze Jahr einfach, mit einer großen internationalen Gemeinschaft, dem Einkaufszentrum La Zenia Boulevard, Restaurants, Gesundheitszentren und internationalen Schulen. Der Flughafen Alicante-Elche ist mit dem Auto etwa 45 Minuten entfernt, der Flughafen Región de Murcia etwa 40 Minuten."
+ ],
+ "guide_photo_alt": "Golfplatz mit See und Palmen in Las Colinas, Orihuela Costa",
+ "areas_title": "Die wichtigsten Viertel von Orihuela Costa",
+ "areas": [
+  {"name": "Las Colinas Golf", "text": "Ein großer, bewachter Golf- und Countryclub in einem grünen Tal wenige Minuten landeinwärts, mit eigenem Beachclub. Wohnungen, Penthäuser und Villen."},
+  {"name": "Dehesa de Campoamor", "text": "Der exklusivste Teil der Küste, mit Jachthafen, ruhigen Stränden und Pinien. Große Villen mit Garten und Pool."},
+  {"name": "Cabo Roig", "text": "Ein kleiner Jachthafen und eine Reihe von Restaurants über dem Meer, mit Buchten zu beiden Seiten. Villen und Wohnungen nahe am Wasser."},
+  {"name": "Punta Prima", "text": "Das Nordende von Orihuela Costa, direkt neben Torrevieja. Moderne Wohnanlagen mit Pool nahe am Meer."},
+  {"name": "Playa Flamenca und La Zenia", "text": "Sandbuchten, der Küstenweg und das Einkaufszentrum La Zenia Boulevard. Wohnungen und Reihenhäuser für den Alltag."},
+  {"name": "Villamartín", "text": "Ein Golfresort wenige Minuten landeinwärts, mit eigener Plaza voller Bars und Restaurants. Wohnungen, Maisonetten und Villen nahe am Platz."}
+ ],
+ "faq": [
+  ["Was kostet eine Immobilie in Orihuela Costa?", "Unsere Wohnungen in Orihuela Costa beginnen heute bei {from}. Die meisten Wohnungen, die wir verkaufen, kosten zwischen 255.000 € und 640.000 €, je nach Viertel und ob sie in einem Golfresort oder nahe am Strand liegen. Villen beginnen bei etwa 500.000 € in Villamartín und erreichen 3,6 Mio. € in Campoamor."],
+  ["In welchem Viertel von Orihuela Costa kauft man am besten?", "Das hängt davon ab, wie Sie die Immobilie nutzen wollen. Las Colinas und Villamartín sind für Golfer. Campoamor und Cabo Roig passen zu Käufern, die eine Villa nahe am Meer wollen, und Punta Prima, Playa Flamenca und La Zenia zu Käufern, die eine Wohnung nahe am Strand und an den Geschäften suchen."],
+  ["Kann man in Orihuela Costa das ganze Jahr leben?", "Ja. Viele Menschen leben hier das ganze Jahr, mit Geschäften, Restaurants, Gesundheitszentren und internationalen Schulen, die auch außerhalb des Sommers geöffnet sind, und einer großen internationalen Gemeinschaft."],
+  ["Wie weit ist Orihuela Costa vom Flughafen entfernt?", "Der Flughafen Alicante-Elche ist mit dem Auto etwa 45 Minuten entfernt, der Flughafen Región de Murcia etwa 40 Minuten."]
+ ]
+}

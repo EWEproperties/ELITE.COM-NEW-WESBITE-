@@ -1,0 +1,30 @@
+{
+ "title": "Immobilien in Jávea (Xàbia) kaufen: Villen mit Meerblick",
+ "description": "{count} Villen und Wohnungen zum Verkauf in Jávea (Xàbia) ab {from}, viele mit Blick auf Meer und Montgó. Fotos, Ortsinfos und Kaufkosten erklärt.",
+ "h1": "Immobilien zum Verkauf in Jávea",
+ "lead": "Moderne Villen mit eigenem Pool und Blick auf das Meer oder den Montgó und neue Wohnungen nahe am Strand. Hier finden Sie die Immobilien, die wir heute in Jávea verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Jávea"], ["ab {from}", "für eine neue Wohnung"], ["ca. 75 Min.", "zum Flughafen Alicante oder Valencia"], ["753 m", "der Berg Montgó"]],
+ "listings_intro": "Vor allem neue Villen mit 3 oder 4 Schlafzimmern, eigenem Pool und Grundstücken um 1.000 m², viele mit Blick auf das Meer und den Montgó, dazu neue Wohnungen nahe am Strand. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Jávea",
+ "guide": [
+  "Jávea, auf Valencianisch Xàbia, ist eine Stadt mit rund 29.000 Einwohnern an der Nordspitze der Costa Blanca, zwischen Dénia und Moraira. Sie liegt in einer weiten Bucht unter dem Montgó, einem 753 Meter hohen Berg und Naturpark, mit den Kaps San Antonio und La Nao zu beiden Seiten.",
+  "Die Stadt hat drei Teile: die Altstadt im Hinterland mit ihrer Steinkirche und der Markthalle, den Hafen mit Fischerbooten und Restaurants und den Arenal, einen Sandstrand mit Promenade. Entlang der übrigen Küste liegen Buchten mit klarem Wasser wie Granadella, Ambolo und Portitxol.",
+  "Jávea ist grün und hat strenge Bauvorschriften, deshalb sind die meisten Immobilien Villen auf großen Grundstücken statt hoher Wohnblöcke. Die Stadt lebt das ganze Jahr, mit einer großen internationalen Gemeinschaft, Schulen und Gesundheitszentren. Die Flughäfen Alicante und Valencia sind beide mit dem Auto etwa eine Stunde und eine Viertelstunde entfernt."
+ ],
+ "guide_photo_alt": "Kieselstrand mit klarem türkisfarbenem Wasser in Ambolo, Jávea",
+ "areas_title": "Die wichtigsten Viertel von Jávea",
+ "areas": [
+  {"name": "Arenal", "text": "Der Sandstrand mit Promenade, Restaurants und Bars. Wohnungen und Reihenhäuser nahe am Meer, beliebt für den Urlaub."},
+  {"name": "Hafen", "text": "Der Hafen mit Fischerbooten, Uferweg und Restaurants. Wohnungen und einige Villen an den Hängen dahinter."},
+  {"name": "Altstadt", "text": "Steinerne Gassen, die Wehrkirche und die Markthalle, einige Kilometer im Hinterland. Stadthäuser und Wohnungen zum Leben das ganze Jahr."},
+  {"name": "Montgó", "text": "Die Hänge am Fuß des Berges, grün und ruhig. Villen auf großen Grundstücken mit Blick über das Tal und das Meer."},
+  {"name": "Monte Olimpo und Tosalet", "text": "Hanglagen zwischen dem Hafen und den Buchten, mit modernen Villen, eigenem Pool und weitem Meerblick."},
+  {"name": "Portitxol und Granadella", "text": "Die Felsküste im Süden, nahe den Buchten. Einige der exklusivsten Villen von Jávea, viele mit direktem Meerblick."}
+ ],
+ "faq": [
+  ["Was kostet eine Villa in Jávea?", "Die meisten neuen Villen mit Pool und Aussicht, die wir in Jávea verkaufen, kosten zwischen 1,285 Mio. € und 1,7 Mio. €, meist mit 3 oder 4 Schlafzimmern auf einem Grundstück von etwa 1.000 m². Villen in den exklusivsten Lagen kosten etwa 1,9 Mio. € bis 4,5 Mio. €. Neue Wohnungen nahe am Strand gibt es ab {from}."],
+  ["In welchem Viertel von Jávea kauft man am besten?", "Das hängt davon ab, wie Sie die Immobilie nutzen wollen. Der Arenal und der Hafen passen zu Käufern, die Strand und Restaurants zu Fuß wollen. Montgó, Monte Olimpo und Tosalet sind die Viertel für Villen mit Aussicht, die Küste bei Portitxol und Granadella für exklusive Häuser an den Buchten. Die Altstadt eignet sich für das Leben das ganze Jahr."],
+  ["Kann man in Jávea das ganze Jahr leben?", "Ja. Jávea hat eine große Gemeinschaft von Menschen, die das ganze Jahr hier leben, mit internationalen Schulen, Gesundheitszentren, Geschäften und Restaurants, die auch außerhalb des Sommers geöffnet sind."],
+  ["Wie weit ist Jávea vom Flughafen entfernt?", "Der Flughafen Alicante-Elche liegt etwa 90 km entfernt, der Flughafen Valencia etwa 110 km, jeweils rund eine Stunde und eine Viertelstunde mit dem Auto."]
+ ]
+}

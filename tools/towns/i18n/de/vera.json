@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in Vera & Vera Playa kaufen: Wohnungen & Villen",
+ "description": "{count} Wohnungen, Bungalows und Villen zum Verkauf in Vera und Vera Playa, Almería, ab {from}, viele nahe am Strand. Fotos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Vera",
+ "lead": "Neue Wohnungen am Strand von Vera Playa, Bungalows und Villen mit eigenem Pool nahe am Meer. Hier finden Sie die Immobilien, die wir heute in Vera verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Vera"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 1 Stunde",
+   "zum Flughafen Almería"
+  ],
+  [
+   "Vera Playa",
+   "lange Sandstrände"
+  ]
+ ],
+ "listings_intro": "Neue Wohnungen mit 1 bis 3 Schlafzimmern, viele direkt am oder nahe am Strand und einige mit Touristenlizenz, dazu Bungalows und Villen mit eigenem Pool. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Vera",
+ "guide": [
+  "Vera ist eine Stadt in der Provinz Almería in Andalusien, wenige Kilometer landeinwärts vom Meer. Ihre Küste, Vera Playa, hat lange Sandstrände, eine Promenade und moderne Wohnanlagen und ist bei Käufern aus ganz Europa beliebt.",
+  "Die Gegend ist den größten Teil des Jahres trocken und sonnig, mit mildem Winter. Die Altstadt von Vera hat eine Kirche, Plätze und Läden, und die nahen Orte Mojácar und Garrucha bieten weiße Häuser, einen Fischerhafen und gute Restaurants.",
+  "Die Preise liegen unter denen der bekannteren Küsten, deshalb finden viele Käufer hier mit kleinem Budget ein neues Zuhause nahe am Strand. Der Flughafen Almería ist mit dem Auto etwa eine Stunde entfernt, der Flughafen Región de Murcia etwa anderthalb Stunden."
+ ],
+ "guide_photo_alt": "Lagune und Sandstrand in Vera Playa",
+ "areas_title": "Die wichtigsten Viertel von Vera",
+ "areas": [
+  {
+   "name": "Vera Playa",
+   "text": "Die Strandseite von Vera, mit Sandstränden und Promenade. Neue Wohnungen und Villen nahe am Meer."
+  },
+  {
+   "name": "Ort Vera",
+   "text": "Die Altstadt wenige Kilometer landeinwärts, mit Geschäften und Versorgung. Neue Wohnungen und Bungalows, etwa 2 km vom Strand."
+  },
+  {
+   "name": "Richtung Garrucha",
+   "text": "Die Küste nördlich von Vera Playa, nahe dem Fischerhafen von Garrucha und seinen Restaurants."
+  },
+  {
+   "name": "Richtung Mojácar",
+   "text": "Die Küste südlich von Vera, nahe dem weißen Dorf Mojácar auf seinem Hügel."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Vera?",
+   "Unsere Wohnungen in Vera beginnen heute bei {from}, die meisten kosten zwischen 180.000 € und 300.000 €. Bungalows gibt es ab etwa 270.000 €, Villen mit eigenem Pool nahe am Strand kosten etwa 430.000 € bis 475.000 €."
+  ],
+  [
+   "Kann ich eine Wohnung in Vera Playa vermieten?",
+   "Ja. Einige unserer Wohnungen in Vera Playa haben schon eine Touristenlizenz. Ferienvermietung in Andalusien erfordert die Eintragung ins regionale Tourismusregister, prüfen Sie die Lizenz also vor dem Kauf."
+  ],
+  [
+   "Wie weit ist Vera vom Flughafen entfernt?",
+   "Der Flughafen Almería ist mit dem Auto etwa eine Stunde entfernt, der Flughafen Región de Murcia etwa anderthalb Stunden."
+  ]
+ ]
+}

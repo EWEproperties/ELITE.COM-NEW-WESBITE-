@@ -97,6 +97,440 @@
     <lastmod>2026-11-03</lastmod>
   </url>
   <!-- /collections -->
+  <!-- i18n-pages -->
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/uber-uns</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/about-us"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/uber-uns"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/acerca-de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/about-us"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/acerca-de</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/about-us"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/uber-uns"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/acerca-de"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/about-us"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/kontakt</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/contact-us"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/contacto"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/contact-us"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/contacto</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/contact-us"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/kontakt"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/contacto"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/contact-us"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-alicante</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-alicante"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-alicante"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-alicante"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-alicante"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-alicante</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-alicante"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-alicante"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-alicante"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-alicante"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-altea</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-altea"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-altea"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-altea"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-altea"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-altea</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-altea"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-altea"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-altea"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-altea"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-benidorm</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-benidorm"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-benidorm"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-benidorm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-benidorm"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-benidorm</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-benidorm"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-benidorm"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-benidorm"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-benidorm"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-calpe</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-calpe"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-calpe"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-calpe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-calpe"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-calpe</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-calpe"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-calpe"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-calpe"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-calpe"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-casares</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-casares"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-casares"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-casares"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-casares"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-casares</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-casares"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-casares"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-casares"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-casares"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-ciudad-quesada</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-ciudad-quesada"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-ciudad-quesada"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-ciudad-quesada"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-ciudad-quesada"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-ciudad-quesada</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-ciudad-quesada"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-ciudad-quesada"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-ciudad-quesada"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-ciudad-quesada"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-cumbre-del-sol</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-cumbre-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-cumbre-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-cumbre-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-cumbre-del-sol"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-cumbre-del-sol</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-cumbre-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-cumbre-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-cumbre-del-sol"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-cumbre-del-sol"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-denia</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-denia"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-denia"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-denia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-denia"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-denia</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-denia"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-denia"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-denia"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-denia"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-estepona</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-estepona"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-estepona"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-estepona"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-estepona"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-estepona</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-estepona"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-estepona"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-estepona"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-estepona"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-finestrat</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-finestrat"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-finestrat"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-finestrat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-finestrat"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-finestrat</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-finestrat"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-finestrat"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-finestrat"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-finestrat"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-fuengirola</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-fuengirola"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-fuengirola"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-fuengirola"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-fuengirola"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-fuengirola</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-fuengirola"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-fuengirola"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-fuengirola"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-fuengirola"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-guardamar-del-segura</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-guardamar-del-segura"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-guardamar-del-segura"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-guardamar-del-segura"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-guardamar-del-segura"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-guardamar-del-segura</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-guardamar-del-segura"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-guardamar-del-segura"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-guardamar-del-segura"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-guardamar-del-segura"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-javea</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-javea"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-javea"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-javea"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-javea"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-javea</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-javea"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-javea"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-javea"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-javea"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-los-alcazares</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-los-alcazares"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-los-alcazares"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-los-alcazares"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-los-alcazares"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-los-alcazares</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-los-alcazares"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-los-alcazares"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-los-alcazares"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-los-alcazares"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-marbella</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-marbella"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-marbella</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-marbella"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-marbella"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-marbella"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-mijas</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-mijas"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-mijas"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-mijas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-mijas"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-mijas</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-mijas"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-mijas"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-mijas"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-mijas"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-orihuela-costa</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-orihuela-costa"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-orihuela-costa"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-orihuela-costa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-orihuela-costa"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-orihuela-costa</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-orihuela-costa"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-orihuela-costa"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-orihuela-costa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-orihuela-costa"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-pulpi</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-pulpi"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-pulpi"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-pulpi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-pulpi"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-pulpi</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-pulpi"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-pulpi"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-pulpi"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-pulpi"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-san-pedro-del-pinatar</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-san-pedro-del-pinatar"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-san-pedro-del-pinatar"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-san-pedro-del-pinatar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-san-pedro-del-pinatar"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-san-pedro-del-pinatar</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-san-pedro-del-pinatar"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-san-pedro-del-pinatar"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-san-pedro-del-pinatar"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-san-pedro-del-pinatar"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-santa-pola</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-santa-pola"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-santa-pola"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-santa-pola"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-santa-pola"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-santa-pola</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-santa-pola"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-santa-pola"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-santa-pola"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-santa-pola"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-torre-pacheco</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-torre-pacheco"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-torre-pacheco"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-torre-pacheco"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-torre-pacheco"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-torre-pacheco</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-torre-pacheco"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-torre-pacheco"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-torre-pacheco"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-torre-pacheco"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-torrevieja</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-torrevieja"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-torrevieja"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-torrevieja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-torrevieja"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-torrevieja</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-torrevieja"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-torrevieja"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-torrevieja"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-torrevieja"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-vera</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-vera"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-vera"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-vera"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-vera"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-vera</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-vera"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-vera"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-vera"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-vera"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-villajoyosa</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-villajoyosa"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-villajoyosa"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-villajoyosa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-villajoyosa"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-villajoyosa</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/properties-for-sale-in-villajoyosa"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/immobilien-zum-verkauf-in-villajoyosa"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/inmuebles-en-venta-en-villajoyosa"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/properties-for-sale-in-villajoyosa"/>
+  </url>
+  <!-- /i18n-pages -->
   <!-- towns -->
   <url>
     <loc>https://www.eliteworldestates.com/properties-for-sale-in-alicante</loc>
@@ -10420,6 +10854,35 @@
     <image:image><image:loc>https://www.eliteworldestates.com/assets/blog/wellness-costa-blanca/infinity-pool-facing-the-mountains-at-dawn.jpg</image:loc></image:image>
   </url>
   <!-- /blog -->
+  <!-- blog-index -->
+  <url>
+    <loc>https://www.eliteworldestates.com/blog</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eliteworldestates.com/pl-pl/blog"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/de-de/blog</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eliteworldestates.com/pl-pl/blog"/>
+  </url>
+  <url>
+    <loc>https://www.eliteworldestates.com/es-es/blog</loc>
+    <lastmod>2026-11-03</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eliteworldestates.com/pl-pl/blog"/>
+  </url>
+  <!-- /blog-index -->
   <!-- blog-pl -->
   <url>
     <loc>https://www.eliteworldestates.com/pl-pl/zakup-luksusowego-domu-lub-willi-w-hiszpanii-gdzie-szukac-co-warto-wiedziec</loc>
@@ -11061,33 +11524,4 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
   </url>
   <!-- /blog-pl -->
-  <!-- blog-index -->
-  <url>
-    <loc>https://www.eliteworldestates.com/blog</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eliteworldestates.com/pl-pl/blog"/>
-  </url>
-  <url>
-    <loc>https://www.eliteworldestates.com/de-de/blog</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eliteworldestates.com/pl-pl/blog"/>
-  </url>
-  <url>
-    <loc>https://www.eliteworldestates.com/es-es/blog</loc>
-    <lastmod>2026-11-03</lastmod>
-    <xhtml:link rel="alternate" hreflang="en" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://www.eliteworldestates.com/de-de/blog"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://www.eliteworldestates.com/es-es/blog"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.eliteworldestates.com/blog"/>
-    <xhtml:link rel="alternate" hreflang="pl" href="https://www.eliteworldestates.com/pl-pl/blog"/>
-  </url>
-  <!-- /blog-index -->
 </urlset>

@@ -1,0 +1,28 @@
+{
+ "title": "Immobilien in Los Alcázares kaufen: Mar Menor & Golf",
+ "description": "{count} Wohnungen und Villen zum Verkauf in Los Alcázares am Mar Menor ab {from}, nahe Strand und La Serena Golf. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Los Alcázares",
+ "lead": "Neue Wohnungen nahe dem ruhigen, warmen Wasser des Mar Menor und Villen mit eigenem Pool am La Serena Golf. Hier finden Sie die Immobilien, die wir heute in Los Alcázares verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Los Alcázares"], ["ab {from}", "für eine neue Wohnung"], ["ca. 30 Min.", "zum Flughafen Región de Murcia"], ["Mar Menor", "eine ruhige Salzwasserlagune"]],
+ "listings_intro": "Neue Wohnungen mit 2 oder 3 Schlafzimmern, viele weniger als einen Kilometer vom Strand, und Villen mit 3 Schlafzimmern und eigenem Pool, mehrere davon direkt am La Serena Golf. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Los Alcázares",
+ "guide": [
+  "Los Alcázares ist ein Küstenort mit rund 17.000 Einwohnern in der Region Murcia, am Ufer des Mar Menor. Das Mar Menor ist eine große Salzwasserlagune, die durch einen schmalen Landstreifen, La Manga, vom Mittelmeer getrennt ist. Das Wasser ist flach, ruhig und einen Großteil des Jahres warm, deshalb ist es bei Familien und für Segeln und andere Wassersportarten beliebt.",
+  "Der Ort hat eine lange Strandpromenade mit Stränden, kleinen Stegen und Cafés und ein entspanntes Tempo. Der La Serena Golf liegt am Ortsrand, und weitere Golfplätze, etwa rund um Roda, sind wenige Minuten entfernt.",
+  "Die Preise liegen unter denen der meisten Orte an der Costa Blanca und der Costa del Sol, so bekommen Käufer ein neues Zuhause mit Pool für weniger Geld. Der Flughafen Región de Murcia ist mit dem Auto etwa 30 Minuten entfernt, der Flughafen Alicante etwa eine Stunde, Cartagena und die Stadt Murcia 25 bis 35 Minuten."
+ ],
+ "guide_photo_alt": "Segelboote im Hafen von Los Alcázares am Mar Menor",
+ "areas_title": "Die wichtigsten Viertel von Los Alcázares",
+ "areas": [
+  {"name": "Strandpromenade und Zentrum", "text": "Die Promenade, die Strände und die Stege am Mar Menor, mit Geschäften und Restaurants zu Fuß. Wohnungen nahe am Wasser."},
+  {"name": "La Serena Golf", "text": "Ein Golfresort am Ortsrand, etwa 1 km vom Strand. Neue Villen mit eigenem Pool und Wohnungen am Platz."},
+  {"name": "Wohngebiete im Hinterland", "text": "Ruhigere Straßen 1 bis 2 km vom Meer, mit neuen Wohnanlagen und Villen, oft mit mehr Platz fürs Geld."},
+  {"name": "Rund um das Mar Menor", "text": "Die Nachbarorte San Javier, Santiago de la Ribera und La Manga, mit weiteren Stränden, Segelclubs und Golfplätzen."}
+ ],
+ "faq": [
+  ["Was kostet eine Immobilie in Los Alcázares?", "Unsere neuen Wohnungen in Los Alcázares beginnen heute bei {from}, die meisten mit 2 oder 3 Schlafzimmern kosten zwischen 265.000 € und 400.000 €. Villen mit eigenem Pool kosten etwa 420.000 € bis 720.000 €, viele davon nahe dem La Serena Golf."],
+  ["Wie ist das Mar Menor?", "Das Mar Menor ist eine große Salzwasserlagune neben dem Mittelmeer. Das Wasser ist flach, ruhig und meist wärmer als das offene Meer, ideal für Kinder, zum Schwimmen fast das ganze Jahr und für Wassersport wie Segeln und Stand-up-Paddling."],
+  ["Gibt es in Los Alcázares Hochwassergefahr?", "Teile des Ortes wurden in den letzten Jahren bei starken Herbstunwettern überflutet. Prüfen Sie vor dem Kauf die offiziellen Hochwasserkarten für das genaue Grundstück und fragen Sie nach Entwässerung und Versicherung. Wir helfen Ihnen bei diesen Prüfungen."],
+  ["Wie weit ist Los Alcázares vom Flughafen entfernt?", "Der Flughafen Región de Murcia in Corvera ist mit dem Auto etwa 30 Minuten entfernt, der Flughafen Alicante-Elche etwa eine Stunde."]
+ ]
+}

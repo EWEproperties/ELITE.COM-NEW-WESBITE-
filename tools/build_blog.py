@@ -18,6 +18,10 @@ SRC = os.path.join(ROOT, "tools", "blog")
 SITE = "https://www.eliteworldestates.com"
 LANGS = ("en", "de", "es")
 DIRS = {"en": "", "de": "de-de/", "es": "es-es/"}
+# German and Spanish home, About Us and Contact pages (tools/build_pages_i18n.py)
+HOMEP = {"en": "index.html", "de": "de-de/index.html", "es": "es-es/index.html"}
+ABOUTP = {"en": "about-us.html", "de": "de-de/uber-uns.html", "es": "es-es/acerca-de.html"}
+CONTACTP = {"en": "contact-us.html", "de": "de-de/kontakt.html", "es": "es-es/contacto.html"}
 LOCALE = {"en": "en_GB", "de": "de_DE", "es": "es_ES"}
 
 AUTHORS = {
@@ -270,16 +274,16 @@ def page(a, lang):
 
 <header class="site-header" id="top">
   <div class="container header-inner">
-    <a class="logo" href="{up}index.html" aria-label="Elite World Estates – {ui["home"]}">
+    <a class="logo" href="{up}{HOMEP[lang]}" aria-label="Elite World Estates – {ui["home"]}">
       <img src="{up}assets/logo.png" alt="Elite World Estates – Home is your castle" width="434" height="176">
     </a>
     <button class="nav-toggle" aria-label="{ui["menu"]}" aria-expanded="false">&#9776;</button>
     <nav class="main-nav" aria-label="{ui["main"]}">
-      <a href="{up}index.html">{ui["home"]}</a>
+      <a href="{up}{HOMEP[lang]}">{ui["home"]}</a>
       <a href="{up}properties-for-sale-in-spain.html">{ui["props"]}</a>
       <a href="{up}{DIRS[lang]}blog.html" class="active">{ui["blog"]}</a>
-      <a href="{up}about-us.html">{ui["about"]}</a>
-      <a href="{up}index.html#contact">{ui["contact"]}</a>
+      <a href="{up}{ABOUTP[lang]}">{ui["about"]}</a>
+      <a href="{up}{CONTACTP[lang]}">{ui["contact"]}</a>
       <div class="lang">
         {langs}
       </div>
@@ -290,7 +294,7 @@ def page(a, lang):
 <main class="article-page">
   <div class="container article-wrap">
     <nav class="breadcrumb" aria-label="{ui["crumbs"]}">
-      <a href="{up}index.html">{ui["home"]}</a> <span>/</span> <a href="{up}{DIRS[lang]}blog.html">{ui["blog"]}</a> <span>/</span> <span aria-current="page">{t["crumb"]}</span>
+      <a href="{up}{HOMEP[lang]}">{ui["home"]}</a> <span>/</span> <a href="{up}{DIRS[lang]}blog.html">{ui["blog"]}</a> <span>/</span> <span aria-current="page">{t["crumb"]}</span>
     </nav>
 
     <article class="post">
@@ -299,7 +303,7 @@ def page(a, lang):
         <h1>{t["h1"]}</h1>
         <p class="byline">
           <img src="{up}{au["photo"]}" alt="" width="48" height="48">
-          <span>{ui["by"]} <a href="{up}about-us.html">{au["name"]}</a> · <time datetime="{pub}">{nice_date(pub, lang)}</time>{upd} · {minutes} {ui["read"]}</span>
+          <span>{ui["by"]} <a href="{up}{ABOUTP[lang]}">{au["name"]}</a> · <time datetime="{pub}">{nice_date(pub, lang)}</time>{upd} · {minutes} {ui["read"]}</span>
         </p>
       </header>
 
@@ -341,7 +345,7 @@ def page(a, lang):
 
 <footer class="site-footer">
   <div class="container footer-bottom">
-    <p><a href="{up}index.html">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
+    <p><a href="{up}{HOMEP[lang]}">Elite World Estates</a> · <a href="tel:+34672519809">0034 672 519 809</a> · <a href="mailto:info@eliteworldestates.com">info@eliteworldestates.com</a></p>
     <p>{ui["reg"]}</p>
     <p class="footer-legal">{legal_links(up, lang)}</p>
     <p>&copy; <span id="year"></span> Elite World Estates</p>

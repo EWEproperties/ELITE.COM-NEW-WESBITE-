@@ -1,0 +1,31 @@
+{
+ "title": "Pisos y villas en venta en Orihuela Costa",
+ "description": "{count_all} pisos y villas en venta en Orihuela Costa, Campoamor, Cabo Roig y Villamartín desde {from}. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Orihuela Costa",
+ "lead": "Pisos cerca de la playa, viviendas en algunos de los mejores campos de golf de España y villas de lujo en Campoamor. Estos son los inmuebles que vendemos hoy en Orihuela Costa, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Orihuela Costa"], ["desde {from}", "un piso nuevo"], ["unos 45 min", "al aeropuerto de Alicante-Elche"], ["4 campos de golf", "a pocos minutos de la costa"]],
+ "listings_intro": "Pisos nuevos de 2 o 3 dormitorios con piscina comunitaria, muchos en resorts de golf o a un paseo de la playa, además de villas con piscina privada en Campoamor, Cabo Roig y Las Colinas. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "near_intro": "A pocos minutos hacia el interior: Vistabella Golf, un resort de golf más reciente con villas y adosados con piscina privada, y San Miguel de Salinas, un pueblo español cerca de los campos de golf con pisos nuevos y villas, a menudo más baratos que junto al mar.",
+ "guide_title": "Vivir en Orihuela Costa",
+ "guide": [
+  "Orihuela Costa es la parte costera del municipio de Orihuela, en el sur de la Costa Blanca, entre Torrevieja y Pilar de la Horadada. Es una sucesión de zonas residenciales junto al mar, cada una con su playa o cala, como Punta Prima, Playa Flamenca, La Zenia, Cabo Roig y Campoamor.",
+  "Es uno de los mejores lugares de España para jugar al golf. Las Colinas Golf & Country Club, Villamartín, Las Ramblas y Campoamor están a pocos minutos de la costa, y muchas promociones nuevas se construyen junto a los campos.",
+  "La vida aquí es fácil todo el año, con una gran comunidad internacional, el centro comercial La Zenia Boulevard, restaurantes, centros de salud y colegios internacionales. El aeropuerto de Alicante-Elche está a unos 45 minutos en coche, y el de la Región de Murcia a unos 40 minutos."
+ ],
+ "guide_photo_alt": "Campo de golf con lago y palmeras en Las Colinas, Orihuela Costa",
+ "areas_title": "Las principales zonas de Orihuela Costa",
+ "areas": [
+  {"name": "Las Colinas Golf", "text": "Un gran club de golf cerrado en un valle verde a pocos minutos del mar, con seguridad y club de playa propio. Pisos, áticos y villas."},
+  {"name": "Dehesa de Campoamor", "text": "La parte más exclusiva de la costa, con puerto deportivo, playas tranquilas y pinos. Grandes villas con jardín y piscina."},
+  {"name": "Cabo Roig", "text": "Un pequeño puerto deportivo y una fila de restaurantes sobre el mar, con calas a ambos lados. Villas y pisos cerca del agua."},
+  {"name": "Punta Prima", "text": "El extremo norte de Orihuela Costa, junto a Torrevieja. Residenciales modernos con piscina cerca del mar."},
+  {"name": "Playa Flamenca y La Zenia", "text": "Calas de arena, el paseo junto al mar y el centro comercial La Zenia Boulevard. Pisos y adosados para el día a día."},
+  {"name": "Villamartín", "text": "Un resort de golf a pocos minutos del mar, con su propia plaza de bares y restaurantes. Pisos, dúplex y villas junto al campo."}
+ ],
+ "faq": [
+  ["¿Cuánto cuesta una vivienda en Orihuela Costa?", "Nuestros pisos en Orihuela Costa empiezan hoy en {from}. La mayoría de los pisos que vendemos cuestan entre 255.000 € y 640.000 €, según la zona y si están en un resort de golf o cerca de la playa. Las villas empiezan en unos 500.000 € en Villamartín y llegan a 3,6 millones de € en Campoamor."],
+  ["¿Cuál es la mejor zona para comprar en Orihuela Costa?", "Depende del uso que le vaya a dar. Las Colinas y Villamartín son para golfistas. Campoamor y Cabo Roig encajan con quien quiere una villa cerca del mar, y Punta Prima, Playa Flamenca y La Zenia con quien busca un piso cerca de la playa y de las tiendas."],
+  ["¿Se puede vivir todo el año en Orihuela Costa?", "Sí. Mucha gente vive aquí todo el año, con tiendas, restaurantes, centros de salud y colegios internacionales abiertos fuera del verano, y una gran comunidad internacional."],
+  ["¿A qué distancia está Orihuela Costa del aeropuerto?", "El aeropuerto de Alicante-Elche está a unos 45 minutos en coche, y el de la Región de Murcia a unos 40 minutos."]
+ ]
+}
