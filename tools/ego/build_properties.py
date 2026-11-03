@@ -132,10 +132,15 @@ def ego_photo(url, size):
 
 FIXES_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "fixes.json")
 FIXES = json.load(open(FIXES_PATH, encoding="utf-8")) if os.path.exists(FIXES_PATH) else {}
+SLUGS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "slugs.json")
+SLUGS = json.load(open(SLUGS_PATH, encoding="utf-8")) if os.path.exists(SLUGS_PATH) else {}
 
 
 def apply_fixes(p):
     """Small website-side fixes to eGO texts (fixes.json, by reference) plus common typos.
+    fixes.json keys per reference: title (page heading), description (page text),
+    seo_title / seo_desc (Google title and description, applied in set_seo_titles).
+    Edits made in the property text editor are copied in with tools/ego/sync_editor.py.
     eGO itself is never changed."""
     fix = FIXES.get(p.get("Reference") or "", {})
     if fix.get("title"):
@@ -422,6 +427,13 @@ def set_seo_titles(items):
     for L in items:
         if dcount[L["seo_desc"]] > 1 and not L.get("seo"):
             L["seo_desc"] = re.sub(r"(See photos.*|Book a viewing\.)$", f"Ref. {L['ref']}. Book a viewing.", L["seo_desc"])
+    # Lucy's own Google title / description from the property text editor win over the automatic ones
+    for L in items:
+        fix = FIXES.get(L["ref"], {})
+        if fix.get("seo_title"):
+            L["seo_title"] = fix["seo_title"]
+        if fix.get("seo_desc"):
+            L["seo_desc"] = fix["seo_desc"]
 
 
 def costs(L):
@@ -878,6 +890,19 @@ def main(args):
     for L in items:
         if seen[L["slug"]] > 1 or not L["slug"]:
             L["slug"] = f"{L['slug']}-{L['ref'].lower()}".strip("-")
+    # Page addresses stay fixed once given out (slugs.json), so a new heading in eGO or in
+    # the property text editor never breaks links or Google rankings. New listings are added.
+    taken = set(SLUGS.values())
+    for L in items:
+        if L["ref"] in SLUGS:
+            L["slug"] = SLUGS[L["ref"]]
+        elif L["ref"]:
+            if L["slug"] in taken:
+                L["slug"] = f"{L['slug']}-{L['ref'].lower()}"
+            SLUGS[L["ref"]] = L["slug"]
+            taken.add(L["slug"])
+    with open(SLUGS_PATH, "w", encoding="utf-8") as f:
+        json.dump(dict(sorted(SLUGS.items())), f, ensure_ascii=False, indent=0)
     set_seo_titles(items)
 
     os.makedirs(OUT, exist_ok=True)
