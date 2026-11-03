@@ -136,6 +136,58 @@ SLUGS_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "slugs.jso
 SLUGS = json.load(open(SLUGS_PATH, encoding="utf-8")) if os.path.exists(SLUGS_PATH) else {}
 
 
+FOREIGN_WORDS = {"शांत": "quiet", "მშვიდ": "peaceful"}  # stray words left by the translation tool
+COMMON_WORDS = {"sea", "beach", "golf", "club", "castle", "port", "harbour", "marina", "world", "the", "and", "with"}
+# Spelling slips found in eGO texts (2026-11-03); applied to every text on the website
+TEXT_FIXES = [
+    (r"\b[Tt]ereferico [Bb]enalmadena\b( - (the )?queue)?", "Benalmádena cable car"),
+    (r"\b[Bb]enalmaden(?:na)?\b|\b[Bb]enalmadena\b", "Benalmádena"),
+    (r"\b[Cc]olombo's [Cc]astle\b|\b[Cc]olumba's fairy-tale [Cc]astle\b|\b[Cc]astle of [Cc]olomares\b", "Colomares Castle"),
+    (r"\b[Ff]airytale Colomares Castle\b|\b[Tt]he fairytale Colomares Castle\b", "The fairy-tale Colomares Castle"),
+    (r"\b[Tt]ivoli world\b", "Tivoli World"),
+    (r"\b[Cc]omunal\b", "communal"),
+    (r"\b[Tt]he fairytale [Cc]astle of Columbus\b", "The fairy-tale Colomares Castle"),
+    (r"(?m)^(\d+)\.(?=\S)", r"\1. "),
+    (r"\b([Aa])ppartment", r"\1partment"),
+    (r"\bPonoing\b", "Ponoig"),
+]
+
+
+def sentence_case(line, text):
+    """ALL-CAPS line -> sentence case, keeping words written with a capital elsewhere (towns, names)."""
+    # capitalised words that are not at the start of a sentence: names of towns, golf courses...
+    proper = {w.lower(): w for w in re.findall(r"(?<=[a-záéíóúñü,] )[A-ZÁÉÍÓÚÑ][a-záéíóúñü]+\b", text)
+              if w.lower() not in COMMON_WORDS}
+    out = re.sub(r"\b[a-záéíóúñü]+\b", lambda m: proper.get(m.group(0), m.group(0)), line.lower())
+    return re.sub(r"(^|[.!?]\s+)([a-záéíóúñ])", lambda m: m.group(1) + m.group(2).upper(), out)
+
+
+def clean_text(t):
+    """Tidy eGO text for the website without changing what it says (2026-11-03, Lucy OK'd)."""
+    if not t:
+        return t
+    t = re.sub(r"[\u200b\u200c\u200d\ufeff]", "", t)              # invisible characters
+    t = re.sub(r"\s*[\u2600-\u27bf\U0001F300-\U0001FAFF]\ufe0f?", "", t)  # emoji
+    for w, en in FOREIGN_WORDS.items():
+        t = t.replace(w, en)
+    t = re.sub(r"\b(\w+) \1\b", r"\1", t)                       # "peaceful peaceful"
+    t = re.sub(r"\b(and|a) (peaceful|quiet) (peaceful|quiet)\b", r"\1 \2", t)
+    t = re.sub(r"[ \t]+:", ":", t)                                   # "Location :" -> "Location:"
+    t = re.sub(r"(\d)\s*(?:m2|sqm|sq\.? ?m)\b", r"\1 m²", t)          # 120m2 / 120 sqm -> 120 m²
+    t = re.sub(r"(?m)^[ \t]*[-*•–▪●■◆✓✔➤►][ \t]+", "", t)           # leading bullet marks
+    t = re.sub(r"[ \t]{2,}", " ", t)
+    lines = t.split("\n")
+    for i, line in enumerate(lines):
+        letters = re.sub(r"[^A-Za-zÁÉÍÓÚÑáéíóúñ]", "", line)
+        if len(letters) > 10 and line.upper() == line:
+            lines[i] = sentence_case(line.strip(), t)
+    t2 = "\n".join(lines)
+    for rx, rep in TEXT_FIXES:
+        t2 = re.sub(rx, rep, t2)
+    lines = [l[:1].upper() + l[1:] for l in t2.split("\n")]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines)).strip()
+
+
 def apply_fixes(p):
     """Small website-side fixes to eGO texts (fixes.json, by reference) plus common typos.
     fixes.json keys per reference: title (page heading), description (page text),
@@ -147,10 +199,13 @@ def apply_fixes(p):
         p["Title"] = fix["title"]
     if fix.get("description"):
         p["Description"] = fix["description"]
+    p["Description"] = clean_text((p.get("Description") or "").replace("\r", ""))
     t = re.sub(r"\b([Aa])partament(s?)\b", r"\1partment\2", p.get("Title") or "")
     if t.isupper():
         t = t.capitalize()
-    p["Title"] = re.sub(r"\s{2,}", " ", t).strip()
+    for rx, rep in TEXT_FIXES[-2:]:
+        t = re.sub(rx, rep, t)
+    p["Title"] = re.sub(r"\s{2,}", " ", t).strip().rstrip(".").strip()
     return p
 
 
