@@ -56,6 +56,11 @@ COASTS = {"Alicante": ("Costa Blanca", CB), "Valencia": ("Costa Blanca", CB),
           "Murcia": ("Costa Cálida", CC), "Almería": ("Costa de Almería", ES),
           "Málaga": ("Costa del Sol", CDS), "Cádiz": ("Costa del Sol", CDS),
           "Granada": ("Costa Tropical", ES)}
+def rough(v):
+    """Approximate GPS: 2 decimals is about 1 km, enough for the map, not the exact house."""
+    return round(float(v), 2) if v else None
+
+
 APARTMENT_TYPES = ("Apartment", "Penthouse", "Ground floor", "Duplex", "Studio", "Flat")
 PLURAL_TITLE = re.compile(r"\b(apartments|villas|townhouses|town houses|homes|houses|penthouses|bungalows|duplexes|"
                           r"properties|residences|chalets)\b", re.I)
@@ -161,7 +166,8 @@ def listing(p, pl_links):
         "town": p.get("Municipality") or "", "area": (p.get("Parish") or "").strip(), "province": p.get("District") or "",
         "region": region, "coast": COASTS.get(p.get("District"), ("Spain", ""))[0],
         "coast_path": COASTS.get(p.get("District"), ("", ""))[1],
-        "lat": p.get("GPSLat") or None, "lon": p.get("GPSLon") or None,
+        # rounded to 2 decimals (~1 km) so pages never reveal a home's exact address
+        "lat": rough(p.get("GPSLat")), "lon": rough(p.get("GPSLon")),
         "price": price, "beds": p.get("Rooms") or 0, "baths": p.get("Bathrooms") or 0,
         "built": num(p.get("GrossArea")), "usable": num(p.get("NetArea")), "plot": num(p.get("LandArea")),
         "floor": p["Floor"] if p.get("Floor", -1) >= 0 and p.get("Type") in APARTMENT_TYPES else None,
