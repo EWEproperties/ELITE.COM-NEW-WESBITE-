@@ -392,11 +392,9 @@ def seo_description(L):
     if L["baths"]:
         bits.append(f"{L['baths']} bathroom{'s' if L['baths'] != 1 else ''}")
     s += (", ".join(bits) + ". " if bits else "") + (price_text(L) + ". " if L["price"] else "")
-    for tail in ["See photos and buying costs, and book a viewing with Elite World Estates.",
-                 "See photos and buying costs, and book a viewing.", "Book a viewing.", ""]:
-        if len(s + tail) <= 158:
-            return (s + tail).strip()
-    return s.strip()[:155].rsplit(" ", 1)[0] + "…"
+    # Facts only, no "book a viewing" ending (Lucy, 2026-11-03)
+    s = s.strip()
+    return s if len(s) <= 158 else s[:155].rsplit(" ", 1)[0] + "…"
 
 
 def set_seo_titles(items):
@@ -426,7 +424,7 @@ def set_seo_titles(items):
         dcount[L["seo_desc"]] = dcount.get(L["seo_desc"], 0) + 1
     for L in items:
         if dcount[L["seo_desc"]] > 1 and not L.get("seo"):
-            L["seo_desc"] = re.sub(r"(See photos.*|Book a viewing\.)$", f"Ref. {L['ref']}. Book a viewing.", L["seo_desc"])
+            L["seo_desc"] = (L["seo_desc"] + f" Ref. {L['ref']}.") if len(L["seo_desc"]) <= 145 else L["seo_desc"]
     # Lucy's own Google title / description from the property text editor win over the automatic ones
     for L in items:
         fix = FIXES.get(L["ref"], {})
