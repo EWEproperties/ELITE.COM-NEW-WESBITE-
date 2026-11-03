@@ -178,10 +178,10 @@ def build(p):
     <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">&#9776;</button>
     <nav class="main-nav" aria-label="Main">
       <a href="index.html">Home</a>
-      <a href="index.html#properties">Properties</a>
+      <a href="properties-for-sale-in-spain.html">Properties</a>
       <a href="blog.html">Blog</a>
       <a href="about-us.html">About Us</a>
-      <a href="index.html#contact">Contact Us</a>
+      <a href="contact-us.html">Contact Us</a>
     </nav>
   </div>
 </header>

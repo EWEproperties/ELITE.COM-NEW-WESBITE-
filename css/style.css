@@ -794,3 +794,41 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .legal-table th[scope="row"] { width: 32%; font-weight: 700; color: #5b4630; }
 .legal-wide td { padding-right: 1rem; }
 @media (max-width: 600px) { .legal-table td { padding-left: 0; } .legal-table th[scope="row"] { width: auto; border-bottom: 0; padding-bottom: 0; } }
+
+/* Collection pages: all properties, coast hubs, categories (tools/build_collections.py) */
+.c-filter { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; padding: 1.4rem; margin-bottom: 1rem; border: 1px solid var(--gold-line); background: #faf7f2; }
+.c-filter label { display: grid; gap: .35rem; min-width: 0; }
+.c-filter label span { font-size: .72rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--gold-dark); }
+.c-filter select { width: 100%; padding: .65rem .7rem; font: inherit; font-size: .95rem; color: var(--text); background: var(--white); border: 1px solid var(--gold-line); border-radius: 0; }
+.c-filter select:focus-visible { outline: 2px solid var(--gold); outline-offset: 1px; }
+.c-count { margin: 0 0 1.4rem; font-size: .9rem; color: var(--muted); font-variant-numeric: tabular-nums; }
+.c-towns { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.2rem; margin-top: 1.8rem; }
+.c-town { position: relative; display: block; aspect-ratio: 3 / 2; overflow: hidden; color: var(--white); background: #3b2f22; }
+.c-town img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s; }
+.c-town::after { content: ""; position: absolute; inset: 0; background: linear-gradient(180deg, rgba(45, 34, 22, 0) 40%, rgba(45, 34, 22, .8) 100%); }
+.c-town:hover img { transform: scale(1.04); }
+.c-town-name, .c-town-meta { position: absolute; left: 1.1rem; right: 1.1rem; z-index: 1; }
+.c-town-name { bottom: 2.3rem; font-family: var(--serif); font-size: 1.45rem; }
+.c-town-meta { bottom: 1rem; font-size: .82rem; color: rgba(255, 255, 255, .88); }
+.c-links { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1rem; margin-top: 1.4rem; }
+.c-link { display: flex; justify-content: space-between; gap: 1rem; padding: 1.1rem 1.3rem; border: 1px solid var(--gold-line); color: var(--gold-dark); font-weight: 700; }
+.c-link:hover { background: #faf7f2; }
+@media (max-width: 960px) { .c-towns { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .c-towns { grid-template-columns: 1fr; } }
+
+/* Contact page */
+.ct-head h1 { font-size: clamp(2.2rem, 4.5vw, 3.4rem); max-width: 18ch; color: var(--ink); }
+.ct-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr); gap: 2.5rem; padding-bottom: 4rem; }
+.ct-ways { display: grid; gap: 1rem; align-content: start; }
+.ct-way { display: grid; gap: .25rem; padding: 1.3rem 1.4rem; border: 1px solid var(--gold-line); }
+a.ct-way:hover { background: #faf7f2; }
+.ct-label { font-size: .72rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: var(--gold-dark); }
+.ct-way strong { font-family: var(--serif); font-weight: 400; font-size: 1.3rem; color: var(--ink); overflow-wrap: anywhere; }
+.ct-way span:last-child { font-size: .9rem; color: var(--muted); }
+.ct-form h2 { font-size: 1.8rem; }
+.ct-form select { width: 100%; padding: .8rem; font: inherit; border: 1px solid var(--gold-line); background: var(--white); color: var(--text); }
+.ct-note { font-size: .82rem; color: var(--muted); margin: .4rem 0 0; }
+@media (max-width: 860px) { .ct-grid { grid-template-columns: 1fr; } }
+.ct-head { padding-top: 3.5rem; }
+.ct-head .legal-crumbs { font-size: .8rem; letter-spacing: .04em; color: var(--muted); margin-bottom: 1.6rem; }
+.ct-head .legal-crumbs a { border-bottom: 1px solid var(--gold-line); }

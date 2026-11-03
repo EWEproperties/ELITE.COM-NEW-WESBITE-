@@ -190,7 +190,7 @@ def page(arts, lang):
     <button class="nav-toggle" aria-label="{ui["menu"]}" aria-expanded="false">&#9776;</button>
     <nav class="main-nav" aria-label="{ui["main"]}">
       <a href="{up}index.html">{ui["home"]}</a>
-      <a href="{up}index.html#properties">{ui["props"]}</a>
+      <a href="{up}properties-for-sale-in-spain.html">{ui["props"]}</a>
       <a href="{up}{DIRS[lang]}blog.html" class="active" aria-current="page">{ui["blog"]}</a>
       <a href="{up}about-us.html">{ui["about"]}</a>
       <a href="{up}index.html#contact">{ui["contact"]}</a>

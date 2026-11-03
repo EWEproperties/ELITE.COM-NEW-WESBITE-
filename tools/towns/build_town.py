@@ -98,10 +98,10 @@ def main(slug):
     low = min(prices)
     url = f"{SITE}/{c['page']}"
     coast = c.get("coast", "Costa Blanca")  # breadcrumb level 2
-    coast_url = SITE + "/" + c.get("coast_slug", "costa-blanca")
+    coast_url = SITE + "/" + c.get("coast_slug", "properties-for-sale-in-costa-blanca")
     # "coast": "" leaves out the middle breadcrumb (no hub page yet, e.g. Costa Cálida)
     crumbs = [("Home", SITE + "/")] + ([(coast, coast_url)] if coast else []) + [(c["town"], url)]
-    coast_crumb = f'<a href="{coast_url}">{e(coast)}</a> <span>/</span> ' if coast else ""
+    coast_crumb = f'<a href="{coast_url.replace(SITE + "/", "")}.html">{e(coast)}</a> <span>/</span> ' if coast else ""
     page_file = c["page"] + ".html"
 
     def fill(s):
@@ -200,10 +200,10 @@ def main(slug):
     <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">&#9776;</button>
     <nav class="main-nav" aria-label="Main">
       <a href="index.html">Home</a>
-      <a href="index.html#properties" class="active">Properties</a>
+      <a href="properties-for-sale-in-spain.html" class="active">Properties</a>
       <a href="blog.html">Blog</a>
       <a href="about-us.html">About Us</a>
-      <a href="#contact">Contact Us</a>
+      <a href="contact-us.html">Contact Us</a>
       <div class="lang">
         <a href="{page_file}" class="active" hreflang="en">EN</a>
         <a href="https://eliteworldestates.pl" hreflang="pl">PL</a>

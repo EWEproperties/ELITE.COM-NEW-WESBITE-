@@ -125,7 +125,7 @@ def header(up, langs, active_blog=True):
     <button class="nav-toggle" aria-label="{UI["menu"]}" aria-expanded="false">&#9776;</button>
     <nav class="main-nav" aria-label="{UI["main"]}">
       <a href="{up}index.html">{UI["home"]}</a>
-      <a href="{up}index.html#properties">{UI["props"]}</a>
+      <a href="{up}properties-for-sale-in-spain.html">{UI["props"]}</a>
       <a href="blog.html" class="active">{UI["blog"]}</a>
       <a href="{up}about-us.html">{UI["about"]}</a>
       <a href="{up}index.html#contact">{UI["contact"]}</a>

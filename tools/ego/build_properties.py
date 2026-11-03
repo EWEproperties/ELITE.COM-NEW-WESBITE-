@@ -50,10 +50,12 @@ REGIONS = {
     "Andalusia": {"provinces": ("Málaga", "Cádiz", "Almería", "Granada"), "ajd": 1.2, "itp": (7, 7)},
     "Region of Murcia": {"provinces": ("Murcia",), "ajd": 1.5, "itp": (7.75, 7.75)},
 }
-COASTS = {"Alicante": ("Costa Blanca", "costa-blanca"), "Valencia": ("Costa Blanca", "costa-blanca"),
-          "Murcia": ("Costa Cálida", "costa-blanca"), "Almería": ("Costa de Almería", "costa-del-sol"),
-          "Málaga": ("Costa del Sol", "costa-del-sol"), "Cádiz": ("Costa del Sol", "costa-del-sol"),
-          "Granada": ("Costa Tropical", "costa-del-sol")}
+CB, CDS, CC, ES = ("properties-for-sale-in-costa-blanca", "properties-for-sale-in-costa-del-sol",
+                   "properties-for-sale-in-costa-calida", "properties-for-sale-in-spain")
+COASTS = {"Alicante": ("Costa Blanca", CB), "Valencia": ("Costa Blanca", CB),
+          "Murcia": ("Costa Cálida", CC), "Almería": ("Costa de Almería", ES),
+          "Málaga": ("Costa del Sol", CDS), "Cádiz": ("Costa del Sol", CDS),
+          "Granada": ("Costa Tropical", ES)}
 APARTMENT_TYPES = ("Apartment", "Penthouse", "Ground floor", "Duplex", "Studio", "Flat")
 PLURAL_TITLE = re.compile(r"\b(apartments|villas|townhouses|town houses|homes|houses|penthouses|bungalows|duplexes|"
                           r"properties|residences|chalets)\b", re.I)
@@ -669,10 +671,10 @@ def page(L, everyone, url_of, src):
     <button class="nav-toggle" aria-label="Open menu" aria-expanded="false">&#9776;</button>
     <nav class="main-nav" aria-label="Main">
       <a href="../index.html">Home</a>
-      <a href="../index.html#properties" class="active">Properties</a>
+      <a href="../properties-for-sale-in-spain.html" class="active">Properties</a>
       <a href="../blog.html">Blog</a>
       <a href="../about-us.html">About Us</a>
-      <a href="#contact">Contact Us</a>
+      <a href="../contact-us.html">Contact Us</a>
       <div class="lang">
 {langs}      </div>
     </nav>
