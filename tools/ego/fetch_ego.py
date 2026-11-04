@@ -18,8 +18,9 @@ from the eGO Global API (api.egocrm.com): login -> JWT, then ListRealestateByPag
 Its records hold ids (type, condition, location, features, agent) that are looked
 up once and turned into the same shape as the website API, so build_properties.py
 needs no changes. It only reads: no write or delete call is ever made. The Global
-API gives the main photo only (a Media endpoint is coming); photos already in the
-cache from the website API are kept.
+API's Media endpoint (/media/Media/ListMedia, live since Nov 2026) gives every published
+photo in eGO's order, so fetch_public.js and the old website are no longer needed.
+Only if eGO returns no photos for a listing are the photos already in the cache kept.
 
 Each cache file is the listing exactly as eGO returns it (English texts).
 build_properties.py turns the cache into static pages; nothing is loaded in the browser.
@@ -95,6 +96,25 @@ class Global:
     def get(self, path, **params):
         return self.call("GET", path, applicationId=APP_ID, **params)
 
+    def photos(self, ids):
+        """All published photos per listing id, in eGO's order (Media API, added by eGO Nov 2026)."""
+        out = {}
+        ids = list(ids)
+        for i in range(0, len(ids), 20):
+            for attempt in range(4):  # big answers are sometimes cut off on the way: ask again
+                try:
+                    batch = self.call("GET", "/media/Media/ListMedia", objectIds=ids[i:i + 20],
+                                      objectName="Realestate", applicationId=APP_ID) or []
+                    break
+                except RuntimeError:
+                    if attempt == 3:
+                        raise
+                    time.sleep(2 ** attempt)
+            for x in batch:
+                if x.get("mediaTypeKey") == 1 and x.get("canPublish") and x.get("url"):
+                    out.setdefault(x["ownerId"], []).append(x)
+        return {k: sorted(v, key=lambda x: x.get("priority") or 0) for k, v in out.items()}
+
     def permissions(self):
         return self.call("GET", "/authentication/Authentication/ListSecurityFeatures")
 
@@ -167,7 +187,7 @@ def web_id(r):
     return r.get("metabaseId") or r["id"]
 
 
-def to_website_shape(r, lk, old=None):
+def to_website_shape(r, lk, old=None, photos=None):
     """Global API listing -> the website-API field names build_properties.listing() reads."""
     province, town, area = lk.place(r.get("locationId"))
     prices = [pr for b in r.get("businesses") or [] for pr in b.get("prices") or [] if pr.get("value")]
@@ -180,7 +200,9 @@ def to_website_shape(r, lk, old=None):
             feats.append({"Title": lang(meta.get("name")), "Value": "" if f.get("value") in (None, True, "true") else str(f["value"])})
     m = r.get("firstMedia") or {}
     main = m.get("url") or m.get("webUri")
-    images = (old or {}).get("Images") or ([{"Thumbnail": main, "Thumbnail_1280X1024": main,
+    images = [{"Thumbnail": x["url"], "Thumbnail_1280X1024": x["url"], "UID": x.get("uid"),
+               "Description": lang(x.get("description"))} for x in photos or []] \
+        or (old or {}).get("Images") or ([{"Thumbnail": main, "Thumbnail_1280X1024": main,
                                              "Thumbnail_640X480": m.get("urlThumbnail") or m.get("webThumbUri") or main,
                                              "Description": lang(m.get("description"))}] if main else [])
     return {
@@ -216,11 +238,13 @@ def fetch_global(user, password, ids=None, check=False):
         rows = [r for r in rows if str(r["id"]) in ids or str(web_id(r)) in ids]
     lk = Lookups(g)
     lk.load_locations({r.get("locationId") for r in rows})
+    photos = g.photos(r["id"] for r in rows)
+    print(f"photos for {len(photos)} listings ({sum(map(len, photos.values()))} in all)")
     keep = set()
     for r in rows:
         path = os.path.join(CACHE, f"{web_id(r)}.json")
         old = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else None
-        save(to_website_shape(r, lk, old))
+        save(to_website_shape(r, lk, old, photos.get(r["id"])))
         keep.add(f"{web_id(r)}.json")
     print(f"saved {len(keep)} listings")
     if not ids and not check:
