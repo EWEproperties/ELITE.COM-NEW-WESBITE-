@@ -14,6 +14,9 @@ import os
 import re
 import sys
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "ego"))
+from delivery import badge  # noqa: E402
+
 # German and Spanish versions: tools/towns/i18n/<lang>/<town>.json holds the translated texts
 # (same keys as the English file); everything else (listings, photos, town names) comes from
 # the English file. Run with a language: python3 tools/towns/build_town.py torrevieja de
@@ -202,7 +205,7 @@ def card(i, pages, lang="en"):
     ext = "" if not href.startswith("http") else ' target="_blank" rel="noopener"'
     town = i["town"]
     return f"""        <a class="tcard" href="{href}"{ext}>
-          <div class="tcard-photo"><img src="{up}{i['photo']}" alt="{e(i['alt'] or clean_title(i['title']))}" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">{i['ref']}</span></div>
+          <div class="tcard-photo"><img src="{up}{i['photo']}" alt="{e(i['alt'] or clean_title(i['title']))}" width="800" height="600" loading="lazy" decoding="async">{badge(i['ref'], lang)}</div>
           <div class="tcard-body">
             <p class="tcard-town">{e(town)}</p>
             <h3>{e(clean_title(i['title']))}</h3>

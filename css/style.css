@@ -708,7 +708,6 @@ h2 { font-size: clamp(2rem, 4vw, 2.75rem); color: var(--ink); }
 .tcard-photo { position: relative; aspect-ratio: 3 / 2; overflow: hidden; background: #f3eee7; }
 .tcard-photo img { width: 100%; height: 100%; object-fit: cover; transition: transform .6s; }
 .tcard:hover .tcard-photo img { transform: scale(1.035); }
-.tcard-ref { position: absolute; top: 12px; left: 12px; background: rgba(45, 34, 22, .6); color: var(--white); font-size: .66rem; font-weight: 700; letter-spacing: .16em; padding: .3rem .55rem; }
 .tcard-body { display: flex; flex-direction: column; flex: 1; padding: 1.2rem 1.3rem 1.3rem; }
 .tcard-town { font-size: .68rem; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: var(--gold); margin: 0 0 .5rem; }
 .tcard h3 { font-family: var(--sans); font-size: 1rem; font-weight: 400; line-height: 1.45; color: var(--ink-2); margin: 0 0 .9rem; }
@@ -922,3 +921,5 @@ a.ct-way:hover { background: #faf7f2; }
 .c-type:hover strong { color: var(--gold-dark); }
 @media (max-width: 960px) { .c-area .c-towns, .c-golfs, .c-types { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
 @media (max-width: 600px) { .c-area .c-towns, .c-golfs, .c-types { gap: .7rem; } .c-area .c-town-name { font-size: 1.1rem; bottom: 2rem; left: .7rem; right: .7rem; } .c-area .c-town-meta { font-size: .7rem; left: .7rem; right: .7rem; bottom: .7rem; } .c-type-body { flex-direction: column; padding: .7rem; } .c-golf span, .c-type-body strong { font-size: 1rem; } }
+/* Delivery date badge on property cards (tools/ego/delivery.py) */
+.tcard-due { position: absolute; top: 12px; left: 12px; background: var(--metal); color: var(--white); font-size: .66rem; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; padding: .3rem .6rem; box-shadow: 0 1px 3px rgba(0, 0, 0, .2); }

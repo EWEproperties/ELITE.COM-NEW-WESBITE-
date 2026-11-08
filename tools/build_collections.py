@@ -20,6 +20,7 @@ import sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "tools", "ego"))
 from build_properties import ego_photo, place, replace_block, short_town  # noqa: E402
+from delivery import badge  # noqa: E402
 import datetime
 
 SITE = "https://www.eliteworldestates.com"
@@ -94,7 +95,7 @@ def card(p):
     price = (("From " if p["price_from"] else "") + euro(p["price"])) if p["price"] else "Price on request"
     img = ego_photo(p["photos"][0], "Z800x600") if p["photos"] else ""
     return f"""        <a class="tcard" href="{p['href']}" data-coast="{e(p['coast'])}" data-town="{e(p['place'])}" data-type="{p['group']}" data-beds="{p['bedrooms'] or 0}" data-price="{int(p['price'] or 0)}" data-new="{p['created']}">
-          <div class="tcard-photo"><img src="{img}" alt="{e(p['title'])}" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">{p['reference']}</span></div>
+          <div class="tcard-photo"><img src="{img}" alt="{e(p['title'])}" width="800" height="600" loading="lazy" decoding="async">{badge(p['reference'])}</div>
           <div class="tcard-body">
             <p class="tcard-town">{e(p['place'])}</p>
             <h3>{e(p['title'])}</h3>
