@@ -1,0 +1,65 @@
+{
+ "title": "Pisos y villas en venta en Casares",
+ "description": "{count} pisos, áticos y villas en venta en Casares Costa y Finca Cortesín desde {from}. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Casares",
+ "lead": "Pisos con vistas al mar y al golf en Casares Costa, viviendas en el resort Finca Cortesín y villas con vistas a la costa. Estos son los inmuebles que vendemos hoy en Casares, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Casares"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "unos 35 min",
+   "al aeropuerto de Gibraltar"
+  ],
+  [
+   "Finca Cortesín",
+   "un resort de golf de lujo"
+  ]
+ ],
+ "listings_intro": "Sobre todo pisos nuevos de 2 o 3 dormitorios con vistas al mar o al golf en Casares Costa, además de áticos y viviendas de lujo en Finca Cortesín. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Casares",
+ "guide": [
+  "Casares es un municipio de la Costa del Sol occidental, entre Estepona y Manilva. Su pueblo es uno de los más bonitos de Andalucía: casas blancas en una colina empinada, coronada por las ruinas de un castillo, a unos 15 minutos del mar.",
+  "La mayoría de las viviendas en venta están en Casares Costa, la parte costera, con playas, campos de golf y residenciales modernos con vistas al mar hasta Gibraltar y África. Aquí está también Finca Cortesín, un resort de lujo con campo de golf, hotel y club de playa.",
+  "La vida aquí es más tranquila y los precios más bajos que en Marbella, y las tiendas y servicios de Estepona están a unos 15 minutos. El aeropuerto de Gibraltar está a unos 35 minutos en coche y el de Málaga a algo más de una hora."
+ ],
+ "guide_photo_alt": "Antigua torre vigía en la playa de Casares Costa",
+ "areas_title": "Las principales zonas de Casares",
+ "areas": [
+  {
+   "name": "Casares Costa",
+   "text": "La franja costera con playas y residenciales modernos. Pisos y áticos con vistas al mar, muchos cerca de la playa."
+  },
+  {
+   "name": "Casares Golf",
+   "text": "La zona de los campos de golf a pocos minutos del mar. Pisos con vistas al golf y al mar, a menudo con grandes terrazas."
+  },
+  {
+   "name": "Finca Cortesín",
+   "text": "Un resort de lujo con campo de golf, hotel y club de playa. Pisos y villas exclusivos."
+  },
+  {
+   "name": "Pueblo de Casares",
+   "text": "El pueblo blanco en la colina, con castillo, plazuelas y vistas. Casas de pueblo y algunos pisos."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Casares?",
+   "Nuestros pisos nuevos en Casares empiezan hoy en {from}. La mayoría de los pisos de 2 o 3 dormitorios que vendemos en Casares Costa cuestan entre 300.000 € y 620.000 €. En Finca Cortesín, los pisos cuestan de unos 580.000 € a más de 2 millones de €, y nuestra villa con vistas a la costa cuesta 2,9 millones de €."
+  ],
+  [
+   "Casares o Estepona: ¿qué es mejor?",
+   "Estepona es una ciudad más grande, con tiendas, hospital y un casco antiguo junto al mar. Casares Costa es más tranquila, con golf y viviendas más nuevas, y los precios suelen ser más bajos. Estepona está a unos 15 minutos en coche."
+  ],
+  [
+   "¿A qué distancia está Casares del aeropuerto?",
+   "El aeropuerto de Gibraltar está a unos 35 minutos en coche, y el de Málaga a unos 110 km, algo más de una hora."
+  ]
+ ]
+}

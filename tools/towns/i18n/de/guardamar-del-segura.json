@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in Guardamar del Segura kaufen",
+ "description": "{count} Wohnungen, Penthäuser und Häuser zum Verkauf in Guardamar del Segura ab {from}, nahe Strand und Dünen. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Guardamar del Segura",
+ "lead": "Neue Wohnungen und Penthäuser nahe den langen Sandstränden, dem Pinienwald und dem Jachthafen. Hier finden Sie die Immobilien, die wir heute in Guardamar del Segura verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Guardamar"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 30 Min.",
+   "zum Flughafen Alicante-Elche"
+  ],
+  [
+   "ca. 11 km",
+   "Sandstrände"
+  ]
+ ],
+ "listings_intro": "Neue Wohnungen und Penthäuser mit 2 oder 3 Schlafzimmern, viele nahe am Strand oder am Hafen, und eine Doppelhaushälfte in El Raso. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Guardamar del Segura",
+ "guide": [
+  "Guardamar del Segura ist eine Küstenstadt mit rund 17.000 Einwohnern im Süden der Costa Blanca, wo der Fluss Segura ins Meer mündet, zwischen Santa Pola und Torrevieja. Bekannt ist sie für ihre langen Sandstrände, rund 11 km, mit Dünen und einem großen Pinienwald dahinter, der gepflanzt wurde, um den Sand zu halten.",
+  "Die Stadt hat eine entspannte, spanische Atmosphäre, mit einem Zentrum voller Geschäfte und Cafés, einem Jachthafen an der Flussmündung und Parks im Pinienwald zum Spazieren und Radfahren. Südlich der Stadt liegt der Naturpark La Mata mit seiner Lagune.",
+  "Die Preise sind vernünftig, und die Stadt lebt das ganze Jahr. Der Flughafen Alicante-Elche ist mit dem Auto etwa 30 Minuten entfernt, Torrevieja etwa 15 Minuten."
+ ],
+ "guide_photo_alt": "Segelboote im Sonnenuntergang im Jachthafen von Guardamar del Segura",
+ "areas_title": "Die wichtigsten Viertel von Guardamar del Segura",
+ "areas": [
+  {
+   "name": "Zentrum",
+   "text": "Geschäfte, Cafés und Versorgung zu Fuß, wenige Minuten vom Strand. Wohnungen zum Leben das ganze Jahr."
+  },
+  {
+   "name": "Strand und Pinienwald",
+   "text": "Die Strände, die Dünen und die Parks im Pinienwald. Wohnungen nahe am Sand."
+  },
+  {
+   "name": "Am Hafen",
+   "text": "Der Jachthafen an der Mündung des Segura, mit Restaurants. Neue Wohnungen und Penthäuser."
+  },
+  {
+   "name": "El Raso",
+   "text": "Ein ruhigeres Wohngebiet südlich der Stadt, nahe dem Naturpark La Mata. Wohnungen und Häuser."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Guardamar del Segura?",
+   "Unsere Wohnungen in Guardamar beginnen heute bei {from}, die meisten mit 2 oder 3 Schlafzimmern kosten zwischen 250.000 € und 345.000 €. Penthäuser am Hafen kosten bis etwa 550.000 €."
+  ],
+  [
+   "Hat Guardamar Sandstrände?",
+   "Ja. Guardamar hat rund 11 km feine Sandstrände mit Dünen und Pinienwald dahinter, mit die natürlichsten Strände der Costa Blanca."
+  ],
+  [
+   "Wie weit ist Guardamar vom Flughafen entfernt?",
+   "Der Flughafen Alicante-Elche ist mit dem Auto etwa 30 Minuten entfernt, der Flughafen Región de Murcia etwa 50 Minuten."
+  ]
+ ]
+}

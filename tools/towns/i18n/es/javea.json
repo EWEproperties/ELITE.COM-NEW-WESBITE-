@@ -1,0 +1,30 @@
+{
+ "title": "Villas en venta en Jávea (Xàbia) con vistas al mar",
+ "description": "{count} villas y pisos en venta en Jávea (Xàbia) desde {from}, muchos con vistas al mar y al Montgó. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Jávea",
+ "lead": "Villas modernas con piscina privada y vistas al mar o al Montgó, y pisos nuevos cerca de la playa. Estos son los inmuebles que vendemos hoy en Jávea, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Jávea"], ["desde {from}", "un piso nuevo"], ["unos 75 min", "al aeropuerto de Alicante o Valencia"], ["753 m", "el macizo del Montgó"]],
+ "listings_intro": "Sobre todo villas nuevas de 3 o 4 dormitorios con piscina privada y parcelas de unos 1.000 m², muchas con vistas al mar y al Montgó, además de pisos nuevos cerca de la playa. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Jávea",
+ "guide": [
+  "Jávea, o Xàbia en valenciano, es una localidad de unos 29.000 habitantes en el extremo norte de la Costa Blanca, entre Dénia y Moraira. Se extiende en una amplia bahía bajo el Montgó, una montaña de 753 metros y parque natural, con los cabos de San Antonio y La Nao a cada lado.",
+  "La ciudad tiene tres partes: el casco antiguo en el interior, con su iglesia de piedra y el mercado cubierto; el puerto, con barcas de pesca y restaurantes; y el Arenal, una playa de arena con paseo. En el resto de la costa hay calas de agua cristalina como la Granadella, el Ambolo y el Portitxol.",
+  "Jávea es verde y tiene normas urbanísticas estrictas, así que la mayoría de las viviendas son villas en parcelas grandes y no bloques altos. Tiene vida todo el año, con una gran comunidad internacional, colegios y centros de salud. Los aeropuertos de Alicante y Valencia están a algo más de una hora en coche."
+ ],
+ "guide_photo_alt": "Playa de cantos con agua turquesa en el Ambolo, Jávea",
+ "areas_title": "Las principales zonas de Jávea",
+ "areas": [
+  {"name": "Arenal", "text": "La playa de arena con paseo, restaurantes y bares. Pisos y adosados cerca del mar, muy buscados para vacaciones."},
+  {"name": "Puerto", "text": "El puerto con barcas de pesca, paseo marítimo y restaurantes. Pisos y alguna villa en las laderas de detrás."},
+  {"name": "Casco antiguo", "text": "Calles de piedra, la iglesia fortaleza y el mercado cubierto, a pocos kilómetros del mar. Casas de pueblo y pisos para vivir todo el año."},
+  {"name": "Montgó", "text": "Las laderas al pie de la montaña, verdes y tranquilas. Villas en parcelas grandes con vistas al valle y al mar."},
+  {"name": "Monte Olimpo y Tosalet", "text": "Zonas de ladera entre el puerto y las calas, con villas modernas, piscina privada y amplias vistas al mar."},
+  {"name": "Portitxol y Granadella", "text": "La costa rocosa del sur, cerca de las calas. Algunas de las villas más exclusivas de Jávea, muchas con vistas directas al mar."}
+ ],
+ "faq": [
+  ["¿Cuánto cuesta una villa en Jávea?", "La mayoría de las villas nuevas con piscina y vistas que vendemos en Jávea cuestan entre 1,285 y 1,7 millones de €, normalmente con 3 o 4 dormitorios en una parcela de unos 1.000 m². Las villas en los lugares más exclusivos cuestan de unos 1,9 a 4,5 millones de €. Los pisos nuevos cerca de la playa empiezan en {from}."],
+  ["¿Cuál es la mejor zona para comprar en Jávea?", "Depende del uso que le vaya a dar. El Arenal y el puerto son para quien quiere la playa y los restaurantes a pie. Montgó, Monte Olimpo y Tosalet son zonas de villas con vistas, y la costa del Portitxol y la Granadella, de viviendas exclusivas junto a las calas. El casco antiguo es ideal para vivir todo el año."],
+  ["¿Se puede vivir todo el año en Jávea?", "Sí. Jávea tiene una gran comunidad de personas que viven allí todo el año, con colegios internacionales, centros de salud, tiendas y restaurantes abiertos fuera del verano."],
+  ["¿A qué distancia está Jávea del aeropuerto?", "El aeropuerto de Alicante-Elche está a unos 90 km y el de Valencia a unos 110 km, en ambos casos algo más de una hora en coche."]
+ ]
+}

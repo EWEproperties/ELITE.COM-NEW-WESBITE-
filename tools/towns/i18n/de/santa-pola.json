@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in Santa Pola & Gran Alacant kaufen",
+ "description": "{count} Wohnungen, Penthäuser und Häuser zum Verkauf in Santa Pola und Gran Alacant ab {from}, nahe am Strand. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Santa Pola",
+ "lead": "Neue Wohnungen wenige Schritte vom Strand und vom Hafen und Häuser mit Aussicht in Gran Alacant, 15 Minuten vom Flughafen Alicante. Hier finden Sie die Immobilien, die wir heute in Santa Pola verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Santa Pola"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 15 Min.",
+   "zum Flughafen Alicante-Elche"
+  ],
+  [
+   "Tabarca",
+   "eine Insel, kurze Bootsfahrt entfernt"
+  ]
+ ],
+ "listings_intro": "Neue Wohnungen und Penthäuser mit 1 bis 3 Schlafzimmern, die meisten weniger als einen Kilometer vom Strand, und Reihenhäuser, Bungalows und Villen in Gran Alacant. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Santa Pola",
+ "guide": [
+  "Santa Pola ist eine Küstenstadt mit rund 38.000 Einwohnern gleich südlich von Alicante. Sie hat eine der größten Fischereiflotten der Küste, einen belebten Hafen mit Fischrestaurants und lange Sandstrände entlang der Bucht.",
+  "Hinter der Stadt liegt der Naturpark Salinas de Santa Pola, ein weites Gebiet aus Salinen, in dem fast das ganze Jahr Flamingos leben. Vom Hafen fahren Boote zur kleinen Insel Tabarca, einem Meeresschutzgebiet mit klarem Wasser. Auf dem Kap über der Stadt liegt Gran Alacant, ein großes Wohngebiet mit Meerblick.",
+  "Das Leben läuft hier das ganze Jahr, mit Geschäften, Märkten und Versorgung im Zentrum. Der Flughafen Alicante-Elche ist mit dem Auto nur etwa 15 Minuten entfernt, die Stadt Alicante etwa 25 Minuten."
+ ],
+ "guide_photo_alt": "Flamingos in den Salinen von Santa Pola",
+ "areas_title": "Die wichtigsten Viertel von Santa Pola",
+ "areas": [
+  {
+   "name": "Zentrum und Hafen",
+   "text": "Der Hafen, der Fischmarkt und das alte Zentrum, mit Geschäften und Restaurants zu Fuß. Wohnungen nahe am Strand."
+  },
+  {
+   "name": "Playa de Levante",
+   "text": "Der lange Sandstrand östlich des Hafens, mit Promenade. Wohnungen und Penthäuser nahe am Meer."
+  },
+  {
+   "name": "Gran Alacant",
+   "text": "Ein großes Wohngebiet auf dem Kap über Santa Pola, mit Meerblick. Reihenhäuser, Bungalows und Villen."
+  },
+  {
+   "name": "Santa Pola del Este",
+   "text": "Ein ruhigeres Viertel auf dem Kap, mit Buchten und Häusern nahe am Meer."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Santa Pola?",
+   "Unsere neuen Wohnungen in Santa Pola beginnen heute bei {from}, die meisten mit 2 oder 3 Schlafzimmern kosten zwischen 235.000 € und 380.000 €. Häuser in Gran Alacant kosten etwa 289.000 € für ein Reihenhaus bis 792.000 € für eine moderne Villa."
+  ],
+  [
+   "Liegt Santa Pola nahe am Flughafen?",
+   "Ja, es ist einer der Strandorte, die dem Flughafen Alicante-Elche am nächsten liegen, etwa 15 Minuten mit dem Auto. Das ist praktisch für Kurzreisen und für die Vermietung."
+  ],
+  [
+   "Was ist Gran Alacant?",
+   "Gran Alacant ist ein Wohngebiet auf dem Kap über Santa Pola, mit Häusern und Wohnungen, Geschäften und Restaurants und Blick über das Meer und die Salinen. Es liegt etwa 10 Minuten von Santa Pola und vom Flughafen entfernt."
+  ]
+ ]
+}

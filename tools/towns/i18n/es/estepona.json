@@ -1,0 +1,30 @@
+{
+ "title": "Pisos y villas en venta en Estepona",
+ "description": "{count} pisos nuevos, áticos y villas en venta en Estepona desde {from}, muchos con vistas al mar o al golf. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Estepona",
+ "lead": "Pisos nuevos con vistas al mar, áticos con grandes terrazas y villas junto a los campos de golf, en una de las ciudades con más encanto de la Costa del Sol. Estos son los inmuebles que vendemos hoy en Estepona, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Estepona"], ["desde {from}", "un piso nuevo"], ["aprox. 1 hora", "al aeropuerto de Málaga"], ["unos 25 min", "hasta Marbella"]],
+ "listings_intro": "Sobre todo pisos nuevos de 2 o 3 dormitorios, muchos con vistas al mar, piscina comunitaria y grandes terrazas, además de áticos, adosados y villas cerca de los campos de golf. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Estepona",
+ "guide": [
+  "Estepona es una ciudad de unos 75.000 habitantes en la Costa del Sol occidental, entre Marbella y Gibraltar. Su casco antiguo es conocido como el jardín de la Costa del Sol, con calles blancas llenas de macetas, plazuelas y murales, y conserva el ambiente de una auténtica ciudad andaluza.",
+  "A lo largo de la costa hay un largo paseo marítimo con playas de arena como La Rada y El Cristo, y un puerto deportivo con restaurantes. En el interior se alzan las colinas de Sierra Bermeja, y entre el mar y la montaña hay campos de golf y nuevas zonas residenciales con vistas al mar hasta Gibraltar y África.",
+  "Estepona tiene vida todo el año, con tiendas, mercados, colegios internacionales y hospital. El aeropuerto de Málaga está a una hora en coche, Gibraltar a unos 45 minutos, y Marbella y Puerto Banús a unos 25 minutos. Los precios son más bajos que en Marbella, por eso muchos compradores empiezan a buscar aquí."
+ ],
+ "guide_photo_alt": "Jardín y fuente frente al Orquidario de Estepona",
+ "areas_title": "Las principales zonas de Estepona",
+ "areas": [
+  {"name": "Casco antiguo y centro", "text": "Calles blancas con flores, tiendas y restaurantes, a pocos minutos andando de la playa de La Rada. Pisos para vivir todo el año."},
+  {"name": "Paseo marítimo y puerto", "text": "El paseo, las playas y el puerto deportivo. Pisos cerca del mar, muchos con vistas al agua."},
+  {"name": "Nueva Milla de Oro", "text": "La costa entre Estepona y San Pedro de Alcántara, con residenciales modernos junto a la playa, piscinas y jardines."},
+  {"name": "Selwo y las colinas", "text": "Promociones más nuevas en las laderas al este de la ciudad, con grandes terrazas y vistas abiertas al mar. Sobre todo pisos y áticos."},
+  {"name": "Valle del golf", "text": "La zona de los campos de golf de Estepona, a pocos minutos hacia el interior. Pisos en el campo y villas con piscina privada."},
+  {"name": "Al oeste de Estepona", "text": "Zonas residenciales más tranquilas hacia Casares y Manilva, con adosados y villas, a menudo por menos dinero."}
+ ],
+ "faq": [
+  ["¿Cuánto cuesta un piso en Estepona?", "Nuestros pisos nuevos en Estepona empiezan hoy en {from}. La mayoría de los pisos de 2 o 3 dormitorios que vendemos cuestan entre 400.000 € y 750.000 €, según las vistas, la terraza y la distancia a la playa. Las villas cuestan desde unos 730.000 € por una pareada hasta 2,35 millones de € en el campo de golf."],
+  ["Estepona o Marbella: ¿qué es mejor?", "Marbella tiene la Milla de Oro, Puerto Banús y las direcciones más conocidas, y precios más altos. Estepona es más tranquila, con un auténtico casco antiguo y más espacio por el mismo dinero. Marbella está a unos 25 minutos en coche."],
+  ["¿Se puede vivir todo el año en Estepona?", "Sí. Estepona es una ciudad de verdad donde la mayoría de la gente vive todo el año, con tiendas, mercados, colegios internacionales, hospital y un invierno suave."],
+  ["¿A qué distancia está Estepona del aeropuerto?", "El aeropuerto de Málaga está a unos 85 km, alrededor de una hora en coche. El de Gibraltar, a unos 45 minutos."]
+ ]
+}

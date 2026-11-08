@@ -1,0 +1,130 @@
+from,to,reason
+/nota-simple-informativa,/nota-simple,merged
+/de-de/nota-simple-informativa,/de-de/nota-simple,merged
+/es-es/nota-simple-informativa,/es-es/nota-simple,merged
+/retiring-in-spain-for-foreigners,/retirement-life-in-spain,merged
+/de-de/ruhestand-in-spanien-fur-auslander,/de-de/das-leben-in-spanien-im-ruhestand,merged
+/es-es/jubilarse-en-espana-para-extranjeros,/es-es/la-vida-en-espana-durante-la-jubilacion,merged
+/taxes-in-spain-how-much-are-the-property-taxes-and-what-are-the-income-taxes,/property-and-wealth-taxes-in-spain,merged
+/de-de/steuern-in-spanien-wie-hoch-sind-die-grundsteuern-und-wie-hoch-sind-die-einkommenssteuern,/de-de/immobilien--und-vermogenssteuern-in-spanien,merged
+/es-es/impuestos-en-espana-a-cuanto-ascienden-los-impuestos-sobre-la-propiedad-y-cuales-son-los-impuestos-sobre-la-renta,/es-es/impuestos-sobre-la-propiedad-y-el-patrimonio-en-espana,merged
+/nie-number-in-spain-what-is-it-and-how-to-get-it-in-poland,/nie-number-in-spain-what-is-it-and-how-to-get-it,renamed (Poland-specific slug)
+/de-de/nie-nummer-in-spanien-was-ist-das-und-wie-bekommt-man-sie-in-polen,/de-de/nie-nummer-in-spanien-was-ist-das-und-wie-bekommt-man-sie,renamed (Poland-specific slug)
+/es-es/numero-nie-en-espana-que-es-y-como-obtenerlo-en-polonia,/es-es/numero-nie-en-espana-que-es-y-como-obtenerlo,renamed (Poland-specific slug)
+/buying-a-flat-in-spain-for-rent-what-do-you-need-to-know,/properties-with-investment-potential,merged
+/de-de/eine-wohnung-in-spanien-zur-miete-kaufen-was-mussen-sie-wissen,/de-de/immobilien-mit-investitionspotenzial,merged
+/es-es/comprar-un-piso-en-espana-para-alquilar-que-debe-saber,/es-es/propiedades-con-potencial-de-inversion,merged
+/why-are-flats-in-spain-cheap-compared-to-other-western-european-countries,/prices-of-apartments-in-spain-how-much-does-an-apartment-cost-and-how-much-does-a-luxury-villa-cost,merged
+/de-de/warum-sind-wohnungen-in-spanien-im-vergleich-zu-anderen-westeuropaischen-landern-gunstig,/de-de/preise-fur-wohnungen-in-spanien-wie-viel-kostet-eine-wohnung-und-wie-viel-kostet-eine-luxusvilla,merged
+/es-es/por-que-son-baratas-las-viviendas-en-espana-en-comparacion-con-otros-paises-de-europa-occidental,/es-es/precios-de-apartamentos-en-espana-cuanto-cuesta-un-apartamento-y-cuanto-cuesta-una-villa-de-lujo,merged
+/a-child-at-a-spanish-school-what-should-you-look-out-for,/how-does-the-education-system-work-in-spain,merged
+/de-de/ein-polnisches-kind-an-einer-spanischen-schule-worauf-sollten-sie-achten,/de-de/wie-funktioniert-das-bildungssystem-in-spanien,merged
+/es-es/un-nino-extranjero-en-una-escuela-espanola-que-debe-tener-en-cuenta,/es-es/como-funciona-el-sistema-educativo-en-espana,merged
+/de-de/spanien-mit-dem-auto-autobahnen-straen-und-wegbeschreibungen-aus-dem-vereinigten-konigreich,/de-de/spanien-mit-dem-auto-autobahnen-strassen-und-anreise,renamed
+/es-es/espana-en-coche-autopistas-carreteras-y-direcciones-desde-el-reino-unido,/es-es/espana-en-coche-autopistas-carreteras-y-consejos,renamed
+/day-in-calpe,/calpe-what-to-see,merged
+/de-de/tag-in-calpe,/de-de/calpe-sehenswurdigkeiten,merged
+/es-es/dia-en-calpe,/es-es/que-ver-en-calpe,merged
+/year-of-the-horse-2026,/blog,removed (no traffic)
+/de-de/das-jahr-des-pferdes-2026,/de-de/blog,removed (no traffic)
+/es-es/ano-del-caballo-2026,/es-es/blog,removed (no traffic)
+/poles-in-spain-what-is-life-like-after-moving-there,/expats-in-spain-what-is-life-like-after-moving,renamed (general expat guide)
+/de-de/polen-in-spanien-wie-sieht-das-leben-nach-dem-umzug-aus,/de-de/expats-in-spanien-wie-ist-das-leben-nach-dem-umzug,renamed (general expat guide)
+/es-es/los-polacos-en-espana-como-es-la-vida-despues-de-mudarse,/es-es/extranjeros-en-espana-como-es-la-vida-despues-de-mudarse,renamed (general expat guide)
+/news-detail/top-hotels-in-alicante/25652,/top-hotels-in-alicante,duplicate URL
+/pl-pl/rok-konia-2026,/pl-pl/blog,removed (Polish blog)
+/pl-pl/winner-luxury-lifestyle-awards-2024,/pl-pl/o-nas,removed (Polish blog)
+/pl-pl/nowy-podatek-od-nieruchomoci-w-hiszpanii-dla-obcokrajowcow-spoza-ue,/pl-pl/podatek-od-nieruchomosci-i-majatku-w-hiszpanii,removed (Polish blog)
+/pl-pl/najlepsze-hotele-w-alicante,/pl-pl/alicante-co-zobaczy-w-najbardziej-slonecznym-miescie-hiszpanii,merged (Polish blog)
+/pl-pl/wielkanoc-w-hiszpanii-semana-santa-tradycje,/pl-pl/boze-narodzenie-w-hiszpanii,merged (Polish blog)
+/pl-pl/trzech-kroli-w-hiszpanii,/pl-pl/boze-narodzenie-w-hiszpanii,merged (Polish blog)
+/pl-pl/nowy-rok-w-hiszpanii,/pl-pl/boze-narodzenie-w-hiszpanii,merged (Polish blog)
+/pl-pl/calpe-co-warto-zobaczy,/pl-pl/calpe-costa-blanca-styl-zycia-ceny-nieruchomosci,merged (Polish blog)
+/pl-pl/dzien-w-calpe,/pl-pl/calpe-costa-blanca-styl-zycia-ceny-nieruchomosci,merged (Polish blog)
+/pl-pl/dlaczego-mieszkania-w-hiszpanii-s-tanie-w-porownaniu-z-innymi-krajami-europy-zachodniej,/pl-pl/ceny-mieszka-w-hiszpanii-ile-kosztuje-apartament-a-ile-luksusowa-willa,merged (Polish blog)
+/pl-pl/wellness-w-marbelli,/pl-pl/co-warto-zobaczy-w-marbelli,merged (Polish blog)
+/pl-pl/puerto-banus-w-marbelli,/pl-pl/co-warto-zobaczy-w-marbelli,merged (Polish blog)
+/pl-pl/najlepsze-pola-golfowe-na-costa-blanca,/pl-pl/ekskluzywne-kluby-golfowe-na-costa-del-sol,merged (Polish blog)
+/pl-pl/zycie-w-hiszpanii-na-emeryturze,/pl-pl/emerytura-w-hiszpanii-dla-polaka,merged (Polish blog)
+/pl-pl/najlepsze-miejsca-do-zycia-w-hiszpanii-dla-seniorow,/pl-pl/emerytura-w-hiszpanii-dla-polaka,merged (Polish blog)
+/pl-pl/nota-simple-informativa,/pl-pl/nota-simple,merged (Polish blog)
+/pl-pl/podatki-w-hiszpanii-ile-wynosz-od-nieruchomosci-a-jaki-jest-podatek-dochodowy,/pl-pl/podatek-od-nieruchomosci-i-majatku-w-hiszpanii,merged (Polish blog)
+/pl-pl/porownanie-nieruchomoci-od-dewelopera-i-z-rynku-wtornego,/pl-pl/rynek-pierwotny-w-hiszpanii,merged (Polish blog)
+/pl-pl/nieruchomosci-z-potencjalem-inwestycyjnym,/pl-pl/zakup-apartamentu-w-hiszpanii-na-wynajem-co-musisz-wiedziec,merged (Polish blog)
+/rgpd-update,/privacy-policy#rights,eGO GDPR form page replaced by the rights section
+/costa-blanca,/properties-for-sale-in-costa-blanca,merged coast guide into hub
+/costa-del-sol,/properties-for-sale-in-costa-del-sol,merged coast guide into hub
+/properties,/properties-for-sale-in-spain,search page
+/developments,/properties-for-sale-in-spain,search page
+/favorites,/properties-for-sale-in-spain,no favourites on new site
+/properties/aguilas,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/algorfa,/properties-for-sale-in-ciudad-quesada,town search page
+/properties/alicante--alacant,/properties-for-sale-in-alicante,town search page
+/properties/almeria,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/altea,/properties-for-sale-in-altea,town search page
+/properties/apartment,/properties-for-sale-in-spain?type=Apartment,type search page
+/properties/benahavis,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/benalmadena,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/benidorm,/properties-for-sale-in-benidorm,town search page
+/properties/benijofar,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/benissa,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/benitachell--el-poble-nou-de-benitatxell,/properties-for-sale-in-cumbre-del-sol,town search page
+/properties/busot,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/calpe--calp,/properties-for-sale-in-calpe,town search page
+/properties/cartagena,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/casares,/properties-for-sale-in-casares,town search page
+/properties/chalet,/properties-for-sale-in-spain?type=Villa,type search page
+/properties/cuevas-del-almanzora,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/daya-nueva,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/denia,/properties-for-sale-in-denia,town search page
+/properties/dolores,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/duplex,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/duplex-house,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/el-campello,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/el-ejido,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/elche--elx,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/estepona,/properties-for-sale-in-estepona,town search page
+/properties/finestrat,/properties-for-sale-in-finestrat,town search page
+/properties/fuengirola,/properties-for-sale-in-fuengirola,town search page
+/properties/fuente-alamo-de-murcia,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/ground-floor,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/guardamar-del-segura,/properties-for-sale-in-guardamar-del-segura,town search page
+/properties/house,/properties-for-sale-in-spain?type=Villa,type search page
+/properties/istan,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/javea--xabia,/properties-for-sale-in-javea,town search page
+/properties/la-alcaidesa,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/la-manga-del-mar-menor,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/la-nucia,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/lalfas-del-pi,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/los-alcazares,/properties-for-sale-in-los-alcazares,town search page
+/properties/los-montesinos,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/manilva,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/marbella,/properties-for-sale-in-marbella,town search page
+/properties/mijas,/properties-for-sale-in-mijas,town search page
+/properties/monforte-del-cid,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/moraira,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/moratalla,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/murcia,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/mutxamel,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/orihuela,/properties-for-sale-in-orihuela-costa,town search page
+/properties/penthouse,/properties-for-sale-in-spain?type=Penthouse,type search page
+/properties/pilar-de-la-horadada,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/polop,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/pulpi,/properties-for-sale-in-pulpi,town search page
+/properties/rojales,/properties-for-sale-in-ciudad-quesada,town search page
+/properties/san-fulgencio,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/san-javier,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/san-miguel-de-salinas,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/san-pedro-del-pinatar,/properties-for-sale-in-san-pedro-del-pinatar,town search page
+/properties/sant-joan-dalacant,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/santa-pola,/properties-for-sale-in-santa-pola,town search page
+/properties/semi-detached,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/semi-detached-house,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/sotogrande,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/torre-pacheco,/properties-for-sale-in-torre-pacheco,town search page
+/properties/torrevieja,/properties-for-sale-in-torrevieja,town search page
+/properties/town-house,/properties-for-sale-in-spain,town search page (no own town page)
+/properties/vera,/properties-for-sale-in-vera,town search page
+/properties/villa,/properties-for-sale-in-spain?type=Villa,type search page
+/properties/villajoyosa--la-vila-joiosa,/properties-for-sale-in-villajoyosa,town search page
+/properties/xeresa,/properties-for-sale-in-spain,town search page (no own town page)

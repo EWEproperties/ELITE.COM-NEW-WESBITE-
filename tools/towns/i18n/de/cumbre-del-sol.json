@@ -1,0 +1,29 @@
+{
+ "title": "Immobilien in Cumbre del Sol kaufen: Villen mit Meerblick",
+ "description": "{count_all} Villen und Wohnungen mit Meerblick zum Verkauf in Cumbre del Sol und Moraira ab {from}. Fotos, Ortsinfos und Kaufkosten erklärt.",
+ "h1": "Immobilien zum Verkauf in Cumbre del Sol",
+ "lead": "Moderne Villen auf den Klippen zwischen Jávea und Moraira, mit Blick über das Meer und die Buchten darunter. Hier finden Sie die Immobilien, die wir heute in Cumbre del Sol und Umgebung verkaufen, mit einem kurzen Überblick über die Gegend und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Cumbre del Sol"], ["ab {from}", "für eine Wohnung"], ["ca. 1 Stunde", "zum Flughafen Alicante-Elche"], ["Cala del Moraig", "die Bucht unter den Klippen"]],
+ "listings_intro": "Vor allem neue Villen mit 3 oder 4 Schlafzimmern, eigenem Pool und freiem Meerblick, viele in modernem Stil mit großen Terrassen. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "near_intro": "Moraira ist etwa 10 Minuten entfernt: ein kleiner Hafenort mit Sandbuchten, Restaurants und Luxusvillen mit Meerblick.",
+ "guide_title": "Leben in Cumbre del Sol",
+ "guide": [
+  "Cumbre del Sol ist ein Wohngebiet auf den Klippen von Benitachell, an der nördlichen Costa Blanca zwischen Jávea und Moraira. Es ist bekannt für Meerblick, ruhige Straßen und moderne Villen an den Hängen über dem Mittelmeer.",
+  "Unter den Klippen liegen kleine Buchten mit sehr klarem Wasser. Die bekannteste ist die Cala del Moraig, mit Kieselstrand, einer Meereshöhle und tiefblauem Wasser. Wege entlang der Küste führen zu Aussichtspunkten und weiteren ruhigen Buchten.",
+  "Das Gebiet hat eigene Restaurants, Geschäfte und eine internationale Schule. Für größere Einkäufe, Krankenhäuser und Wochenmärkte sind Jávea, Moraira und Teulada 10 bis 15 Autominuten entfernt. Der Flughafen Alicante liegt etwa 75 km entfernt, rund eine Stunde mit dem Auto, der Flughafen Valencia etwa 100 km."
+ ],
+ "guide_photo_alt": "Bucht unter den Klippen bei Cumbre del Sol in Benitachell",
+ "areas_title": "Die Gegend um Cumbre del Sol",
+ "areas": [
+  {"name": "Cumbre del Sol", "text": "Das Hauptwohngebiet oben auf den Klippen und an ihren Hängen, mit modernen Villen, Meerblick und den Geschäften und Restaurants der Anlage in der Nähe."},
+  {"name": "Rund um die Cala del Moraig", "text": "Der untere Teil des Gebiets, nahe der bekanntesten Bucht. Villen mit Blick direkt hinunter aufs Meer."},
+  {"name": "Dorf Benitachell", "text": "Das kleine Dorf im Hinterland, wenige Autominuten von der Küste, mit Läden, Bars und Wochenmarkt. Dorfhäuser und Reihenhäuser."},
+  {"name": "Moraira", "text": "Ein Hafenort etwa 10 Minuten entfernt, mit Sandbuchten, Jachthafen und Restaurants. Luxusvillen mit Meerblick."}
+ ],
+ "faq": [
+  ["Was kostet eine Villa in Cumbre del Sol?", "Die meisten Villen mit Meerblick, die wir in Cumbre del Sol verkaufen, kosten zwischen 1,3 Mio. € und 3,1 Mio. €, je nach Größe, Grundstück und Aussicht. Unsere exklusivste Villa kostet 6.057.000 €. Wohnungen gibt es ab {from}."],
+  ["Wo liegt Cumbre del Sol?", "Cumbre del Sol liegt in Benitachell (El Poble Nou de Benitatxell), an der nördlichen Costa Blanca zwischen Jávea und Moraira. Calpe ist etwa 12 km entfernt, Benidorm etwa 30 km."],
+  ["Kann man in Cumbre del Sol das ganze Jahr leben?", "Ja. Viele Eigentümer leben hier das ganze Jahr oder lange Zeit am Stück. Es gibt Restaurants, Geschäfte und eine internationale Schule, und in Jávea, Moraira und Teulada, 10 bis 15 Minuten entfernt, finden Sie Krankenhäuser, größere Geschäfte und Märkte."],
+  ["Wie weit ist Cumbre del Sol vom Flughafen entfernt?", "Der Flughafen Alicante-Elche liegt etwa 75 km entfernt, rund eine Stunde mit dem Auto. Der Flughafen Valencia ist etwa 100 km entfernt."]
+ ]
+}

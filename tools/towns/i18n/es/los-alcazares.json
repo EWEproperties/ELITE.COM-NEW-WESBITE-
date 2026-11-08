@@ -1,0 +1,28 @@
+{
+ "title": "Pisos y villas en venta en Los Alcázares, Mar Menor",
+ "description": "{count} pisos y villas en venta en Los Alcázares, en el Mar Menor, desde {from}, cerca de la playa y de La Serena Golf. Fotos, guía y gastos de compra.",
+ "h1": "Inmuebles en venta en Los Alcázares",
+ "lead": "Pisos nuevos junto a las aguas tranquilas y cálidas del Mar Menor y villas con piscina privada junto a La Serena Golf. Estos son los inmuebles que vendemos hoy en Los Alcázares, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Los Alcázares"], ["desde {from}", "un piso nuevo"], ["unos 30 min", "al aeropuerto de la Región de Murcia"], ["Mar Menor", "una laguna salada tranquila"]],
+ "listings_intro": "Pisos nuevos de 2 o 3 dormitorios, muchos a menos de un kilómetro de la playa, y villas de 3 dormitorios con piscina privada, varias junto a La Serena Golf. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Los Alcázares",
+ "guide": [
+  "Los Alcázares es una localidad costera de unos 17.000 habitantes en la Región de Murcia, a orillas del Mar Menor. El Mar Menor es una gran laguna salada separada del Mediterráneo por una estrecha franja de tierra, La Manga. Sus aguas son poco profundas, tranquilas y cálidas buena parte del año, por eso gustan tanto a las familias y para la vela y otros deportes acuáticos.",
+  "La localidad tiene un largo paseo marítimo con playas, pequeños embarcaderos y cafeterías, y un ritmo relajado. La Serena Golf está en las afueras, y otros campos de golf, como los de Roda, están a pocos minutos.",
+  "Los precios son más bajos que en la mayor parte de la Costa Blanca y la Costa del Sol, así que se consigue una vivienda nueva con piscina por menos dinero. El aeropuerto de la Región de Murcia está a unos 30 minutos en coche, el de Alicante a una hora, y Cartagena y Murcia capital a entre 25 y 35 minutos."
+ ],
+ "guide_photo_alt": "Veleros en el puerto de Los Alcázares, en el Mar Menor",
+ "areas_title": "Las principales zonas de Los Alcázares",
+ "areas": [
+  {"name": "Paseo marítimo y centro", "text": "El paseo, las playas y los embarcaderos del Mar Menor, con tiendas y restaurantes a pie. Pisos cerca del agua."},
+  {"name": "La Serena Golf", "text": "Un resort de golf en las afueras, a 1 km de la playa. Villas nuevas con piscina privada y pisos junto al campo."},
+  {"name": "Zonas residenciales del interior", "text": "Calles más tranquilas a 1 o 2 km del mar, con residenciales nuevos y villas, a menudo con más espacio por el mismo dinero."},
+  {"name": "Alrededor del Mar Menor", "text": "San Javier, Santiago de la Ribera y La Manga, muy cerca, con más playas, clubes náuticos y campos de golf."}
+ ],
+ "faq": [
+  ["¿Cuánto cuesta una vivienda en Los Alcázares?", "Nuestros pisos nuevos en Los Alcázares empiezan hoy en {from}, y la mayoría de 2 o 3 dormitorios cuestan entre 265.000 € y 400.000 €. Las villas con piscina privada cuestan de unos 420.000 € a 720.000 €, muchas cerca de La Serena Golf."],
+  ["¿Cómo es el Mar Menor?", "El Mar Menor es una gran laguna salada junto al Mediterráneo. Sus aguas son poco profundas, tranquilas y normalmente más cálidas que el mar abierto, así que son ideales para niños, para bañarse casi todo el año y para deportes como la vela o el paddle surf."],
+  ["¿Hay riesgo de inundación en Los Alcázares?", "Algunas partes de la localidad se inundaron en las fuertes tormentas de otoño de los últimos años. Antes de comprar, consulte los mapas oficiales de inundabilidad de la parcela concreta y pregunte por el drenaje y el seguro. Le ayudamos con estas comprobaciones."],
+  ["¿A qué distancia está Los Alcázares del aeropuerto?", "El aeropuerto de la Región de Murcia, en Corvera, está a unos 30 minutos en coche, y el de Alicante-Elche a una hora."]
+ ]
+}

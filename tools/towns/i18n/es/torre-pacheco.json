@@ -1,0 +1,65 @@
+{
+ "title": "Inmuebles en venta en Torre-Pacheco y Santa Rosalía",
+ "description": "{count} pisos, bungalows y villas en venta en Torre-Pacheco, Santa Rosalía Resort y Roldán desde {from}. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Torre-Pacheco",
+ "lead": "Viviendas alrededor de la laguna de baño de Santa Rosalía Lake & Life Resort, y villas con piscina privada en Roldán y El Alba, a pocos minutos del Mar Menor. Estos son los inmuebles que vendemos hoy en Torre-Pacheco, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Torre-Pacheco"
+  ],
+  [
+   "desde {from}",
+   "un bungalow"
+  ],
+  [
+   "unos 25 min",
+   "al aeropuerto de la Región de Murcia"
+  ],
+  [
+   "unos 5 km",
+   "de Santa Rosalía al Mar Menor"
+  ]
+ ],
+ "listings_intro": "Pisos, áticos, bungalows y villas en residenciales cerrados, muchos con piscina privada o vistas a la laguna. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Torre-Pacheco",
+ "guide": [
+  "Torre-Pacheco es un municipio de unos 40.000 habitantes en el Campo de Cartagena, en la Región de Murcia, a poca distancia del Mar Menor. La mayoría de nuestras viviendas aquí están en residenciales cerrados modernos, pensados para quien busca espacio, sol y piscina, cerca de las playas de Los Alcázares.",
+  "El más conocido es Santa Rosalía Lake & Life Resort, a unos 5 km del Mar Menor. Su centro es una laguna turquesa de baño de unas 1,6 hectáreas con playas de arena blanca y dos islas, en un parque de unas 12 hectáreas. Cerca, Roldán y la zona residencial de El Alba ofrecen villas y bungalows con piscina privada por menos dinero.",
+  "Los campos de golf, los supermercados y las playas de Los Alcázares están a pocos minutos. El aeropuerto de la Región de Murcia está a unos 25 minutos en coche, y el de Alicante a algo más de una hora."
+ ],
+ "guide_photo_alt": "Playa de arena con palmeras junto a la laguna de Santa Rosalía Lake & Life Resort",
+ "areas_title": "Las principales zonas de Torre-Pacheco",
+ "areas": [
+  {
+   "name": "Santa Rosalía Lake & Life Resort",
+   "text": "Un residencial cerrado alrededor de una gran laguna de baño con playas, a unos 5 km del Mar Menor. Pisos, áticos, bungalows y villas."
+  },
+  {
+   "name": "Roldán",
+   "text": "Un pequeño núcleo del municipio, con comercios y villas y bungalows nuevos con piscina privada."
+  },
+  {
+   "name": "El Alba Mediterranean Resort",
+   "text": "Una zona residencial con villas y bungalows modernos, muchos con piscina privada, cerca de Roldán."
+  },
+  {
+   "name": "Torre-Pacheco",
+   "text": "El núcleo principal, con tiendas, mercados, colegios y centros de salud, para el día a día todo el año."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta una vivienda en Torre-Pacheco?",
+   "Nuestras viviendas en Torre-Pacheco empiezan hoy en {from}. Los pisos en Santa Rosalía cuestan desde unos 290.000 €, los áticos desde unos 525.000 €, y las villas con piscina privada desde unos 275.000 € en Roldán hasta 675.000 € en El Alba."
+  ],
+  [
+   "¿Qué es Santa Rosalía Lake & Life Resort?",
+   "Es un residencial cerrado en Torre-Pacheco construido alrededor de una gran laguna de baño con playas de arena blanca. La laguna y las instalaciones son para los residentes y sus invitados y se pagan con los gastos de comunidad. Lea nuestra <a href=\"santa-rosalia-lake-and-life-resort.html\">guía de Santa Rosalía</a>."
+  ],
+  [
+   "¿A qué distancia está Torre-Pacheco de la playa y del aeropuerto?",
+   "Las playas de Los Alcázares, en el Mar Menor, están a unos 5 o 10 minutos en coche. El aeropuerto de la Región de Murcia, a unos 25 minutos."
+  ]
+ ]
+}

@@ -1,0 +1,234 @@
+{
+ "properties-for-sale-in-spain": {
+  "kind": "search",
+  "title": "Property for sale in Spain: all our homes",
+  "description": "All {count} homes we sell in Spain, from {from}: apartments, penthouses and villas on the Costa Blanca, Costa del Sol and Costa Cálida. Search by area and price.",
+  "kicker": "All properties",
+  "h1": "Property for sale in Spain",
+  "lead": "Every home we sell today, in one place. Choose the coast, the town, the type of home and your budget, and the list updates straight away.",
+  "hero": "assets/hero.jpg",
+  "filter": {},
+  "intro_title": "Find your home",
+  "intro": "Most of our homes are new builds from developers we know well, with a few carefully chosen resales. Prices come straight from our property system and are updated every time the site is built.",
+  "links": ["properties-for-sale-in-costa-blanca", "properties-for-sale-in-costa-del-sol", "properties-for-sale-in-costa-calida", "luxury-villas-for-sale-in-spain", "sea-view-apartments-for-sale-spain", "golf-properties-for-sale-in-spain"]
+ },
+ "properties-for-sale-in-costa-blanca": {
+  "kind": "hub", "coast": "Costa Blanca", "region": "Valencian Community",
+  "title": "Property for sale on the Costa Blanca: all areas",
+  "description": "{count} homes for sale on the Costa Blanca from {from}, from Dénia and Jávea to Alicante, Torrevieja and Orihuela Costa. Town guides and buying costs.",
+  "kicker": "Costa Blanca · Alicante province",
+  "h1": "Property for sale on the Costa Blanca",
+  "lead": "More than 200 km of coast in the province of Alicante, from the green coves of Jávea in the north to the long sandy beaches of Torrevieja and Orihuela Costa in the south. Here are all the homes we sell on the Costa Blanca today.",
+  "hero": "assets/costa-blanca.jpg",
+  "filter": {"coast": ["Costa Blanca"]},
+  "guide_title": "North and south: two sides of one coast",
+  "guide": [
+   "The <strong>northern Costa Blanca</strong>, from Dénia and Jávea down to Altea and Benidorm, is greener and hillier, with rocky coves, mountains close to the sea and many villas with sea views. Prices are higher here, especially in Jávea, Moraira, Cumbre del Sol and Altea.",
+   "The <strong>southern Costa Blanca</strong>, from Alicante and Santa Pola to Torrevieja, Orihuela Costa and Pilar de la Horadada, is flatter and sunnier, with long sandy beaches, salt lakes and several golf resorts. This is where you find most new apartments and bungalows at more modest prices.",
+   "Alicante-Elche airport sits in the middle, so most towns are 20 to 60 minutes by car from the terminal, with direct flights to most European cities all year."
+  ],
+  "faq": [
+   ["Where is the best place to buy on the Costa Blanca?", "It depends on how you will use the home. For sea views, coves and a quieter, greener coast, look at the north: Jávea, Moraira, Cumbre del Sol, Altea and Calpe. For long sandy beaches, golf and lower prices, look at the south: Torrevieja, Orihuela Costa and Guardamar. Alicante city suits buyers who want to live all year in a real city."],
+   ["How much does a property cost on the Costa Blanca?", "Our homes on the Costa Blanca start at {from} today. Most new apartments with 2 or 3 bedrooms in the south cost between €250,000 and €400,000, while most sea-view villas in the north cost between €1.4 and €2.5 million."],
+   ["What taxes do I pay when I buy on the Costa Blanca?", "On a new build you pay 10% VAT (IVA) and 1.4% stamp duty (AJD). On a resale home you pay transfer tax (ITP) of 9%, or 11% above €1 million. Add about 1.5 to 2.5% for the notary, land registry and lawyer."],
+   ["Which airport is closest?", "Alicante-Elche airport. Most Costa Blanca towns are 20 to 60 minutes away by car. For the far north, Valencia airport is also an option."]
+  ],
+  "links": ["how-to-buy-an-apartment-or-house-in-spain", "costa-blanca-or-costa-del-sol", "costa-blanca-how-is-life-on-the-spanish-coast", "costa-blanca-beaches-you-must-visit"],
+  "areas": [
+   {"title": "North Costa Blanca", "text": "Green hills, rocky coves and villas with sea views, from Dénia and Jávea to Altea and Benidorm.",
+    "towns": ["denia", "javea", "cumbre-del-sol", "calpe", "altea", "benidorm", "finestrat", "villajoyosa"]},
+   {"title": "South Costa Blanca", "text": "Long sandy beaches, salt lakes and golf resorts, with most of the new apartments and bungalows.",
+    "towns": ["alicante", "santa-pola", "guardamar-del-segura", "torrevieja", "orihuela-costa", "ciudad-quesada"]}
+  ],
+  "types": [
+   {"slug": "luxury-villas-for-sale-costa-blanca", "label": "Luxury villas"},
+   {"slug": "villas-for-sale-costa-blanca", "label": "Villas"},
+   {"slug": "apartments-with-sea-views-for-sale-costa-blanca", "label": "Apartments with sea views"},
+   {"slug": "golf-properties-for-sale-in-costa-blanca", "label": "Golf properties", "photo": "assets/golf/golf-costa-blanca.jpg", "meta": "8 golf resorts"}
+  ]
+ },
+ "properties-for-sale-in-costa-del-sol": {
+  "kind": "hub", "coast": "Costa del Sol", "region": "Andalusia",
+  "title": "Property for sale on the Costa del Sol: all areas",
+  "description": "{count} homes for sale on the Costa del Sol from {from}, in Marbella, Estepona, Mijas, Fuengirola, Casares and Benahavís. Town guides and buying costs.",
+  "kicker": "Costa del Sol · Málaga province",
+  "h1": "Property for sale on the Costa del Sol",
+  "lead": "The coast of Málaga province, from Málaga city to Estepona and Manilva, with the mountains behind it, dozens of golf courses and a lively international community. Here are all the homes we sell on the Costa del Sol today.",
+  "hero": "assets/costa-del-sol.jpg",
+  "filter": {"coast": ["Costa del Sol"]},
+  "guide_title": "Life on the Costa del Sol",
+  "guide": [
+   "<strong>Marbella</strong> and its neighbours <strong>Benahavís</strong> and <strong>Nueva Andalucía</strong> are the luxury heart of the coast, with Puerto Banús, the Golden Mile and the Golf Valley. Prices here are the highest in southern Spain.",
+   "To the west, <strong>Estepona</strong>, <strong>Casares</strong> and <strong>Manilva</strong> offer newer developments, a calmer pace and better value, many with sea and golf views. To the east, <strong>Mijas</strong>, <strong>Fuengirola</strong> and <strong>Benalmádena</strong> are close to Málaga and its airport, with a busy town life all year.",
+   "Málaga airport has direct flights to most European cities all year, and the AP-7 and A-7 roads connect the whole coast."
+  ],
+  "faq": [
+   ["Where is the best place to buy on the Costa del Sol?", "For luxury and prestige, Marbella, Benahavís and Nueva Andalucía. For newer homes and better value with sea views, Estepona and Casares. For easy access to Málaga and the airport, Mijas, Fuengirola and Benalmádena."],
+   ["How much does a property cost on the Costa del Sol?", "Our homes on the Costa del Sol start at {from} today. Most new apartments in Estepona, Mijas and Casares cost between €400,000 and €650,000, while most villas in Marbella and Benahavís cost between €3.4 and €8 million."],
+   ["What taxes do I pay when I buy on the Costa del Sol?", "On a new build you pay 10% VAT (IVA) and 1.2% stamp duty (AJD). On a resale home you pay 7% transfer tax (ITP). Add about 1.5 to 2.5% for the notary, land registry and lawyer."],
+   ["Which airport is closest?", "Málaga airport. Fuengirola and Mijas are about 20 to 30 minutes away, Marbella about 40 minutes and Estepona about an hour. Gibraltar airport is also close to Manilva and Sotogrande."]
+  ],
+  "links": ["how-to-buy-an-apartment-or-house-in-spain", "costa-blanca-or-costa-del-sol", "the-costa-del-sol-top-10-attractions-worth-visiting", "what-is-worth-seeing-in-marbella"],
+  "areas": [
+   {"title": "Towns on the Costa del Sol", "text": "From Marbella and Estepona in the west to Mijas and Fuengirola near Málaga airport.",
+    "towns": ["marbella", "estepona", "casares", "mijas", "fuengirola"]}
+  ],
+  "types": [
+   {"slug": "luxury-villas-for-sale-costa-del-sol", "label": "Luxury villas"},
+   {"slug": "apartments-with-sea-views-for-sale-costa-del-sol", "label": "Apartments with sea views"},
+   {"slug": "golf-properties-for-sale-in-costa-del-sol", "label": "Golf properties", "photo": "assets/golf/golf-costa-del-sol.jpg", "meta": "Golf homes"}
+  ]
+ },
+ "properties-for-sale-in-costa-calida": {
+  "kind": "hub", "coast": "Costa Cálida", "region": "Region of Murcia",
+  "title": "Property for sale on the Costa Cálida, Murcia",
+  "description": "{count} homes for sale on the Costa Cálida from {from}, around the Mar Menor in Los Alcázares, San Pedro del Pinatar and Torre-Pacheco. Guides and costs.",
+  "kicker": "Costa Cálida · Region of Murcia",
+  "h1": "Property for sale on the Costa Cálida",
+  "lead": "The coast of the Region of Murcia, around the warm, shallow Mar Menor lagoon and its golf resorts. Here are all the homes we sell on the Costa Cálida today.",
+  "hero": "assets/golf/golf-costa-calida.jpg",
+  "filter": {"coast": ["Costa Cálida"]},
+  "guide_title": "Why buyers choose the Costa Cálida",
+  "guide": [
+   "The <strong>Mar Menor</strong> is a large salt-water lagoon separated from the Mediterranean by the strip of La Manga. Its water is calm and shallow, which makes it popular with families and for water sports, and towns such as <strong>Los Alcázares</strong>, <strong>San Pedro del Pinatar</strong> and <strong>Lo Pagán</strong> line its shore.",
+   "Inland, resorts such as <strong>Santa Rosalía</strong>, <strong>La Serena Golf</strong> and <strong>Roda</strong> offer new homes with communal pools and golf at prices that are often lower than on the Costa Blanca.",
+   "The Region of Murcia airport at Corvera is the closest, and Alicante-Elche airport is about an hour away by car."
+  ],
+  "faq": [
+   ["Is the Costa Cálida cheaper than the Costa Blanca?", "Often, yes. Our homes on the Costa Cálida start at {from} today, and new apartments and villas near the Mar Menor and its golf resorts usually cost less than similar homes on the Costa Blanca."],
+   ["What taxes do I pay when I buy in Murcia?", "On a new build you pay 10% VAT (IVA) and 1.5% stamp duty (AJD). On a resale home you pay 7.75% transfer tax (ITP). Add about 1.5 to 2.5% for the notary, land registry and lawyer."],
+   ["Which airport is closest?", "The Region of Murcia airport at Corvera, about 30 to 40 minutes from the Mar Menor. Alicante-Elche airport is about an hour away and has more flights."]
+  ],
+  "links": ["how-to-buy-an-apartment-or-house-in-spain", "properties-for-sale-in-costa-blanca", "golf-properties-for-sale-in-costa-calida"],
+  "areas": [
+   {"title": "Towns on the Costa Cálida", "text": "Around the Mar Menor, a calm salt-water lagoon with shallow, warm beaches.",
+    "towns": ["los-alcazares", "san-pedro-del-pinatar", "torre-pacheco"]}
+  ],
+  "types": [
+   {"slug": "golf-properties-for-sale-in-costa-calida", "label": "Golf properties", "photo": "assets/golf/golf-costa-calida.jpg", "meta": "6 golf resorts"}
+  ]
+ },
+ "luxury-villas-for-sale-in-spain": {
+  "kind": "category",
+  "title": "Luxury villas for sale in Spain from €1 million",
+  "description": "{count} luxury villas for sale in Spain from {from}, with private pools and sea views in Marbella, Benahavís, Jávea, Moraira, Altea and Cumbre del Sol.",
+  "kicker": "Luxury villas",
+  "h1": "Luxury villas for sale in Spain",
+  "lead": "Villas from €1 million on the Costa Blanca and the Costa del Sol, most of them new, with a private pool and many with sea views.",
+  "hero": "assets/towns/marbella/hero.jpg",
+  "filter": {"types": ["Villa", "Chalet"], "min_price": 1000000},
+  "intro_title": "Our luxury villas",
+  "intro": "On the Costa del Sol, most of our luxury villas are in Marbella, Benahavís, Estepona and Casares. On the Costa Blanca, they are in Jávea, Moraira, Cumbre del Sol, Altea and Calpe, where the coast is greener and the views are wide.",
+  "faq": [
+   ["What does a luxury villa cost in Spain?", "Our luxury villas start at {from}. On the Costa Blanca, most sea-view villas cost between €1.4 and €2.5 million. In Marbella and Benahavís, most villas cost between €3.4 and €8 million."],
+   ["What taxes do I pay on a new luxury villa?", "10% VAT (IVA) plus stamp duty (AJD) of 1.4% in the Valencian Community or 1.2% in Andalusia. On a resale villa you pay transfer tax instead: 11% above €1 million in the Valencian Community and 7% in Andalusia."]
+  ],
+  "links": ["luxury-villas-for-sale-costa-blanca", "luxury-villas-for-sale-costa-del-sol", "buying-a-luxury-house-or-villa-in-spain-where-to-look-what-to-know"]
+ },
+ "luxury-villas-for-sale-costa-blanca": {
+  "kind": "category",
+  "title": "Luxury villas for sale on the Costa Blanca",
+  "description": "{count} luxury villas for sale on the Costa Blanca from {from}, with private pools and sea views in Jávea, Moraira, Cumbre del Sol, Altea and Calpe.",
+  "kicker": "Luxury villas · Costa Blanca",
+  "h1": "Luxury villas for sale on the Costa Blanca",
+  "lead": "Villas from €1 million on the Costa Blanca, most of them in the green, hilly north of the coast with wide views over the sea.",
+  "hero": "assets/towns/altea/hero.jpg",
+  "filter": {"coast": ["Costa Blanca"], "types": ["Villa", "Chalet"], "min_price": 1000000},
+  "intro_title": "Where our luxury villas are",
+  "intro": "Most are in Jávea, Benitachell (Cumbre del Sol), Benissa, Moraira, Altea and Calpe. In the south, about a dozen modern villas stand in Orihuela Costa, near its golf courses.",
+  "faq": [
+   ["What taxes do I pay on a luxury villa on the Costa Blanca?", "On a new build, 10% VAT (IVA) and 1.4% stamp duty (AJD). On a resale villa above €1 million, 11% transfer tax (ITP). Add about 1.5 to 2.5% for the notary, land registry and lawyer."]
+  ],
+  "links": ["luxury-villas-for-sale-in-spain", "villas-for-sale-costa-blanca", "properties-for-sale-in-costa-blanca"]
+ },
+ "luxury-villas-for-sale-costa-del-sol": {
+  "kind": "category",
+  "title": "Luxury villas for sale on the Costa del Sol",
+  "description": "{count} luxury villas for sale on the Costa del Sol from {from}, in Marbella, Benahavís, Estepona and Casares, with private pools, sea and golf views.",
+  "kicker": "Luxury villas · Costa del Sol",
+  "h1": "Luxury villas for sale on the Costa del Sol",
+  "lead": "Villas from €1 million on the Costa del Sol, from modern homes in Estepona to estates in Marbella and Benahavís.",
+  "hero": "assets/towns/marbella/hero.jpg",
+  "filter": {"coast": ["Costa del Sol"], "types": ["Villa", "Chalet"], "min_price": 1000000},
+  "intro_title": "Where our luxury villas are",
+  "intro": "Most are in Benahavís, Marbella and Estepona, many near a golf course or with views over the sea.",
+  "faq": [
+   ["What taxes do I pay on a luxury villa on the Costa del Sol?", "On a new build, 10% VAT (IVA) and 1.2% stamp duty (AJD). On a resale villa, 7% transfer tax (ITP). Add about 1.5 to 2.5% for the notary, land registry and lawyer."]
+  ],
+  "links": ["luxury-villas-for-sale-in-spain", "properties-for-sale-in-costa-del-sol", "la-zagaleta-the-most-exclusive-place-in-europe"]
+ },
+ "villas-for-sale-costa-blanca": {
+  "kind": "category",
+  "title": "Villas for sale on the Costa Blanca: new and resale",
+  "description": "{count} villas for sale on the Costa Blanca from {from}, most with a private pool, from Torrevieja and Orihuela Costa to Finestrat, Altea and Jávea.",
+  "kicker": "Villas · Costa Blanca",
+  "h1": "Villas for sale on the Costa Blanca",
+  "lead": "Detached and semi-detached villas on the Costa Blanca, most of them new and with a private pool, at every budget.",
+  "hero": "assets/costa-blanca.jpg",
+  "filter": {"coast": ["Costa Blanca"], "types": ["Villa", "Chalet", "Semi-Detached", "Semi-Detached House", "House"]},
+  "intro_title": "Villas north and south",
+  "intro": "In the south, near Torrevieja, Orihuela Costa and Ciudad Quesada, new villas with a private pool often start below €500,000. In the north, around Finestrat, Altea, Calpe and Jávea, many villas have sea views and cost more.",
+  "faq": [
+   ["How much does a villa cost on the Costa Blanca?", "Our villas on the Costa Blanca start at {from} today. Most new villas with 3 bedrooms and a private pool in the south cost between €450,000 and €800,000."]
+  ],
+  "links": ["luxury-villas-for-sale-costa-blanca", "golf-properties-for-sale-in-costa-blanca", "properties-for-sale-in-costa-blanca"]
+ },
+ "sea-view-apartments-for-sale-spain": {
+  "kind": "category",
+  "title": "Sea view apartments for sale in Spain",
+  "description": "{count} apartments and penthouses with sea views for sale in Spain from {from}, on the Costa Blanca and the Costa del Sol. Photos, prices and costs.",
+  "kicker": "Sea view apartments",
+  "h1": "Sea view apartments for sale in Spain",
+  "lead": "Apartments and penthouses with a view of the Mediterranean, from Calpe and Benidorm to Estepona and Mijas.",
+  "hero": "assets/towns/calpe/hero.jpg",
+  "filter": {"types": ["Apartment", "Penthouse", "Ground floor", "Duplex"], "sea_view": true},
+  "intro_title": "What counts as a sea view",
+  "intro": "We list a home here when its details or title in our system say it has sea views. Some see the sea from the whole terrace, others only from one corner, so always ask us for photos taken from the terrace, or a video call.",
+  "faq": [
+   ["Is a sea view apartment worth the extra cost?", "For many buyers, yes: sea views are the feature that sells and rents most easily on the coast. Check where the view comes from, whether a new building could block it, and how high the floor is."]
+  ],
+  "links": ["apartments-with-sea-views-for-sale-costa-blanca", "apartments-with-sea-views-for-sale-costa-del-sol", "properties-near-the-sea-in-spain"]
+ },
+ "apartments-with-sea-views-for-sale-costa-blanca": {
+  "kind": "category",
+  "title": "Sea view apartments for sale on the Costa Blanca",
+  "description": "{count} apartments and penthouses with sea views for sale on the Costa Blanca from {from}, in Calpe, Benidorm, Altea, Villajoyosa and more.",
+  "kicker": "Sea view apartments · Costa Blanca",
+  "h1": "Apartments with sea views on the Costa Blanca",
+  "lead": "Apartments and penthouses with a view of the sea, many in the tall new towers of Benidorm and Calpe or on the hills behind the coast.",
+  "hero": "assets/towns/benidorm/hero.jpg",
+  "filter": {"coast": ["Costa Blanca"], "types": ["Apartment", "Penthouse", "Ground floor", "Duplex"], "sea_view": true},
+  "intro_title": "Where the views are",
+  "intro": "Finestrat and Calpe have the most, followed by Villajoyosa and Benidorm, where tall buildings close to the beach look out over the bay.",
+  "faq": [],
+  "links": ["sea-view-apartments-for-sale-spain", "properties-for-sale-in-costa-blanca", "properties-near-the-sea-in-spain"]
+ },
+ "apartments-with-sea-views-for-sale-costa-del-sol": {
+  "kind": "category",
+  "title": "Sea view apartments for sale on the Costa del Sol",
+  "description": "{count} apartments and penthouses with sea views for sale on the Costa del Sol from {from}, in Estepona, Mijas, Marbella, Casares and Benalmádena.",
+  "kicker": "Sea view apartments · Costa del Sol",
+  "h1": "Apartments with sea views on the Costa del Sol",
+  "lead": "Apartments and penthouses looking out over the Mediterranean, many on the hills above Estepona, Mijas and Benalmádena.",
+  "hero": "assets/costa-del-sol.jpg",
+  "filter": {"coast": ["Costa del Sol"], "types": ["Apartment", "Penthouse", "Ground floor", "Duplex"], "sea_view": true},
+  "intro_title": "Where the views are",
+  "intro": "Estepona has the most, followed by Marbella, Mijas and Casares. Many new developments with sea views are on the slopes behind the coast, so you get wide views and a short drive to the beach.",
+  "faq": [],
+  "links": ["sea-view-apartments-for-sale-spain", "properties-for-sale-in-costa-del-sol", "luxury-villas-for-sale-costa-del-sol"]
+ },
+ "featured-properties": {
+  "kind": "category",
+  "title": "Featured properties for sale in Spain",
+  "description": "Our selection of the best homes for sale right now on the Costa Blanca, from Calpe and Dénia to Torrevieja and Santa Pola, chosen by our team.",
+  "kicker": "Our selection",
+  "h1": "Featured properties",
+  "lead": "The homes our team recommends right now: good value, a great location or something special about them.",
+  "hero": "assets/hero.jpg",
+  "filter": {"featured": true},
+  "intro_title": "Chosen by our team",
+  "intro": "We update this selection regularly. Ask us about any of these homes and we will send you more photos, plans and the price list.",
+  "faq": [],
+  "links": ["properties-for-sale-in-spain", "properties-for-sale-in-costa-blanca", "luxury-villas-for-sale-in-spain"]
+ }
+}

@@ -1,0 +1,34 @@
+{
+ "title": "Pisos en venta en Benidorm con vistas al mar",
+ "description": "Pisos con vistas al mar en venta en Benidorm desde {from}, y villas y pisos en Finestrat y La Nucía. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Benidorm",
+ "lead": "Pisos con vistas al mar junto a las playas de Levante y Poniente, y villas en las colinas de Finestrat, justo detrás de la ciudad. Estos son los inmuebles que vendemos hoy en Benidorm y alrededores, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "pisos en venta en Benidorm"], ["desde {from}", "un piso nuevo"], ["unos 45 min", "al aeropuerto de Alicante-Elche"], ["2 playas", "Levante y Poniente"]],
+ "listings_intro": "Pisos nuevos y modernos de 1 a 3 dormitorios, la mayoría con vistas al mar, piscina comunitaria y garaje, cerca de la playa de Levante o de Poniente. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "near_intro": "Finestrat empieza justo detrás de Benidorm, con pisos nuevos y villas con vistas al mar en Sierra Cortina y Balcón de Finestrat. Un poco más allá están La Cala, el Albir y las colinas de La Nucía.",
+ "guide_title": "Vivir en Benidorm",
+ "guide": [
+  "Benidorm es una ciudad costera del norte de la Costa Blanca con unos 75.000 habitantes y visitantes de toda Europa en todos los meses del año. Su skyline de altas torres es famoso, y es la razón de que tantas viviendas tengan aquí vistas al mar.",
+  "La ciudad tiene dos largas playas de arena. Levante es la animada, con el paseo, las cafeterías y el Rincón de Loix al final. Poniente es más tranquila y más larga, con un paseo moderno y torres más nuevas. Entre las dos, el casco antiguo ocupa un pequeño cabo con el mirador del Balcón del Mediterráneo.",
+  "Benidorm tiene vida todo el año, no solo en verano, así que tiendas, restaurantes y servicios siguen abiertos y la demanda de inquilinos no se detiene. El aeropuerto de Alicante-Elche está a unos 45 minutos en coche, y el TRAM une la ciudad con Alicante y los pueblos de la costa."
+ ],
+ "guide_photo_alt": "Playa de Poniente en Benidorm con palmeras",
+ "areas_title": "Las principales zonas de Benidorm",
+ "areas": [
+  {"name": "Levante", "text": "La playa más conocida, con el paseo, cafeterías y vida nocturna. Pisos en torres cerca de la arena, muchos con vistas a la bahía."},
+  {"name": "Poniente", "text": "Una playa más larga y tranquila con un paseo moderno, muy apreciada por familias y por quien vive aquí todo el año. Torres más nuevas con vistas al mar."},
+  {"name": "Casco antiguo", "text": "Calles estrechas, bares de tapas y el mirador del Balcón del Mediterráneo en el cabo entre las dos playas. Edificios más pequeños y antiguos."},
+  {"name": "Rincón de Loix", "text": "El extremo de la playa de Levante, al pie del Parque Natural de Serra Gelada. Pisos con vistas al mar y un ambiente vacacional animado."},
+  {"name": "Centro", "text": "Las calles detrás de las playas, con tiendas y servicios a pie. Edificios de pisos modernos, a pocos minutos andando del mar."},
+  {"name": "Finestrat y Sierra Cortina", "text": "Las colinas justo detrás de Benidorm, junto a los parques temáticos y un campo de golf. Pisos nuevos y villas con piscina y vistas a la ciudad y al mar."}
+ ],
+ "costs_intro": "Al precio se suman impuestos y gastos. Para un piso nuevo de 507.000 €, por ejemplo, son 50.700 € de IVA y 7.098 € de AJD, más notaría, registro y abogado. En la segunda mano los impuestos son otros, así que pídanos siempre la cifra exacta de la vivienda que le guste.",
+ "faq": [
+  ["¿Cuánto cuesta un piso en Benidorm?", "Nuestros pisos en Benidorm empiezan hoy en {from}. La mayoría de los pisos de 2 dormitorios con vistas al mar que vendemos cuestan entre 500.000 € y 870.000 €, según la planta, las vistas y la distancia a la playa. Un ático en lo alto de una torre cuesta más de 1,2 millones de €. En Finestrat, justo detrás de Benidorm, los pisos nuevos empiezan en unos 289.000 €."],
+  ["Levante o Poniente: ¿cuál es mejor?", "Levante es más animada, con más cafeterías, bares y turistas. Poniente es más tranquila, con una playa más larga y edificios más nuevos, y encaja con quien quiere vivir aquí temporadas largas. En las dos hay viviendas con vistas al mar."],
+  ["¿Es Benidorm un buen lugar para alquilar?", "Benidorm es uno de los destinos de vacaciones más visitados de España y tiene turistas todo el año, así que la demanda es alta en todas las temporadas. El alquiler vacacional necesita una licencia turística en el registro de la Comunitat Valenciana, y muchos edificios y zonas lo limitan, así que compruébelo antes de comprar. Consulte nuestra guía sobre las <a href=\"new-regulations-on-short-term-rentals-in-spain.html\">normas del alquiler de corta duración</a>."],
+  ["¿A qué distancia está Benidorm del aeropuerto?", "El aeropuerto Alicante-Elche Miguel Hernández está a unos 45 minutos en coche. Desde Benidorm también se llega a Alicante en TRAM."],
+  ["¿Qué gastos hay además del precio?", "En obra nueva se paga un 10 % de IVA y un 1,4 % de AJD. En segunda mano se paga un 9 % de ITP (11 % por encima de 1 millón de €). Notaría, registro y abogado suman alrededor de un 1,5–2,5 %."],
+  ["¿Pueden comprar vivienda los extranjeros en Benidorm?", "Sí. Cualquier persona puede comprar una vivienda en España. Necesita un NIE y normalmente una cuenta bancaria española, y le ayudamos con las dos cosas. Consulte nuestra guía del <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE</a>."]
+ ]
+}

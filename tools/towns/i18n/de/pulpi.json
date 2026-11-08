@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in Pulpí kaufen: Wohnungen am Meer & Golf",
+ "description": "{count} Wohnungen, Bungalows und Villen zum Verkauf in Pulpí, Almería, ab {from}, nahe dem Strand San Juan de los Terreros. Fotos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Pulpí",
+ "lead": "Günstige neue Wohnungen nahe am Meer und am Golfplatz, Wohnungen in erster Meereslinie und Villen nahe den Stränden von San Juan de los Terreros. Hier finden Sie die Immobilien, die wir heute in Pulpí verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Pulpí"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 1 Stunde",
+   "zum Flughafen Región de Murcia"
+  ],
+  [
+   "Geoda",
+   "eine der größten Geoden der Welt"
+  ]
+ ],
+ "listings_intro": "Neue Wohnungen mit 1 bis 3 Schlafzimmern, viele mit Pool und nahe am Meer oder am Golfplatz, dazu Bungalows und Villen nahe am Strand. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Pulpí",
+ "guide": [
+  "Pulpí ist eine Gemeinde im Norden der Provinz Almería in Andalusien, an der Grenze zur Region Murcia. Ihre Küste rund um San Juan de los Terreros hat ruhige Strände, kleine Buchten und klares Wasser und gehört zu den am wenigsten überlaufenen Teilen des spanischen Mittelmeers.",
+  "Bekannt ist die Gegend für die Geoda de Pulpí, eine der größten Kristallgeoden der Welt, die in einer alten Mine gefunden wurde und besichtigt werden kann. An der Küste stehen die Burg von San Juan de los Terreros und der Vulkanfelsen Isla Negra.",
+  "Das Leben ist ruhig, das Klima trocken und sonnig, und die Preise gehören zu den niedrigsten an der Küste. Der Flughafen Región de Murcia ist mit dem Auto etwa eine Stunde entfernt, der Flughafen Almería etwa anderthalb Stunden, und Águilas mit mehr Geschäften und Versorgung etwa 15 Minuten."
+ ],
+ "guide_photo_alt": "Die Burg von San Juan de los Terreros über dem Meer in Pulpí",
+ "areas_title": "Die wichtigsten Viertel von Pulpí",
+ "areas": [
+  {
+   "name": "San Juan de los Terreros",
+   "text": "Der Küstenort von Pulpí, mit Stränden, Buchten und der Burg. Wohnungen und Bungalows nahe am Meer."
+  },
+  {
+   "name": "Erste Meereslinie",
+   "text": "Wohnungen direkt am Meer, mit Blick über das Wasser und den Strand darunter."
+  },
+  {
+   "name": "Golfgebiet",
+   "text": "Neue Anlagen neben dem Golfplatz, wenige Minuten vom Strand. Wohnungen mit Pool und Gärten."
+  },
+  {
+   "name": "Ort Pulpí",
+   "text": "Der Ort im Hinterland, mit Läden, Versorgung und dem Besucherzentrum der Geoda."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Pulpí?",
+   "Unsere Wohnungen in Pulpí beginnen heute bei {from}, die meisten mit 1 bis 3 Schlafzimmern kosten zwischen 180.000 € und 330.000 €. Bungalows und Doppelhaushälften nahe am Strand gibt es ab etwa 360.000 €, Villen ab etwa 480.000 €."
+  ],
+  [
+   "Was ist die Geoda de Pulpí?",
+   "Eine riesige, mit klaren Gipskristallen ausgekleidete Höhle, gefunden in einer alten Mine bei Pulpí und eine der größten bekannten Geoden. Sie kann mit Führung besichtigt werden."
+  ],
+  [
+   "Wie weit ist Pulpí vom Flughafen entfernt?",
+   "Der Flughafen Región de Murcia ist mit dem Auto etwa eine Stunde entfernt, der Flughafen Almería etwa anderthalb Stunden. Zum Flughafen Alicante-Elche sind es etwa eine Stunde und 50 Minuten."
+  ]
+ ]
+}

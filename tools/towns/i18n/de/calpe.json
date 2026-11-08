@@ -1,0 +1,32 @@
+{
+ "title": "Immobilien in Calpe kaufen: Wohnungen & Villen am Meer",
+ "description": "{count_all} Wohnungen, Penthäuser und Villen zum Verkauf in Calpe und Benissa ab {from}. Fotos, Ortsinfos und Kaufkosten erklärt.",
+ "h1": "Immobilien zum Verkauf in Calpe",
+ "lead": "Wohnungen am Strand mit Blick auf den Peñón de Ifach, Penthäuser hoch über der Bucht und Villen auf den Hügeln rund um die Stadt. Hier finden Sie die Immobilien, die wir heute in und um Calpe verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Calpe"], ["ab {from}", "für eine neue Wohnung"], ["ca. 1 Stunde", "zum Flughafen Alicante-Elche"], ["332 m", "der Felsen Peñón de Ifach"]],
+ "listings_intro": "Neue Wohnungen mit 2 oder 3 Schlafzimmern nahe am Strand, viele mit Meerblick, dazu Penthäuser und Villen mit eigenem Pool. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "near_intro": "Benissa beginnt gleich nördlich von Calpe. Die Küste ist ruhig, mit kleinen Buchten und großen Villen mit Meerblick auf weitläufigen Grundstücken.",
+ "guide_title": "Leben in Calpe",
+ "guide": [
+  "Calpe ist eine Küstenstadt an der nördlichen Costa Blanca mit rund 25.000 Einwohnern, viele davon aus anderen europäischen Ländern. Bekannt ist sie vor allem für den Peñón de Ifach, einen 332 Meter hohen Felsen, der direkt aus dem Meer aufsteigt. Er ist ein Naturpark, den man zu Fuß besteigen kann.",
+  "Die Stadt hat zwei große Sandstrände zu beiden Seiten des Felsens: Arenal-Bol am Zentrum und La Fossa, auch Levante genannt, im Norden. Zwischen den Stränden und der Stadt liegt die Salinas, ein alter Salzsee, in dem fast das ganze Jahr Flamingos Futter suchen. Der Fischerhafen mit seiner täglichen Fischauktion und die Altstadt geben Calpe echten Dorfcharakter.",
+  "Calpe bleibt das ganze Jahr lebendig, mit Geschäften, Restaurants, Gesundheitszentren und einer großen internationalen Gemeinschaft. Der Flughafen Alicante-Elche ist mit dem Auto etwa eine Stunde entfernt, der Flughafen Valencia etwa anderthalb Stunden, und Altea und Benidorm erreichen Sie in 15 bis 25 Minuten."
+ ],
+ "guide_photo_alt": "Flamingos auf dem Salzsee Salinas in Calpe, dahinter der Peñón de Ifach",
+ "areas_title": "Die wichtigsten Viertel von Calpe",
+ "areas": [
+  {"name": "Zentrum und Arenal-Bol", "text": "Der Hauptstrand, die Promenade, Geschäfte und Restaurants zu Fuß. Vor allem Wohnungen, viele davon neu und wenige hundert Meter vom Meer."},
+  {"name": "La Fossa (Levante)", "text": "Ein langer Sandstrand nördlich des Peñón de Ifach, mit hohen Wohngebäuden in erster Reihe und weitem Blick über die Bucht."},
+  {"name": "Altstadt", "text": "Enge Gassen, kleine Plätze und Bars auf dem Hügel über dem Zentrum. Ältere Häuser und Wohnungen, wenige Gehminuten vom Strand."},
+  {"name": "Rund um die Salinas", "text": "Die Straßen um den Salzsee zwischen den beiden Stränden. Wohnungen mit Blick auf den See, den Felsen oder das Meer."},
+  {"name": "Maryvilla", "text": "Ein grüner Hang südlich des Zentrums mit Villen und großen Grundstücken. Viele Häuser haben freien Blick auf das Meer und den Peñón de Ifach."},
+  {"name": "Küste von Benissa", "text": "Die ruhige Küste gleich nördlich von Calpe, mit kleinen Buchten und Luxusvillen mit Meerblick auf großen Grundstücken."}
+ ],
+ "costs_intro": "Zum Kaufpreis kommen Steuern und Gebühren. Für eine neue Wohnung zu 450.000 € sind das zum Beispiel 45.000 € Mehrwertsteuer und 6.300 € Stempelsteuer, dazu Notar, Grundbuch und Anwalt. Für Bestandsimmobilien gelten andere Steuern, fragen Sie uns also immer nach der genauen Summe für die Immobilie, die Ihnen gefällt.",
+ "faq": [
+  ["Was kostet eine Wohnung in Calpe?", "Unsere Wohnungen in Calpe beginnen heute bei {from}. Die meisten neuen Wohnungen mit 2 oder 3 Schlafzimmern, die wir verkaufen, kosten zwischen 400.000 € und 710.000 €, je nach Entfernung zum Strand und Aussicht. Penthäuser kosten etwa 539.000 € bis 1,65 Mio. €, Villen ab etwa 1,19 Mio. €."],
+  ["In welchem Viertel von Calpe kauft man am besten?", "Das hängt davon ab, wie Sie die Immobilie nutzen wollen. Das Zentrum und Arenal-Bol passen zu Käufern, die den Strand und alles zu Fuß wollen. La Fossa hat den längsten Strand und hohe Etagen mit Meerblick. Maryvilla ist das Viertel für Villen mit Platz und Aussicht, die Küste von Benissa für ruhigen Luxus."],
+  ["Kann man in Calpe gut vermieten?", "Calpe hat fast das ganze Jahr Gäste und eine große Gemeinschaft von Menschen, die monatelang hier leben, daher sind Ferien- und Langzeitvermietung möglich. Für Ferienvermietung braucht man eine Touristenlizenz im Register der Region Valencia, und manche Gebäude schränken sie ein. Prüfen Sie das also vor dem Kauf."],
+  ["Wie weit ist Calpe vom Flughafen entfernt?", "Zum Flughafen Alicante-Elche Miguel Hernández ist es mit dem Auto etwa eine Stunde. Der Flughafen Valencia ist etwa anderthalb Stunden entfernt."]
+ ]
+}

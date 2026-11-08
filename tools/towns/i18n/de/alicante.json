@@ -1,0 +1,34 @@
+{
+ "title": "Immobilien in Alicante Stadt kaufen: Wohnungen & Villen",
+ "description": "{count_all} Wohnungen und Häuser zum Verkauf in Alicante, El Campello, Sant Joan und Mutxamel ab {from}. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Alicante",
+ "lead": "Neue Wohnungen in der Stadt, Häuser am Strand und Golfvillen direkt vor der Stadt. Hier finden Sie die Immobilien, die wir heute in und um Alicante verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in der Stadt"], ["ab {from}", "für eine neue Wohnung"], ["ca. 20 Min.", "zum Flughafen Alicante-Elche"], ["Postiguet", "der Stadtstrand, mitten im Zentrum"]],
+ "listings_intro": "Vor allem neue Wohnungen mit 2 bis 4 Schlafzimmern, viele mit Gemeinschaftspool, Stellplatz und Abstellraum. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "near_intro": "Zehn bis zwanzig Minuten vom Zentrum: Häuser am Meer in El Campello und Sant Joan sowie Villen und Wohnungen an den Golfplätzen Bonalba und Alicante Golf in Mutxamel.",
+ "guide_title": "Leben in Alicante",
+ "guide": [
+  "Alicante ist die Hauptstadt der gleichnamigen Provinz und mit rund 360.000 Einwohnern die größte Stadt der Costa Blanca. Es ist eine echte Stadt, die das ganze Jahr lebt: mit internationalem Flughafen, Hafen, Universität, großen Krankenhäusern und der Straßenbahn TRAM, die das Zentrum mit den Stränden und den Nachbarorten verbindet.",
+  "Über der Altstadt steht auf dem Berg Benacantil die Burg Santa Bárbara mit Blick über die ganze Bucht. Darunter verläuft die Palmenpromenade Explanada de España, mit rund 6,6 Millionen Fliesen im Wellenmuster gepflastert, am Jachthafen entlang bis zum Strand Postiguet. Im Norden liegt der lange Sandstrand von San Juan, wo viele Käufer zuerst suchen.",
+  "Weil hier zu jeder Jahreszeit Menschen leben, studieren und arbeiten, endet der Mietmarkt nicht mit dem Sommer. Auch deshalb werden neue Wohnanlagen in Alicante für den Alltag gebaut, mit Stellplatz, Abstellraum, Gemeinschaftspool und guter Dämmung."
+ ],
+ "guide_photo_alt": "Strand Albufereta in Alicante mit Palmen",
+ "areas_title": "Die wichtigsten Viertel von Alicante",
+ "areas": [
+  {"name": "Zentrum und Ensanche", "text": "Geschäfte, Restaurants, die Explanada und der Strand Postiguet zu Fuß. Vor allem Wohnungen in älteren und renovierten Gebäuden, dazu einige Neubauprojekte."},
+  {"name": "Playa de San Juan", "text": "Ein langer Sandstrand im Norden der Stadt, beliebt bei Familien und Käufern aus dem Ausland. Neuere Wohnanlagen mit Pool und die TRAM ins Zentrum."},
+  {"name": "Cabo de las Huertas", "text": "Eine ruhige Landzunge mit kleinen Buchten zwischen Albufereta und San Juan. Villen und Reihenhäuser, mit die höchsten Preise in Alicante."},
+  {"name": "Albufereta", "text": "Eine kleine Bucht mit Strand zwischen dem Zentrum und Cabo de las Huertas. Wohnungen mit Meerblick, nahe an der TRAM."},
+  {"name": "Bulevar del Pla", "text": "Ein moderner Stadtteil mit breiten Alleen, etwa 2 km vom Strand Postiguet und an der TRAM. Gut für das Stadtleben ohne Auto."},
+  {"name": "San Agustín und Villafranqueza", "text": "Wohngebiete nördlich des Zentrums, etwa 3,5 bis 6 km vom Strand. Schulen und Versorgung in der Nähe und die niedrigsten Preise für neue Wohnungen."}
+ ],
+ "costs_intro": "Zum Kaufpreis kommen Steuern und Gebühren. Für eine neue Wohnung zu 272.400 € sind das zum Beispiel 27.240 € Mehrwertsteuer und 3.814 € Stempelsteuer, dazu Notar, Grundbuch und Anwalt. Für Bestandsimmobilien gelten andere Steuern, fragen Sie uns also immer nach der genauen Summe für die Immobilie, die Ihnen gefällt.",
+ "faq": [
+  ["Was kostet eine Wohnung in Alicante?", "In der Stadt beginnen unsere Wohnungen heute bei {from}. Die meisten Wohnungen mit 2 oder 3 Schlafzimmern, die wir in der Stadt verkaufen, kosten zwischen 210.000 € und 410.000 €, je nach Viertel, Etage und Entfernung zum Strand. Häuser kosten mehr: Unser Reihenhaus in Cabo de las Huertas kostet 1.225.000 €."],
+  ["In welchem Viertel von Alicante kauft man am besten?", "Das hängt davon ab, wie Sie die Immobilie nutzen wollen. Playa de San Juan und Albufereta passen zu Käufern, die den Strand wollen. Das Zentrum und Bulevar del Pla eignen sich für das Stadtleben ohne Auto. San Agustín und Villafranqueza bieten mehr Platz fürs Geld, Cabo de las Huertas ist das Viertel für Villen."],
+  ["Kann man in Alicante gut vermieten?", "Alicante hat das ganze Jahr Nachfrage von Studenten, Remote-Arbeitern, Familien und Zuzüglern, daher funktioniert die Langzeitvermietung gut. Für Ferienvermietung braucht man eine Touristenlizenz im Register der Region Valencia, und manche Gebäude und Viertel schränken sie ein. Prüfen Sie das also vor dem Kauf."],
+  ["Wie weit ist Alicante vom Flughafen entfernt?", "Der Flughafen Alicante-Elche Miguel Hernández liegt etwa 20 Autominuten vom Stadtzentrum, mit Flügen in die meisten europäischen Städte das ganze Jahr."],
+  ["Welche Kosten kommen zum Kaufpreis hinzu?", "Bei einem Neubau zahlen Sie 10 % Mehrwertsteuer und 1,4 % Stempelsteuer. Bei einer Bestandsimmobilie zahlen Sie 9 % Grunderwerbsteuer (11 % über 1 Mio. €). Notar, Grundbuch und Anwalt kosten zusammen etwa 1,5–2,5 %."],
+  ["Können Ausländer in Alicante eine Immobilie kaufen?", "Ja. Jeder kann in Spanien eine Immobilie kaufen. Sie brauchen eine spanische Steuernummer (NIE) und meist ein spanisches Bankkonto, und wir helfen Ihnen bei beidem. Mehr dazu in unserem Ratgeber zur <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE-Nummer</a>."]
+ ]
+}

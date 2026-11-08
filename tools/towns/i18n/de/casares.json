@@ -1,0 +1,65 @@
+{
+ "title": "Immobilien in Casares kaufen: Wohnungen & Villen",
+ "description": "{count} Wohnungen, Penthäuser und Villen zum Verkauf in Casares Costa und Finca Cortesín ab {from}. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Casares",
+ "lead": "Wohnungen mit Meer- und Golfblick in Casares Costa, Häuser im Resort Finca Cortesín und Villen mit Blick auf die Küste. Hier finden Sie die Immobilien, die wir heute in Casares verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Casares"
+  ],
+  [
+   "ab {from}",
+   "für eine neue Wohnung"
+  ],
+  [
+   "ca. 35 Min.",
+   "zum Flughafen Gibraltar"
+  ],
+  [
+   "Finca Cortesín",
+   "ein Luxus-Golfresort"
+  ]
+ ],
+ "listings_intro": "Vor allem neue Wohnungen mit 2 oder 3 Schlafzimmern und Meer- oder Golfblick in Casares Costa, dazu Penthäuser und Luxusimmobilien in Finca Cortesín. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Casares",
+ "guide": [
+  "Casares ist eine Gemeinde an der westlichen Costa del Sol, zwischen Estepona und Manilva. Das Dorf gehört zu den schönsten Andalusiens: weiße Häuser an einem steilen Hügel, gekrönt von den Ruinen einer Burg, etwa 15 Minuten landeinwärts vom Meer.",
+  "Die meisten Immobilien im Verkauf liegen in Casares Costa, dem Küstenteil, mit Stränden, Golfplätzen und modernen Wohnanlagen mit Blick über das Meer bis Gibraltar und Afrika. Hier liegt auch Finca Cortesín, ein Luxusresort mit Golfplatz, Hotel und Beachclub.",
+  "Das Leben ist hier ruhiger und die Preise sind niedriger als in Marbella, während Geschäfte und Versorgung in Estepona etwa 15 Minuten entfernt sind. Der Flughafen Gibraltar ist mit dem Auto etwa 35 Minuten entfernt, der Flughafen Málaga etwa eine Stunde und eine Viertelstunde."
+ ],
+ "guide_photo_alt": "Alter Wachturm am Strand von Casares Costa",
+ "areas_title": "Die wichtigsten Viertel von Casares",
+ "areas": [
+  {
+   "name": "Casares Costa",
+   "text": "Der Küstenstreifen mit Stränden und modernen Anlagen. Wohnungen und Penthäuser mit Meerblick, viele nahe am Strand."
+  },
+  {
+   "name": "Casares Golf",
+   "text": "Die Gegend um die Golfplätze wenige Minuten landeinwärts. Wohnungen mit Golf- und Meerblick, oft mit großen Terrassen."
+  },
+  {
+   "name": "Finca Cortesín",
+   "text": "Ein Luxusresort mit Golfplatz, Hotel und Beachclub. Exklusive Wohnungen und Villen."
+  },
+  {
+   "name": "Dorf Casares",
+   "text": "Das weiße Dorf am Hügel, mit Burg, kleinen Plätzen und Aussicht. Dorfhäuser und einige Wohnungen."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Casares?",
+   "Unsere neuen Wohnungen in Casares beginnen heute bei {from}. Die meisten Wohnungen mit 2 oder 3 Schlafzimmern, die wir in Casares Costa verkaufen, kosten zwischen 300.000 € und 620.000 €. In Finca Cortesín kosten Wohnungen etwa 580.000 € bis über 2 Mio. €, und unsere Villa mit Küstenblick kostet 2,9 Mio. €."
+  ],
+  [
+   "Casares oder Estepona: was ist besser?",
+   "Estepona ist eine größere Stadt mit Geschäften, Krankenhaus und einer Altstadt am Meer. Casares Costa ist ruhiger, mit Golf und neueren Häusern, und die Preise sind oft niedriger. Estepona ist mit dem Auto etwa 15 Minuten entfernt."
+  ],
+  [
+   "Wie weit ist Casares vom Flughafen entfernt?",
+   "Der Flughafen Gibraltar ist mit dem Auto etwa 35 Minuten entfernt, der Flughafen Málaga liegt etwa 110 km entfernt, rund eine Stunde und eine Viertelstunde."
+  ]
+ ]
+}

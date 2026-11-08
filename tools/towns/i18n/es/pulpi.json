@@ -1,0 +1,65 @@
+{
+ "title": "Pisos en venta en Pulpí junto al mar y el golf",
+ "description": "{count} pisos, bungalows y villas en venta en Pulpí, Almería, desde {from}, cerca de la playa de San Juan de los Terreros. Fotos y gastos de compra.",
+ "h1": "Inmuebles en venta en Pulpí",
+ "lead": "Pisos nuevos asequibles cerca del mar y del campo de golf, pisos en primera línea y villas cerca de las playas de San Juan de los Terreros. Estos son los inmuebles que vendemos hoy en Pulpí, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Pulpí"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "aprox. 1 hora",
+   "al aeropuerto de la Región de Murcia"
+  ],
+  [
+   "Geoda",
+   "una de las mayores geodas del mundo"
+  ]
+ ],
+ "listings_intro": "Pisos nuevos de 1 a 3 dormitorios, muchos con piscina y cerca del mar o del campo de golf, además de bungalows y villas cerca de la playa. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Pulpí",
+ "guide": [
+  "Pulpí es un municipio del norte de la provincia de Almería, en Andalucía, en el límite con la Región de Murcia. Su costa, en torno a San Juan de los Terreros, tiene playas tranquilas, pequeñas calas y agua clara, y es una de las partes menos masificadas del Mediterráneo español.",
+  "La zona es conocida por la Geoda de Pulpí, una de las mayores geodas de cristal del mundo, hallada en una antigua mina y abierta a visitas. En la costa están el castillo de San Juan de los Terreros y la roca volcánica de la Isla Negra.",
+  "La vida es tranquila, el clima seco y soleado, y los precios están entre los más bajos de la costa. El aeropuerto de la Región de Murcia está a una hora en coche y el de Almería a hora y media, y Águilas, con más tiendas y servicios, a unos 15 minutos."
+ ],
+ "guide_photo_alt": "El castillo de San Juan de los Terreros sobre el mar en Pulpí",
+ "areas_title": "Las principales zonas de Pulpí",
+ "areas": [
+  {
+   "name": "San Juan de los Terreros",
+   "text": "El pueblo costero de Pulpí, con playas, calas y el castillo. Pisos y bungalows cerca del mar."
+  },
+  {
+   "name": "Primera línea",
+   "text": "Pisos junto al mar, con vistas al agua y a la playa."
+  },
+  {
+   "name": "Zona de golf",
+   "text": "Promociones nuevas junto al campo de golf, a pocos minutos de la playa. Pisos con piscina y jardines."
+  },
+  {
+   "name": "Pulpí pueblo",
+   "text": "El núcleo del interior, con comercios, servicios y el centro de visitantes de la Geoda."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Pulpí?",
+   "Nuestros pisos en Pulpí empiezan hoy en {from}, y la mayoría de 1 a 3 dormitorios cuestan entre 180.000 € y 330.000 €. Los bungalows y pareados cerca de la playa cuestan desde unos 360.000 €, y las villas unos 480.000 €."
+  ],
+  [
+   "¿Qué es la Geoda de Pulpí?",
+   "Es una enorme cavidad tapizada de cristales transparentes de yeso, hallada en una antigua mina cerca de Pulpí y una de las mayores geodas conocidas. Se puede visitar con guía."
+  ],
+  [
+   "¿A qué distancia está Pulpí del aeropuerto?",
+   "El aeropuerto de la Región de Murcia está a una hora en coche, y el de Almería a hora y media. El de Alicante-Elche, a una hora y 50 minutos."
+  ]
+ ]
+}

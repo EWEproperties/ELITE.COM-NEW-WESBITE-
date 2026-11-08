@@ -1,0 +1,69 @@
+{
+ "title": "Immobilien in Dénia kaufen: Wohnungen nahe am Strand",
+ "description": "{count} Wohnungen, Reihenhäuser und Villen zum Verkauf in Dénia ab {from}, viele nahe am Strand. Fotos, Ortsinfos und Kaufkosten erklärt.",
+ "h1": "Immobilien zum Verkauf in Dénia",
+ "lead": "Neue Wohnungen wenige Schritte vom Strand, Immobilien in erster Meereslinie mit Meerblick und Reihenhäuser nahe am Meer, unterhalb der Burg und des Montgó. Hier finden Sie die Immobilien, die wir heute in Dénia verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Dénia"
+  ],
+  [
+   "ab {from}",
+   "für eine Wohnung"
+  ],
+  [
+   "ca. 75 Min.",
+   "zum Flughafen Valencia oder Alicante"
+  ],
+  [
+   "Fähren",
+   "nach Ibiza und Mallorca"
+  ]
+ ],
+ "listings_intro": "Wohnungen mit 1 bis 3 Schlafzimmern nahe am Strand, einige in erster Meereslinie mit Meerblick, dazu Reihenhäuser und eine Villa. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Dénia",
+ "guide": [
+  "Dénia ist eine Stadt mit rund 45.000 Einwohnern an der Nordspitze der Costa Blanca, auf halbem Weg zwischen Valencia und Alicante. Die Burg steht auf einem Hügel über der Altstadt und dem Hafen, dahinter erhebt sich der Berg Montgó.",
+  "Nördlich des Hafens hat Les Marines kilometerlange Sandstrände, im Süden hat Les Rotes Felsbuchten mit klarem Wasser. Der Hafen hat einen Jachthafen und Fähren nach Ibiza und Mallorca, und Dénia ist bekannt für seine Küche, von den berühmten roten Garnelen bis zu den Tapas-Bars der Altstadt.",
+  "Die Stadt lebt das ganze Jahr, mit Geschäften, Märkten, Schulen und einem Krankenhaus. Die Flughäfen Valencia und Alicante sind beide mit dem Auto etwa eine Stunde und eine Viertelstunde entfernt, Jávea etwa 15 Minuten."
+ ],
+ "guide_photo_alt": "Sandstrand mit Palmen in Les Deveses, Dénia",
+ "areas_title": "Die wichtigsten Viertel von Dénia",
+ "areas": [
+  {
+   "name": "Altstadt und Hafen",
+   "text": "Unterhalb der Burg, mit Jachthafen, Restaurants und Geschäften. Wohnungen zum Leben das ganze Jahr."
+  },
+  {
+   "name": "Les Marines",
+   "text": "Die langen Sandstrände nördlich des Hafens. Wohnungen und Häuser nahe am Meer, viele in erster Meereslinie."
+  },
+  {
+   "name": "Les Rotes",
+   "text": "Die Felsküste südlich des Hafens, mit Buchten und klarem Wasser. Villen und Wohnungen am Meer."
+  },
+  {
+   "name": "Montgó",
+   "text": "Die Hänge des Berges hinter der Stadt, grün und ruhig. Villen mit Meerblick."
+  },
+  {
+   "name": "Els Poblets",
+   "text": "Der kleine Nachbarort im Norden, nahe den Sandstränden. Reihenhäuser und Wohnungen, oft für weniger Geld."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Wohnung in Dénia?",
+   "Unsere Wohnungen in Dénia beginnen heute bei {from}, die meisten mit 2 oder 3 Schlafzimmern kosten zwischen 330.000 € und 500.000 €. Wohnungen in erster Meereslinie mit Meerblick kosten bis etwa 625.000 € für ein Penthouse."
+  ],
+  [
+   "Les Marines oder Les Rotes: was ist besser?",
+   "Les Marines hat lange Sandstrände, ideal für Familien. Les Rotes hat Felsbuchten mit sehr klarem Wasser, gut zum Schwimmen und Schnorcheln, und ist ruhiger."
+  ],
+  [
+   "Wie weit ist Dénia vom Flughafen entfernt?",
+   "Der Flughafen Valencia liegt etwa 100 km entfernt, der Flughafen Alicante-Elche etwa 95 km, jeweils rund eine Stunde und eine Viertelstunde mit dem Auto."
+  ]
+ ]
+}

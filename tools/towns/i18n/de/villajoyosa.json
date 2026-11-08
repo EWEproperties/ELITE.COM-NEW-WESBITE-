@@ -1,0 +1,31 @@
+{
+ "title": "Immobilien in Villajoyosa kaufen: Wohnungen am Meer",
+ "description": "{count_all} Wohnungen und Penthäuser zum Verkauf in Villajoyosa ab {from}, viele mit Meerblick und nahe am Strand. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Villajoyosa",
+ "lead": "Neue Wohnungen und Penthäuser nahe am Strand, viele mit Meerblick, in einer echten spanischen Stadt mit eigenem Charakter. Hier finden Sie die Immobilien, die wir heute in Villajoyosa verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Villajoyosa"], ["ab {from}", "für eine neue Wohnung"], ["ca. 35 Min.", "zum Flughafen Alicante-Elche"], ["10 Min.", "bis Benidorm"]],
+ "listings_intro": "Neue Wohnungen mit 1 bis 3 Schlafzimmern, Penthäuser und Maisonetten mit großen Terrassen, die meisten wenige hundert Meter vom Strand. Einige haben eine Touristenlizenz. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "near_intro": "La Cala ist das Strandviertel an der Grenze zu Benidorm und Finestrat, wenige Minuten nördlich von Villajoyosa, mit Wohnungen nahe am Meer.",
+ "guide_title": "Leben in Villajoyosa",
+ "guide": [
+  "Villajoyosa, auf Valencianisch La Vila Joiosa, ist eine Küstenstadt mit rund 37.000 Einwohnern zwischen Alicante und Benidorm. Bekannt ist sie vor allem für die bunt gestrichenen Häuser der Altstadt über der Flussmündung und dem Strand, und für ihre lange Tradition der Schokoladenherstellung.",
+  "Die Stadt hat mehrere Strände entlang ihrer Küste: den Hauptstrand vor den bunten Häusern, die lange Playa del Paraíso und kleinere Buchten dazwischen. Der Fischerhafen ist noch in Betrieb, und die Altstadt hat enge Gassen, kleine Plätze und einheimische Restaurants.",
+  "Villajoyosa lebt das ganze Jahr, weil die meisten Menschen hier wohnen und arbeiten, und die Preise liegen oft unter denen im nur 10 Minuten entfernten Benidorm. Die TRAM verbindet die Stadt mit Benidorm und Alicante, und der Flughafen Alicante-Elche ist mit dem Auto etwa 35 Minuten entfernt."
+ ],
+ "guide_photo_alt": "Bunte Häuser in einer engen Gasse der Altstadt von Villajoyosa",
+ "areas_title": "Die wichtigsten Viertel von Villajoyosa",
+ "areas": [
+  {"name": "Altstadt und Strandpromenade", "text": "Die bunten Häuser, die Promenade und der Hauptstrand. Wohnungen in renovierten und neuen Gebäuden, wenige Gehminuten vom Meer."},
+  {"name": "Zentrum", "text": "Geschäfte, Märkte und Versorgung zu Fuß, wenige Minuten vom Strand. Moderne Wohngebäude zum Leben das ganze Jahr."},
+  {"name": "Am Hafen", "text": "Der Fischerhafen und der Jachthafen, mit Restaurants und einem ruhigeren Strand in der Nähe. Neue Wohnungen mit Meerblick."},
+  {"name": "Playa del Paraíso", "text": "Ein langer Strand wenige Minuten vom Zentrum, mit Wohnanlagen und Pools. Wohnungen und Penthäuser nahe am Sand."},
+  {"name": "Küstenhügel", "text": "Die Hänge hinter der Küste zwischen Villajoyosa und La Cala. Neuere Anlagen mit großen Terrassen und Meerblick."},
+  {"name": "La Cala", "text": "Das Strandviertel an der Grenze zu Benidorm und Finestrat, mit Wohnungen, Geschäften und Restaurants nahe am Meer."}
+ ],
+ "faq": [
+  ["Was kostet eine Wohnung in Villajoyosa?", "Unsere Wohnungen in Villajoyosa beginnen heute bei {from}. Die meisten Wohnungen mit 2 oder 3 Schlafzimmern, die wir verkaufen, kosten zwischen 350.000 € und 580.000 €, je nach Entfernung zum Strand und Aussicht. Penthäuser mit Meerblick gibt es ab etwa 535.000 €, ein Penthouse in erster Meereslinie kostet 1.540.000 €."],
+  ["Villajoyosa oder Benidorm: was ist besser?", "Benidorm ist ein Ferienort mit hohen Türmen und Nachtleben. Villajoyosa ist eine echte spanische Stadt mit ruhigerem Tempo und eigener Altstadt, und die Preise sind oft niedriger. Benidorm ist mit Auto oder TRAM nur 10 Minuten entfernt."],
+  ["Kann ich eine Wohnung in Villajoyosa vermieten?", "Ja, und einige unserer Wohnungen haben schon eine Touristenlizenz. Für Ferienvermietung braucht man eine Touristenlizenz im Register der Region Valencia, und manche Gebäude schränken sie ein. Prüfen Sie das also vor dem Kauf. Mehr dazu in unserem Artikel über die <a href=\"new-regulations-on-short-term-rentals-in-spain.html\">Regeln für Kurzzeitvermietung</a>."],
+  ["Wie weit ist Villajoyosa vom Flughafen entfernt?", "Zum Flughafen Alicante-Elche Miguel Hernández sind es mit dem Auto etwa 35 Minuten. Sie können auch mit der TRAM nach Alicante fahren."]
+ ]
+}

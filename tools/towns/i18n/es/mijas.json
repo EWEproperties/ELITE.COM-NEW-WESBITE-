@@ -1,0 +1,73 @@
+{
+ "title": "Pisos en venta en Mijas con vistas al mar y al golf",
+ "description": "{count} pisos, adosados y villas en venta en Mijas, La Cala y Calanova Golf desde {from}. Fotos, guía de la zona y gastos de compra explicados.",
+ "h1": "Inmuebles en venta en Mijas",
+ "lead": "Pisos con vistas al mar cerca de la playa en La Cala, viviendas en los campos de golf y villas en las colinas. Estos son los inmuebles que vendemos hoy en Mijas, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Mijas"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "unos 25 min",
+   "al aeropuerto de Málaga"
+  ],
+  [
+   "valle del golf",
+   "muchos campos muy juntos"
+  ]
+ ],
+ "listings_intro": "Sobre todo pisos nuevos de 1 a 3 dormitorios, muchos con vistas al mar o al golf y grandes terrazas, además de adosados y villas en las zonas de golf. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Mijas",
+ "guide": [
+  "Mijas es un gran municipio de la Costa del Sol con unos 90.000 habitantes, entre Fuengirola y Marbella. Tiene dos caras muy distintas: Mijas Pueblo, un pueblo blanco en la montaña con vistas a la costa, y Mijas Costa, una larga franja de playas y zonas residenciales junto al mar.",
+  "La Cala de Mijas es el corazón de la costa, con playa de arena, paseo marítimo y un pequeño centro con tiendas y restaurantes. En el interior está una de las mejores zonas de golf de España, con campos como La Cala, Calanova y El Chaparral muy juntos y viviendas nuevas a su alrededor.",
+  "Mijas tiene una gran comunidad internacional, colegios y centros de salud, y la vida sigue todo el año. El aeropuerto de Málaga está a unos 25 minutos en coche, y Fuengirola y Marbella a entre 10 y 20 minutos."
+ ],
+ "guide_photo_alt": "Fuente y casas blancas en Mijas Pueblo",
+ "areas_title": "Las principales zonas de Mijas",
+ "areas": [
+  {
+   "name": "La Cala de Mijas",
+   "text": "El núcleo de playa de Mijas Costa, con paseo, tiendas y restaurantes. Pisos cerca del mar, muchos con vistas al mar."
+  },
+  {
+   "name": "Calanova y La Cala Golf",
+   "text": "El valle del golf a pocos minutos del mar, con varios campos. Pisos, adosados y villas con vistas al golf y al mar."
+  },
+  {
+   "name": "El Chaparral",
+   "text": "Un campo de golf en el límite con Marbella, cerca de la playa. Pareados y villas junto al campo."
+  },
+  {
+   "name": "Calahonda y Riviera del Sol",
+   "text": "Zonas residenciales verdes en la costa entre La Cala y Marbella, con pisos y villas cerca de la playa."
+  },
+  {
+   "name": "Mijas Pueblo",
+   "text": "El pueblo blanco en la montaña, con calles estrechas y vistas a la costa. Pisos y casas de pueblo."
+  },
+  {
+   "name": "Junto a Fuengirola",
+   "text": "Las zonas de Mijas pegadas a Fuengirola, con tiendas y servicios a pie. Pisos modernos para vivir todo el año."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Mijas?",
+   "Nuestros pisos nuevos en Mijas empiezan hoy en {from}. La mayoría de los pisos de 2 o 3 dormitorios que vendemos cuestan entre 380.000 € y 800.000 €, según las vistas y la distancia a la playa. Los adosados cuestan desde unos 650.000 € y las villas hasta 1,86 millones de € en Calanova Golf."
+  ],
+  [
+   "¿Cuál es la mejor zona para comprar en Mijas?",
+   "Depende del uso que le vaya a dar. La Cala de Mijas encaja con quien quiere la playa y un pequeño centro urbano. Calanova, La Cala Golf y El Chaparral son para golfistas, y Mijas Pueblo para la vida de pueblo con vistas."
+  ],
+  [
+   "¿A qué distancia está Mijas del aeropuerto?",
+   "El aeropuerto de Málaga está a unos 25 minutos en coche desde La Cala de Mijas, y el tren de cercanías desde Fuengirola, muy cerca, llega directamente al aeropuerto."
+  ]
+ ]
+}

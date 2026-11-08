@@ -1,0 +1,30 @@
+{
+ "title": "Pisos y villas de lujo en venta en Marbella",
+ "description": "{count} pisos de lujo, áticos y villas en venta en Marbella, Nueva Andalucía y San Pedro desde {from}. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Marbella",
+ "lead": "Pisos con vistas al mar cerca de la playa y de los campos de golf, áticos con piscina privada y grandes villas en la Milla de Oro. Estos son los inmuebles que vendemos hoy en Marbella, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Marbella"], ["desde {from}", "un piso"], ["unos 45 min", "al aeropuerto de Málaga"], ["Milla de Oro", "entre Marbella y Puerto Banús"]],
+ "listings_intro": "Pisos y áticos de 2 o 3 dormitorios, muchos con vistas al mar o al golf, y villas de lujo de 4 a 7 dormitorios en la Milla de Oro y en las colinas. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Marbella",
+ "guide": [
+  "Marbella es la localidad más conocida de la Costa del Sol, con unos 160.000 habitantes, entre Málaga y Gibraltar. Detrás se alza la montaña de La Concha, que protege la costa y le da un clima suave todo el año.",
+  "El casco antiguo tiene calles blancas y la Plaza de los Naranjos, con sus naranjos y cafeterías. Al oeste, la Milla de Oro pasa junto a grandes villas y hoteles hasta Puerto Banús, el puerto deportivo con yates, tiendas y restaurantes. Más allá están Nueva Andalucía, el valle del golf, y la tranquila San Pedro de Alcántara.",
+  "Marbella tiene colegios internacionales, hospitales privados, campos de golf y clubes de playa, y mucha gente vive aquí todo el año. El aeropuerto de Málaga está a unos 45 minutos en coche, y Estepona a unos 25 minutos."
+ ],
+ "guide_photo_alt": "Calle blanca con macetas y tiendas en el casco antiguo de Marbella",
+ "areas_title": "Las principales zonas de Marbella",
+ "areas": [
+  {"name": "Casco antiguo y centro", "text": "Calles blancas, la Plaza de los Naranjos y el paseo marítimo. Pisos y áticos cerca de la playa y de las tiendas."},
+  {"name": "Milla de Oro", "text": "La dirección más famosa de la costa, entre el centro y Puerto Banús. Villas de lujo y pisos en urbanizaciones cerradas cerca del mar."},
+  {"name": "Puerto Banús y Nueva Andalucía", "text": "El puerto deportivo y el valle del golf sobre él, con restaurantes, tiendas y varios campos de golf. Pisos, áticos y villas."},
+  {"name": "San Pedro de Alcántara", "text": "Un núcleo dentro de Marbella, con su propio centro y un bulevar junto a la playa. Viviendas familiares, pisos y villas cerca del mar."},
+  {"name": "Guadalmina", "text": "Una zona verde y tranquila alrededor del campo de golf de Guadalmina, al oeste de San Pedro. Pisos y villas junto al campo y cerca del mar."},
+  {"name": "Marbella Este", "text": "Los Monteros, Río Real, Elviria y Cabopino, con playas, dunas y campos de golf. Pisos y villas en un entorno más tranquilo."}
+ ],
+ "faq": [
+  ["¿Cuánto cuesta un piso en Marbella?", "Nuestros pisos en Marbella empiezan hoy en {from}. La mayoría de los pisos y áticos de 2 o 3 dormitorios que vendemos cuestan entre 645.000 € y 1,5 millones de €, según la zona, las vistas y la distancia a la playa. En la Milla de Oro, los pisos más exclusivos superan los 5 millones de €."],
+  ["¿Cuánto cuesta una villa en Marbella?", "Las villas que vendemos en Marbella cuestan de unos 3,4 a 7,9 millones de €, con 4 a 7 dormitorios, parcelas grandes y vistas al mar, sobre todo en la Milla de Oro y en las colinas."],
+  ["¿Cuál es la mejor zona para comprar en Marbella?", "Depende del uso que le vaya a dar. La Milla de Oro y el casco antiguo son para quien quiere tenerlo todo cerca. Nueva Andalucía y Guadalmina son para golfistas, San Pedro encaja con familias, y Marbella Este es más tranquila, con playas y dunas."],
+  ["¿A qué distancia está Marbella del aeropuerto?", "El aeropuerto de Málaga está a unos 45 minutos en coche por la autovía de la costa. El de Gibraltar, a una hora."]
+ ]
+}

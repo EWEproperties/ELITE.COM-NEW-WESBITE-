@@ -1,0 +1,69 @@
+{
+ "title": "Pisos en venta en Dénia cerca de la playa",
+ "description": "{count} pisos, adosados y villas en venta en Dénia desde {from}, muchos cerca de la playa. Fotos, guía de la zona y gastos de compra explicados.",
+ "h1": "Inmuebles en venta en Dénia",
+ "lead": "Pisos nuevos a un paseo de la playa, viviendas en primera línea con vistas al mar y adosados cerca del mar, bajo el castillo y el Montgó. Estos son los inmuebles que vendemos hoy en Dénia, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Dénia"
+  ],
+  [
+   "desde {from}",
+   "un piso"
+  ],
+  [
+   "unos 75 min",
+   "al aeropuerto de Valencia o Alicante"
+  ],
+  [
+   "ferris",
+   "a Ibiza y Mallorca"
+  ]
+ ],
+ "listings_intro": "Pisos de 1 a 3 dormitorios cerca de la playa, algunos en primera línea con vistas al mar, además de adosados y una villa. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Dénia",
+ "guide": [
+  "Dénia es una ciudad de unos 45.000 habitantes en el extremo norte de la Costa Blanca, a medio camino entre Valencia y Alicante. Su castillo se alza en una colina sobre el casco antiguo y el puerto, y detrás se levanta el Montgó.",
+  "Al norte del puerto, Les Marines tiene kilómetros de playas de arena, y al sur, Les Rotes tiene calas rocosas de agua clara. El puerto tiene puerto deportivo y ferris a Ibiza y Mallorca, y Dénia es famosa por su cocina, desde la gamba roja hasta los bares de tapas del casco antiguo.",
+  "La ciudad tiene vida todo el año, con tiendas, mercados, colegios y hospital. Los aeropuertos de Valencia y Alicante están a algo más de una hora en coche, y Jávea a unos 15 minutos."
+ ],
+ "guide_photo_alt": "Playa de arena con palmeras en Les Deveses, Dénia",
+ "areas_title": "Las principales zonas de Dénia",
+ "areas": [
+  {
+   "name": "Casco antiguo y puerto",
+   "text": "Bajo el castillo, con el puerto deportivo, restaurantes y tiendas. Pisos para vivir todo el año."
+  },
+  {
+   "name": "Les Marines",
+   "text": "Las largas playas de arena al norte del puerto. Pisos y casas cerca del mar, muchos en primera línea."
+  },
+  {
+   "name": "Les Rotes",
+   "text": "La costa rocosa al sur del puerto, con calas y agua clara. Villas y pisos junto al mar."
+  },
+  {
+   "name": "Montgó",
+   "text": "Las laderas de la montaña detrás de la ciudad, verdes y tranquilas. Villas con vistas al mar."
+  },
+  {
+   "name": "Els Poblets",
+   "text": "El pequeño pueblo vecino al norte, cerca de las playas de arena. Adosados y pisos, a menudo por menos dinero."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Dénia?",
+   "Nuestros pisos en Dénia empiezan hoy en {from}, y la mayoría de 2 o 3 dormitorios cuestan entre 330.000 € y 500.000 €. Los pisos en primera línea con vistas al mar cuestan hasta unos 625.000 € por un ático."
+  ],
+  [
+   "Les Marines o Les Rotes: ¿cuál es mejor?",
+   "Les Marines tiene largas playas de arena, ideales para familias. Les Rotes tiene calas rocosas de agua muy clara, perfectas para nadar y bucear, y es más tranquila."
+  ],
+  [
+   "¿A qué distancia está Dénia del aeropuerto?",
+   "El aeropuerto de Valencia está a unos 100 km y el de Alicante-Elche a unos 95 km, en ambos casos algo más de una hora en coche."
+  ]
+ ]
+}

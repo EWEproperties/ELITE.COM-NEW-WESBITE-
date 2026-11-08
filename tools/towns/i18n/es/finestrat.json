@@ -1,0 +1,30 @@
+{
+ "title": "Villas y pisos en venta en Finestrat",
+ "description": "{count} pisos nuevos, adosados y villas en venta en Finestrat y Sierra Cortina desde {from}, junto a Benidorm. Fotos, guía y gastos de compra.",
+ "h1": "Inmuebles en venta en Finestrat",
+ "lead": "Pisos nuevos y villas con vistas a la bahía de Benidorm, en las colinas justo detrás de la costa. Estos son los inmuebles que vendemos hoy en Finestrat, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Finestrat"], ["desde {from}", "un piso nuevo"], ["unos 10 min", "a las playas de Benidorm"], ["unos 45 min", "al aeropuerto de Alicante-Elche"]],
+ "listings_intro": "Pisos nuevos de 1 a 3 dormitorios con piscina comunitaria, adosados, y villas con piscina privada y vistas al mar. La mayoría están en residenciales cerrados modernos. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Finestrat",
+ "guide": [
+  "Finestrat es un municipio en las colinas justo detrás de Benidorm, que va desde el Puig Campana hasta un pequeño tramo de costa en La Cala. El pueblo antiguo se asienta sobre un cerro rocoso, con casas blancas, una iglesia y un mirador sobre toda la bahía.",
+  "La mayoría de las viviendas nuevas se construyen entre el pueblo antiguo y Benidorm, en zonas residenciales como Sierra Cortina y Balcón de Finestrat. Desde aquí se ven el mar y las torres de Benidorm, y las playas de Benidorm y La Cala están a unos 10 minutos en coche.",
+  "El día a día es fácil: grandes centros comerciales, supermercados, parques temáticos y campos de golf están muy cerca, y la autopista AP-7 pasa al lado. El aeropuerto de Alicante-Elche está a unos 45 minutos en coche. Para muchos compradores, Finestrat ofrece más espacio y más tranquilidad que Benidorm, con las mismas vistas."
+ ],
+ "guide_photo_alt": "Playa de La Cala en Finestrat con edificios detrás de la arena",
+ "areas_title": "Las principales zonas de Finestrat",
+ "areas": [
+  {"name": "Sierra Cortina", "text": "Un residencial cerrado en las colinas sobre Benidorm, con jardines, piscinas y seguridad. Pisos nuevos y villas modernas con vistas al mar."},
+  {"name": "Balcón de Finestrat", "text": "Una ladera con amplias vistas a la bahía y al skyline de Benidorm. Villas y pisos, muchos en promociones nuevas."},
+  {"name": "Pueblo antiguo", "text": "Casas blancas sobre un cerro rocoso bajo el Puig Campana, con iglesia, plazuelas y mirador. Casas de pueblo, pocas en venta."},
+  {"name": "La Cala de Finestrat", "text": "La pequeña zona de playa en la costa, junto a la playa de Poniente de Benidorm. Pisos cerca del mar, con tiendas y restaurantes."},
+  {"name": "Junto a Benidorm", "text": "Las zonas más nuevas y cercanas a Benidorm, junto a los centros comerciales y los parques temáticos. Residenciales modernos con piscina."},
+  {"name": "Faldas del Puig Campana", "text": "Las laderas verdes bajo la montaña, hacia el interior desde el pueblo antiguo. Villas con parcelas grandes y vistas a la montaña y al mar."}
+ ],
+ "faq": [
+  ["¿Cuánto cuesta una vivienda en Finestrat?", "Nuestros pisos nuevos en Finestrat empiezan hoy en {from}, y la mayoría de 2 o 3 dormitorios cuestan entre 310.000 € y 550.000 €. Los adosados cuestan desde unos 425.000 €, y las villas con piscina privada desde unos 555.000 €, hasta 2,45 millones de € por una gran villa en Sierra Cortina."],
+  ["¿Está Finestrat cerca de la playa?", "Finestrat tiene su propio tramo de costa en La Cala, y las playas de Benidorm están a unos 10 minutos en coche desde la mayoría de las zonas. Muchas viviendas tienen vistas al mar desde las colinas."],
+  ["Finestrat o Benidorm: ¿qué es mejor?", "Benidorm encaja con quien quiere vivir junto a la playa, en una torre y con todo a pie. Finestrat, con quien quiere más espacio, jardín o piscina privada y un entorno más tranquilo, con las mismas vistas y Benidorm muy cerca."],
+  ["¿A qué distancia está Finestrat del aeropuerto?", "El aeropuerto Alicante-Elche Miguel Hernández está a unos 45 minutos en coche por la autopista AP-7."]
+ ]
+}

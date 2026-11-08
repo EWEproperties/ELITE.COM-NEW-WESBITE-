@@ -1,0 +1,30 @@
+{
+ "title": "Immobilien in Marbella kaufen: Luxuswohnungen & Villen",
+ "description": "{count} Luxuswohnungen, Penthäuser und Villen zum Verkauf in Marbella, Nueva Andalucía und San Pedro ab {from}. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Marbella",
+ "lead": "Wohnungen mit Meerblick nahe am Strand und an den Golfplätzen, Penthäuser mit eigenem Pool und große Villen an der Goldenen Meile. Hier finden Sie die Immobilien, die wir heute in Marbella verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [["{count}", "Immobilien zum Verkauf in Marbella"], ["ab {from}", "für eine Wohnung"], ["ca. 45 Min.", "zum Flughafen Málaga"], ["Goldene Meile", "zwischen Marbella und Puerto Banús"]],
+ "listings_intro": "Wohnungen und Penthäuser mit 2 oder 3 Schlafzimmern, viele mit Meer- oder Golfblick, und Luxusvillen mit 4 bis 7 Schlafzimmern an der Goldenen Meile und in den Hügeln. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "guide_title": "Leben in Marbella",
+ "guide": [
+  "Marbella ist der bekannteste Ort der Costa del Sol, mit rund 160.000 Einwohnern, zwischen Málaga und Gibraltar. Dahinter erhebt sich der Berg La Concha, der die Küste schützt und ihr das ganze Jahr ein mildes Klima gibt.",
+  "Die Altstadt hat weiße Gassen und die Plaza de los Naranjos mit Orangenbäumen und Cafés. Im Westen führt die Goldene Meile an großen Villen und Hotels vorbei bis Puerto Banús, dem Jachthafen mit Booten, Geschäften und Restaurants. Weiter folgen Nueva Andalucía, das Golftal, und der ruhigere Ort San Pedro de Alcántara.",
+  "Marbella hat internationale Schulen, Privatkliniken, Golfplätze und Beachclubs, und viele Menschen leben hier das ganze Jahr. Der Flughafen Málaga ist mit dem Auto etwa 45 Minuten entfernt, Estepona etwa 25 Minuten."
+ ],
+ "guide_photo_alt": "Weiße Gasse mit Blumentöpfen und Geschäften in der Altstadt von Marbella",
+ "areas_title": "Die wichtigsten Viertel von Marbella",
+ "areas": [
+  {"name": "Altstadt und Zentrum", "text": "Weiße Gassen, die Plaza de los Naranjos und die Strandpromenade. Wohnungen und Penthäuser nahe am Strand und an den Geschäften."},
+  {"name": "Goldene Meile", "text": "Die berühmteste Adresse der Küste, zwischen dem Zentrum und Puerto Banús. Luxusvillen und Wohnungen in bewachten Anlagen nahe am Meer."},
+  {"name": "Puerto Banús und Nueva Andalucía", "text": "Der Jachthafen und das Golftal darüber, mit Restaurants, Geschäften und mehreren Golfplätzen. Wohnungen, Penthäuser und Villen."},
+  {"name": "San Pedro de Alcántara", "text": "Ein Ort innerhalb von Marbella, mit eigenem Zentrum und Strandboulevard. Familienhäuser, Wohnungen und Villen nahe am Strand."},
+  {"name": "Guadalmina", "text": "Ein grünes, ruhiges Viertel rund um den Golfplatz Guadalmina, westlich von San Pedro. Wohnungen und Villen direkt am Platz und nahe am Meer."},
+  {"name": "Marbella Ost", "text": "Los Monteros, Río Real, Elviria und Cabopino, mit Stränden, Dünen und Golfplätzen. Wohnungen und Villen in ruhigerer Umgebung."}
+ ],
+ "faq": [
+  ["Was kostet eine Wohnung in Marbella?", "Unsere Wohnungen in Marbella beginnen heute bei {from}. Die meisten Wohnungen und Penthäuser mit 2 oder 3 Schlafzimmern, die wir verkaufen, kosten zwischen 645.000 € und 1,5 Mio. €, je nach Viertel, Aussicht und Entfernung zum Strand. An der Goldenen Meile kosten die exklusivsten Wohnungen über 5 Mio. €."],
+  ["Was kostet eine Villa in Marbella?", "Die Villen, die wir in Marbella verkaufen, kosten etwa 3,4 Mio. € bis 7,9 Mio. €, mit 4 bis 7 Schlafzimmern, großen Grundstücken und Meerblick, vor allem an der Goldenen Meile und in den Hügeln."],
+  ["In welchem Viertel von Marbella kauft man am besten?", "Das hängt davon ab, wie Sie die Immobilie nutzen wollen. Die Goldene Meile und die Altstadt sind für Käufer, die alles in der Nähe haben wollen. Nueva Andalucía und Guadalmina sind für Golfer, San Pedro passt zu Familien, und Marbella Ost ist ruhiger, mit Stränden und Dünen."],
+  ["Wie weit ist Marbella vom Flughafen entfernt?", "Zum Flughafen Málaga sind es über die Küstenautobahn etwa 45 Minuten mit dem Auto. Der Flughafen Gibraltar ist etwa eine Stunde entfernt."]
+ ]
+}

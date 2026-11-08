@@ -1,0 +1,74 @@
+{
+ "title": "Immobilien in Ciudad Quesada & La Finca Golf kaufen",
+ "description": "{count_all} Villen, Bungalows und Wohnungen zum Verkauf in Ciudad Quesada und La Finca Golf, Algorfa, ab {from}. Fotos, Ortsinfos und Kaufkosten.",
+ "h1": "Immobilien zum Verkauf in Ciudad Quesada",
+ "lead": "Villen mit eigenem Pool nahe dem La Marquesa Golf, neue Wohnungen und Bungalows und Häuser im La Finca Golf im nahen Algorfa. Hier finden Sie die Immobilien, die wir heute in und um Ciudad Quesada verkaufen, mit einem kurzen Überblick über die Viertel und die echten Kaufkosten.",
+ "facts": [
+  [
+   "{count}",
+   "Immobilien zum Verkauf in Ciudad Quesada"
+  ],
+  [
+   "ab {from}",
+   "für einen Bungalow"
+  ],
+  [
+   "ca. 35 Min.",
+   "zum Flughafen Alicante-Elche"
+  ],
+  [
+   "ca. 15 Min.",
+   "zu den Stränden von Guardamar"
+  ]
+ ],
+ "listings_intro": "Vor allem Villen mit 3 oder 4 Schlafzimmern und eigenem Pool, dazu neue Wohnungen und Bungalows, viele nahe dem La Marquesa Golf. Die Preise sind die heutigen Angebotspreise; fragen Sie uns nach der aktuellen Verfügbarkeit.",
+ "near_intro": "Algorfa ist etwa 10 Minuten von Ciudad Quesada entfernt. Die meisten unserer Immobilien dort liegen im La Finca Golf Resort: Villen, Doppelhaushälften und Bungalows, viele mit eigenem Pool und Golfblick.",
+ "guide_title": "Leben in Ciudad Quesada",
+ "guide": [
+  "Ciudad Quesada ist ein großes Wohngebiet in der Gemeinde Rojales, im Süden der Costa Blanca, etwa 10 km landeinwärts vom Meer. Es war einer der ersten Orte an der Küste, der für internationale Käufer gebaut wurde, und heute lebt hier eine große Gemeinschaft das ganze Jahr.",
+  "Das Gebiet hat eigene Geschäfte, Restaurants und den Golfplatz La Marquesa, und die Altstadt von Rojales mit ihrer Brücke und den Höhlen ist wenige Minuten entfernt. Die Sandstrände von Guardamar und La Mata sind mit dem Auto etwa 15 Minuten entfernt.",
+  "Die Preise liegen unter denen an der Küste, so bekommen Käufer eine Villa mit Pool und Garten zum Preis einer Wohnung am Meer. Der Flughafen Alicante-Elche ist mit dem Auto etwa 35 Minuten entfernt, Torrevieja etwa 15 Minuten."
+ ],
+ "guide_photo_alt": "Der Eingangsbogen von Ciudad Quesada mit Palmen",
+ "areas_title": "Die wichtigsten Viertel rund um Ciudad Quesada",
+ "areas": [
+  {
+   "name": "Ciudad Quesada",
+   "text": "Das Hauptwohngebiet, mit Geschäften, Restaurants und Versorgung. Villen, Bungalows und Wohnungen in ruhigen Straßen."
+  },
+  {
+   "name": "La Marquesa Golf",
+   "text": "Der Golfplatz mitten in Ciudad Quesada. Villen mit Golfblick und eigenem Pool."
+  },
+  {
+   "name": "Doña Pepa",
+   "text": "Der neuere Teil von Ciudad Quesada, mit modernen Villen und Wohnungen und einem Einkaufsbereich in der Nähe."
+  },
+  {
+   "name": "Ort Rojales",
+   "text": "Die Altstadt am Fluss Segura, mit historischer Brücke, Höhlen und spanischem Alltag. Bungalows und Villen in der Nähe."
+  },
+  {
+   "name": "La Finca Golf, Algorfa",
+   "text": "Ein Golfresort etwa 10 Minuten entfernt, mit Hotel und Golfplatz. Villen, Doppelhaushälften und Bungalows."
+  },
+  {
+   "name": "Dorf Algorfa",
+   "text": "Ein kleines spanisches Dorf nahe La Finca, mit Läden und Bars und Villen am Dorfrand."
+  }
+ ],
+ "faq": [
+  [
+   "Was kostet eine Villa in Ciudad Quesada?",
+   "Unsere Villen in Ciudad Quesada kosten heute etwa 394.000 € bis 1,2 Mio. €, die meisten mit 3 oder 4 Schlafzimmern und eigenem Pool. Wohnungen und Bungalows gibt es ab {from}. Im La Finca Golf in Algorfa kosten Villen etwa 450.000 € bis 1,8 Mio. €."
+  ],
+  [
+   "Kann man in Ciudad Quesada das ganze Jahr leben?",
+   "Ja. In Ciudad Quesada lebt eine große internationale Gemeinschaft das ganze Jahr, mit Geschäften, Restaurants, Gesundheitszentren und Golf in der Nähe und der Küste etwa 15 Minuten entfernt."
+  ],
+  [
+   "Wie weit ist Ciudad Quesada vom Flughafen entfernt?",
+   "Der Flughafen Alicante-Elche ist mit dem Auto etwa 35 Minuten entfernt, der Flughafen Región de Murcia etwa 45 Minuten."
+  ]
+ ]
+}

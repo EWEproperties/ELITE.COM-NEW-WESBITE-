@@ -1,0 +1,65 @@
+{
+ "title": "Pisos y villas en venta en Vera y Vera Playa",
+ "description": "{count} pisos, bungalows y villas en venta en Vera y Vera Playa, Almería, desde {from}, muchos cerca de la playa. Fotos, guía y gastos de compra.",
+ "h1": "Inmuebles en venta en Vera",
+ "lead": "Pisos nuevos en primera línea en Vera Playa, y bungalows y villas con piscina privada cerca del mar. Estos son los inmuebles que vendemos hoy en Vera, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [
+  [
+   "{count}",
+   "inmuebles en venta en Vera"
+  ],
+  [
+   "desde {from}",
+   "un piso nuevo"
+  ],
+  [
+   "aprox. 1 hora",
+   "al aeropuerto de Almería"
+  ],
+  [
+   "Vera Playa",
+   "largas playas de arena"
+  ]
+ ],
+ "listings_intro": "Pisos nuevos de 1 a 3 dormitorios, muchos en primera línea o cerca de la playa y algunos con licencia turística, además de bungalows y villas con piscina privada. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "guide_title": "Vivir en Vera",
+ "guide": [
+  "Vera es una localidad de la provincia de Almería, en Andalucía, a pocos kilómetros del mar. Su costa, Vera Playa, tiene largas playas de arena, paseo marítimo y residenciales modernos, y es muy buscada por compradores de toda Europa.",
+  "La zona es seca y soleada la mayor parte del año, con un invierno suave. El casco antiguo de Vera tiene iglesia, plazas y comercios, y los cercanos Mojácar y Garrucha aportan casas blancas, un puerto pesquero y buenos restaurantes.",
+  "Los precios son más bajos que en las costas más conocidas, así que muchos compradores encuentran una vivienda nueva cerca de la playa con un presupuesto modesto. El aeropuerto de Almería está a una hora en coche, y el de la Región de Murcia a hora y media."
+ ],
+ "guide_photo_alt": "Laguna y playa de arena en Vera Playa",
+ "areas_title": "Las principales zonas de Vera",
+ "areas": [
+  {
+   "name": "Vera Playa",
+   "text": "La zona de playa de Vera, con playas de arena y paseo marítimo. Pisos nuevos y villas cerca del mar."
+  },
+  {
+   "name": "Vera pueblo",
+   "text": "El casco antiguo, a pocos kilómetros del mar, con tiendas y servicios. Pisos nuevos y bungalows a unos 2 km de la playa."
+  },
+  {
+   "name": "Hacia Garrucha",
+   "text": "La costa al norte de Vera Playa, cerca del puerto pesquero de Garrucha y sus restaurantes."
+  },
+  {
+   "name": "Hacia Mojácar",
+   "text": "La costa al sur de Vera, cerca del pueblo blanco de Mojácar en su colina."
+  }
+ ],
+ "faq": [
+  [
+   "¿Cuánto cuesta un piso en Vera?",
+   "Nuestros pisos en Vera empiezan hoy en {from}, y la mayoría cuestan entre 180.000 € y 300.000 €. Los bungalows cuestan desde unos 270.000 €, y las villas con piscina privada cerca de la playa de unos 430.000 € a 475.000 €."
+  ],
+  [
+   "¿Puedo alquilar un piso en Vera Playa?",
+   "Sí. Algunos de nuestros pisos en Vera Playa ya tienen licencia turística. El alquiler vacacional en Andalucía requiere la inscripción en el registro de turismo de la Junta, así que compruebe la licencia antes de comprar."
+  ],
+  [
+   "¿A qué distancia está Vera del aeropuerto?",
+   "El aeropuerto de Almería está a una hora en coche, y el de la Región de Murcia a hora y media."
+  ]
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "title": "Pisos y casas en venta en Torrevieja",
+ "description": "{count_all} pisos, bungalows y villas en venta en Torrevieja y La Mata desde {from}, muchos cerca de la playa. Fotos, guía de la zona y gastos de compra.",
+ "h1": "Inmuebles en venta en Torrevieja",
+ "lead": "Pisos a pocos pasos de la playa, bungalows con terraza y villas con piscina privada. Estos son los inmuebles que vendemos hoy en Torrevieja, con una breve guía de las zonas y lo que cuesta de verdad comprar.",
+ "facts": [["{count}", "inmuebles en venta en Torrevieja"], ["desde {from}", "un estudio cerca de la playa"], ["unos 45 min", "al aeropuerto de Alicante-Elche"], ["2 lagunas", "un parque natural con flamencos"]],
+ "listings_intro": "Sobre todo pisos nuevos de 2 o 3 dormitorios con piscina comunitaria, muchos a pocos cientos de metros del mar, y también bungalows y villas en La Mata y Los Balcones. Los precios son los de hoy; pregúntenos por la disponibilidad actual.",
+ "near_intro": "Justo a las afueras: pisos nuevos en Ciudad Quesada, una gran zona residencial de interior con su propio campo de golf, y una vivienda junto al mar en Punta Prima, en el límite con Orihuela Costa.",
+ "guide_title": "Vivir en Torrevieja",
+ "guide": [
+  "Torrevieja es una ciudad costera del sur de la Costa Blanca con más de 100.000 habitantes, muchos de ellos de otros países europeos. Creció alrededor de sus salinas, y todavía hoy se extrae sal de la laguna. La vida sigue todo el año, con tiendas, restaurantes, centros de salud y el Hospital Universitario de Torrevieja.",
+  "La ciudad tiene unos 20 km de costa, desde las playas urbanas de arena del Cura y Los Locos hasta la larga y tranquila playa de La Mata. Detrás de la ciudad están las dos lagunas del Parque Natural de La Mata y Torrevieja. La laguna grande se vuelve rosa en verano y los flamencos se alimentan en sus aguas poco profundas.",
+  "Los precios son más bajos que en el norte de la Costa Blanca, así que muchos compradores encuentran un piso nuevo con piscina cerca de la playa por menos de lo que esperaban. El aeropuerto de Alicante-Elche está a unos 45 minutos en coche, y el de Murcia a una distancia parecida."
+ ],
+ "guide_photo_alt": "Playa y paseo marítimo de Torrevieja en la Costa Blanca",
+ "areas_title": "Las principales zonas de Torrevieja",
+ "areas": [
+  {"name": "Centro y playa del Cura", "text": "El paseo marítimo, el puerto deportivo, tiendas y restaurantes a pie. Sobre todo pisos, muchos nuevos y a menos de 200 metros de la playa."},
+  {"name": "Playa de los Locos", "text": "Una playa de arena muy popular justo al norte del centro, con edificios de pisos a lo largo de la costa y buenas conexiones de autobús. Fácil de alquilar en verano."},
+  {"name": "La Mata", "text": "Una zona de playa más tranquila al norte de Torrevieja, con una larga playa de arena y dunas. Pisos, bungalows y villas, algunos en primera línea con vistas al mar."},
+  {"name": "Los Balcones", "text": "Una zona residencial verde junto a la laguna rosa, cerca del hospital y de la autovía. Villas independientes y adosados con jardín y piscina privada."},
+  {"name": "Punta Prima", "text": "El extremo sur de Torrevieja, en el límite con Orihuela Costa. Residenciales modernos con piscina cerca de pequeñas calas y playas."},
+  {"name": "Alrededor de la laguna rosa", "text": "Nuevas promociones al borde de la laguna, a pocos kilómetros del mar. Más espacio por el mismo dinero, a menudo con vistas al agua."}
+ ],
+ "costs_intro": "Al precio se suman impuestos y gastos. Para un piso nuevo de 260.000 €, por ejemplo, son 26.000 € de IVA y 3.640 € de AJD, más notaría, registro y abogado. En la segunda mano los impuestos son otros, así que pídanos siempre la cifra exacta de la vivienda que le guste.",
+ "faq": [
+  ["¿Cuánto cuesta un piso en Torrevieja?", "Nuestros inmuebles en Torrevieja empiezan en {from} por un estudio. La mayoría de los pisos nuevos de 2 o 3 dormitorios que vendemos cuestan entre 200.000 € y 350.000 €, según la distancia a la playa y las vistas. Los bungalows empiezan en unos 264.000 €, y las villas cuestan de unos 424.000 € a 990.000 €."],
+  ["¿Cuál es la mejor zona para comprar en Torrevieja?", "Depende del uso que le vaya a dar. El centro, la playa del Cura y Los Locos son para quien quiere la playa y todo a pie. La Mata es más tranquila, con una larga playa natural. Los Balcones es la zona de villas con jardín, y Punta Prima la de residenciales modernos cerca del mar."],
+  ["¿Es Torrevieja un buen lugar para alquilar?", "Torrevieja se llena en verano y mucha gente vive allí todo el año, así que funcionan tanto el alquiler vacacional como el de larga duración. El alquiler vacacional necesita una licencia turística en el registro de la Comunitat Valenciana, y algunos edificios lo limitan, así que compruébelo antes de comprar."],
+  ["¿A qué distancia está Torrevieja del aeropuerto?", "El aeropuerto Alicante-Elche Miguel Hernández está a unos 45 minutos en coche. El aeropuerto Región de Murcia, en Corvera, está a una distancia parecida."],
+  ["¿Qué gastos hay además del precio?", "En obra nueva se paga un 10 % de IVA y un 1,4 % de AJD. En segunda mano se paga un 9 % de ITP (11 % por encima de 1 millón de €). Notaría, registro y abogado suman alrededor de un 1,5–2,5 %."],
+  ["¿Pueden comprar vivienda los extranjeros en Torrevieja?", "Sí. Cualquier persona puede comprar una vivienda en España. Necesita un NIE y normalmente una cuenta bancaria española, y le ayudamos con las dos cosas. Consulte nuestra guía del <a href=\"nie-number-in-spain-what-is-it-and-how-to-get-it.html\">NIE</a>."]
+ ]
+}
