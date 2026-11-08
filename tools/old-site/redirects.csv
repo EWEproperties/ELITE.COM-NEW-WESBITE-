@@ -3,7 +3,257 @@ from,to,reason
 /de-de/details-der-immobilie/:slug/:id,/property-details/:id,"property, any title slug"
 /es-es/detalles-del-inmueble/:slug/:id,/property-details/:id,"property, any title slug"
 /pl-pl/szczegoly-oferty/:slug/:id,/property-details/:id,"property, any title slug"
+/property/:slug/:id,/property-details/:id,older property address form
+/Property/:id,/property-details/:id,older property address form
+/Property-details/:id,/property-details/:id,older property address form
+/Propertydetails/:id,/property-details/:id,older property address form
+/propertydetails/:slug/:id,/property-details/:id,older property address form
+/en-gb/propertydetails/:slug/:id,/property-details/:id,older property address form
+/Inmueble/:id,/property-details/:id,older property address form
+/pl-pl/szczegoy-oferty/:slug/:id,/property-details/:id,older property address form
+/de-de/details-der-immobilie/:id,/property-details/:id,older property address form
+/es-es/detalles-del-inmueble/:id,/property-details/:id,older property address form
+/pl-pl/szczegoly-oferty/:id,/property-details/:id,older property address form
+/property-details/11314100,/properties-for-sale-in-benidorm,listing no longer on the site
+/property-details/14096996,/properties-for-sale-in-alicante,listing no longer on the site
+/property-details/14913081,/properties-for-sale-in-santa-pola,listing no longer on the site
+/property-details/15429598,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/15429621,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/15777474,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/16504408,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/16809609,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/17932720,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/18371993,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/18696472,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/18698817,/properties-for-sale-in-spain?town=Moraira,listing no longer on the site
+/property-details/18706593,/properties-for-sale-in-spain?town=La+Finca,listing no longer on the site
+/property-details/18822508,/properties-for-sale-in-costa-blanca,listing no longer on the site
+/property-details/18906613,/properties-for-sale-in-spain?town=Los+Montesinos,listing no longer on the site
+/property-details/18951798,/properties-for-sale-in-spain?town=La+Finca,listing no longer on the site
+/property-details/18997753,/properties-for-sale-in-orihuela-costa,listing no longer on the site
+/property-details/19021610,/properties-for-sale-in-spain?town=Punta+Prima,listing no longer on the site
+/property-details/19044503,/properties-for-sale-in-spain?town=Dolores,listing no longer on the site
+/property-details/19044510,/properties-for-sale-in-spain?town=San+Fulgencio,listing no longer on the site
+/property-details/19046401,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19092131,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19126477,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19149866,/properties-for-sale-in-spain?town=Las+Colinas,listing no longer on the site
+/property-details/19152409,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/19174234,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/19197815,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/19217615,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19218436,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19252661,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19261389,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19276783,/properties-for-sale-in-spain?town=Polop,listing no longer on the site
+/property-details/19287794,/properties-for-sale-in-los-alcazares,listing no longer on the site
+/property-details/19313919,/properties-for-sale-in-benidorm,listing no longer on the site
+/property-details/19337709,/properties-for-sale-in-calpe,listing no longer on the site
+/property-details/19337722,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19338840,/properties-for-sale-in-orihuela-costa,listing no longer on the site
+/property-details/19350760,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/19416077,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19418996,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19419114,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19419388,/properties-for-sale-in-spain?town=El+Raso,listing no longer on the site
+/property-details/19449702,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/19460257,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/19460304,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/19463364,/properties-for-sale-in-spain?town=Polop,listing no longer on the site
+/property-details/19467227,/properties-for-sale-in-san-pedro-del-pinatar,listing no longer on the site
+/property-details/19467877,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/19491595,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19494948,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/19496455,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19498983,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19500597,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/19508895,/properties-for-sale-in-spain?town=Moraira,listing no longer on the site
+/property-details/19512422,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/19590315,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19708137,/properties-for-sale-in-los-alcazares,listing no longer on the site
+/property-details/19720074,/properties-for-sale-in-spain?town=Las+Colinas,listing no longer on the site
+/property-details/19737366,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19737388,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19737434,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19738414,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19762099,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19762109,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19795388,/properties-for-sale-in-denia,listing no longer on the site
+/property-details/19808949,/properties-for-sale-in-spain?town=Mil+Palmeras,listing no longer on the site
+/property-details/19809090,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/19810716,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/19811145,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/19814109,/properties-for-sale-in-spain?town=La+Finca,listing no longer on the site
+/property-details/19818128,/properties-for-sale-in-benidorm,listing no longer on the site
+/property-details/19824394,/properties-for-sale-in-denia,listing no longer on the site
+/property-details/19825809,/properties-for-sale-in-costa-blanca,listing no longer on the site
+/property-details/19829042,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/19833755,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19833771,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19833774,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/19852812,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19852829,/properties-for-sale-in-spain?town=La+Finca,listing no longer on the site
+/property-details/19878536,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19937608,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19937610,/properties-for-sale-in-spain?town=Benij%C3%B3far,listing no longer on the site
+/property-details/19959505,/properties-for-sale-in-denia,listing no longer on the site
+/property-details/19959555,/properties-for-sale-in-denia,listing no longer on the site
+/property-details/19960489,/properties-for-sale-in-alicante,listing no longer on the site
+/property-details/19960509,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19960529,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19962270,/properties-for-sale-in-alicante,listing no longer on the site
+/property-details/19981983,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/19999325,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/19999573,/properties-for-sale-in-spain?town=Benissa,listing no longer on the site
+/property-details/20015287,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/20019902,/properties-for-sale-in-calpe,listing no longer on the site
+/property-details/20033477,/properties-for-sale-in-spain?town=Cabo+Roig,listing no longer on the site
+/property-details/20042479,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20064938,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/20068146,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20073795,/properties-for-sale-in-fuengirola,listing no longer on the site
+/property-details/20073796,/properties-for-sale-in-fuengirola,listing no longer on the site
+/property-details/20074281,/properties-for-sale-in-marbella,listing no longer on the site
+/property-details/20074388,/properties-for-sale-in-marbella,listing no longer on the site
+/property-details/20087189,/properties-for-sale-in-spain?town=Manilva,listing no longer on the site
+/property-details/20087191,/properties-for-sale-in-spain?town=Manilva,listing no longer on the site
+/property-details/20087192,/properties-for-sale-in-mijas,listing no longer on the site
+/property-details/20090527,/properties-for-sale-in-orihuela-costa,listing no longer on the site
+/property-details/20100139,/properties-for-sale-in-spain?town=Santa+Rosal%C3%ADa,listing no longer on the site
+/property-details/20100146,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/20100149,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/20115233,/properties-for-sale-in-marbella,listing no longer on the site
+/property-details/20115254,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20129669,/properties-for-sale-in-spain?town=Moraira,listing no longer on the site
+/property-details/20153311,/properties-for-sale-in-costa-blanca,listing no longer on the site
+/property-details/20163169,/properties-for-sale-in-guardamar-del-segura,listing no longer on the site
+/property-details/20163176,/properties-for-sale-in-guardamar-del-segura,listing no longer on the site
+/property-details/20176458,/properties-for-sale-in-costa-blanca,listing no longer on the site
+/property-details/20237769,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/20250791,/properties-for-sale-in-spain?town=Benalm%C3%A1dena,listing no longer on the site
+/property-details/20255456,/properties-for-sale-in-marbella,listing no longer on the site
+/property-details/20255688,/properties-for-sale-in-marbella,listing no longer on the site
+/property-details/20260498,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/20261968,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/20267482,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/20300501,/properties-for-sale-in-alicante,listing no longer on the site
+/property-details/20300666,/properties-for-sale-in-guardamar-del-segura,listing no longer on the site
+/property-details/20308036,/properties-for-sale-in-javea,listing no longer on the site
+/property-details/20310225,/properties-for-sale-in-spain?town=Benalm%C3%A1dena,listing no longer on the site
+/property-details/20329711,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20416297,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/20458523,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/20486171,/properties-for-sale-in-spain?town=Las+Colinas,listing no longer on the site
+/property-details/20506809,/properties-for-sale-in-santa-pola,listing no longer on the site
+/property-details/20524881,/properties-for-sale-in-casares,listing no longer on the site
+/property-details/20525651,/properties-for-sale-in-alicante,listing no longer on the site
+/property-details/20525776,/properties-for-sale-in-spain?town=San+Fulgencio,listing no longer on the site
+/property-details/20530542,/properties-for-sale-in-spain?town=Punta+Prima,listing no longer on the site
+/property-details/20536282,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20537975,/properties-for-sale-in-spain?town=San+Javier,listing no longer on the site
+/property-details/20539105,/properties-for-sale-in-orihuela-costa,listing no longer on the site
+/property-details/20543688,/properties-for-sale-in-spain?town=Punta+Prima,listing no longer on the site
+/property-details/20543774,/properties-for-sale-in-spain?town=Punta+Prima,listing no longer on the site
+/property-details/20549519,/properties-for-sale-in-spain?town=Cabo+Roig,listing no longer on the site
+/property-details/20575969,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/20583911,/properties-for-sale-in-spain?town=Rojales,listing no longer on the site
+/property-details/20583987,/properties-for-sale-in-spain?town=Moraira,listing no longer on the site
+/property-details/20585794,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20588483,/properties-for-sale-in-spain?town=Santa+Rosal%C3%ADa,listing no longer on the site
+/property-details/20596791,/properties-for-sale-in-orihuela-costa,listing no longer on the site
+/property-details/20611882,/properties-for-sale-in-los-alcazares,listing no longer on the site
+/property-details/20644132,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/20648797,/properties-for-sale-in-santa-pola,listing no longer on the site
+/property-details/20656874,/properties-for-sale-in-spain?town=Benij%C3%B3far,listing no longer on the site
+/property-details/20664658,/properties-for-sale-in-spain?town=Monforte+del+Cid,listing no longer on the site
+/property-details/20669404,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20681533,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/20684975,/properties-for-sale-in-altea,listing no longer on the site
+/property-details/20696803,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20699787,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/20717201,/properties-for-sale-in-san-pedro-del-pinatar,listing no longer on the site
+/property-details/20719693,/properties-for-sale-in-benidorm,listing no longer on the site
+/property-details/20727553,/properties-for-sale-in-san-pedro-del-pinatar,listing no longer on the site
+/property-details/20751133,/properties-for-sale-in-spain?town=Mil+Palmeras,listing no longer on the site
+/property-details/20759140,/properties-for-sale-in-los-alcazares,listing no longer on the site
+/property-details/20793015,/properties-for-sale-in-calpe,listing no longer on the site
+/property-details/20793025,/properties-for-sale-in-calpe,listing no longer on the site
+/property-details/20797910,/properties-for-sale-in-spain?town=Santa+Rosal%C3%ADa,listing no longer on the site
+/property-details/20835021,/properties-for-sale-in-cumbre-del-sol,listing no longer on the site
+/property-details/20850689,/properties-for-sale-in-spain?town=Rojales,listing no longer on the site
+/property-details/20878238,/properties-for-sale-in-spain?town=Moraira,listing no longer on the site
+/property-details/20878652,/properties-for-sale-in-calpe,listing no longer on the site
+/property-details/20922832,/properties-for-sale-in-spain?town=Manilva,listing no longer on the site
+/property-details/20936173,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20936279,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20936596,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20941278,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20941295,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20941518,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20941539,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20941550,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20959648,/properties-for-sale-in-spain?town=Nueva+Andaluc%C3%ADa,listing no longer on the site
+/property-details/20988609,/properties-for-sale-in-mijas,listing no longer on the site
+/property-details/20988709,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/20993912,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/20995515,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/21020079,/properties-for-sale-in-santa-pola,listing no longer on the site
+/property-details/21020281,/properties-for-sale-in-spain?town=Campoamor,listing no longer on the site
+/property-details/21020468,/properties-for-sale-in-guardamar-del-segura,listing no longer on the site
+/property-details/21020695,/properties-for-sale-in-spain?town=Punta+Prima,listing no longer on the site
+/property-details/21033121,/properties-for-sale-in-spain?town=Cabo+Roig,listing no longer on the site
+/property-details/21047590,/properties-for-sale-in-spain?town=Las+Colinas,listing no longer on the site
+/property-details/21083310,/properties-for-sale-in-calpe,listing no longer on the site
+/property-details/21163868,/properties-for-sale-in-spain?town=Gran+Alacant,listing no longer on the site
+/property-details/21319918,/properties-for-sale-in-los-alcazares,listing no longer on the site
+/property-details/21343410,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/21344093,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/21352441,/properties-for-sale-in-los-alcazares,listing no longer on the site
+/property-details/21366964,/properties-for-sale-in-villajoyosa,listing no longer on the site
+/property-details/21368486,/properties-for-sale-in-spain?town=Moraira,listing no longer on the site
+/property-details/21374720,/properties-for-sale-in-spain?town=Monforte+del+Cid,listing no longer on the site
+/property-details/21549379,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/21592700,/properties-for-sale-in-calpe,listing no longer on the site
+/property-details/21602395,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/21657741,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/21700454,/properties-for-sale-in-vera,listing no longer on the site
+/property-details/21700477,/properties-for-sale-in-vera,listing no longer on the site
+/property-details/21721865,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/21721886,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/21722682,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/22106023,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/22881564,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/23112831,/properties-for-sale-in-denia,listing no longer on the site
+/property-details/23306784,/properties-for-sale-in-alicante,listing no longer on the site
+/property-details/23372962,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/23462788,/properties-for-sale-in-finestrat,listing no longer on the site
+/property-details/23527775,/properties-for-sale-in-spain?town=Los+Montesinos,listing no longer on the site
+/property-details/23844911,/properties-for-sale-in-spain?town=Benissa,listing no longer on the site
+/property-details/23871503,/properties-for-sale-in-spain?town=San+Javier,listing no longer on the site
+/property-details/23874088,/properties-for-sale-in-spain?town=San+Fulgencio,listing no longer on the site
+/property-details/23886770,/properties-for-sale-in-spain?town=Pilar+de+la+Horadada,listing no longer on the site
+/property-details/24014737,/properties-for-sale-in-los-alcazares,listing no longer on the site
+/property-details/24667298,/properties-for-sale-in-spain?town=Cabo+Roig,listing no longer on the site
+/property-details/24766709,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/24922422,/properties-for-sale-in-alicante,listing no longer on the site
 /property-details/25221409,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/25222733,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/25346720,/properties-for-sale-in-spain?town=San+Miguel+de+Salinas,listing no longer on the site
+/property-details/25753343,/properties-for-sale-in-spain,listing no longer on the site
+/property-details/26147213,/properties-for-sale-in-spain?town=Gran+Alacant,listing no longer on the site
+/property-details/26244129,/properties-for-sale-in-estepona,listing no longer on the site
+/property-details/8489052,/properties-for-sale-in-torrevieja,listing no longer on the site
+/property-details/8581422,/properties-for-sale-in-ciudad-quesada,listing no longer on the site
+/property-details/8605915,/properties-for-sale-in-cumbre-del-sol,listing no longer on the site
+/property-details/8903752,/properties-for-sale-in-alicante,listing no longer on the site
+/de-de/golfimmobilien-zum-verkauf-in-costa-blanca,/golf-properties-for-sale-in-costa-blanca,old page in Search Console
+/es-es/propiedades-de-golf-en-venta-en-costa-blanca,/golf-properties-for-sale-in-costa-blanca,old page in Search Console
+/pl-pl/apartamenty-na-sprzedarz-w-la-mata-torrevieja,/properties-for-sale-in-torrevieja,old page in Search Console
+/pl-pl/nieruchomoci-na-sprzeda-w-costa-blanca,/properties-for-sale-in-costa-blanca,old page in Search Console
+/pl-pl/numer-nie-w-hiszpanii-co-to-jest-i-jak-go-wyrobi-w-polsce,/pl-pl/numer-nie-w-hiszpanii-co-to-jest-i-jak-go-wyrobic-w-polsce,old page in Search Console
+/pl-pl/polityka-plik%C3%B3w-cookie,/cookie-policy,old page in Search Console
+/pl-pl/polityka-plików-cookie,/cookie-policy,old page in Search Console
+/it-it/immobili/javeaxabia,/properties-for-sale-in-javea,old page in Search Console
 /de-de/immobilien/:name,/properties/:name,old town/type list
 /es-es/inmuebles/:name,/properties/:name,old town/type list
 /pl-pl/nieruchomosci/:name,/properties/:name,old town/type list
@@ -310,3 +560,4 @@ from,to,reason
 /de-de/nachrichtendetails/top-hotels-in-alicante/25652,/de-de/die-besten-hotels-in-alicante,old page
 /es-es/detalle-de-noticia/top-hotels-in-alicante/25652,/es-es/los-mejores-hoteles-de-alicante,old page
 /pl-pl/szczegoowe-informacje/top-hotels-in-alicante/25652,/top-hotels-in-alicante,old page
+/property-details/:id,/properties-for-sale-in-spain,unknown old listing id

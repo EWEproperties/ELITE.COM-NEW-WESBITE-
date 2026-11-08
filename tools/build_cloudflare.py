@@ -175,7 +175,10 @@ def build_redirects():
                     continue
                 rules[src] = dst
     # A redirect whose target is itself redirected: point straight at the end.
+    # A target with a placeholder (:id) is filled in per request, so it is never flattened.
     for src in list(rules):
+        if ":" in rules[src].split("?")[0]:
+            continue
         seen, dst = {src}, rules[src]
         while dst.split("?")[0] in rules and dst not in seen:
             seen.add(dst)

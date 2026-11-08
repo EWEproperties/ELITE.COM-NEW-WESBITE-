@@ -22,8 +22,10 @@ How the old addresses are covered
   new site has one (taken from the page's hreflang links). MANUAL below covers old pages with no new twin.
 """
 import csv
+import json
 import os
 import re
+import unicodedata
 import urllib.parse
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -73,6 +75,24 @@ MANUAL_LANG = {
     "/pl-pl": "/pl-pl/blog",
 }
 
+# Older property address forms seen in Search Console; all end in the listing id.
+OLD_FORMS = ["/property/:slug/:id", "/Property/:id", "/Property-details/:id", "/Propertydetails/:id",
+             "/propertydetails/:slug/:id", "/en-gb/propertydetails/:slug/:id", "/Inmueble/:id",
+             "/pl-pl/szczegoy-oferty/:slug/:id", "/de-de/details-der-immobilie/:id",
+             "/es-es/detalles-del-inmueble/:id", "/pl-pl/szczegoly-oferty/:id"]
+# Other old addresses from the Search Console export. Broken fragments (/en-, /pl-pl/sz) stay 404.
+GSC_PAGES = {
+    "/de-de/golfimmobilien-zum-verkauf-in-costa-blanca": "/golf-properties-for-sale-in-costa-blanca",
+    "/es-es/propiedades-de-golf-en-venta-en-costa-blanca": "/golf-properties-for-sale-in-costa-blanca",
+    "/pl-pl/apartamenty-na-sprzedarz-w-la-mata-torrevieja": "/properties-for-sale-in-torrevieja",
+    "/pl-pl/nieruchomoci-na-sprzeda-w-costa-blanca": "/properties-for-sale-in-costa-blanca",
+    "/pl-pl/numer-nie-w-hiszpanii-co-to-jest-i-jak-go-wyrobi-w-polsce":
+        "/pl-pl/numer-nie-w-hiszpanii-co-to-jest-i-jak-go-wyrobic-w-polsce",
+    "/pl-pl/polityka-plik%C3%B3w-cookie": "/cookie-policy",
+    "/pl-pl/polityka-plików-cookie": "/cookie-policy",
+    "/it-it/immobili/javeaxabia": "/properties-for-sale-in-javea",
+}
+
 PROPERTY_PREFIX = {"en-gb": "/property-details", "de-de": "/de-de/details-der-immobilie",
                    "es-es": "/es-es/detalles-del-inmueble", "pl-pl": "/pl-pl/szczegoly-oferty"}
 LIST_PREFIX = {"de-de": "/de-de/immobilien", "es-es": "/es-es/inmuebles", "pl-pl": "/pl-pl/nieruchomosci"}
@@ -116,10 +136,29 @@ def lang_twin(target, lang):
     return m.group(1) if m else target
 
 
-def fallback_for_listing(slug, town_pages):
+def slugify(text):
+    text = text.replace("&#x27;", "")
+    text = "".join(c for c in unicodedata.normalize("NFKD", text) if not unicodedata.combining(c))
+    return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
+
+
+def search_towns():
+    """Town names offered by the property search filter, keyed by slug."""
+    html = open(os.path.join(ROOT, SEARCH.lstrip("/") + ".html"), encoding="utf-8").read()
+    m = re.search(r'id="f-town".*?</select>', html, re.S)
+    names = re.findall(r'<option value="([^"]+)"', m.group(0)) if m else []
+    return {slugify(n): n.replace("&#x27;", "'") for n in names}
+
+
+def fallback_for_listing(slug, town_pages, towns):
+    """A removed listing goes to its town page, else the search filtered on its town, else the search."""
+    slug = "-" + slug.lower() + "-"
     for town in sorted(town_pages, key=len, reverse=True):
-        if slug.endswith("-in-" + town) or slug.endswith("-" + town):
+        if "-" + town + "-" in slug:
             return "/properties-for-sale-in-" + town
+    for key in sorted(towns, key=len, reverse=True):
+        if "-" + key + "-" in slug:
+            return town_search(towns[key])
     return SEARCH
 
 
@@ -136,11 +175,35 @@ def main():
     # 1. Property pages: dynamic rules (any slug), plus listings that left the site.
     for lang in LANGS:
         out.append((PROPERTY_PREFIX[lang] + "/:slug/:id", "/property-details/:id", "property, any title slug"))
-    for path in rows[0]:
-        m = re.match(r"^/property-details/([^/]+)/(\d+)$", path)
-        if m and "/property-details/" + m.group(2) not in rules:
-            out.append(("/property-details/" + m.group(2), fallback_for_listing(m.group(1), town_pages),
-                        "listing no longer on the site"))
+    # Older address forms Google still tries (Search Console "Not found (404)" export of 2026-11-08).
+    for src in OLD_FORMS:
+        out.append((src, "/property-details/:id", "older property address form"))
+    # Listings that left the site: the old sitemap plus the Search Console export give their ids and slugs.
+    towns = search_towns()
+    gsc = open(os.path.join(HERE, "gsc-not-found-2026-11-08.txt"), encoding="utf-8").read().split()
+    removed = {}
+    for path in [p for r in rows for p in r] + gsc:
+        m = re.match(r"^/(?:[^/]+/)*?([^/]*?)/?(\d{6,})$", path)
+        if not m or not re.search(r"propert|immobilie|inmueble|oferty|oferta", path, re.I):
+            continue
+        pid, slug = m.group(2), m.group(1)
+        if "/property-details/" + pid in rules:
+            continue
+        target = fallback_for_listing(slug, town_pages, towns)
+        if pid not in removed or removed[pid] == SEARCH:
+            removed[pid] = target
+    for pid, target in sorted(removed.items()):
+        out.append(("/property-details/" + pid, target, "listing no longer on the site"))
+    # New-site property pages of listings removed from eGO later (sold or withdrawn). slugs.json keeps
+    # every address ever given out, so a missing page means the listing has gone: send it to its town.
+    slugs_path = os.path.join(ROOT, "tools", "ego", "slugs.json")
+    if os.path.exists(slugs_path):
+        for ref, slug in sorted(json.load(open(slugs_path, encoding="utf-8")).items()):
+            if not os.path.isfile(os.path.join(ROOT, "properties", slug + ".html")):
+                out.append(("/properties/" + slug, fallback_for_listing(slug, town_pages, towns),
+                            f"{ref} removed from eGO"))
+    for src, dst in GSC_PAGES.items():
+        out.append((src, dst, "old page in Search Console"))
 
     # 2. Old town/type lists in other languages.
     for lang in LIST_PREFIX:
@@ -167,6 +230,9 @@ def main():
             if page_file(path) or path.rstrip("/") in rules:
                 continue
             out.append((path, MANUAL_LANG.get(path) or lang_twin(target, lang), "old page"))
+
+    # Any other old id: the property search (kept last, after every listing's own line).
+    out.append(("/property-details/:id", SEARCH, "unknown old listing id"))
 
     seen, final = set(), []
     for src, dst, why in out:
