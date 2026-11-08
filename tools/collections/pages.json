@@ -68,7 +68,16 @@
    ["What taxes do I pay when I buy on the Costa del Sol?", "On a new build you pay 10% VAT (IVA) and 1.2% stamp duty (AJD). On a resale home you pay 7% transfer tax (ITP). Add about 1.5 to 2.5% for the notary, land registry and lawyer."],
    ["Which airport is closest?", "Málaga airport. Fuengirola and Mijas are about 20 to 30 minutes away, Marbella about 40 minutes and Estepona about an hour. Gibraltar airport is also close to Manilva and Sotogrande."]
   ],
-  "links": ["golf-properties-for-sale-in-costa-del-sol", "luxury-villas-for-sale-costa-del-sol", "apartments-with-sea-views-for-sale-costa-del-sol"]
+  "links": ["how-to-buy-an-apartment-or-house-in-spain", "costa-blanca-or-costa-del-sol", "the-costa-del-sol-top-10-attractions-worth-visiting", "what-is-worth-seeing-in-marbella"],
+  "areas": [
+   {"title": "Towns on the Costa del Sol", "text": "From Marbella and Estepona in the west to Mijas and Fuengirola near Málaga airport.",
+    "towns": ["marbella", "estepona", "casares", "mijas", "fuengirola"]}
+  ],
+  "types": [
+   {"slug": "luxury-villas-for-sale-costa-del-sol", "label": "Luxury villas"},
+   {"slug": "apartments-with-sea-views-for-sale-costa-del-sol", "label": "Apartments with sea views"},
+   {"slug": "golf-properties-for-sale-in-costa-del-sol", "label": "Golf properties", "photo": "assets/golf/golf-costa-del-sol.jpg", "meta": "Golf homes"}
+  ]
  },
  "properties-for-sale-in-costa-calida": {
   "kind": "hub", "coast": "Costa Cálida", "region": "Region of Murcia",
@@ -90,7 +99,14 @@
    ["What taxes do I pay when I buy in Murcia?", "On a new build you pay 10% VAT (IVA) and 1.5% stamp duty (AJD). On a resale home you pay 7.75% transfer tax (ITP). Add about 1.5 to 2.5% for the notary, land registry and lawyer."],
    ["Which airport is closest?", "The Region of Murcia airport at Corvera, about 30 to 40 minutes from the Mar Menor. Alicante-Elche airport is about an hour away and has more flights."]
   ],
-  "links": ["golf-properties-for-sale-in-costa-calida", "properties-for-sale-in-costa-blanca"]
+  "links": ["how-to-buy-an-apartment-or-house-in-spain", "properties-for-sale-in-costa-blanca", "golf-properties-for-sale-in-costa-calida"],
+  "areas": [
+   {"title": "Towns on the Costa Cálida", "text": "Around the Mar Menor, a calm salt-water lagoon with shallow, warm beaches.",
+    "towns": ["los-alcazares", "san-pedro-del-pinatar", "torre-pacheco"]}
+  ],
+  "types": [
+   {"slug": "golf-properties-for-sale-in-costa-calida", "label": "Golf properties", "photo": "assets/golf/golf-costa-calida.jpg", "meta": "6 golf resorts"}
+  ]
  },
  "luxury-villas-for-sale-in-spain": {
   "kind": "category",
