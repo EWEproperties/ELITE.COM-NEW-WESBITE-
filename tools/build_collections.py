@@ -132,7 +132,7 @@ SCRIPT = """<script>
 (function () {
   var grid = document.getElementById("cards"), cards = Array.prototype.slice.call(grid.children);
   var more = document.getElementById("more"), count = document.getElementById("count");
-  var step = 24, shown = step;
+  var step = +grid.dataset.step || 24, shown = step;
   function val(id) { var el = document.getElementById(id); return el ? el.value : ""; }
   function apply(reset) {
     if (reset) shown = step;
@@ -183,15 +183,15 @@ SCRIPT = """<script>
 </script>"""
 
 
-def town_cards(coast):
+def town_cards(coast, only=None):
     out = []
     for f in sorted(os.listdir(os.path.join(ROOT, "tools", "towns"))):
         if not f.endswith(".json"):
             continue
         c = json.load(open(os.path.join(ROOT, "tools", "towns", f), encoding="utf-8"))
-        if c.get("coast", "Costa Blanca") != coast:
-            continue
         slug = f[:-5]
+        if c.get("coast", "Costa Blanca") != coast or (only is not None and slug not in only):
+            continue
         data = json.load(open(os.path.join(ROOT, "tools", "towns", "data", slug + "-listings.json"), encoding="utf-8"))
         prices = [int(re.sub(r"\D", "", i["price"])) for i in data if re.sub(r"\D", "", i["price"])]
         out.append((c["town"], c["page"], len(data), min(prices) if prices else 0, slug))
@@ -199,7 +199,41 @@ def town_cards(coast):
           <img src="assets/towns/{slug}/hero.jpg" alt="{e(town)}" width="1200" height="800" loading="lazy" decoding="async">
           <span class="c-town-name">{e(town)}</span>
           <span class="c-town-meta">{n} properties · from {euro(low)}</span>
-        </a>""" for town, page, n, low, slug in sorted(out, key=lambda x: -x[2]))
+        </a>""" for town, page, n, low, slug in sorted(out, key=lambda x: only.index(x[4]) if only else -x[2]))
+
+
+GOLF = json.load(open(os.path.join(ROOT, "tools", "golf", "golf.json"), encoding="utf-8"))
+
+
+def golf_cards(coast):
+    """Small photo cards for the golf course pages of one coast (from tools/golf/golf.json)."""
+    if coast != "Costa Blanca":
+        return ""
+    return "\n".join(f"""        <a class="c-golf" href="{g['page']}.html">
+          <img src="assets/golf/{g['photo']}" alt="{e(g['name'])}" width="800" height="533" loading="lazy" decoding="async">
+          <span>{e(g['short'])}</span>
+        </a>""" for g in GOLF["courses"])
+
+
+def type_tiles(c, props, feat):
+    """Photo tiles for the category pages of a coast (luxury villas, sea views, golf...)."""
+    out, used = [], set()
+    for t in c.get("types", []):
+        if t["slug"] in PAGES:
+            items = [p for p in props if matches(p, PAGES[t["slug"]]["filter"], feat)]
+            items.sort(key=lambda p: -(p["price"] or 0))
+            pick = next((p for p in items if p["photos"] and p["reference"] not in used), None)
+            if pick:
+                used.add(pick["reference"])
+            photo = t.get("photo") or (ego_photo(pick["photos"][0], "Z800x600") if pick else "")
+            meta = f"{len(items)} properties"
+        else:
+            photo, meta = t["photo"], t.get("meta", "")
+        out.append(f"""        <a class="c-type" href="{t['slug']}.html">
+          <img src="{photo}" alt="{e(t['label'])}" width="800" height="600" loading="lazy" decoding="async">
+          <span class="c-type-body"><strong>{e(t['label'])}</strong><span>{e(meta)}</span></span>
+        </a>""")
+    return "\n".join(out)
 
 
 def build(slug, props, feat):
@@ -252,19 +286,54 @@ def build(slug, props, feat):
     </div>
   </section>
 """
+    top = ""
     if c["kind"] == "hub":
-        sections += f"""
-  <section class="t-section">
+        areas = c.get("areas") or [{"title": f"Towns on the {c['coast']}", "text": "", "towns": None}]
+        groups = "\n".join(f"""      <div class="c-area">
+        <h3>{e(a['title'])}</h3>
+        {f'<p>{a["text"]}</p>' if a['text'] else ''}
+        <div class="c-towns">
+{town_cards(c['coast'], a['towns'])}
+        </div>
+      </div>""" for a in areas)
+        top += f"""
+  <section class="t-section c-hub-towns" id="towns">
     <div class="container">
-      <p class="eyebrow dark">Town guides</p>
-      <h2>Towns on the {e(c['coast'])}</h2>
+      <p class="eyebrow dark">Step 1 · Choose your town</p>
+      <h2>Where to buy on the {e(c['coast'])}</h2>
       <p class="lead">Each town page has its own homes for sale, a short guide to the areas and what buying really costs there.</p>
-      <div class="c-towns">
-{town_cards(c['coast'])}
+{groups}
+    </div>
+  </section>
+"""
+        golf = golf_cards(c["coast"])
+        if golf:
+            top += f"""
+  <section class="t-section c-hub-golf" id="golf">
+    <div class="container">
+      <p class="eyebrow dark">Or choose a golf resort</p>
+      <h2>Homes on the golf courses</h2>
+      <p class="lead">Eight golf resorts with homes for sale, from Las Colinas in the south to Puig Campana near Benidorm. <a class="link-more" href="golf-properties-for-sale-in-costa-blanca.html">All golf properties on the {e(c['coast'])} &rarr;</a></p>
+      <div class="c-golfs">
+{golf}
       </div>
     </div>
   </section>
-
+"""
+        tiles = type_tiles(c, props, feat)
+        if tiles:
+            top += f"""
+  <section class="t-section c-hub-types" id="types">
+    <div class="container">
+      <p class="eyebrow dark">Step 2 · Choose your home</p>
+      <h2>Homes by type</h2>
+      <div class="c-types">
+{tiles}
+      </div>
+    </div>
+  </section>
+"""
+        sections += f"""
   <section class="t-section t-guide">
     <div class="container t-narrow">
       <p class="eyebrow dark">The coast</p>
@@ -316,6 +385,11 @@ def build(slug, props, feat):
     </div>
   </section>
 """
+
+    listing_head = ""
+    if c["kind"] == "hub":
+        listing_head = f"""      <p class="eyebrow dark">Step 3 · Search</p>
+      <h2>All homes for sale on the {e(c['coast'])}</h2>"""
 
     out = f"""<!DOCTYPE html>
 <html lang="en">
@@ -382,10 +456,12 @@ def build(slug, props, feat):
 {facts_html}
   </ul>
 
+{top}
   <section class="t-section" id="listings">
     <div class="container">
+{listing_head}
 {filter_bar(items)}
-      <div class="t-grid" id="cards">
+      <div class="t-grid" id="cards" data-step="{9 if c['kind'] == 'hub' else 24}">
 {chr(10).join(card(p) for p in items)}
       </div>
       <div class="t-more-wrap"><button type="button" class="btn t-btn-outline" id="more" hidden>Show more</button></div>

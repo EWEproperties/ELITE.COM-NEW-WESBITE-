@@ -656,8 +656,40 @@
       <li><strong>86</strong><span>new builds</span></li>
   </ul>
 
+
+  <section class="t-section c-hub-towns" id="towns">
+    <div class="container">
+      <p class="eyebrow dark">Step 1 · Choose your town</p>
+      <h2>Where to buy on the Costa Cálida</h2>
+      <p class="lead">Each town page has its own homes for sale, a short guide to the areas and what buying really costs there.</p>
+      <div class="c-area">
+        <h3>Towns on the Costa Cálida</h3>
+        
+        <div class="c-towns">
+        <a class="c-town" href="properties-for-sale-in-los-alcazares.html">
+          <img src="assets/towns/los-alcazares/hero.jpg" alt="Los Alcázares" width="1200" height="800" loading="lazy" decoding="async">
+          <span class="c-town-name">Los Alcázares</span>
+          <span class="c-town-meta">23 properties · from €265,000</span>
+        </a>
+        <a class="c-town" href="properties-for-sale-in-san-pedro-del-pinatar.html">
+          <img src="assets/towns/san-pedro-del-pinatar/hero.jpg" alt="San Pedro del Pinatar" width="1200" height="800" loading="lazy" decoding="async">
+          <span class="c-town-name">San Pedro del Pinatar</span>
+          <span class="c-town-meta">19 properties · from €151,900</span>
+        </a>
+        <a class="c-town" href="properties-for-sale-in-torre-pacheco.html">
+          <img src="assets/towns/torre-pacheco/hero.jpg" alt="Torre-Pacheco" width="1200" height="800" loading="lazy" decoding="async">
+          <span class="c-town-name">Torre-Pacheco</span>
+          <span class="c-town-meta">16 properties · from €238,000</span>
+        </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <section class="t-section" id="listings">
     <div class="container">
+      <p class="eyebrow dark">Step 3 · Search</p>
+      <h2>All homes for sale on the Costa Cálida</h2>
       <form class="c-filter" id="filter" aria-label="Filter the properties">
         
         <label><span>Town</span><select id="f-town"><option value="">All towns</option><option value="Campo de Murcia">Campo de Murcia</option><option value="Cartagena">Cartagena</option><option value="Fuente Álamo de Murcia">Fuente Álamo de Murcia</option><option value="La Manga">La Manga</option><option value="Lo Pagán">Lo Pagán</option><option value="Los Alcázares">Los Alcázares</option><option value="Moratalla">Moratalla</option><option value="San Javier">San Javier</option><option value="San Pedro del Pinatar">San Pedro del Pinatar</option><option value="Santa Rosalía">Santa Rosalía</option><option value="Torre-Pacheco">Torre-Pacheco</option><option value="Águilas">Águilas</option></select></label>
@@ -667,7 +699,7 @@
         <label><span>Sort</span><select id="f-sort"><option value="price-asc">Price, low to high</option><option value="price-desc">Price, high to low</option><option value="new">Newest first</option></select></label>
       </form>
       <p class="c-count" id="count" aria-live="polite">86 properties</p>
-      <div class="t-grid" id="cards">
+      <div class="t-grid" id="cards" data-step="9">
         <a class="tcard" href="properties/modern-villa-in-los-alcazares.html" data-coast="Costa Cálida" data-town="Los Alcázares" data-type="Villa" data-beds="3" data-price="587800" data-new="2019-03-18">
           <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P10948426/Tphoto/ID4a0fa700-0000-0500-0000-000018bcd734.jpg" alt="Modern villa in Los Alcázares" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE1313</span></div>
           <div class="tcard-body">
@@ -1447,31 +1479,6 @@
     </div>
   </section>
 
-  <section class="t-section">
-    <div class="container">
-      <p class="eyebrow dark">Town guides</p>
-      <h2>Towns on the Costa Cálida</h2>
-      <p class="lead">Each town page has its own homes for sale, a short guide to the areas and what buying really costs there.</p>
-      <div class="c-towns">
-        <a class="c-town" href="properties-for-sale-in-los-alcazares.html">
-          <img src="assets/towns/los-alcazares/hero.jpg" alt="Los Alcázares" width="1200" height="800" loading="lazy" decoding="async">
-          <span class="c-town-name">Los Alcázares</span>
-          <span class="c-town-meta">23 properties · from €265,000</span>
-        </a>
-        <a class="c-town" href="properties-for-sale-in-san-pedro-del-pinatar.html">
-          <img src="assets/towns/san-pedro-del-pinatar/hero.jpg" alt="San Pedro del Pinatar" width="1200" height="800" loading="lazy" decoding="async">
-          <span class="c-town-name">San Pedro del Pinatar</span>
-          <span class="c-town-meta">19 properties · from €151,900</span>
-        </a>
-        <a class="c-town" href="properties-for-sale-in-torre-pacheco.html">
-          <img src="assets/towns/torre-pacheco/hero.jpg" alt="Torre-Pacheco" width="1200" height="800" loading="lazy" decoding="async">
-          <span class="c-town-name">Torre-Pacheco</span>
-          <span class="c-town-meta">16 properties · from €238,000</span>
-        </a>
-      </div>
-    </div>
-  </section>
-
   <section class="t-section t-guide">
     <div class="container t-narrow">
       <p class="eyebrow dark">The coast</p>
@@ -1559,7 +1566,7 @@
 (function () {
   var grid = document.getElementById("cards"), cards = Array.prototype.slice.call(grid.children);
   var more = document.getElementById("more"), count = document.getElementById("count");
-  var step = 24, shown = step;
+  var step = +grid.dataset.step || 24, shown = step;
   function val(id) { var el = document.getElementById(id); return el ? el.value : ""; }
   function apply(reset) {
     if (reset) shown = step;

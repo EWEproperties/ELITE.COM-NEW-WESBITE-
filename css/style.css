@@ -900,3 +900,25 @@ a.ct-way:hover { background: #faf7f2; }
 @media (prefers-reduced-motion: reduce) { .home .hero h1 em, .home .hero .btn-gold::after { animation: none; } }
 @media (max-width: 960px) { .home .main-nav > a.active, .home .lang a.active { color: var(--gold); } }
 .search-bar select, .search-bar .btn { height: 48px; }
+
+/* Coast hub: towns by area, golf resorts, homes by type */
+.c-area { margin-top: 2.4rem; }
+.c-area h3 { margin: 0 0 .3rem; font-family: var(--serif); font-size: 1.5rem; font-weight: 400; color: var(--gold-dark); }
+.c-area p { margin: 0; color: var(--muted); }
+.c-area .c-towns { grid-template-columns: repeat(4, minmax(0, 1fr)); margin-top: 1.2rem; }
+.c-golfs { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1.2rem; margin-top: 1.8rem; }
+.c-golf { display: block; color: var(--text); }
+.c-golf img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; transition: opacity .3s; }
+.c-golf span { display: block; padding: .7rem 0 0; font-family: var(--serif); font-size: 1.15rem; border-top: 0; }
+.c-golf:hover img { opacity: .85; }
+.c-golf:hover span { color: var(--gold-dark); }
+.c-types { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1.2rem; margin-top: 1.8rem; }
+.c-type { display: block; border: 1px solid var(--gold-line); color: var(--text); }
+.c-type img { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; }
+.c-type-body { display: flex; justify-content: space-between; align-items: baseline; gap: .6rem; padding: .9rem 1.1rem; }
+.c-type-body strong { font-family: var(--serif); font-weight: 400; font-size: 1.15rem; }
+.c-type-body span { font-size: .82rem; color: var(--muted); white-space: nowrap; }
+.c-type:hover { background: #faf7f2; }
+.c-type:hover strong { color: var(--gold-dark); }
+@media (max-width: 960px) { .c-area .c-towns, .c-golfs, .c-types { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 600px) { .c-area .c-towns, .c-golfs, .c-types { gap: .7rem; } .c-area .c-town-name { font-size: 1.1rem; bottom: 2rem; left: .7rem; right: .7rem; } .c-area .c-town-meta { font-size: .7rem; left: .7rem; right: .7rem; bottom: .7rem; } .c-type-body { flex-direction: column; padding: .7rem; } .c-golf span, .c-type-body strong { font-size: 1rem; } }

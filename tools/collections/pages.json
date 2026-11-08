@@ -33,7 +33,19 @@
    ["What taxes do I pay when I buy on the Costa Blanca?", "On a new build you pay 10% VAT (IVA) and 1.4% stamp duty (AJD). On a resale home you pay transfer tax (ITP) of 9%, or 11% above €1 million. Add about 1.5 to 2.5% for the notary, land registry and lawyer."],
    ["Which airport is closest?", "Alicante-Elche airport. Most Costa Blanca towns are 20 to 60 minutes away by car. For the far north, Valencia airport is also an option."]
   ],
-  "links": ["golf-properties-for-sale-in-costa-blanca", "luxury-villas-for-sale-costa-blanca", "villas-for-sale-costa-blanca", "apartments-with-sea-views-for-sale-costa-blanca"]
+  "links": ["how-to-buy-an-apartment-or-house-in-spain", "costa-blanca-or-costa-del-sol", "costa-blanca-how-is-life-on-the-spanish-coast", "costa-blanca-beaches-you-must-visit"],
+  "areas": [
+   {"title": "North Costa Blanca", "text": "Green hills, rocky coves and villas with sea views, from Dénia and Jávea to Altea and Benidorm.",
+    "towns": ["denia", "javea", "cumbre-del-sol", "calpe", "altea", "benidorm", "finestrat", "villajoyosa"]},
+   {"title": "South Costa Blanca", "text": "Long sandy beaches, salt lakes and golf resorts, with most of the new apartments and bungalows.",
+    "towns": ["alicante", "santa-pola", "guardamar-del-segura", "torrevieja", "orihuela-costa", "ciudad-quesada"]}
+  ],
+  "types": [
+   {"slug": "luxury-villas-for-sale-costa-blanca", "label": "Luxury villas"},
+   {"slug": "villas-for-sale-costa-blanca", "label": "Villas"},
+   {"slug": "apartments-with-sea-views-for-sale-costa-blanca", "label": "Apartments with sea views"},
+   {"slug": "golf-properties-for-sale-in-costa-blanca", "label": "Golf properties", "photo": "assets/golf/golf-costa-blanca.jpg", "meta": "8 golf resorts"}
+  ]
  },
  "properties-for-sale-in-costa-del-sol": {
   "kind": "hub", "coast": "Costa del Sol", "region": "Andalusia",
