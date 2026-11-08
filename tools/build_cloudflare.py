@@ -12,7 +12,8 @@ What it does
    The source files keep .html so they still open straight from the folder.
 3. Writes dist/_redirects (301s from old eGO URLs) from every redirect list.
 4. Writes dist/_headers (security headers and browser caching).
-5. Writes dist/404.html. Without a 404 page Cloudflare would answer every unknown
+5. Adds the newsletter sign-up to the footer of every page (tools/newsletter/add_newsletter.py).
+6. Writes dist/404.html. Without a 404 page Cloudflare would answer every unknown
    URL with the home page and status 200, which Google treats as duplicate pages.
 
 Run it locally the same way to check the output: python3 tools/build_cloudflare.py
@@ -23,12 +24,15 @@ import re
 import shutil
 import sys
 
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "newsletter"))
+from add_newsletter import inject as add_newsletter  # noqa: E402
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DIST = os.path.join(ROOT, "dist")
 SITE = "https://www.eliteworldestates.com"
 
 # Not published.
-SKIP_TOP = {"tools", "dist", "README.md", "node_modules", "__pycache__"}
+SKIP_TOP = {"tools", "functions", "dist", "README.md", "node_modules", "__pycache__"}  # functions/ = Pages Functions, run by Cloudflare, not served as files
 SKIP_EXT = {".py", ".pyc", ".csv", ".md"}
 
 # Redirect lists: (file, from-column, to-column). Later lists win on a clash.
@@ -125,7 +129,7 @@ def copy_site():
             os.makedirs(os.path.dirname(dst), exist_ok=True)
             if name.endswith(".html"):
                 with open(src, encoding="utf-8") as f:
-                    text = rewrite_html(f.read())
+                    text = rewrite_html(add_newsletter(f.read()))
                 with open(dst, "w", encoding="utf-8") as f:
                     f.write(text)
             elif name.endswith(".xml") or name in ("llms.txt", "robots.txt"):
@@ -198,7 +202,7 @@ def build_redirects():
 
 def build_404():
     with open(os.path.join(ROOT, "terms-and-conditions.html"), encoding="utf-8") as f:
-        page = f.read()
+        page = add_newsletter(f.read())
     main = """<main class="legal-page">
   <div class="container legal">
     <h1>Page not found</h1>
