@@ -1,0 +1,48 @@
+{
+ "EWE3774": {
+  "airports": [
+   {
+    "km": 39.8,
+    "min": 37,
+    "name": "Murcia International Airport (Corvera)"
+   },
+   {
+    "km": 80.4,
+    "min": 77,
+    "name": "Alicante-Elche Airport"
+   }
+  ],
+  "beach": {
+   "km": 2.9,
+   "min": 6,
+   "name": "Playa del Puerto"
+  },
+  "health": {
+   "km": 1.9,
+   "min": 4,
+   "name": "Centro de Salud"
+  },
+  "hospital": {
+   "km": 12.6,
+   "min": 13,
+   "name": "Hospital General Universitario Los Arcos del Mar Menor"
+  },
+  "schools": [
+   {
+    "km": 1.4,
+    "min": 3,
+    "name": "CEIP Martín Artigot"
+   },
+   {
+    "km": 1.5,
+    "min": 3,
+    "name": "CEIP María Moliner"
+   }
+  ],
+  "shop": {
+   "km": 0.9,
+   "min": 2,
+   "name": "Manper"
+  }
+ }
+}

@@ -46,9 +46,9 @@ DEFAULT_AGENT = "Anita Orlowska"
 # Province (eGO "District") -> coast and buying taxes.
 # new: AJD stamp duty on a new build (plus 10% IVA). resale: ITP transfer tax, (rate, over 1M rate).
 REGIONS = {
-    "Valencian Community": {"provinces": ("Alicante", "Valencia", "Castellón"), "ajd": 1.4, "itp": (9, 11)},
-    "Andalusia": {"provinces": ("Málaga", "Cádiz", "Almería", "Granada"), "ajd": 1.2, "itp": (7, 7)},
-    "Region of Murcia": {"provinces": ("Murcia",), "ajd": 1.5, "itp": (7.75, 7.75)},
+    "Valencian Community": {"provinces": ("Alicante", "Valencia", "Castellón"), "ajd": 1.4, "itp": (9, 11), "extra": 4},
+    "Andalusia": {"provinces": ("Málaga", "Cádiz", "Almería", "Granada"), "ajd": 1.2, "itp": (7, 7), "extra": 3.7},
+    "Region of Murcia": {"provinces": ("Murcia",), "ajd": 1.5, "itp": (7.75, 7.75), "extra": 4},
 }
 CB, CDS, CC, ES = ("properties-for-sale-in-costa-blanca", "properties-for-sale-in-costa-del-sol",
                    "properties-for-sale-in-costa-calida", "properties-for-sale-in-spain")
@@ -500,48 +500,85 @@ def set_seo_titles(items):
             L["seo_desc"] = fix["seo_desc"]
 
 
+# Notary, land registry and lawyer: usually 1.5-2.5% of the price; the table rounds up to 2.5%
+FEES = 2.5
+
+
 def costs(L):
-    """Rows of the buying-cost table and a note, or None where we have no regional rates."""
+    """Rows of the buying-cost table and a note, or None where we have no regional rates.
+    New build (Lucy, 2026-11-08): IVA + ONE line for stamp duty, notary, land registry and lawyer,
+    rounded up per region ("extra": AJD + about 2.5% fees), so the total is never too low."""
     r = REGIONS.get(L["region"])
     if not r or not L["price"]:
         return None
     p = L["price"]
     if L["new"]:
-        rows = [(f"IVA (VAT) on a new build from the developer: 10%", p * 0.10),
-                (f"AJD stamp duty ({L['region']}): {r['ajd']:g}%", p * r["ajd"] / 100)]
-        note = ("When you buy new from a developer you pay IVA and AJD, not the ITP transfer tax that applies to resale homes.")
+        rows = [("IVA (VAT) 10%", p * 0.10),
+                (f"Additional costs: stamp duty, notary, land registry, lawyer (about {r['extra']:g}%)", p * r["extra"] / 100)]
+        note = (f"IVA is 10% on a new home bought from the developer. The additional costs are AJD stamp duty "
+                f"({r['ajd']:g}% in the {L['region']}) plus notary, land registry and lawyer, usually 1.5–2.5% of the price; "
+                f"we round up so the estimate is never too low.")
     else:
         rate = r["itp"][1] if p > 1_000_000 else r["itp"][0]
-        rows = [(f"ITP transfer tax on a resale home ({L['region']}): {rate:g}%", p * rate / 100)]
+        rows = [(f"ITP transfer tax ({L['region']}): {rate:g}%", p * rate / 100),
+                (f"Additional costs: notary, land registry, lawyer (about {FEES:g}%)", p * FEES / 100)]
         note = "A resale home is taxed with ITP transfer tax instead of IVA."
         if r["itp"][0] != r["itp"][1]:
             note += f" In the {L['region']} ITP is {r['itp'][0]:g}%, or {r['itp'][1]:g}% for homes over €1,000,000."
     return rows, p + sum(v for _, v in rows), note
 
 
+NEARBY_FILE = os.path.join(HERE, "nearby.json")
+NEARBY = json.load(open(NEARBY_FILE)) if os.path.exists(NEARBY_FILE) else {}
+
+
+def dist(pl):
+    """'about 900 m' / 'about 1.4 km' / 'about 13 km' (by road, from tools/ego/nearby.json)."""
+    km = pl["km"]
+    if km < 1:
+        return f"about {max(100, round(km * 1000, -2)):.0f} m"
+    return f"about {km:.1f} km" if km < 3 else f"about {round(km)} km"
+
+
+def drive(pl):
+    """Minutes by car. The public router is slow on motorways, so long trips use ~80 km/h."""
+    if pl["km"] < 3 or not pl.get("min"):
+        return ""
+    mins = pl["min"] if pl["km"] < 30 else round(pl["km"] * 0.75 / 5) * 5
+    return f", around {mins} minutes by car"
+
+
 def faq(L, agent):
-    c = costs(L)
+    """Five questions buyers ask (Lucy, 2026-11-08): beach, schools, health care, shops, airport.
+    Answers come from OpenStreetMap via tools/ego/nearby.py; a question without data is left out."""
+    n = NEARBY.get(L["ref"], {})
     q = []
-    if c:
-        rows, total, _ = c
-        taxes = " and ".join(t.split(" (")[0].split(":")[0] for t, _ in rows)
-        q.append(("What does it cost to buy, including taxes?",
-                  f"The price is {price_text(L)}. With {taxes} the total is about {euro(total)}, "
-                  f"plus notary, land registry and lawyer, usually 1.5–2.5% of the price."))
-    q.append(("Do I pay an agency fee?", "No. The buyer pays no agency commission when buying through Elite World Estates."))
-    where = f"{L['town']}, in the province of {L['province']}"
-    if L["coast"] != "Spain":
-        where += f" on the {L['coast']}"
-    q.append(("Where is the property?", f"In {where}, Spain."))
-    size = [f"{L['beds']} bedrooms" if L["beds"] else "", f"{L['baths']} bathrooms" if L["baths"] else "",
-            f"{L['built']} m² built area" if L["built"] else "", f"{L['usable']} m² usable area" if L["usable"] else "",
-            f"a {L['plot']:,} m² plot" if L["plot"] else ""]
-    size = [s for s in size if s]
-    if size:
-        q.append(("How big is it?", "It has " + ", ".join(size[:-1]) + (" and " if len(size) > 1 else "") + size[-1] + "."))
-    q.append(("Can I see it or have a video call?",
-              f"Yes. Call or WhatsApp {agent['name']} on {agent['phone']} and we will arrange a viewing or a video call "
-              f"at a time that suits you. Please quote reference {L['ref']}."))
+    if n.get("beach"):
+        b = n["beach"]
+        q.append(("How far is the nearest beach?", f"The nearest beach is {b['name']}, {dist(b)} by road{drive(b)}."))
+    if n.get("schools"):
+        s = n["schools"]
+        names = " and ".join(f"{x['name']} ({dist(x)})" for x in s)
+        q.append(("Which schools are nearby?", f"The nearest schools are {names}." if len(s) > 1 else f"The nearest school is {names}."))
+    if n.get("health") or n.get("hospital"):
+        parts = []
+        if n.get("health"):
+            hn = n["health"]["name"]
+            hn = f"the local public health centre ({hn})" if hn.lower() in ("centro de salud", "consultorio", "consultorio médico") else hn
+            parts.append(f"The nearest health centre is {hn}, {dist(n['health'])} away.")
+        if n.get("hospital"):
+            h = n["hospital"]
+            parts.append(f"The nearest hospital is {h['name']}, {dist(h)} by road{drive(h)}.")
+        q.append(("Where is the nearest hospital or health centre?", " ".join(parts)))
+    if n.get("shop"):
+        q.append(("Where are the nearest shops and supermarket?",
+                  f"The nearest supermarket is {n['shop']['name']}, {dist(n['shop'])} away."))
+    aps = n.get("airports") or ([n["airport"]] if n.get("airport") else [])
+    if aps:
+        txt = f"{aps[0]['name']} is {dist(aps[0])} by road{drive(aps[0])}."
+        if len(aps) > 1 and aps[1]["km"] <= 100:
+            txt += f" {aps[1]['name']} is {dist(aps[1])}{drive(aps[1])}."
+        q.append(("How far is the airport?", txt))
     return q
 
 
@@ -581,6 +618,8 @@ def schema(L, url, agent, faqs):
         {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
             {"@type": "Question", "name": qq, "acceptedAnswer": {"@type": "Answer", "text": a}} for qq, a in faqs]},
     ]
+    if not faqs:
+        data = [d for d in data if d.get("@type") != "FAQPage"]
     return json.dumps(data, ensure_ascii=False, indent=1).replace("</", "<\\/")
 
 
@@ -618,34 +657,41 @@ def all_photos(L, src):
     return "\n      ".join(rows)
 
 
+def m2(v):
+    """Areas as whole square metres (eGO stores 62.29)."""
+    return f"{round(float(v)):,}"
+
+
 def key_facts(L):
     f = []
     if L["beds"]:
         f.append((L["beds"], "Bedrooms"))
     if L["baths"]:
         f.append((L["baths"], "Bathrooms"))
-    if L["built"]:
-        f.append((f"{L['built']} m²", "Built area"))
     if L["usable"]:
-        f.append((f"{L['usable']} m²", "Usable area"))
+        f.append((f"{m2(L['usable'])} m²", "Usable area"))
+    if L["built"]:
+        f.append((f"{m2(L['built'])} m²", "Built area"))
     if L["plot"]:
         f.append((f"{L['plot']:,} m²", "Plot"))
     return "\n      ".join(f"<li><strong>{e(v)}</strong><span>{k}</span></li>" for v, k in f)
 
 
 def info_list(L):
-    loc = ", ".join(x for x in (L["area"] if L["area"] not in ("", "Centro", L["town"]) else "", L["town"]) if x)
-    rows = [("Price", price_text(L) + " (no agency fee for the buyer)"),
+    area = L["area"] if L["area"] not in ("", "Centro", L["town"]) and not L["area"].lower().endswith((" ciudad", " centro")) else ""
+    loc = ", ".join(x for x in (area, L["town"]) if x)
+    rows = [("Price", price_text(L)),
+            ("Agency fee", "No fees for buyers"),
             ("Type", type_label(L).capitalize() + (", new build" if L["new"] else ", resale")),
             ("Location", f"{loc} ({L['province']})" + (f", {L['coast']}" if L["coast"] != "Spain" else ""))]
     if L["beds"]:
         rows.append(("Bedrooms", L["beds"]))
     if L["baths"]:
         rows.append(("Bathrooms", L["baths"]))
-    if L["built"]:
-        rows.append(("Built area", f"{L['built']} m²"))
     if L["usable"]:
-        rows.append(("Usable area", f"{L['usable']} m²"))
+        rows.append(("Usable area", f"{m2(L['usable'])} m²"))
+    if L["built"]:
+        rows.append(("Built area", f"{m2(L['built'])} m²"))
     if L["plot"]:
         rows.append(("Plot", f"{L['plot']:,} m²"))
     if L["floor"] is not None:
@@ -721,14 +767,20 @@ def page(L, everyone, url_of, src):
         <table class="cost-table">
           <tbody>
             <tr><th scope="row">Property price</th><td>{euro(L['price'])}</td></tr>{trs}
-            <tr class="total"><th scope="row">Price including taxes</th><td>{euro(total)}</td></tr>
+            <tr class="total"><th scope="row">Estimated total</th><td>{euro(total)}</td></tr>
           </tbody>
         </table>
-        <p>On top of this come the notary, the land registry and a lawyer, usually about 1.5–2.5% of the price. {e(note)} These are the general rates for the {e(L['region'])}; reduced rates exist for some buyers.</p>
+        <p>{e(note)} These are the general rates for the {e(L['region'])}; reduced rates exist for some buyers.</p>
 '''
     map_link = (f'<p class="map-link"><a href="https://www.google.com/maps?q={L["lat"]},{L["lon"]}" target="_blank" rel="noopener">'
                 f'Open the location in Google Maps &rarr;</a></p>') if L["lat"] else ""
     faq_html = "\n          ".join(f"<details><summary>{e(qq)}</summary><p>{e(a)}</p></details>" for qq, a in faqs)
+    if faq_html:
+        faq_html = f'''        <h2>Frequently asked questions</h2>
+        <div class="faq">
+          {faq_html}
+        </div>
+'''
     preload = f'  <link rel="preload" as="image" href="{src(0, "big")}" fetchpriority="high">\n' if L["photos"] else ""
     return f'''<!doctype html>
 <html lang="en">
@@ -808,11 +860,7 @@ def page(L, everyone, url_of, src):
         {features}{map_link}
         <p class="small-print">The property description is based wholly or partly on information supplied by the owner or developer. Sizes, layouts, specifications and dates may change; the purchase contract is binding.</p>
 {cost_html}
-        <h2>Frequently asked questions</h2>
-        <div class="faq">
-          {faq_html}
-        </div>
-
+{faq_html}
         <h2>Arrange your viewing</h2>
         <p>A viewing says more than any description. Call, send a WhatsApp or ask a question here, and we will arrange a visit or a video call at a time that suits you.</p>
       </article>
