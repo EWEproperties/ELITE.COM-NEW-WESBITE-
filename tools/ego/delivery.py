@@ -3,7 +3,7 @@
 eGO has no delivery date field: the date is written in the description ("Planned completion
 date: June 2028"). This reads it from the English text (Polish/Spanish as fall back) and saves
 tools/ego/delivery.json: {ref: {"label": "Q1 2028", "status": ...}}. The card generators
-(tools/build_collections.py, tools/towns/build_town.py) show a badge for status "ok" only:
+(tools/build_collections.py, tools/towns/build_town.py) show a line under the reference for status "ok" only:
 a future date or "Key ready". Dates already passed and "18 months from contract" are not shown.
 
 Run: python3 tools/ego/delivery.py            (reads eGO with EGO_USERNAME / EGO_PASSWORD)
@@ -116,16 +116,30 @@ def extract(rows):
 
 # ---------- card badge ----------
 
+# Lucy (2026-11-08): show quarters ("1Q 2028") and the year, never months; "Key ready" as is.
 WORDS = {
-    "de": {"Delivery": "Fertigstellung", "Key ready": "Bezugsfertig", "from": "ab", "End": "Ende", "Mid": "Mitte",
-           "Early": "Anfang", "Spring": "Frühjahr", "Summer": "Sommer", "Autumn": "Herbst", "Winter": "Winter",
-           "1st half": "1. Halbjahr", "2nd half": "2. Halbjahr", "Mar": "März", "May": "Mai", "Oct": "Okt", "Dec": "Dez"},
-    "es": {"Delivery": "Entrega", "Key ready": "Llave en mano", "from": "desde", "End": "fin", "Mid": "mediados",
-           "Early": "inicio", "Spring": "primavera", "Summer": "verano", "Autumn": "otoño", "Winter": "invierno",
-           "1st half": "1er semestre", "2nd half": "2º semestre", "Q1": "T1", "Q2": "T2", "Q3": "T3", "Q4": "T4",
-           "Jan": "ene", "Apr": "abr", "Aug": "ago", "Dec": "dic", "Sep": "sept"},
+    "en": {"Delivery": "Delivery", "Key ready": "Key ready", "from": "from"},
+    "de": {"Delivery": "Fertigstellung", "Key ready": "Bezugsfertig", "from": "ab"},
+    "es": {"Delivery": "Entrega", "Key ready": "Llave en mano", "from": "desde"},
 }
+MONTHS = {m: i + 1 for i, m in enumerate("Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec".split())}
+WORD_Q = {"Early": 1, "Spring": 2, "Mid": 2, "1st half": 2, "Summer": 3, "Autumn": 4, "End": 4, "Winter": 4, "2nd half": 4}
 _cache = None
+
+
+def quarter(lab):
+    """'Q1 2028', 'Sep 2027', 'End 2027', '2nd half 2028' -> '1Q 2028', '3Q 2027', '4Q 2027', '4Q 2028'; '2028' stays."""
+    m = re.fullmatch(r"(.+?)\s*(20\d\d)", lab)
+    if not m or not m.group(1):
+        return lab
+    w, y = m.group(1).strip(), m.group(2)
+    if re.fullmatch(r"Q[1-4]", w):
+        return f"{w[1]}Q {y}"
+    if w in MONTHS:
+        return f"{(MONTHS[w] - 1) // 3 + 1}Q {y}"
+    if w in WORD_Q:
+        return f"{WORD_Q[w]}Q {y}"
+    return lab
 
 
 def label(ref, lang="en"):
@@ -135,22 +149,18 @@ def label(ref, lang="en"):
     d = _cache.get(ref)
     if not d or d["status"] != "ok":
         return ""
+    w = WORDS.get(lang, WORDS["en"])
     lab = d["label"]
     if lab == "Key ready":
-        text = "Key ready"
-    else:
-        frm = lab.startswith("From ")
-        text = "Delivery " + ("from " if frm else "") + lab[5:] if frm else "Delivery " + lab
-    w = WORDS.get(lang)
-    if w:
-        keys = sorted(w, key=len, reverse=True)
-        text = re.sub(r"\b(" + "|".join(map(re.escape, keys)) + r")\b", lambda m: w[m.group(1)], text)
-    return text
+        return w["Key ready"]
+    frm = lab.startswith("From ")
+    return f'{w["Delivery"]}: ' + (w["from"] + " " if frm else "") + quarter(lab[5:] if frm else lab)
 
 
 def badge(ref, lang="en"):
+    """Line under the bedrooms / reference line of a property card (empty when no date)."""
     t = label(ref, lang)
-    return f'<span class="tcard-due">{html.escape(t)}</span>' if t else ""
+    return f'\n            <p class="tcard-due">{html.escape(t)}</p>' if t else ""
 
 
 def main(argv):

@@ -205,12 +205,12 @@ def card(i, pages, lang="en"):
     ext = "" if not href.startswith("http") else ' target="_blank" rel="noopener"'
     town = i["town"]
     return f"""        <a class="tcard" href="{href}"{ext}>
-          <div class="tcard-photo"><img src="{up}{i['photo']}" alt="{e(i['alt'] or clean_title(i['title']))}" width="800" height="600" loading="lazy" decoding="async">{badge(i['ref'], lang)}</div>
+          <div class="tcard-photo"><img src="{up}{i['photo']}" alt="{e(i['alt'] or clean_title(i['title']))}" width="800" height="600" loading="lazy" decoding="async"></div>
           <div class="tcard-body">
             <p class="tcard-town">{e(town)}</p>
             <h3>{e(clean_title(i['title']))}</h3>
             <p class="tcard-price">{fmt_price(i['price'], lang)}</p>
-            <p class="tcard-facts"><span>{facts(i['det'], lang)}</span><span class="tcard-refno">{UI[lang]['ref']} {i['ref']}</span></p>
+            <p class="tcard-facts"><span>{facts(i['det'], lang)}</span><span class="tcard-refno">{UI[lang]['ref']} {i['ref']}</span></p>{badge(i['ref'], lang)}
           </div>
         </a>"""
 
