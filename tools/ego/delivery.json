@@ -1299,6 +1299,11 @@
   "status": "ok",
   "text": "Estimated completion date: Fourth quarter of 2028."
  },
+ "EWE3774": {
+  "label": "From May 2028",
+  "status": "ok",
+  "text": "Planned completion date: May 2028 (Phase I) and October 2028 (Phase II)."
+ },
  "EWE3783": {
   "label": "Q4 2028",
   "status": "ok",
