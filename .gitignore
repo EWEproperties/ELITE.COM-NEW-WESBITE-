@@ -1,2 +1,3 @@
 tools/ego/cache/
 __pycache__/
+dist/
