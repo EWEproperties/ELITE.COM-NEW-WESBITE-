@@ -9,6 +9,17 @@
   var d = form.dataset;
   form.elements.t.value = String(Date.now()); // bots post instantly; the server checks the delay
 
+  // The phone-contact consent only shows once a phone number is typed in.
+  var tel = form.elements.phone, c2 = form.querySelector(".nl-c2");
+  if (tel && c2) {
+    var sync = function () {
+      var on = tel.value.trim().length > 0;
+      c2.hidden = !on;
+      if (!on) c2.querySelector("input").checked = false;
+    };
+    tel.addEventListener("input", sync); sync();
+  }
+
   function clear() {
     form.querySelectorAll(".nl-err").forEach(function (e) { e.textContent = ""; });
     form.querySelectorAll("[aria-invalid]").forEach(function (e) { e.removeAttribute("aria-invalid"); });
@@ -27,6 +38,8 @@
     if (form.elements.name.value.trim().length < 2) errs.name = d.errName;
     if (!EMAIL_RE.test(form.elements.email.value.trim())) errs.email = d.errEmail;
     if (!form.elements.consent.checked) errs.consent = d.errConsent;
+    var ph = form.elements.phone ? form.elements.phone.value.trim() : "";
+    if (ph && !/^[\d\s()\-./+]{5,20}$/.test(ph)) errs.phone = d.errPhone;
     return errs;
   }
 
@@ -46,7 +59,7 @@
       .then(function (res) {
         btn.disabled = false; btn.textContent = label;
         if (res && res.ok) {
-          var ok = form.parentNode.querySelector(".nl-ok");
+          var ok = form.closest(".nl-block").querySelector(".nl-ok");
           form.hidden = true; ok.hidden = false; ok.focus();
           return;
         }

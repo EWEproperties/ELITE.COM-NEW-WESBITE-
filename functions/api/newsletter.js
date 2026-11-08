@@ -51,6 +51,9 @@ export async function onRequestPost({ request, env }) {
   if (name.length < 2) errors.name = true;
   if (!EMAIL_RE.test(email)) errors.email = true;
   if (get("consent") !== "1") errors.consent = true;
+  const phone = get("phone").slice(0, 20);
+  if (phone && !/^[\d\s()\-./+]{5,20}$/.test(phone)) errors.phone = true;
+  const dial = /^\+\d{1,4}$/.test(get("dial")) ? get("dial") : "";
   if (Object.keys(errors).length) return json({ ok: false, errors }, 422);
 
   const lang = LANGS.includes(get("lang")) ? get("lang") : "en";
@@ -58,6 +61,9 @@ export async function onRequestPost({ request, env }) {
     name,
     email,
     language: lang,
+    region: get("region").slice(0, 40),
+    phone: phone ? `${dial} ${phone}`.trim() : "",
+    consent_phone: !!phone && get("consent_phone") === "1",
     source: "eliteworldestates.com",
     source_url: get("source_url").slice(0, 500),
     consent_newsletter: true,
