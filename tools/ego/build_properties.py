@@ -65,7 +65,7 @@ APARTMENT_TYPES = ("Apartment", "Penthouse", "Ground floor", "Duplex", "Studio",
 PLURAL_TITLE = re.compile(r"\b(apartments|villas|townhouses|town houses|homes|houses|penthouses|bungalows|duplexes|"
                           r"properties|residences|chalets)\b", re.I)
 # The closing "arrange a viewing / disclaimer" text is replaced by the page's own
-VIEWING_TAIL = re.compile(r"^(arrange your viewing|a (personal )?(visit|viewing) (says|speaks|will tell))", re.I)
+VIEWING_TAIL = re.compile(r"^(arrange your viewing|a (personal )?(visit|viewing) (says|speaks|will tell|is worth more))", re.I)
 ICON_PHONE = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>'
 ICON_MAIL = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 5h18v14H3z" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M3 6l9 7 9-7" fill="none" stroke="currentColor" stroke-width="1.6"/></svg>'
 ICON_WA = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2.2A9.8 9.8 0 0 0 3.6 17l-1.4 4.8 4.9-1.3A9.8 9.8 0 1 0 12 2.2zm0 17.8a8 8 0 0 1-4.1-1.1l-.3-.2-2.9.8.8-2.8-.2-.3A8 8 0 1 1 12 20zm4.4-6c-.2-.1-1.4-.7-1.7-.8s-.4-.1-.5.1-.6.8-.8 1-.3.2-.5.1a6.5 6.5 0 0 1-3.2-2.8c-.2-.4.2-.4.7-1.3.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.5-.4h-.5a.9.9 0 0 0-.7.3 2.8 2.8 0 0 0-.9 2.1 4.9 4.9 0 0 0 1 2.6 11.2 11.2 0 0 0 4.3 3.8c1.6.7 2.2.7 3 .6a2.6 2.6 0 0 0 1.7-1.2 2.1 2.1 0 0 0 .1-1.2c0-.1-.2-.2-.4-.3z"/></svg>'
@@ -92,6 +92,16 @@ def num(v):
 
 # ---------- eGO listing -> plain listing ----------
 
+# The Global API gives features as one flat list (no Rooms / Areas / Surroundings groups),
+# so these titles are sorted by name instead (eGO feature classes 9, 24 and 12/18/52).
+FACT_TITLES = {"Bathroom (s)", "Total bedroom(s)", "Gross Area", "Net Area", "Land Area"}
+NEARBY_TITLES = {"Highway", "City Center", "Supermarket", "Pharmacy", "Green areas", "Public Transport",
+                 "Golf Course", "Gymnasium", "Hospital", "Taxi Rank", "Commercial Area", "Police",
+                 "Shopping Center", "Market", "Bus Station", "Bank", "Airport", "Beach", "Countryside", "School"}
+EXTRA_TITLES = {"Distance from the sea", "Floor", "Building", "Construction started", "Construction ended",
+                "Number of floors", "Terrace area", "Patio Area", "Solar Orientation"}
+
+
 def features(raw):
     """eGO feature tree -> {"features": [...], "views": [...], "nearby": [...], "extras": {...}}."""
     out = {"features": [], "views": [], "nearby": [], "extras": {}}
@@ -102,14 +112,15 @@ def features(raw):
                 walk(x["Childs"], x["Title"])
                 continue
             t, v = x["Title"].strip(), (x.get("Value") or "").strip()
-            if group in ("Rooms", "Areas") and v:
+            if (group in ("Rooms", "Areas") and v) or t in FACT_TITLES:
                 continue  # bedrooms, bathrooms and areas come from their own fields
-            if group == "Extras":
+            grp = group or ("Surroundings" if t in NEARBY_TITLES else "Extras" if t in EXTRA_TITLES else "")
+            if grp == "Extras":
                 if v:
                     out["extras"][t] = v
             elif t.startswith("View to "):
                 out["views"].append(t[8:].capitalize())
-            elif group == "Surroundings":
+            elif grp == "Surroundings":
                 out["nearby"].append(t)
             else:
                 out["features"].append(t if not v or v in ("1", "0") else f"{t}: {v}")
@@ -650,9 +661,19 @@ def info_list(L):
 
 
 def similar(L, everyone, url_of):
+    def near(o):
+        """0 = same town, 1 = within about 15 km, 2 = further away (or no GPS)."""
+        if o["town"] == L["town"]:
+            return 0
+        if L["lat"] and L["lon"] and o["lat"] and o["lon"]:
+            km = 111 * ((o["lat"] - L["lat"]) ** 2 + ((o["lon"] - L["lon"]) * 0.8) ** 2) ** 0.5
+            return 1 if km <= 15 else 2
+        return 2
+
     def score(o):
         same_type = (o["type"] in APARTMENT_TYPES) == (L["type"] in APARTMENT_TYPES)
-        return (o["coast"] != L["coast"], not same_type, abs(o["price"] - L["price"]) / max(L["price"], 1))
+        # same coast and kind of home first, then the same town or close by, then the closest price
+        return (o["coast"] != L["coast"], not same_type, near(o), abs(o["price"] - L["price"]) / max(L["price"], 1))
     pool = sorted((o for o in everyone if o["id"] != L["id"] and o["photos"]), key=score)[:4]
     cards = []
     for o in pool:
