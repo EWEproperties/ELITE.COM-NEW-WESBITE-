@@ -504,6 +504,11 @@ def set_seo_titles(items):
 FEES = 2.5
 
 
+def the_region(name):
+    """'the Valencian Community', 'Andalusia', 'the Region of Murcia'."""
+    return name if name == "Andalusia" else f"the {name}"
+
+
 def costs(L):
     """Rows of the buying-cost table and a note, or None where we have no regional rates.
     New build (Lucy, 2026-11-08): IVA + ONE line for stamp duty, notary, land registry and lawyer,
@@ -516,7 +521,7 @@ def costs(L):
         rows = [("IVA (VAT) 10%", p * 0.10),
                 (f"Additional costs: stamp duty, notary, land registry, lawyer (about {r['extra']:g}%)", p * r["extra"] / 100)]
         note = (f"IVA is 10% on a new home bought from the developer. The additional costs are AJD stamp duty "
-                f"({r['ajd']:g}% in the {L['region']}) plus notary, land registry and lawyer, usually 1.5–2.5% of the price; "
+                f"({r['ajd']:g}% in {the_region(L['region'])}) plus notary, land registry and lawyer, usually 1.5–2.5% of the price; "
                 f"we round up so the estimate is never too low.")
     else:
         rate = r["itp"][1] if p > 1_000_000 else r["itp"][0]
@@ -524,7 +529,7 @@ def costs(L):
                 (f"Additional costs: notary, land registry, lawyer (about {FEES:g}%)", p * FEES / 100)]
         note = "A resale home is taxed with ITP transfer tax instead of IVA."
         if r["itp"][0] != r["itp"][1]:
-            note += f" In the {L['region']} ITP is {r['itp'][0]:g}%, or {r['itp'][1]:g}% for homes over €1,000,000."
+            note += f" In {the_region(L['region'])} ITP is {r['itp'][0]:g}%, or {r['itp'][1]:g}% for homes over €1,000,000."
     return rows, p + sum(v for _, v in rows), note
 
 
@@ -537,7 +542,7 @@ def dist(pl):
     km = pl["km"]
     if km < 1:
         return f"about {max(100, round(km * 1000, -2)):.0f} m"
-    return f"about {km:.1f} km" if km < 3 else f"about {round(km)} km"
+    return f"about {km:.1f} km".replace(".0 km", " km") if km < 3 else f"about {round(km)} km"
 
 
 def drive(pl):
@@ -573,7 +578,8 @@ def faq(L, agent):
     if n.get("shop"):
         q.append(("Where are the nearest shops and supermarket?",
                   f"The nearest supermarket is {n['shop']['name']}, {dist(n['shop'])} away."))
-    aps = n.get("airports") or ([n["airport"]] if n.get("airport") else [])
+    # Gibraltar means crossing the border: Costa del Sol buyers are pointed to Málaga
+    aps = [a for a in n.get("airports") or ([n["airport"]] if n.get("airport") else []) if "Gibraltar" not in a["name"]]
     if aps:
         txt = f"{aps[0]['name']} is {dist(aps[0])} by road{drive(aps[0])}."
         if len(aps) > 1 and aps[1]["km"] <= 100:
@@ -770,7 +776,7 @@ def page(L, everyone, url_of, src):
             <tr class="total"><th scope="row">Estimated total</th><td>{euro(total)}</td></tr>
           </tbody>
         </table>
-        <p>{e(note)} These are the general rates for the {e(L['region'])}; reduced rates exist for some buyers.</p>
+        <p>{e(note)} These are the general rates for {e(the_region(L['region']))}; reduced rates exist for some buyers.</p>
 '''
     map_link = (f'<p class="map-link"><a href="https://www.google.com/maps?q={L["lat"]},{L["lon"]}" target="_blank" rel="noopener">'
                 f'Open the location in Google Maps &rarr;</a></p>') if L["lat"] else ""
@@ -1035,7 +1041,8 @@ def main(args):
             hand_made.add(L["id"])
 
     def url_of(L, rel=False):
-        return f"{L['slug']}.html" if rel else f"{SITE}/properties/{L['slug']}.html"
+        # canonical / hreflang / sitemap use the clean URL the host serves (no .html); file links keep .html
+        return f"{L['slug']}.html" if rel else f"{SITE}/properties/{L['slug']}"
 
     built = set()
     for L in items:
@@ -1063,7 +1070,7 @@ def main(args):
     llms = "## Properties for sale\n\nAll listings with full details: " + SITE + "/feeds/properties.json\n\n" + "".join(
         f"- [{L['title']}]({url_of(L)}): {summary(L)} Ref. {L['ref']}.\n" for L in gen) + "\n"
     replace_block(os.path.join(ROOT, "llms.txt"), "<!-- properties -->", "<!-- /properties -->", llms, "## Articles")
-    write_feeds(items, lambda L: (f"{SITE}/properties/{L['slug']}.html"))
+    write_feeds(items, lambda L: (f"{SITE}/properties/{L['slug']}"))
     with open(os.path.join(HERE, "redirects.csv"), "w", encoding="utf-8") as f:
         f.write("from,to\n")
         for L in items:

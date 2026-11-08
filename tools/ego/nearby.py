@@ -132,21 +132,112 @@ def lookup(lat, lon):
     return res
 
 
+CATS = {  # category -> Overpass filter (run once per region box, not per listing)
+    "beach": "nwr[natural=beach][name]",
+    "school": "nwr[amenity=school][name]",
+    "hospital": "nwr[amenity=hospital][name]",
+    "clinic": "nwr[amenity=clinic][name]",
+    "shop": "nwr[shop=supermarket][name]",
+}
+HEALTH_CENTRE = re.compile(r"centro de salud|centre de salut|consultori|health cent|ambulatorio", re.I)
+OSM_CACHE = os.path.join(HERE, "osm-cache")  # raw Overpass answers per province (not committed)
+PAD = 0.35  # degrees (~35 km) around the listings of a province
+
+
+def region_places(pts, prov=""):
+    """All places of each category inside the box around these listings, one query per category.
+    Saved in osm-cache/ so a rerun (e.g. after changing the picking rules) needs no new queries."""
+    cache = os.path.join(OSM_CACHE, re.sub(r"\W+", "-", prov or "x") + ".json")
+    if os.path.exists(cache):
+        return json.load(open(cache))
+    la = [p[0] for p in pts]; lo = [p[1] for p in pts]
+    box = f"{min(la) - PAD},{min(lo) - PAD},{max(la) + PAD},{max(lo) + PAD}"
+    el = []
+    for cat, flt in CATS.items():
+        for attempt in range(5):
+            data = curl(OVERPASS, f"[out:json][timeout:180];{flt}({box});out center tags;")
+            if data and "elements" in data:
+                el += data["elements"]
+                print(f"  {cat}: {len(data['elements'])}")
+                break
+            time.sleep(15 * (attempt + 1))
+        else:
+            print(f"  {cat}: FAILED")
+            return el  # not cached, so the next run tries again
+        time.sleep(3)
+    os.makedirs(OSM_CACHE, exist_ok=True)
+    json.dump(el, open(cache, "w"))
+    return el
+
+
+def pick(el, lat, lon):
+    """Nearest places by straight line; road distances come from one OSRM table call."""
+    chosen = {}
+    b = nearest(el, lambda t: t.get("natural") == "beach", lat, lon)
+    if b and km_line(lat, lon, b[0][1], b[0][2]) <= 15:
+        chosen["beach"] = b
+    s = nearest(el, lambda t: t.get("amenity") == "school", lat, lon, n=2)
+    if s:
+        chosen["schools"] = [x for x in s if km_line(lat, lon, x[1], x[2]) <= 8]
+    # OSM tags some health centres as hospitals: sort them by name
+    h = nearest(el, lambda t: t.get("amenity") == "hospital" and not HEALTH_CENTRE.search(t.get("name", "")), lat, lon)
+    if h:
+        chosen["hospital"] = h
+    hc = nearest(el, lambda t: t.get("amenity") in ("clinic", "hospital") and HEALTH_CENTRE.search(t.get("name", "")), lat, lon)
+    if hc and km_line(lat, lon, hc[0][1], hc[0][2]) <= 12:
+        chosen["health"] = hc
+    sh = nearest(el, lambda t: t.get("shop") == "supermarket", lat, lon)
+    if sh and km_line(lat, lon, sh[0][1], sh[0][2]) <= 6:
+        chosen["shop"] = sh
+    chosen["airports"] = [(x[0], x[1], x[2]) for x in sorted(AIRPORTS, key=lambda x: km_line(lat, lon, x[1], x[2]))[:2]]
+    flat = [(k, x) for k, v in chosen.items() for x in v]
+    coords = ";".join([f"{lon},{lat}"] + [f"{x[2]},{x[1]}" for _, x in flat])
+    r = None
+    for attempt in range(3):
+        r = curl(f"{OSRM.replace('/route/', '/table/')}{coords}?sources=0&annotations=distance,duration")
+        if r and r.get("code") == "Ok":
+            break
+        time.sleep(5)
+    res = {}
+    for i, (k, x) in enumerate(flat, start=1):
+        if r and r.get("code") == "Ok" and r["distances"][0][i] is not None:
+            km, mins = round(r["distances"][0][i] / 1000, 1), round(r["durations"][0][i] / 60)
+        else:
+            km, mins = round(km_line(lat, lon, x[1], x[2]) * 1.3, 1), None
+        item = {"name": x[0], "km": km, "min": mins}
+        if k in ("schools", "airports"):
+            res.setdefault(k, []).append(item)
+        else:
+            res[k] = item
+    for k in ("schools", "airports"):
+        if res.get(k):
+            res[k].sort(key=lambda x: x["km"])
+    return res
+
+
 def main(refs):
-    done = json.load(open(OUT)) if os.path.exists(OUT) else {}
+    """Bulk mode: one set of Overpass queries per province, then one OSRM call per listing."""
+    done = json.load(open(OUT)) if os.path.exists(OUT) and "--fresh" not in refs else {}
+    refs = refs - {"--fresh"}
+    todo = {}
     for f in sorted(glob.glob(os.path.join(HERE, "cache", "[0-9]*.json"))):
         p = json.load(open(f))
         ref = p.get("Reference")
         if not ref or not p.get("GPSLat") or (refs and ref not in refs) or (not refs and ref in done):
             continue
-        try:
-            done[ref] = lookup(float(p["GPSLat"]), float(p["GPSLon"]))
-            print(ref, ", ".join(k for k in done[ref]))
-        except Exception as ex:  # one bad listing must not stop the rest
-            print(ref, "failed:", ex)
+        todo.setdefault(p.get("District") or "?", []).append((float(p["GPSLat"]), float(p["GPSLon"]), ref))
+    for prov, pts in todo.items():
+        print(prov, len(pts), "listings")
+        el = region_places(pts, prov)
+        for lat, lon, ref in pts:
+            try:
+                done[ref] = pick(el, lat, lon)
+            except Exception as ex:  # one bad listing must not stop the rest
+                print(ref, "failed:", ex)
+            time.sleep(1)  # be kind to the public router
         with open(OUT, "w") as fh:
             json.dump(done, fh, ensure_ascii=False, indent=1, sort_keys=True)
-        time.sleep(2)
+        print(prov, "done")
 
 
 if __name__ == "__main__":
