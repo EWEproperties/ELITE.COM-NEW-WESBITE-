@@ -21,7 +21,7 @@
   "id": "19299974",
   "slug": "",
   "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P22203169/Tphoto/ID21cb5201-0000-0500-0000-000018bcd1c4.jpg",
-  "alt": "Villa for sale in Los Alcázare",
+  "alt": "Villa for sale  in Los Alcázare",
   "ref": "EWE1768",
   "title": "Wonderful villa in Los Alcázare",
   "price": "544 841 €",
@@ -186,7 +186,7 @@
   "alt": "Modern apartament with a large terrace for sale in Los Alcázares.",
   "ref": "EWE3620",
   "title": "Apartment with a large terrace 800 metres from the beach in Los Alcázares",
-  "price": "321 500 €",
+  "price": "329 000 €",
   "loc": [
    "Murcia",
    "Los Alcázares"
@@ -222,7 +222,7 @@
   "alt": "New apartments 1km from the beach in Los Alcázares",
   "ref": "EWE3691",
   "title": "New apartments 1 km from the beach in Los Alcázares",
-  "price": "269 900 €",
+  "price": "415 000 €",
   "loc": [
    "Murcia",
    "Los Alcázares"
@@ -255,7 +255,7 @@
   "id": "25510845",
   "slug": "",
   "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P29758545/Tphoto/ID5114c601-0000-0500-0000-000018e7a6a6.jpg",
-  "alt": "Elitarne apartamenty 300 m od morza w Los Alcazares",
+  "alt": "Apartamento en venta cerca de la playa en Los Alcázares.",
   "ref": "EWE3697",
   "title": "Elitarne apartamenty 300 m od morza w Los Alcazares",
   "price": "309 000 €",
@@ -330,12 +330,14 @@
   "alt": "Modern apartments for sale next to the Los Alcázares golf course.",
   "ref": "EWE3725",
   "title": "Ready-made apartment next to the golf course in Los Alcázares",
-  "price": "265 000 €",
+  "price": "275 000 €",
   "loc": [
    "Murcia",
    "Los Alcázares"
   ],
   "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
    "AREA": "70"
   }
  },
@@ -364,7 +366,7 @@
   "alt": "Apartments for sale near La Serena Golf in Los Alcázares.",
   "ref": "EWE3727",
   "title": "Exclusive apartments at La Serena Golf in Los Alcázares",
-  "price": "279 000 €",
+  "price": "299 000 €",
   "loc": [
    "Murcia",
    "Los Alcázares"

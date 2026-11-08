@@ -165,8 +165,8 @@
   "text": "Planned construction completion date: October 2025"
  },
  "EWE2423": {
-  "label": "2026",
-  "status": "ok",
+  "label": "Q2 2026",
+  "status": "date passed: key ready now?",
   "text": "Delivery date : 2Q 2026"
  },
  "EWE3106": {
@@ -276,7 +276,7 @@
  },
  "EWE3268": {
   "label": "Q4 2026",
-  "status": "date passed: key ready now?",
+  "status": "ok",
   "text": "Planned construction completion date: Q4 2026"
  },
  "EWE3269": {
@@ -810,9 +810,9 @@
   "text": "The expected completion date is December 2026."
  },
  "EWE3551": {
-  "label": "Sep 2026",
-  "status": "date passed: key ready now?",
-  "text": "Planned completion date: September 2026."
+  "label": "Q4 2026",
+  "status": "ok",
+  "text": "The last two ground-floor bungalows in a new development in San Miguel de Salinas, about 12 km from the beaches of Orihuela Costa. Choose a 2-bedroom, 2-bathroom home with 68 m² built, a porch and a 33 m² garden (€224,90"
  },
  "EWE3552": {
   "label": "Sep 2026",
@@ -822,7 +822,7 @@
  "EWE3553": {
   "label": "18 months",
   "status": "relative (needs a real date)",
-  "text": "With full building licence and expected completion within 18 months of reservation, this villa represents a unique opportunity to own a contemporary masterpiece in one of the most sought-after locations on the Costa Blan"
+  "text": "Planned completion: about 18 months after reservation. Payment in stages: €25,000 reservation, a larger payment when work starts on the plot, then stage payments during construction and the last 2% on delivery of the key"
  },
  "EWE3567": {
   "label": "2029",
@@ -1175,9 +1175,9 @@
   "text": "The planned completion date is June 2027."
  },
  "EWE3725": {
-  "label": "From End 2026",
+  "label": "From Q2 2027",
   "status": "ok",
-  "text": "Estimated completion dates: / * Phase 1: End of 2026 * Phase 2: Mid-2027"
+  "text": "Planned completion: 2Q 2027 (last home in phase 2) and 2Q–3Q 2028 (phase 3)."
  },
  "EWE3726": {
   "label": "End 2026",

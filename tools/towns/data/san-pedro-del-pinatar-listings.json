@@ -111,7 +111,7 @@
   "id": "22735071",
   "slug": "",
   "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P26658857/Tphoto/ID29c89601-0000-0500-0000-00001a0c4efa.jpg",
-  "alt": "Excellent terraced house 5 km from the beach in San Pedro del Pinatar",
+  "alt": "Chalet adosado en venta cerca de la playa en Torre de la Horadada",
   "ref": "EWE3462",
   "title": "Excellent terraced house 5 km from the beach in San Pedro del Pinatar",
   "price": "380 000 €",
@@ -257,7 +257,7 @@
   "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P30161704/Tphoto/ID283bcc01-0000-0500-0000-00001978b1c1.jpg",
   "alt": "Apartment for sale 700 meters from the beach in Lo Pagán, San Pedro del Pinatar.",
   "ref": "EWE3724",
-  "title": "Fully equipped apartments 700 m from the beach in Lo Pagán, San Pedro del Pinatar.",
+  "title": "Fully equipped apartments 700 m from the beach in Lo Pagán, San Pedro del Pinatar",
   "price": "168 900 €",
   "loc": [
    "Murcia",
@@ -338,6 +338,24 @@
   "det": {
    "BATHS": "2",
    "AREA": "70"
+  }
+ },
+ {
+  "id": "26937531",
+  "slug": "",
+  "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P31379311/Tphoto/ID6fcfde01-0000-0500-0000-00001ad06b87.jpg",
+  "alt": "Bella Salina Apartments Phase III, San Pedro del Pinatar",
+  "ref": "EWE3913",
+  "title": "New 2-Bed Apartments with Communal Pool in San Pedro del Pinatar",
+  "price": "239 900 €",
+  "loc": [
+   "Murcia",
+   "San Pedro del Pinatar"
+  ],
+  "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
+   "AREA": "82.8"
   }
  }
 ]

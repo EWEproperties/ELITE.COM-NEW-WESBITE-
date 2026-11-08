@@ -5,7 +5,7 @@
   "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P23508760/Tphoto/ID18b76601-0000-0500-0000-000010e737ad.jpg",
   "alt": "For sale 3 bedroom apartment in Guardamar del Segura, Alicante",
   "ref": "EWE3105",
-  "title": "Ready, new appartment with 145 m2 terrace in Guardamar del Segura",
+  "title": "Ready, new apartment with 145 m2 terrace in Guardamar del Segura",
   "price": "344 900 €",
   "loc": [
    "Alicante",
@@ -129,7 +129,7 @@
   "id": "24606300",
   "slug": "",
   "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P28766884/Tphoto/IDa4f2b601-0000-0500-0000-000017b86076.jpg",
-  "alt": "Elegant semi-detached house with a large terrace in El Raso",
+  "alt": "Se vende casa adosada en El Raso, Guardamar del Segura",
   "ref": "EWE3636",
   "title": "Elegant semi-detached house with a large terrace in El Raso",
   "price": "459 000 €",
@@ -183,7 +183,7 @@
   "id": "26215992",
   "slug": "",
   "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P30595081/Tphoto/ID09d8d201-0000-0500-0000-000019dbd7cb.jpg",
-  "alt": "Fully Furnished Apartments Next to La Mata Natural Park in Guardamar del Segura",
+  "alt": "Apartamentos totalmente amueblados junto al Parque Natural de La Mata en Guardamar del Segura",
   "ref": "EWE3788",
   "title": "Fully Furnished Apartments Next to La Mata Natural Park in Guardamar del Segura",
   "price": "295 000 €",
@@ -196,5 +196,19 @@
    "BATHS": "2",
    "AREA": "70"
   }
+ },
+ {
+  "id": "26948842",
+  "slug": "",
+  "img": "https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P31392295/Tphoto/ID2702df01-0000-0500-0000-00001ad4f064.jpg",
+  "alt": "New build apartments for sale with pool in Guardamar del Segura",
+  "ref": "EWE3914",
+  "title": "Modern Apartments 2 km from the Beach in Guardamar del Segura",
+  "price": "275 000 €",
+  "loc": [
+   "Alicante",
+   "Guardamar del Segura"
+  ],
+  "det": {}
  }
 ]

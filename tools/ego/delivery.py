@@ -36,9 +36,9 @@ def parse(s):
     """Return (sortkey(y,m), label) of the earliest date in s, or None."""
     s = s.replace("–", "-")
     found = []
-    for m in re.finditer(r"\b(?:Q([1-4])|(first|1st|second|2nd|third|3rd|fourth|4th|last) quarter(?: of)?)\s*(?:of\s*)?(20\d\d)", s, re.I):
-        q = int(m.group(1)) if m.group(1) else Q[m.group(2).lower()]
-        found.append(((int(m.group(3)), q*3-2), f"Q{q} {m.group(3)}", m.span()))
+    for m in re.finditer(r"\b(?:Q([1-4])|([1-4])Q|(first|1st|second|2nd|third|3rd|fourth|4th|last) quarter(?: of)?)\s*(?:of\s*)?(20\d\d)", s, re.I):
+        q = int(m.group(1) or m.group(2)) if (m.group(1) or m.group(2)) else Q[m.group(3).lower()]
+        found.append(((int(m.group(4)), q*3), f"Q{q} {m.group(4)}", m.span()))
     for m in re.finditer(r"\b(first|1st|second|2nd) half(?: of)?\s*(20\d\d)", s, re.I):
         h = 1 if m.group(1).lower() in ("first","1st") else 2
         found.append(((int(m.group(2)), 1 if h==1 else 7), f"{'1st' if h==1 else '2nd'} half {m.group(2)}", m.span()))

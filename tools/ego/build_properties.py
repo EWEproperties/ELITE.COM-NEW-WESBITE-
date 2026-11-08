@@ -509,6 +509,10 @@ def the_region(name):
     return name if name == "Andalusia" else f"the {name}"
 
 
+# Tourist apartments sold with 21% VAT and a compulsory rental operator (developer documents; Lucy, 2026-11-08).
+TOURIST_VAT21 = {"EWE3758", "EWE3367"}
+
+
 def costs(L):
     """Rows of the buying-cost table and a note, or None where we have no regional rates.
     New build (Lucy, 2026-11-08): IVA + ONE line for stamp duty, notary, land registry and lawyer,
@@ -517,7 +521,13 @@ def costs(L):
     if not r or not L["price"]:
         return None
     p = L["price"]
-    if L["new"]:
+    if L["ref"] in TOURIST_VAT21:
+        rows = [("IVA (VAT) 21% (tourist apartment)", p * 0.21),
+                (f"Additional costs: stamp duty, notary, land registry, lawyer (about {r['extra']:g}%)", p * r["extra"] / 100)]
+        note = ("This is a licensed tourist apartment, so the developer charges 21% IVA instead of 10%. A buyer who registers "
+                "a rental business in Spain can reclaim it; get independent tax advice. The additional costs are AJD stamp duty "
+                f"({r['ajd']:g}% in {the_region(L['region'])}) plus notary, land registry and lawyer; we round up so the estimate is never too low.")
+    elif L["new"]:
         rows = [("IVA (VAT) 10%", p * 0.10),
                 (f"Additional costs: stamp duty, notary, land registry, lawyer (about {r['extra']:g}%)", p * r["extra"] / 100)]
         note = (f"IVA is 10% on a new home bought from the developer. The additional costs are AJD stamp duty "

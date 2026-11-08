@@ -126,7 +126,7 @@
   "alt": "Apartments for sale near La Serena Golf in Los Alcázares.",
   "ref": "EWE3727",
   "title": "Exclusive apartments at La Serena Golf in Los Alcázares",
-  "price": "279 000 €",
+  "price": "299 000 €",
   "loc": [
    "Murcia",
    "Los Alcázares"
@@ -186,12 +186,14 @@
   "alt": "Modern apartments for sale next to the Los Alcázares golf course.",
   "ref": "EWE3725",
   "title": "Ready-made apartment next to the golf course in Los Alcázares",
-  "price": "265 000 €",
+  "price": "275 000 €",
   "loc": [
    "Murcia",
    "Los Alcázares"
   ],
   "det": {
+   "ROOMS": "2",
+   "BATHS": "2",
    "AREA": "70"
   },
   "near": false,
@@ -224,7 +226,7 @@
   "alt": "New apartments 1km from the beach in Los Alcázares",
   "ref": "EWE3691",
   "title": "New apartments 1 km from the beach in Los Alcázares",
-  "price": "269 900 €",
+  "price": "415 000 €",
   "loc": [
    "Murcia",
    "Los Alcázares"
