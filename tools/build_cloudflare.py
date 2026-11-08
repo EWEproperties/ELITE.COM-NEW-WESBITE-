@@ -36,7 +36,11 @@ REDIRECT_LISTS = [
     ("tools/redirects.csv", "from", "to"),
     ("tools/towns/redirects.csv", "from", "to"),
     ("tools/ego/redirects.csv", "from", "to"),
+    ("tools/old-site/redirects.csv", "from", "to"),  # every address in the old site's sitemap
 ]
+# Covered by the dynamic rule /property-details/:slug/:id -> /property-details/:id (see
+# tools/old-site/build_old_site_redirects.py), so one static line per listing id is enough.
+PROPERTY_SLUG_RE = re.compile(r"^/property-details/[^/]+/\d+$")
 MAX_STATIC, MAX_DYNAMIC = 2000, 100  # Cloudflare Pages Free limits
 
 HEADERS = """\
@@ -159,6 +163,8 @@ def build_redirects():
                 if not src or not dst:
                     continue
                 src = norm_path(src).rstrip("/") or "/"
+                if PROPERTY_SLUG_RE.match(src):
+                    continue
                 dst = clean_url(norm_path(dst))
                 if src == dst.split("?")[0] or src + ".html" == dst:
                     continue
@@ -218,6 +224,9 @@ def main():
     print("Building dist/ for Cloudflare Pages")
     n = copy_site()
     print(f"  copied {n} files")
+    # Refresh the old-site 301 list first, so it always matches the current listings and pages.
+    import subprocess
+    subprocess.run([sys.executable, os.path.join(ROOT, "tools", "old-site", "build_old_site_redirects.py")], check=True)
     build_redirects()
     with open(os.path.join(DIST, "_headers"), "w", encoding="utf-8") as f:
         f.write(HEADERS)
