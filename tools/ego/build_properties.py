@@ -1081,11 +1081,24 @@ def main(args):
         f"- [{L['title']}]({url_of(L)}): {summary(L)} Ref. {L['ref']}.\n" for L in gen) + "\n"
     replace_block(os.path.join(ROOT, "llms.txt"), "<!-- properties -->", "<!-- /properties -->", llms, "## Articles")
     write_feeds(items, lambda L: (f"{SITE}/properties/{L['slug']}"))
+    # The old eGO site builds its addresses from the eGO title, so a title change moves the URL
+    # (Lucy, 2026-11-08). Every old slug ever seen per listing id is kept in old_slugs.json and
+    # gets its own 301, so Google's indexed address keeps working whatever happens to the title.
+    old_path = os.path.join(HERE, "old_slugs.json")
+    old_slugs = json.load(open(old_path, encoding="utf-8")) if os.path.exists(old_path) else {}
+    for L in items:
+        seen = old_slugs.setdefault(str(L["id"]), [])
+        if L["old_slug"] and L["old_slug"] not in seen:
+            seen.append(L["old_slug"])
+    with open(old_path, "w", encoding="utf-8") as f:
+        json.dump(dict(sorted(old_slugs.items())), f, ensure_ascii=False, indent=0)
     with open(os.path.join(HERE, "redirects.csv"), "w", encoding="utf-8") as f:
         f.write("from,to\n")
         for L in items:
             new = f"/properties/{L['slug']}.html"
-            f.write(f"/property-details/{L['old_slug']}/{L['id']},{new}\n/property-details/{L['id']},{new}\n")
+            for slug in old_slugs.get(str(L["id"]), []):
+                f.write(f"/property-details/{slug}/{L['id']},{new}\n")
+            f.write(f"/property-details/{L['id']},{new}\n")
     print(f"sitemap, llms.txt, feeds and redirects updated ({len(items)} listings)")
 
 
