@@ -6,7 +6,7 @@ Usage:
   python3 tools/ego/nearby.py              # every cached listing not yet in nearby.json
   python3 tools/ego/nearby.py EWE3774 ...  # only these references (refreshed)
 
-Writes tools/ego/nearby.json: {ref: {"beach": {...}, "schools": [...], "health": {...},
+Writes tools/ego/nearby.json: {ref: {"beach": {...}, "school_public"/"school_private"/"school_intl": {...}, "health": {...},
 "shop": {...}, "airport": {...}}}, each place {"name", "km", "min"}. Distances are by road,
 from the listing's eGO map pin; pages round them and say "about".
 Map data © OpenStreetMap contributors (ODbL).
@@ -77,6 +77,24 @@ def place(name, lat, lon, plat, plon):
     return {"name": name, "km": km, "min": mins}
 
 
+GENERIC = {"British School", "Colegio de Educación Infantil y Primaria", "Colegio Público", "Instituto de Educación Secundaria"}
+TOWNS_FILE = os.path.join(HERE, "osm-cache", "towns.json")
+
+
+def town_of(lat, lon):
+    """Town name for a map point (OSM Nominatim), cached: used to tell apart places with a generic name."""
+    towns = json.load(open(TOWNS_FILE)) if os.path.exists(TOWNS_FILE) else {}
+    key = f"{lat:.4f},{lon:.4f}"
+    if key not in towns:
+        r = curl(f"https://nominatim.openstreetmap.org/reverse?lat={lat}&lon={lon}&format=json&zoom=14")
+        a = (r or {}).get("address", {})
+        towns[key] = a.get("village") or a.get("town") or a.get("city") or a.get("hamlet") or ""
+        time.sleep(1)
+        os.makedirs(os.path.dirname(TOWNS_FILE), exist_ok=True)
+        json.dump(towns, open(TOWNS_FILE, "w"), ensure_ascii=False)
+    return towns[key]
+
+
 def nearest(elems, test, lat, lon, n=1):
     out = []
     for x in elems:
@@ -93,6 +111,8 @@ def nearest(elems, test, lat, lon, n=1):
         if nm in seen:
             continue
         seen.add(nm)
+        if nm in GENERIC and town_of(a, b):
+            nm = f"{nm} ({town_of(a, b)})"
         res.append((nm, a, b))
         if len(res) == n:
             break
@@ -142,6 +162,38 @@ CATS = {  # category -> Overpass filter (run once per region box, not per listin
 HEALTH_CENTRE = re.compile(r"centro de salud|centre de salut|consultori|health cent|ambulatorio", re.I)
 OSM_CACHE = os.path.join(HERE, "osm-cache")  # raw Overpass answers per province (not committed)
 PAD = 0.35  # degrees (~35 km) around the listings of a province
+# Schools are split like on elite.pl: public, private, international (Lucy, 2026-11-08).
+NOT_SCHOOL = re.compile(r"academ|formaci|guarder|\bE\. ?I\.|\bEPA\b|adult|especial|discapac|ocupacional|"
+                        r"granja|conservatori|m[uú]sica|idiomas|autoescuela|n[aá]utica|agrari|danza|dance|in english|"
+                        r"think english|stem english|language|centro de d[ií]a", re.I)
+INTL_SCHOOL = re.compile(r"international|internacional|internacional|british|english school|american|europe|"
+                         r"norueg|norsk|norske|finland|finlandés|suomalai|svensk|scandinav|deutsch|alem[aá]n|"
+                         r"liceo franc|fran[cç]ais", re.I)
+PUBLIC_SCHOOL = re.compile(r"\bCEIP\b|\bIES\b|\bC\.?E\.?I\.?P|\bI\.?E\.?S\.|\bC\.?P\.?R?\b|\bCRA\b|p[uú]blic|"
+                           r"educaci[oó]n (infantil y )?primaria|educaci[oó] infantil i prim|instituto|institut|institudo|"
+                           r"colegio rural|aulari", re.I)
+PRIVATE_SCHOOL = re.compile(r"privad|concertad|salesian|la salle|sagrad|diocesan|docente privado|jesu[iíï]t|inmaculada|"
+                            r"trinitari|escolapi|escola pia|teresian|marist|carmelit|ursulin|esclavas|cooperativa|"
+                            r"jes[uú]s mar[ií]a|patronato|nuestra señora|virgen|santa |san |sant |salesian", re.I)
+SCHOOL_WORD = re.compile(r"colegio|col·legi|school|college|escuela|escola|centro docente|centre educatiu|centro escolar|"
+                         r"skole|skolan|schule|liceo", re.I)
+
+
+def school_kind(t):
+    """'public', 'private', 'intl' or None (not a regular school, or unknown)."""
+    if t.get("amenity") != "school":
+        return None
+    nm = t.get("name", "")
+    if NOT_SCHOOL.search(nm) or re.search(r"[\u0600-\u06ff]", nm) or (re.search(r"infantil", nm, re.I) and not re.search(r"prim", nm, re.I)):
+        return None
+    op = t.get("operator:type")
+    if INTL_SCHOOL.search(nm):
+        return "intl"
+    if op in ("public", "government") or (op not in ("private", "religious") and PUBLIC_SCHOOL.search(nm)):
+        return "public"
+    if (op in ("private", "religious") or PRIVATE_SCHOOL.search(nm)) and SCHOOL_WORD.search(nm):
+        return "private"
+    return None
 
 
 def region_places(pts, prov=""):
@@ -176,9 +228,10 @@ def pick(el, lat, lon):
     b = nearest(el, lambda t: t.get("natural") == "beach", lat, lon)
     if b and km_line(lat, lon, b[0][1], b[0][2]) <= 15:
         chosen["beach"] = b
-    s = nearest(el, lambda t: t.get("amenity") == "school", lat, lon, n=2)
-    if s:
-        chosen["schools"] = [x for x in s if km_line(lat, lon, x[1], x[2]) <= 8]
+    for kind, limit in (("public", 8), ("private", 20), ("intl", 40)):
+        s = nearest(el, lambda t: school_kind(t) == kind, lat, lon)
+        if s and km_line(lat, lon, s[0][1], s[0][2]) <= limit:
+            chosen["school_" + kind] = s
     # OSM tags some health centres as hospitals: sort them by name
     h = nearest(el, lambda t: t.get("amenity") == "hospital" and not HEALTH_CENTRE.search(t.get("name", "")), lat, lon)
     if h:
@@ -205,11 +258,11 @@ def pick(el, lat, lon):
         else:
             km, mins = round(km_line(lat, lon, x[1], x[2]) * 1.3, 1), None
         item = {"name": x[0], "km": km, "min": mins}
-        if k in ("schools", "airports"):
+        if k == "airports":
             res.setdefault(k, []).append(item)
         else:
             res[k] = item
-    for k in ("schools", "airports"):
+    for k in ("airports",):
         if res.get(k):
             res[k].sort(key=lambda x: x["km"])
     return res
