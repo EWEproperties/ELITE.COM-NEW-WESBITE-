@@ -1,3 +1,4 @@
 tools/ego/cache/
 __pycache__/
 tools/ego/osm-cache/
+dist/
