@@ -671,7 +671,7 @@
      "@type": "ListItem",
      "position": 102,
      "url": "https://www.eliteworldestates.com/properties/spectacular-beachfront-appartment-in-manilva.html",
-     "name": "Spectacular beachfront appartment in Manilva"
+     "name": "Spectacular beachfront apartment in Manilva"
     },
     {
      "@type": "ListItem",
@@ -785,7 +785,7 @@
      "@type": "ListItem",
      "position": 121,
      "url": "https://www.eliteworldestates.com/properties/fantastic-apartment-with-sea-views-in-casares.html",
-     "name": "Fantastic apartment with sea views in Casares."
+     "name": "Fantastic apartment with sea views in Casares"
     },
     {
      "@type": "ListItem",
@@ -2108,10 +2108,10 @@
           </div>
         </a>
         <a class="tcard" href="properties/spectacular-beachfront-appartment-in-manilva.html" data-coast="Costa del Sol" data-town="Manilva" data-type="Apartment" data-beds="3" data-price="1325000" data-new="2024-10-31">
-          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P25378080/Tphoto/ID203d8301-0000-0500-0000-000013e57734.jpg" alt="Spectacular beachfront appartment in Manilva" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE3364</span></div>
+          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P25378080/Tphoto/ID203d8301-0000-0500-0000-000013e57734.jpg" alt="Spectacular beachfront apartment in Manilva" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE3364</span></div>
           <div class="tcard-body">
             <p class="tcard-town">Manilva</p>
-            <h3>Spectacular beachfront appartment in Manilva</h3>
+            <h3>Spectacular beachfront apartment in Manilva</h3>
             <p class="tcard-price">€1,325,000</p>
             <p class="tcard-facts"><span>3 bedrooms · 2 bathrooms · 160 m²</span><span class="tcard-refno">Ref. EWE3364</span></p>
           </div>
@@ -2279,10 +2279,10 @@
           </div>
         </a>
         <a class="tcard" href="properties/fantastic-apartment-with-sea-views-in-casares.html" data-coast="Costa del Sol" data-town="Casares" data-type="Apartment" data-beds="2" data-price="446000" data-new="2026-02-20">
-          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P29442818/Tphoto/ID0243c101-0000-0500-0000-00001880be2a.jpg" alt="Fantastic apartment with sea views in Casares." width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE3681</span></div>
+          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P29442818/Tphoto/ID0243c101-0000-0500-0000-00001880be2a.jpg" alt="Fantastic apartment with sea views in Casares" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE3681</span></div>
           <div class="tcard-body">
             <p class="tcard-town">Casares</p>
-            <h3>Fantastic apartment with sea views in Casares.</h3>
+            <h3>Fantastic apartment with sea views in Casares</h3>
             <p class="tcard-price">€446,000</p>
             <p class="tcard-facts"><span>2 bedrooms · 2 bathrooms · 99 m²</span><span class="tcard-refno">Ref. EWE3681</span></p>
           </div>
@@ -2915,7 +2915,23 @@
     var el = document.getElementById(k[1]), v = q.get(k[0]);
     if (el && v && Array.prototype.some.call(el.options, function (o) { return o.value === v; })) el.value = v;
   });
-  document.getElementById("filter").addEventListener("change", function () { apply(true); });
+  // Town list shows only the towns on the chosen coast
+  function towns() {
+    var el = document.getElementById("f-town"), coast = val("f-coast");
+    if (!el || !document.getElementById("f-coast")) return;
+    var have = {};
+    cards.forEach(function (c) { if (!coast || c.dataset.coast === coast) have[c.dataset.town] = 1; });
+    Array.prototype.forEach.call(el.options, function (o) {
+      var ok = !o.value || have[o.value];
+      o.hidden = !ok; o.disabled = !ok;
+    });
+    if (el.value && !have[el.value]) el.value = "";
+  }
+  towns();
+  document.getElementById("filter").addEventListener("change", function (ev) {
+    if (ev.target.id === "f-coast") towns();
+    apply(true);
+  });
   more.addEventListener("click", function () { shown += step; apply(false); });
   apply(true);
 })();

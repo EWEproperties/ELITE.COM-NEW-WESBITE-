@@ -197,7 +197,7 @@
      "@type": "ListItem",
      "position": 23,
      "url": "https://www.eliteworldestates.com/properties/key-ready-luxury-dream-villa-with-sea-view-in-javea.html",
-     "name": "Key ready, luxury dream villa with sea view in Jávea."
+     "name": "Key ready, luxury dream villa with sea view in Jávea"
     },
     {
      "@type": "ListItem",
@@ -965,10 +965,10 @@
           </div>
         </a>
         <a class="tcard" href="properties/key-ready-luxury-dream-villa-with-sea-view-in-javea.html" data-coast="Costa Blanca" data-town="Jávea" data-type="Villa" data-beds="3" data-price="1620000" data-new="2022-07-18">
-          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P22856249/Tphoto/ID39c25c01-0000-0500-0000-0000100ce5d9.jpg" alt="Key ready, luxury dream villa with sea view in Jávea." width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE23</span></div>
+          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P22856249/Tphoto/ID39c25c01-0000-0500-0000-0000100ce5d9.jpg" alt="Key ready, luxury dream villa with sea view in Jávea" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE23</span></div>
           <div class="tcard-body">
             <p class="tcard-town">Jávea</p>
-            <h3>Key ready, luxury dream villa with sea view in Jávea.</h3>
+            <h3>Key ready, luxury dream villa with sea view in Jávea</h3>
             <p class="tcard-price">€1,620,000</p>
             <p class="tcard-facts"><span>3 bedrooms · 3 bathrooms · 374 m²</span><span class="tcard-refno">Ref. EWE23</span></p>
           </div>
@@ -1803,7 +1803,23 @@
     var el = document.getElementById(k[1]), v = q.get(k[0]);
     if (el && v && Array.prototype.some.call(el.options, function (o) { return o.value === v; })) el.value = v;
   });
-  document.getElementById("filter").addEventListener("change", function () { apply(true); });
+  // Town list shows only the towns on the chosen coast
+  function towns() {
+    var el = document.getElementById("f-town"), coast = val("f-coast");
+    if (!el || !document.getElementById("f-coast")) return;
+    var have = {};
+    cards.forEach(function (c) { if (!coast || c.dataset.coast === coast) have[c.dataset.town] = 1; });
+    Array.prototype.forEach.call(el.options, function (o) {
+      var ok = !o.value || have[o.value];
+      o.hidden = !ok; o.disabled = !ok;
+    });
+    if (el.value && !have[el.value]) el.value = "";
+  }
+  towns();
+  document.getElementById("filter").addEventListener("change", function (ev) {
+    if (ev.target.id === "f-coast") towns();
+    apply(true);
+  });
   more.addEventListener("click", function () { shown += step; apply(false); });
   apply(true);
 })();

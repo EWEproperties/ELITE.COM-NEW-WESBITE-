@@ -125,7 +125,7 @@
      "@type": "ListItem",
      "position": 11,
      "url": "https://www.eliteworldestates.com/properties/ready-new-appartment-with-145-m2-terrace-in-guardamar-del-segura.html",
-     "name": "Ready, new appartment with 145 m2 terrace in Guardamar del Segura"
+     "name": "Ready, new apartment with 145 m2 terrace in Guardamar del Segura"
     },
     {
      "@type": "ListItem",
@@ -525,10 +525,10 @@
           </div>
         </a>
         <a class="tcard" href="properties/ready-new-appartment-with-145-m2-terrace-in-guardamar-del-segura.html" data-coast="Costa Blanca" data-town="El Raso" data-type="Apartment" data-beds="3" data-price="344900" data-new="2023-02-06">
-          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P23508760/Tphoto/ID18b76601-0000-0500-0000-000010e737ad.jpg" alt="Ready, new appartment with 145 m2 terrace in Guardamar del Segura" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE3105</span></div>
+          <div class="tcard-photo"><img src="https://images.egorealestate.com/Z800x600/OAYES/S5/C6878/P23508760/Tphoto/ID18b76601-0000-0500-0000-000010e737ad.jpg" alt="Ready, new apartment with 145 m2 terrace in Guardamar del Segura" width="800" height="600" loading="lazy" decoding="async"><span class="tcard-ref">EWE3105</span></div>
           <div class="tcard-body">
             <p class="tcard-town">El Raso</p>
-            <h3>Ready, new appartment with 145 m2 terrace in Guardamar del Segura</h3>
+            <h3>Ready, new apartment with 145 m2 terrace in Guardamar del Segura</h3>
             <p class="tcard-price">€344,900</p>
             <p class="tcard-facts"><span>3 bedrooms · 2 bathrooms · 341 m²</span><span class="tcard-refno">Ref. EWE3105</span></p>
           </div>
@@ -983,7 +983,23 @@
     var el = document.getElementById(k[1]), v = q.get(k[0]);
     if (el && v && Array.prototype.some.call(el.options, function (o) { return o.value === v; })) el.value = v;
   });
-  document.getElementById("filter").addEventListener("change", function () { apply(true); });
+  // Town list shows only the towns on the chosen coast
+  function towns() {
+    var el = document.getElementById("f-town"), coast = val("f-coast");
+    if (!el || !document.getElementById("f-coast")) return;
+    var have = {};
+    cards.forEach(function (c) { if (!coast || c.dataset.coast === coast) have[c.dataset.town] = 1; });
+    Array.prototype.forEach.call(el.options, function (o) {
+      var ok = !o.value || have[o.value];
+      o.hidden = !ok; o.disabled = !ok;
+    });
+    if (el.value && !have[el.value]) el.value = "";
+  }
+  towns();
+  document.getElementById("filter").addEventListener("change", function (ev) {
+    if (ev.target.id === "f-coast") towns();
+    apply(true);
+  });
   more.addEventListener("click", function () { shown += step; apply(false); });
   apply(true);
 })();

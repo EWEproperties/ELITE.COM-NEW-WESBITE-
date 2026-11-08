@@ -160,7 +160,23 @@ SCRIPT = """<script>
     var el = document.getElementById(k[1]), v = q.get(k[0]);
     if (el && v && Array.prototype.some.call(el.options, function (o) { return o.value === v; })) el.value = v;
   });
-  document.getElementById("filter").addEventListener("change", function () { apply(true); });
+  // Town list shows only the towns on the chosen coast
+  function towns() {
+    var el = document.getElementById("f-town"), coast = val("f-coast");
+    if (!el || !document.getElementById("f-coast")) return;
+    var have = {};
+    cards.forEach(function (c) { if (!coast || c.dataset.coast === coast) have[c.dataset.town] = 1; });
+    Array.prototype.forEach.call(el.options, function (o) {
+      var ok = !o.value || have[o.value];
+      o.hidden = !ok; o.disabled = !ok;
+    });
+    if (el.value && !have[el.value]) el.value = "";
+  }
+  towns();
+  document.getElementById("filter").addEventListener("change", function (ev) {
+    if (ev.target.id === "f-coast") towns();
+    apply(true);
+  });
   more.addEventListener("click", function () { shown += step; apply(false); });
   apply(true);
 })();
