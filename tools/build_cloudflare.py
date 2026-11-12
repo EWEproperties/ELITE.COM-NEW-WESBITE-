@@ -227,6 +227,23 @@ def build_404():
         f.write(page)
 
 
+def hide_from_search():
+    """Keep every Cloudflare build out of Google unless it is the real live site.
+
+    Cloudflare sets CF_PAGES=1 on its builds. Preview links (*.pages.dev) must never be
+    indexed, or Google sees a duplicate of the whole site. The live site's production
+    environment gets LIVE_SITE=1 (Pages > Settings > Variables) on launch day.
+    Local builds (no CF_PAGES) are left as they are.
+    """
+    if os.environ.get("CF_PAGES") != "1" or os.environ.get("LIVE_SITE") == "1":
+        return False
+    with open(os.path.join(DIST, "_headers"), "a", encoding="utf-8") as f:
+        f.write("\n/*\n  X-Robots-Tag: noindex, nofollow\n")
+    with open(os.path.join(DIST, "robots.txt"), "w", encoding="utf-8") as f:
+        f.write("# Preview copy of the new site: not for search engines.\nUser-agent: *\nDisallow: /\n")
+    return True
+
+
 def main():
     print("Building dist/ for Cloudflare Pages")
     n = copy_site()
@@ -238,6 +255,8 @@ def main():
     with open(os.path.join(DIST, "_headers"), "w", encoding="utf-8") as f:
         f.write(HEADERS)
     build_404()
+    if hide_from_search():
+        print("  PREVIEW build: noindex header + robots.txt Disallow (set LIVE_SITE=1 on the live site)")
     total = sum(len(fs) for _, _, fs in os.walk(DIST))
     print(f"  dist/ has {total} files (Cloudflare Free limit 20,000)")
     if total > 20000:
