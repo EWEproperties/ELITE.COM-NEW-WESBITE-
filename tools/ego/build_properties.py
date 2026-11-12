@@ -571,7 +571,13 @@ def faq(L, agent):
     if n.get("beach"):
         b = n["beach"]
         q.append(("How far is the nearest beach?", f"The nearest beach is {b['name']}, {dist(b)} by road{drive(b)}."))
-    if n.get("schools"):
+    # one line per kind, like elite.pl (Lucy, 2026-11-08); old nearby.json files have "schools"
+    lines = [f"{label}: {n[k]['name']}, {dist(n[k])}{drive(n[k])}." for k, label in
+             (("school_public", "Public school"), ("school_private", "Private school"), ("school_intl", "International school"))
+             if n.get(k)]
+    if lines:
+        q.append(("Which schools are nearby?", "\n".join(lines)))
+    elif n.get("schools"):
         s = n["schools"]
         names = " and ".join(f"{x['name']} ({dist(x)})" for x in s)
         q.append(("Which schools are nearby?", f"The nearest schools are {names}." if len(s) > 1 else f"The nearest school is {names}."))
@@ -632,7 +638,7 @@ def schema(L, url, agent, faqs):
          "sameAs": ["https://www.facebook.com/EliteWorldEstates", "https://www.instagram.com/eliteworldestates/",
                     "https://www.youtube.com/@eliteworldestates"]},
         {"@context": "https://schema.org", "@type": "FAQPage", "mainEntity": [
-            {"@type": "Question", "name": qq, "acceptedAnswer": {"@type": "Answer", "text": a}} for qq, a in faqs]},
+            {"@type": "Question", "name": qq, "acceptedAnswer": {"@type": "Answer", "text": a.replace("\n", " ")}} for qq, a in faqs]},
     ]
     if not faqs:
         data = [d for d in data if d.get("@type") != "FAQPage"]
@@ -790,7 +796,7 @@ def page(L, everyone, url_of, src):
 '''
     map_link = (f'<p class="map-link"><a href="https://www.google.com/maps?q={L["lat"]},{L["lon"]}" target="_blank" rel="noopener">'
                 f'Open the location in Google Maps &rarr;</a></p>') if L["lat"] else ""
-    faq_html = "\n          ".join(f"<details><summary>{e(qq)}</summary><p>{e(a)}</p></details>" for qq, a in faqs)
+    faq_html = "\n          ".join(f"<details><summary>{e(qq)}</summary><p>{e(a).replace(chr(10), "<br>")}</p></details>" for qq, a in faqs)
     if faq_html:
         faq_html = f'''        <h2>Frequently asked questions</h2>
         <div class="faq">
