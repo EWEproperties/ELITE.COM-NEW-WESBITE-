@@ -3,6 +3,10 @@
 Usage:
   python3 tools/ego/fetch_ego.py                            # EGO_USERNAME + EGO_PASSWORD: eGO Global API
   python3 tools/ego/fetch_ego.py --check                    # log in, show permissions, read 1 page only
+  python3 tools/ego/fetch_ego.py --from-backup              # NO eGO call: build the cache from our own
+                                                            # copy (backup_ego.py; $EGO_BACKUP_DIR or
+                                                            # /mnt/project-files/ego-backup), newest snapshot
+  python3 tools/ego/fetch_ego.py --from-backup 2026-11-16   # ... or the snapshot of that day
   EGO_API_KEY=... python3 tools/ego/fetch_ego.py            # every listing (old website API)
   EGO_API_KEY=... python3 tools/ego/fetch_ego.py 26809066   # only these IDs
   python3 tools/ego/fetch_ego.py 26809066 ...               # no key: testing mode
@@ -88,7 +92,11 @@ class Global:
             cmd += ["-H", f"{k}: {v}"]
         if data is not None:
             cmd += ["--data-binary", "@-"]
-        r = subprocess.run(cmd, input=data, capture_output=True, timeout=180)
+        for attempt in range(4):  # the connection sometimes drops mid-answer: ask again (all calls only read)
+            r = subprocess.run(cmd, input=data, capture_output=True, timeout=180)
+            if r.returncode not in (18, 52, 56, 92):
+                break
+            time.sleep(2 ** (attempt + 1))
         if r.returncode:
             raise RuntimeError(f"eGO {method} {path} failed: {r.stdout.decode()[:300]} {r.stderr.decode()[:200]}")
         return json.loads(r.stdout or b"null")
@@ -143,6 +151,18 @@ class Lookups:
     """Names for the ids in a Global API listing, loaded once per run."""
 
     PROVINCES = ("Alicante", "Málaga", "Murcia", "Almería", "Valencia", "Granada", "Cádiz")
+
+    @classmethod
+    def from_backup(cls, lk):
+        """The same lookups from a backup_ego.py snapshot (lookups.json.gz): no eGO call."""
+        self = cls.__new__(cls)
+        self.g = None
+        self.nature = {x["id"]: lang(x["name"]) for x in lk["nature"]}
+        self.condition = {x["id"]: lang(x["name"]) for x in lk["condition"]}
+        self.feature = {x["id"]: x for x in lk["feature"]}
+        self.employee = {int(k): v for k, v in lk["agents"].items()}
+        self.locations = {x["id"]: x for x in lk["locations"]}
+        return self
 
     def __init__(self, g):
         self.g = g
@@ -254,6 +274,40 @@ def fetch_global(user, password, ids=None, check=False):
                 print("removed", f)
 
 
+WEBSITE_ID = 9039  # eGO "website" portal: listings published on the website (= hasWebPage)
+
+
+def fetch_backup(day=None):
+    """Fill the cache from our own copy of eGO instead of the eGO API."""
+    import gzip
+    base = os.environ.get("EGO_BACKUP_DIR") or "/mnt/project-files/ego-backup"
+    if not day:
+        with open(os.path.join(base, "latest.json"), encoding="utf-8") as f:
+            day = json.load(f)["date"]
+    snap = os.path.join(base, "snapshots", day)
+    load = lambda n: json.load(gzip.open(os.path.join(snap, n), "rt", encoding="utf-8"))  # noqa: E731
+    rows = [r for r in load("listings.json.gz")
+            if any(p.get("websiteId") == WEBSITE_ID for p in r.get("portals") or [])]
+    lk = Lookups.from_backup(load("lookups.json.gz"))
+    photos = {}
+    for x in load("media.json.gz"):
+        if x.get("mediaTypeKey") == 1 and x.get("canPublish") and x.get("url"):
+            photos.setdefault(x["ownerId"], []).append(x)
+    photos = {k: sorted(v, key=lambda x: x.get("priority") or 0) for k, v in photos.items()}
+    print(f"our eGO copy of {day}: {len(rows)} listings on the website, photos for {len(photos)}")
+    keep = set()
+    for r in rows:
+        path = os.path.join(CACHE, f"{web_id(r)}.json")
+        old = json.load(open(path, encoding="utf-8")) if os.path.exists(path) else None
+        save(to_website_shape(r, lk, old, photos.get(r["id"])))
+        keep.add(f"{web_id(r)}.json")
+    print(f"saved {len(keep)} listings")
+    for f in os.listdir(CACHE):
+        if f.endswith(".json") and not f.startswith("_") and f not in keep:
+            os.remove(os.path.join(CACHE, f))
+            print("removed", f)
+
+
 def save(p):
     with open(os.path.join(CACHE, f"{p['ID']}.json"), "w", encoding="utf-8") as f:
         json.dump(p, f, ensure_ascii=False, indent=1)
@@ -291,10 +345,13 @@ def pl_links():
 def main(ids):
     os.makedirs(CACHE, exist_ok=True)
     check = "--check" in ids
-    ids = [i for i in ids if i != "--check"]
+    from_backup = "--from-backup" in ids
+    ids = [i for i in ids if i not in ("--check", "--from-backup")]
     user, password = os.environ.get("EGO_USERNAME", "").strip(), os.environ.get("EGO_PASSWORD", "").strip()
     key = os.environ.get("EGO_API_KEY", "").strip()
-    if user and password:
+    if from_backup:
+        fetch_backup(ids[0] if ids else None)
+    elif user and password:
         fetch_global(user, password, set(ids), check)
         if check:
             return
