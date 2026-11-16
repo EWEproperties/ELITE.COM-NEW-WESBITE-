@@ -38,6 +38,7 @@ import subprocess
 import sys
 import tempfile
 import zipfile
+from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -45,6 +46,7 @@ from fetch_ego import APP_ID, Global  # noqa: E402
 
 DEFAULT_DIR = "/mnt/project-files/ego-backup"
 KEEP_DAILY = 60
+WORKERS = 8  # parallel photo downloads
 # Refuse to store a snapshot that lost more than this share of listings (an eGO hiccup,
 # not real sales); the previous snapshot then stays the newest.
 MAX_DROP = 0.2
@@ -192,11 +194,14 @@ def backup_files(base, media, rows):
             if os.path.exists(zpath):
                 shutil.copyfile(zpath, local)
             got = []
+            paths = {m["uid"]: os.path.join(tmp, m["uid"]) for m in todo}
+            with ThreadPoolExecutor(WORKERS) as pool:  # several downloads at once: ~8x faster
+                ok = dict(zip(paths, pool.map(lambda m: download(original_url(m), paths[m["uid"]]), todo)))
             with zipfile.ZipFile(local, "a", zipfile.ZIP_STORED) as z:
                 names = set(z.namelist())
                 for m in todo:
-                    f = os.path.join(tmp, "dl")
-                    if download(original_url(m), f):
+                    f = paths[m["uid"]]
+                    if ok[m["uid"]]:
                         if file_name(m) not in names:
                             z.write(f, file_name(m))
                         got.append(m["uid"])
