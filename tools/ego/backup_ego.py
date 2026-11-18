@@ -37,6 +37,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import time
 import zipfile
 from concurrent.futures import ThreadPoolExecutor
 from zoneinfo import ZoneInfo
@@ -52,12 +53,29 @@ WORKERS = 8  # parallel photo downloads
 MAX_DROP = 0.2
 
 
+def put(local, path, tries=4):
+    """Copy a finished local file to the backup folder and check it arrived.
+    The project-files folder is a network drive where rename-into-place sometimes
+    loses the file, so: plain copy to the final name, then compare sizes."""
+    size = os.path.getsize(local)
+    for _ in range(tries):
+        shutil.copyfile(local, path)
+        if os.path.exists(path) and os.path.getsize(path) == size:
+            return
+        time.sleep(3)
+    raise RuntimeError(f"could not store {path}")
+
+
 def write_json(path, data, gz=False):
-    tmp = path + ".tmp"
+    fd, tmp = tempfile.mkstemp(suffix=".gz" if gz else ".json")
+    os.close(fd)
     opener = gzip.open if gz else open
     with opener(tmp, "wt", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=None if gz else 1)
-    os.replace(tmp, path)
+    try:
+        put(tmp, path)
+    finally:
+        os.remove(tmp)
 
 
 def read_json(path, default=None):
@@ -175,6 +193,9 @@ def backup_files(base, media, rows):
     fdir = os.path.join(base, "files")
     os.makedirs(fdir, exist_ok=True)
     index = read_json(os.path.join(fdir, "index.json"), {})
+    # a zip that went missing on the drive is downloaded again
+    for owner in [o for o in index if not os.path.exists(os.path.join(fdir, f"{o}.zip"))]:
+        del index[owner]
     refs = {str(r["id"]): r.get("reference") or "" for r in rows}
     by_owner = {}
     for m in media:
@@ -210,8 +231,7 @@ def backup_files(base, media, rows):
                     if os.path.exists(f):
                         os.remove(f)
             if got:
-                shutil.copyfile(local, zpath + ".tmp")
-                os.replace(zpath + ".tmp", zpath)
+                put(local, zpath)
                 index[owner] = {"reference": refs.get(owner, index.get(owner, {}).get("reference", "")),
                                 "uids": sorted(have | set(got))}
                 new_files += len(got)
@@ -261,6 +281,9 @@ def main(args):
 
     latest = read_json(os.path.join(base, "latest.json"), {})
     prev_day = latest.get("date") if latest.get("date") != day else latest.get("previous")
+    complete = sorted(d for d in os.listdir(sdir) if d != day
+                      and os.path.exists(os.path.join(sdir, d, "listings.json.gz")))
+    prev_day = complete[-1] if complete else None
     prev = read_json(os.path.join(sdir, prev_day, "listings.json.gz")) if prev_day else None
     if prev and len(rows) < (1 - MAX_DROP) * len(prev):
         sys.exit(f"STOPPED: eGO returned {len(rows)} listings, previous copy has {len(prev)}. Nothing overwritten.")
@@ -271,8 +294,10 @@ def main(args):
     write_json(os.path.join(out, "listings.json.gz"), rows, gz=True)
     write_json(os.path.join(out, "media.json.gz"), media, gz=True)
     write_json(os.path.join(out, "lookups.json.gz"), lk, gz=True)
-    with open(os.path.join(out, "changes.md"), "w", encoding="utf-8") as f:
+    md = os.path.join(tempfile.gettempdir(), "changes.md")
+    with open(md, "w", encoding="utf-8") as f:
         f.write(changes_md(day, rows, media, ch, prev_day))
+    put(md, os.path.join(out, "changes.md"))
     summary = {"date": day, "time_utc": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"),
                "listings": len(rows), "media": len(media),
                "photos": sum(1 for m in media if m.get("mediaTypeKey") == 1), "changes": ch}
@@ -280,6 +305,9 @@ def main(args):
     if "--no-files" not in args:
         summary["new_files"], summary["failed_files"] = backup_files(base, media, rows)
     write_json(os.path.join(out, "summary.json"), summary)
+    for n in ("listings.json.gz", "media.json.gz", "lookups.json.gz", "summary.json", "changes.md"):
+        if not os.path.exists(os.path.join(out, n)):
+            sys.exit(f"STOPPED: {n} missing in snapshot {day} after writing it")
     write_json(os.path.join(base, "latest.json"), {"date": day, "previous": prev_day})
     prune(sdir)
     print(open(os.path.join(out, "changes.md"), encoding="utf-8").read())
