@@ -3,6 +3,8 @@
 Usage:
   python3 tools/ego/backup_ego.py              # data snapshot + new/changed photos and documents
   python3 tools/ego/backup_ego.py --no-files   # data snapshot only (quick)
+  (photo files go to Cloudflare R2 when R2_ACCOUNT_ID, R2_ACCESS_KEY_ID,
+   R2_SECRET_ACCESS_KEY and R2_BUCKET are set; skipped otherwise)
   python3 tools/ego/backup_ego.py --dir PATH   # store somewhere else (default: $EGO_BACKUP_DIR,
                                                # else /mnt/project-files/ego-backup)
 
@@ -245,6 +247,77 @@ def backup_files(base, media, rows):
     return new_files, failed
 
 
+# ---------- Cloudflare R2 (photo files) ----------
+# Set R2_ACCOUNT_ID, R2_ACCESS_KEY_ID, R2_SECRET_ACCESS_KEY, R2_BUCKET in the environment.
+# Each file is stored once as photos/<CRM id>/<file name> (never overwritten or deleted),
+# plus photos/index.json. The project-files drive is too small for ~18 GB of originals.
+
+def r2_conf():
+    keys = ("R2_ACCOUNT_ID", "R2_ACCESS_KEY_ID", "R2_SECRET_ACCESS_KEY", "R2_BUCKET")
+    if all(os.environ.get(k) for k in keys):
+        return {k: os.environ[k].strip() for k in keys}
+    return None
+
+
+def r2(conf, method, key, path=None):
+    """One S3 call to R2 with curl's built-in request signing. The keys go in a
+    temporary curl config file so they never show up in the process list."""
+    url = f"https://{conf['R2_ACCOUNT_ID']}.r2.cloudflarestorage.com/{conf['R2_BUCKET']}/{key}"
+    fd, cfg = tempfile.mkstemp()
+    with os.fdopen(fd, "w") as f:
+        f.write(f'user = "{conf["R2_ACCESS_KEY_ID"]}:{conf["R2_SECRET_ACCESS_KEY"]}"\n')
+    cmd = ["curl", "-sS", "--fail", "--retry", "3", "-m", "600", "-K", cfg,
+           "--aws-sigv4", "aws:amz:auto:s3", "-X", method, url]
+    if method == "PUT":
+        cmd += ["-T", path]
+    elif method == "GET":
+        cmd += ["-o", path]
+    else:
+        cmd += ["-I"]
+    try:
+        return subprocess.run(cmd, capture_output=True).returncode == 0
+    finally:
+        os.remove(cfg)
+
+
+def backup_files_r2(conf, media, rows):
+    tmp = tempfile.mkdtemp(prefix="ego-r2-")
+    idx_path = os.path.join(tmp, "index.json")
+    index = read_json(idx_path, {}) if r2(conf, "GET", "photos/index.json", idx_path) else {}
+    refs = {str(r["id"]): r.get("reference") or "" for r in rows}
+    todo = [m for m in media if not m.get("isContract") and original_url(m)
+            and m["uid"] not in set(index.get(str(m["ownerId"]), {}).get("uids", []))]
+    print(f"R2: {len(todo)} files to copy")
+
+    def one(m):
+        f = os.path.join(tmp, m["uid"])
+        try:
+            return m, download(original_url(m), f) and r2(conf, "PUT", f"photos/{m['ownerId']}/{file_name(m)}", f)
+        finally:
+            if os.path.exists(f):
+                os.remove(f)
+
+    new = failed = 0
+    try:
+        with ThreadPoolExecutor(WORKERS) as pool:
+            for n, (m, ok) in enumerate(pool.map(one, todo), 1):
+                if ok:
+                    e = index.setdefault(str(m["ownerId"]), {"reference": refs.get(str(m["ownerId"]), ""), "uids": []})
+                    e["uids"].append(m["uid"])
+                    new += 1
+                else:
+                    failed += 1
+                if n % 500 == 0 or n == len(todo):
+                    with open(idx_path, "w", encoding="utf-8") as f:
+                        json.dump(index, f)
+                    r2(conf, "PUT", "photos/index.json", idx_path)
+                    print(f"  R2: {n}/{len(todo)}")
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+    print(f"R2 files: {new} new, {failed} failed (tried again next run)")
+    return new, failed
+
+
 # ---------- wait for the drive to finish uploading ----------
 
 VFS_META = "/dev/shm/rclone-vfscache/vfsMeta"
@@ -340,8 +413,13 @@ def main(args):
                "listings": len(rows), "media": len(media),
                "photos": sum(1 for m in media if m.get("mediaTypeKey") == 1), "changes": ch}
 
-    if "--no-files" not in args:
+    conf = r2_conf()
+    if conf and "--no-files" not in args:
+        summary["new_files"], summary["failed_files"] = backup_files_r2(conf, media, rows)
+    elif "--zip-files" in args:  # old way, into the project-files drive (too small for all photos)
         summary["new_files"], summary["failed_files"] = backup_files(base, media, rows)
+    elif "--no-files" not in args:
+        print("photo files skipped: R2_* settings are not set yet")
     write_json(os.path.join(out, "summary.json"), summary)
     for n in ("listings.json.gz", "media.json.gz", "lookups.json.gz", "summary.json", "changes.md"):
         if not os.path.exists(os.path.join(out, n)):
