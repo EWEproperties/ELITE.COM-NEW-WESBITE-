@@ -245,6 +245,44 @@ def backup_files(base, media, rows):
     return new_files, failed
 
 
+# ---------- wait for the drive to finish uploading ----------
+
+VFS_META = "/dev/shm/rclone-vfscache/vfsMeta"
+
+
+def pending_uploads(base):
+    """Files the project-files drive has saved locally but not yet uploaded.
+    The drive uploads in the background; if the machine stops before that ends,
+    those files are lost (seen 2026-11-17/18). Empty list = everything is safe."""
+    if not os.path.isdir(VFS_META):
+        return []
+    out = []
+    for root, _, names in os.walk(VFS_META):
+        if "ego-backup" not in root:
+            continue
+        for n in names:
+            try:
+                if json.load(open(os.path.join(root, n))).get("Dirty"):
+                    out.append(os.path.join(root, n))
+            except (OSError, ValueError):
+                pass
+    return out
+
+
+def wait_for_upload(base, limit_s=4 * 3600):
+    start = time.time()
+    while True:
+        left = pending_uploads(base)
+        if not left:
+            print("drive: everything uploaded")
+            return True
+        if time.time() - start > limit_s:
+            print(f"drive: {len(left)} files still uploading after {limit_s // 60} min")
+            return False
+        print(f"drive: {len(left)} files still uploading ...")
+        time.sleep(60)
+
+
 # ---------- old snapshots ----------
 
 def prune(sdir):
@@ -310,6 +348,8 @@ def main(args):
             sys.exit(f"STOPPED: {n} missing in snapshot {day} after writing it")
     write_json(os.path.join(base, "latest.json"), {"date": day, "previous": prev_day})
     prune(sdir)
+    if not wait_for_upload(base):
+        sys.exit("STOPPED: the project-files drive did not finish uploading; next run checks again")
     print(open(os.path.join(out, "changes.md"), encoding="utf-8").read())
 
 
